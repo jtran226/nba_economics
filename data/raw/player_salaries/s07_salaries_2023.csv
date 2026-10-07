@@ -1,0 +1,589 @@
+0,1,2,3,season,year
+RK,NAME,TEAM,SALARY,2022-2023,2023
+1,"Stephen Curry, G",Golden State Warriors,"$48,070,014",2022-2023,2023
+2,"LeBron James, F",Los Angeles Lakers,"$44,474,988",2022-2023,2023
+3,"Kevin Durant, F",Phoenix Suns,"$44,119,845",2022-2023,2023
+4,"Bradley Beal, G",Washington Wizards,"$43,279,250",2022-2023,2023
+5,"Giannis Antetokounmpo, F",Milwaukee Bucks,"$42,492,492",2022-2023,2023
+6,"Damian Lillard, G",Portland Trail Blazers,"$42,492,492",2022-2023,2023
+7,"Kawhi Leonard, F",LA Clippers,"$42,492,492",2022-2023,2023
+8,"Paul George, F",LA Clippers,"$42,492,492",2022-2023,2023
+9,"Klay Thompson, G",Golden State Warriors,"$40,600,080",2022-2023,2023
+10,"Kyrie Irving, G",Dallas Mavericks,"$38,917,057",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+11,"Rudy Gobert, C",Minnesota Timberwolves,"$38,172,414",2022-2023,2023
+12,"Anthony Davis, F",Los Angeles Lakers,"$37,980,720",2022-2023,2023
+13,"Khris Middleton, F",Milwaukee Bucks,"$37,948,276",2022-2023,2023
+14,"Jimmy Butler III, F",Miami Heat,"$37,653,300",2022-2023,2023
+15,"Tobias Harris, F",Philadelphia 76ers,"$37,633,050",2022-2023,2023
+16,"Zach LaVine, G",Chicago Bulls,"$37,096,500",2022-2023,2023
+17,"Luka Doncic, G",Dallas Mavericks,"$37,095,000",2022-2023,2023
+18,"Trae Young, G",Atlanta Hawks,"$37,095,000",2022-2023,2023
+19,"Ben Simmons, G",Brooklyn Nets,"$35,448,672",2022-2023,2023
+20,"Pascal Siakam, F",Toronto Raptors,"$35,448,672",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+21,"Myles Turner, C",Indiana Pacers,"$35,096,500",2022-2023,2023
+22,"Devin Booker, G",Phoenix Suns,"$33,833,400",2022-2023,2023
+23,"Karl-Anthony Towns, C",Minnesota Timberwolves,"$33,833,400",2022-2023,2023
+24,"Kristaps Porzingis, C",Washington Wizards,"$33,833,400",2022-2023,2023
+25,"Jrue Holiday, G",Milwaukee Bucks,"$33,665,040",2022-2023,2023
+26,"Joel Embiid, C",Philadelphia 76ers,"$33,616,770",2022-2023,2023
+27,"Andrew Wiggins, F",Golden State Warriors,"$33,616,770",2022-2023,2023
+28,"CJ McCollum, G",New Orleans Pelicans,"$33,333,333",2022-2023,2023
+29,"Nikola Jokic, C",Denver Nuggets,"$33,047,804",2022-2023,2023
+30,"James Harden, G",Philadelphia 76ers,"$33,000,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+31,"Brandon Ingram, F",New Orleans Pelicans,"$31,650,600",2022-2023,2023
+32,"Jamal Murray, G",Denver Nuggets,"$31,650,000",2022-2023,2023
+33,"D'Angelo Russell, G",Los Angeles Lakers,"$31,377,750",2022-2023,2023
+34,"Shai Gilgeous-Alexander, G",Oklahoma City Thunder,"$30,913,750",2022-2023,2023
+35,"Deandre Ayton, C",Phoenix Suns,"$30,913,750",2022-2023,2023
+36,"Michael Porter Jr., F",Denver Nuggets,"$30,913,750",2022-2023,2023
+37,"Donovan Mitchell, G",Cleveland Cavaliers,"$30,913,750",2022-2023,2023
+38,"Bam Adebayo, C",Miami Heat,"$30,351,780",2022-2023,2023
+39,"Gordon Hayward, SF",Charlotte Hornets,"$30,075,000",2022-2023,2023
+40,"Jaren Jackson Jr., F",Memphis Grizzlies,"$28,946,605",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+41,"Jaylen Brown, G",Boston Celtics,"$28,741,071",2022-2023,2023
+42,"Chris Paul, G",Phoenix Suns,"$28,400,000",2022-2023,2023
+43,"Kyle Lowry, G",Miami Heat,"$28,333,334",2022-2023,2023
+44,"De'Aaron Fox, G",Sacramento Kings,"$28,103,550",2022-2023,2023
+45,"Jayson Tatum, F",Boston Celtics,"$28,103,500",2022-2023,2023
+46,"Jalen Brunson, G",New York Knicks,"$27,733,332",2022-2023,2023
+47,"DeMar DeRozan, G",Chicago Bulls,"$27,300,000",2022-2023,2023
+48,"Al Horford, C",Boston Celtics,"$26,500,000",2022-2023,2023
+49,"Draymond Green, F",Golden State Warriors,"$25,806,468",2022-2023,2023
+50,"Julius Randle, F",New York Knicks,"$23,760,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+51,"John Collins, F",Atlanta Hawks,"$23,500,000",2022-2023,2023
+52,"Buddy Hield, G",Indiana Pacers,"$22,768,890",2022-2023,2023
+53,"Mike Conley, G",Minnesota Timberwolves,"$22,680,000",2022-2023,2023
+54,"Malcolm Brogdon, G",Boston Celtics,"$22,600,000",2022-2023,2023
+55,"Anfernee Simons, G",Portland Trail Blazers,"$22,321,429",2022-2023,2023
+56,"Nikola Vucevic, C",Chicago Bulls,"$22,000,000",2022-2023,2023
+57,"Terry Rozier, G",Charlotte Hornets,"$21,486,283",2022-2023,2023
+58,"Fred VanVleet, G",Toronto Raptors,"$21,250,000",2022-2023,2023
+59,"Jerami Grant, F",Portland Trail Blazers,"$20,955,000",2022-2023,2023
+60,"Mikal Bridges, G",Brooklyn Nets,"$20,100,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+61,"Jarrett Allen, C",Cleveland Cavaliers,"$20,000,000",2022-2023,2023
+62,"Aaron Gordon, F",Denver Nuggets,"$19,690,909",2022-2023,2023
+63,"Tim Hardaway Jr., G",Dallas Mavericks,"$19,602,273",2022-2023,2023
+64,"Bojan Bogdanovic, SF",Detroit Pistons,"$19,550,000",2022-2023,2023
+65,"Lonzo Ball, G",Utah Jazz,"$19,534,884",2022-2023,2023
+66,"Spencer Dinwiddie, PG",Brooklyn Nets,"$19,500,000",2022-2023,2023
+67,"Eric Bledsoe, SG",Portland Trail Blazers,"$19,375,000",2022-2023,2023
+68,"Caris LeVert, G",Cleveland Cavaliers,"$18,796,296",2022-2023,2023
+69,"Clint Capela, C",Atlanta Hawks,"$18,706,896",2022-2023,2023
+70,"Joe Harris, SF",Brooklyn Nets,"$18,642,857",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+71,"Domantas Sabonis, F",Sacramento Kings,"$18,500,000",2022-2023,2023
+72,"Harrison Barnes, F",Sacramento Kings,"$18,352,273",2022-2023,2023
+73,"Evan Fournier, SG",New York Knicks,"$18,000,000",2022-2023,2023
+74,"Bogdan Bogdanovic, G",Atlanta Hawks,"$18,000,000",2022-2023,2023
+75,"Steven Adams, C",Memphis Grizzlies,"$17,926,829",2022-2023,2023
+76,"Gary Trent Jr., G",Toronto Raptors,"$17,505,000",2022-2023,2023
+77,"Jonathan Isaac, F",Orlando Magic,"$17,400,000",2022-2023,2023
+78,"OG Anunoby, F",Toronto Raptors,"$17,357,143",2022-2023,2023
+79,"Marcus Smart, G",Boston Celtics,"$17,207,141",2022-2023,2023
+80,"Mitchell Robinson, C",New York Knicks,"$17,045,454",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+81,"Duncan Robinson, F",Miami Heat,"$16,902,000",2022-2023,2023
+82,"Derrick White, G",Boston Celtics,"$16,892,857",2022-2023,2023
+83,"Norman Powell, G",LA Clippers,"$16,758,621",2022-2023,2023
+84,"Dejounte Murray, G",Atlanta Hawks,"$16,571,120",2022-2023,2023
+85,"Collin Sexton, G",Utah Jazz,"$16,500,000",2022-2023,2023
+86,"Markelle Fultz, G",Orlando Magic,"$16,500,000",2022-2023,2023
+87,"Lauri Markkanen, F",Utah Jazz,"$16,475,454",2022-2023,2023
+88,"Marcus Morris Sr., F",LA Clippers,"$16,372,093",2022-2023,2023
+89,"Davis Bertans, SF",Dallas Mavericks,"$16,000,000",2022-2023,2023
+90,"Jusuf Nurkic, C",Portland Trail Blazers,"$15,625,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+91,"Malik Beasley, SG",Los Angeles Lakers,"$15,558,035",2022-2023,2023
+92,"Luguentz Dort, G",Oklahoma City Thunder,"$15,277,778",2022-2023,2023
+93,"Jonas Valanciunas, C",New Orleans Pelicans,"$14,700,000",2022-2023,2023
+94,"Kevin Huerter, G",Sacramento Kings,"$14,508,929",2022-2023,2023
+95,"Luke Kennard, G",Memphis Grizzlies,"$14,415,545",2022-2023,2023
+96,"Christian Wood, F",Dallas Mavericks,"$14,317,460",2022-2023,2023
+97,"Wendell Carter Jr., C",Orlando Magic,"$14,150,000",2022-2023,2023
+98,"Kentavious Caldwell-Pope, G",Denver Nuggets,"$14,004,703",2022-2023,2023
+99,"Brook Lopez, C",Milwaukee Bucks,"$13,906,976",2022-2023,2023
+100,"Doug McDermott, F",San Antonio Spurs,"$13,750,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+101,"Zion Williamson, F",New Orleans Pelicans,"$13,534,817",2022-2023,2023
+102,"Jordan Clarkson, G",Utah Jazz,"$13,340,000",2022-2023,2023
+103,"Kyle Kuzma, F",Washington Wizards,"$13,000,000",2022-2023,2023
+104,"Gary Harris, G",Orlando Magic,"$13,000,000",2022-2023,2023
+105,"Josh Hart, G",New York Knicks,"$12,960,000",2022-2023,2023
+106,"Dorian Finney-Smith, F",Brooklyn Nets,"$12,939,648",2022-2023,2023
+107,"Chris Boucher, F",Toronto Raptors,"$12,690,000",2022-2023,2023
+108,"Kelly Oubre Jr., G",Charlotte Hornets,"$12,600,000",2022-2023,2023
+109,"Marvin Bagley III, F",Detroit Pistons,"$12,500,000",2022-2023,2023
+110,"Robert Covington, PF",LA Clippers,"$12,307,692",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+111,"Kelly Olynyk, F",Utah Jazz,"$12,195,122",2022-2023,2023
+112,"Josh Richardson, SG",New Orleans Pelicans,"$11,615,328",2022-2023,2023
+113,"Devonte' Graham, PG",San Antonio Spurs,"$11,550,000",2022-2023,2023
+114,"Dillon Brooks, F",Memphis Grizzlies,"$11,400,000",2022-2023,2023
+115,"Richaun Holmes, F",Sacramento Kings,"$11,215,260",2022-2023,2023
+116,"Dwight Powell, F",Dallas Mavericks,"$11,080,125",2022-2023,2023
+117,"Paolo Banchero, F",Orlando Magic,"$11,055,120",2022-2023,2023
+118,"Robert Williams III, C",Boston Celtics,"$10,937,502",2022-2023,2023
+119,"RJ Barrett, F",New York Knicks,"$10,900,635",2022-2023,2023
+120,"Nicolas Batum, F",LA Clippers,"$10,843,350",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+121,"Bobby Portis, F",Milwaukee Bucks,"$10,843,350",2022-2023,2023
+122,"Anthony Edwards, G",Minnesota Timberwolves,"$10,733,400",2022-2023,2023
+123,"Cade Cunningham, G",Detroit Pistons,"$10,552,800",2022-2023,2023
+124,"P.J. Tucker, PF",Philadelphia 76ers,"$10,490,000",2022-2023,2023
+125,"Mo Bamba, C",Los Angeles Lakers,"$10,300,000",2022-2023,2023
+126,"Talen Horton-Tucker, SF",Utah Jazz,"$10,260,000",2022-2023,2023
+127,"Derrick Favors, F",Chicago Bulls,"$10,183,800",2022-2023,2023
+128,"Jae Crowder, PF",Milwaukee Bucks,"$10,183,000",2022-2023,2023
+129,"Ivica Zubac, C",LA Clippers,"$10,123,457",2022-2023,2023
+130,"Alec Burks, SG",Detroit Pistons,"$10,012,800",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+131,"Reggie Bullock Jr., SF",Dallas Mavericks,"$10,012,800",2022-2023,2023
+132,"Chet Holmgren, C",Oklahoma City Thunder,"$9,891,240",2022-2023,2023
+133,"De'Andre Hunter, F",Atlanta Hawks,"$9,835,881",2022-2023,2023
+134,"Larry Nance Jr., F",New Orleans Pelicans,"$9,672,727",2022-2023,2023
+135,"Ja Morant, G",Memphis Grizzlies,"$9,603,360",2022-2023,2023
+136,"James Wiseman, C",Detroit Pistons,"$9,603,360",2022-2023,2023
+137,"Landry Shamet, G",Phoenix Suns,"$9,500,000",2022-2023,2023
+138,"Malik Monk, G",Sacramento Kings,"$9,472,219",2022-2023,2023
+139,"Jalen Green, G",Houston Rockets,"$9,441,840",2022-2023,2023
+140,"Jakob Poeltl, C",Toronto Raptors,"$9,398,148",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+141,"Nerlens Noel, C",Brooklyn Nets,"$9,240,000",2022-2023,2023
+142,"Dario Saric, F",Oklahoma City Thunder,"$9,240,000",2022-2023,2023
+143,"Royce O'Neale, F",Brooklyn Nets,"$9,200,000",2022-2023,2023
+144,"Monte Morris, PG",Washington Wizards,"$9,125,000",2022-2023,2023
+145,"Mason Plumlee, C",LA Clippers,"$9,080,417",2022-2023,2023
+146,"Alex Caruso, G",Chicago Bulls,"$9,030,000",2022-2023,2023
+147,"Maxi Kleber, F",Dallas Mavericks,"$9,000,000",2022-2023,2023
+148,"Darius Garland, G",Cleveland Cavaliers,"$8,920,795",2022-2023,2023
+149,"Jabari Smith Jr., F",Houston Rockets,"$8,882,640",2022-2023,2023
+150,"Kyle Anderson, F",Minnesota Timberwolves,"$8,780,488",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+151,"Victor Oladipo, SG",Miami Heat,"$8,750,000",2022-2023,2023
+152,"Daniel Theis, C",Indiana Pacers,"$8,694,369",2022-2023,2023
+153,"LaMelo Ball, G",Charlotte Hornets,"$8,623,920",2022-2023,2023
+154,"Grayson Allen, G",Milwaukee Bucks,"$8,500,000",2022-2023,2023
+155,"Nic Claxton, C",Brooklyn Nets,"$8,500,000",2022-2023,2023
+156,"Seth Curry, G",Brooklyn Nets,"$8,496,500",2022-2023,2023
+157,"Evan Mobley, C",Cleveland Cavaliers,"$8,478,720",2022-2023,2023
+158,"Gary Payton II, G",Golden State Warriors,"$8,300,000",2022-2023,2023
+159,"De'Anthony Melton, G",Philadelphia 76ers,"$8,250,000",2022-2023,2023
+160,"T.J. McConnell, G",Indiana Pacers,"$8,100,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+161,"Keegan Murray, F",Sacramento Kings,"$8,008,440",2022-2023,2023
+162,"Thaddeus Young, F",Toronto Raptors,"$8,000,000",2022-2023,2023
+163,"Taurean Prince, F",Minnesota Timberwolves,"$8,000,000",2022-2023,2023
+164,"Kevon Looney, F",Golden State Warriors,"$8,000,000",2022-2023,2023
+165,"Isaiah Hartenstein, C",New York Knicks,"$7,804,879",2022-2023,2023
+166,"Delon Wright, G",Washington Wizards,"$7,804,878",2022-2023,2023
+167,"Patrick Williams, F",Chicago Bulls,"$7,775,400",2022-2023,2023
+168,"Scottie Barnes, F",Toronto Raptors,"$7,644,720",2022-2023,2023
+169,"Cedi Osman, SF",Cleveland Cavaliers,"$7,426,088",2022-2023,2023
+170,"Coby White, G",Chicago Bulls,"$7,413,955",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+171,"Aron Baynes, C",Toronto Raptors,"$7,350,000",2022-2023,2023
+172,"Zach Collins, F",San Antonio Spurs,"$7,350,000",2022-2023,2023
+173,"Jaden Ivey, G",Detroit Pistons,"$7,252,200",2022-2023,2023
+174,"Jae'Sean Tate, F",Houston Rockets,"$7,065,217",2022-2023,2023
+175,"Isaac Okoro, F",Cleveland Cavaliers,"$7,040,880",2022-2023,2023
+176,"Cody Martin, SF",Charlotte Hornets,"$7,000,000",2022-2023,2023
+177,"Jalen Suggs, G",Orlando Magic,"$6,922,320",2022-2023,2023
+178,"Jaxson Hayes, C",New Orleans Pelicans,"$6,803,012",2022-2023,2023
+179,"Khem Birch, C",Toronto Raptors,"$6,667,500",2022-2023,2023
+180,"Bennedict Mathurin, G",Indiana Pacers,"$6,586,800",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+181,"Bruce Brown, G",Denver Nuggets,"$6,479,000",2022-2023,2023
+182,"Joe Ingles, F",Milwaukee Bucks,"$6,479,000",2022-2023,2023
+183,"Lonnie Walker IV, G",Los Angeles Lakers,"$6,479,000",2022-2023,2023
+184,"Danilo Gallinari, PF",Milwaukee Bucks,"$6,479,000",2022-2023,2023
+185,"Caleb Martin, F",Miami Heat,"$6,479,000",2022-2023,2023
+186,"Patty Mills, PG",Brooklyn Nets,"$6,479,000",2022-2023,2023
+187,"John Wall, PG",LA Clippers,"$6,479,000",2022-2023,2023
+188,"Onyeka Okongwu, F",Atlanta Hawks,"$6,395,160",2022-2023,2023
+189,"Jarrett Culver, G",Atlanta Hawks,"$6,395,160",2022-2023,2023
+190,"Josh Giddey, G",Oklahoma City Thunder,"$6,287,280",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+191,"Rui Hachimura, F",Los Angeles Lakers,"$6,263,188",2022-2023,2023
+192,"Rudy Gay, SF",Utah Jazz,"$6,184,500",2022-2023,2023
+193,"Shaedon Sharpe, G",Portland Trail Blazers,"$6,012,960",2022-2023,2023
+194,"Otto Porter Jr., SF",Toronto Raptors,"$6,000,000",2022-2023,2023
+195,"Cameron Payne, PG",Phoenix Suns,"$6,000,000",2022-2023,2023
+196,"Cam Reddish, SF",Portland Trail Blazers,"$5,954,454",2022-2023,2023
+197,"Cameron Johnson, F",Brooklyn Nets,"$5,887,899",2022-2023,2023
+198,"Ricky Rubio, PG",Cleveland Cavaliers,"$5,853,659",2022-2023,2023
+199,"Kevin Knox II, F",Portland Trail Blazers,"$5,845,979",2022-2023,2023
+200,"P.J. Washington, F",Charlotte Hornets,"$5,808,435",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+201,"Jonathan Kuminga, F",Golden State Warriors,"$5,739,860",2022-2023,2023
+202,"Pat Connaughton, G",Milwaukee Bucks,"$5,728,393",2022-2023,2023
+203,"Tyler Herro, G",Miami Heat,"$5,722,116",2022-2023,2023
+204,"Romeo Langford, SG",San Antonio Spurs,"$5,634,257",2022-2023,2023
+205,"Killian Hayes, G",Detroit Pistons,"$5,572,680",2022-2023,2023
+206,"Dyson Daniels, G",New Orleans Pelicans,"$5,508,600",2022-2023,2023
+207,"JaVale McGee, C",Dallas Mavericks,"$5,461,219",2022-2023,2023
+208,"Obi Toppin, F",New York Knicks,"$5,348,280",2022-2023,2023
+209,"Franz Wagner, F",Orlando Magic,"$5,258,280",2022-2023,2023
+210,"Kendrick Nunn, G",Washington Wizards,"$5,250,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+211,"Hamidou Diallo, G",Detroit Pistons,"$5,200,000",2022-2023,2023
+212,"Cory Joseph, PG",Detroit Pistons,"$5,155,500",2022-2023,2023
+213,"Torrey Craig, SF",Phoenix Suns,"$5,121,951",2022-2023,2023
+214,"Jeremy Sochan, F",San Antonio Spurs,"$5,063,520",2022-2023,2023
+215,"David Nwaba, SF",Oklahoma City Thunder,"$5,022,000",2022-2023,2023
+216,"Nickeil Alexander-Walker, G",Minnesota Timberwolves,"$5,009,633",2022-2023,2023
+217,"Furkan Korkmaz, SG",Philadelphia 76ers,"$5,000,000",2022-2023,2023
+218,"Dante Exum, G",Washington Wizards,"$5,000,000",2022-2023,2023
+219,"Lou Williams, SG",Atlanta Hawks,"$5,000,000",2022-2023,2023
+220,"Deni Avdija, F",Washington Wizards,"$4,916,160",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+221,"Garrett Temple, G",New Orleans Pelicans,"$4,910,000",2022-2023,2023
+222,"Davion Mitchell, G",Sacramento Kings,"$4,833,600",2022-2023,2023
+223,"Johnny Davis, G",Washington Wizards,"$4,810,320",2022-2023,2023
+224,"Ish Smith, PG",Denver Nuggets,"$4,750,000",2022-2023,2023
+225,"Jalen Smith, F",Indiana Pacers,"$4,670,160",2022-2023,2023
+226,"Ziaire Williams, F",Memphis Grizzlies,"$4,591,680",2022-2023,2023
+227,"Ousmane Dieng, F",Oklahoma City Thunder,"$4,569,840",2022-2023,2023
+228,"Maurice Harkless, SF",Houston Rockets,"$4,564,980",2022-2023,2023
+229,"Donte DiVincenzo, G",Golden State Warriors,"$4,500,000",2022-2023,2023
+230,"Jeff Green, F",Denver Nuggets,"$4,500,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+231,"Devin Vassell, G",San Antonio Spurs,"$4,437,000",2022-2023,2023
+232,"Matisse Thybulle, G",Portland Trail Blazers,"$4,379,527",2022-2023,2023
+233,"Jarred Vanderbilt, F",Los Angeles Lakers,"$4,374,000",2022-2023,2023
+234,"James Bouknight, SG",Charlotte Hornets,"$4,362,240",2022-2023,2023
+235,"Brandon Clarke, F",Memphis Grizzlies,"$4,343,920",2022-2023,2023
+236,"Jalen Williams, G",Oklahoma City Thunder,"$4,341,480",2022-2023,2023
+237,"Grant Williams, F",Boston Celtics,"$4,306,281",2022-2023,2023
+238,"Darius Bazley, F",Phoenix Suns,"$4,264,629",2022-2023,2023
+239,"Tyrese Haliburton, G",Indiana Pacers,"$4,215,120",2022-2023,2023
+240,"Nassir Little, SF",Portland Trail Blazers,"$4,171,548",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+241,"Joshua Primo, G",San Antonio Spurs,"$4,144,320",2022-2023,2023
+242,"Jalen Duren, C",Detroit Pistons,"$4,124,280",2022-2023,2023
+243,"Danuel House Jr., SF",Philadelphia 76ers,"$4,105,000",2022-2023,2023
+244,"Justise Winslow, PF",Portland Trail Blazers,"$4,097,561",2022-2023,2023
+245,"Dylan Windler, G",Cleveland Cavaliers,"$4,037,278",2022-2023,2023
+246,"Chandler Hutchison, SF",Phoenix Suns,"$4,019,459",2022-2023,2023
+247,"Kira Lewis Jr., G",New Orleans Pelicans,"$4,004,280",2022-2023,2023
+248,"Terence Davis, G",Sacramento Kings,"$4,000,000",2022-2023,2023
+249,"George Hill, PG",Indiana Pacers,"$4,000,000",2022-2023,2023
+250,"Chris Duarte, SG",Indiana Pacers,"$3,936,960",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+251,"Ochai Agbaji, G",Utah Jazz,"$3,918,360",2022-2023,2023
+252,"Alex Len, C",Sacramento Kings,"$3,918,000",2022-2023,2023
+253,"Jordan Poole, G",Golden State Warriors,"$3,901,399",2022-2023,2023
+254,"Keldon Johnson, F",San Antonio Spurs,"$3,873,025",2022-2023,2023
+255,"Aaron Nesmith, G",Indiana Pacers,"$3,804,360",2022-2023,2023
+256,"Mark Williams, C",Charlotte Hornets,"$3,722,040",2022-2023,2023
+257,"Gabriel Deck, SF",Oklahoma City Thunder,"$3,676,852",2022-2023,2023
+258,"Cole Anthony, G",Orlando Magic,"$3,613,680",2022-2023,2023
+259,"Sekou Doumbouya, SF",Los Angeles Lakers,"$3,613,680",2022-2023,2023
+260,"Moses Moody, G",Golden State Warriors,"$3,562,200",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+261,"Corey Kispert, F",Washington Wizards,"$3,552,960",2022-2023,2023
+262,"AJ Griffin, F",Atlanta Hawks,"$3,536,160",2022-2023,2023
+263,"Mike Muscala, C",Boston Celtics,"$3,500,000",2022-2023,2023
+264,"Georges Niang, F",Philadelphia 76ers,"$3,465,000",2022-2023,2023
+265,"Chuma Okeke, F",Orlando Magic,"$3,433,320",2022-2023,2023
+266,"Isaiah Stewart, C",Detroit Pistons,"$3,433,320",2022-2023,2023
+267,"Amir Coffey, G",LA Clippers,"$3,395,062",2022-2023,2023
+268,"Alperen Sengun, C",Houston Rockets,"$3,375,480",2022-2023,2023
+269,"Tari Eason, F",Houston Rockets,"$3,309,160",2022-2023,2023
+270,"Aleksej Pokusevski, F",Oklahoma City Thunder,"$3,261,480",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+271,"Trey Burke, PG",Oklahoma City Thunder,"$3,243,750",2022-2023,2023
+272,"Kevin Porter Jr., G",Houston Rockets,"$3,217,631",2022-2023,2023
+273,"Trey Murphy III, F",New Orleans Pelicans,"$3,206,640",2022-2023,2023
+274,"Simone Fontecchio, F",Utah Jazz,"$3,205,128",2022-2023,2023
+275,"Derrick Jones Jr., F",Chicago Bulls,"$3,200,000",2022-2023,2023
+276,"Andre Drummond, C",Chicago Bulls,"$3,200,000",2022-2023,2023
+277,"Dalen Terry, G",Chicago Bulls,"$3,191,400",2022-2023,2023
+278,"Kevin Love, F",Miami Heat,"$3,114,138",2022-2023,2023
+279,"Josh Green, G",Dallas Mavericks,"$3,098,400",2022-2023,2023
+280,"Jake LaRavia, F",Memphis Grizzlies,"$3,047,640",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+281,"Tre Mann, G",Oklahoma City Thunder,"$3,046,200",2022-2023,2023
+282,"Jordan Nwora, SF",Indiana Pacers,"$3,000,000",2022-2023,2023
+283,"Sterling Brown, SF",Los Angeles Lakers,"$3,000,000",2022-2023,2023
+284,"Luka Samanic, F",Utah Jazz,"$2,959,080",2022-2023,2023
+285,"Saddiq Bey, G",Atlanta Hawks,"$2,959,080",2022-2023,2023
+286,"Malaki Branham, F",San Antonio Spurs,"$2,925,600",2022-2023,2023
+287,"Kai Jones, PF",Charlotte Hornets,"$2,909,040",2022-2023,2023
+288,"Precious Achiuwa, F",Toronto Raptors,"$2,840,160",2022-2023,2023
+289,"Christian Braun, G",Denver Nuggets,"$2,808,600",2022-2023,2023
+290,"Jalen Johnson, F",Atlanta Hawks,"$2,792,640",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+291,"Tyrese Maxey, G",Philadelphia 76ers,"$2,726,880",2022-2023,2023
+292,"Bruno Fernando, F",Atlanta Hawks,"$2,717,391",2022-2023,2023
+293,"Trey Lyles, F",Sacramento Kings,"$2,700,000",2022-2023,2023
+294,"Walker Kessler, C",Utah Jazz,"$2,696,400",2022-2023,2023
+295,"Marc Gasol, C",Memphis Grizzlies,"$2,692,991",2022-2023,2023
+296,"Anthony Tolliver, PF",New Orleans Pelicans,"$2,692,991",2022-2023,2023
+297,"Keon Johnson, G",Portland Trail Blazers,"$2,681,040",2022-2023,2023
+298,"Charles Bassey, C",San Antonio Spurs,"$2,600,000",2022-2023,2023
+299,"David Roddy, F",Memphis Grizzlies,"$2,588,640",2022-2023,2023
+300,"Isaiah Jackson, F",Indiana Pacers,"$2,573,760",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+301,"Zeke Nnaji, F",Denver Nuggets,"$2,498,760",2022-2023,2023
+302,"MarJon Beauchamp, F",Milwaukee Bucks,"$2,485,200",2022-2023,2023
+303,"Usman Garuba, PF",Houston Rockets,"$2,471,160",2022-2023,2023
+304,"Montrezl Harrell, C",Philadelphia 76ers,"$2,463,490",2022-2023,2023
+305,"Willy Hernangomez, C",New Orleans Pelicans,"$2,443,581",2022-2023,2023
+306,"Blake Wesley, G",San Antonio Spurs,"$2,385,480",2022-2023,2023
+307,"Josh Christopher, SG",Houston Rockets,"$2,372,160",2022-2023,2023
+308,"Leandro Bolmaro, F",Utah Jazz,"$2,353,320",2022-2023,2023
+309,"Immanuel Quickley, G",New York Knicks,"$2,316,240",2022-2023,2023
+310,"Wendell Moore Jr., F",Minnesota Timberwolves,"$2,306,520",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+311,"John Konchar, G",Memphis Grizzlies,"$2,300,000",2022-2023,2023
+312,"Damian Jones, C",Utah Jazz,"$2,298,385",2022-2023,2023
+313,"Quentin Grimes, G",New York Knicks,"$2,277,000",2022-2023,2023
+314,"Andrew Nembhard, G",Indiana Pacers,"$2,244,111",2022-2023,2023
+315,"Nikola Jovic, F",Miami Heat,"$2,239,920",2022-2023,2023
+316,"Payton Pritchard, G",Boston Celtics,"$2,239,200",2022-2023,2023
+317,"Vlatko Cancar, SF",Denver Nuggets,"$2,234,359",2022-2023,2023
+318,"Patrick Baldwin Jr., G",Golden State Warriors,"$2,226,000",2022-2023,2023
+319,"TyTy Washington Jr., G",Houston Rockets,"$2,210,040",2022-2023,2023
+320,"Bones Hyland, G",LA Clippers,"$2,201,520",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+321,"Bol Bol, C",Orlando Magic,"$2,200,000",2022-2023,2023
+322,"Peyton Watson, G",Denver Nuggets,"$2,193,960",2022-2023,2023
+323,"Marquese Chriss, SF",Oklahoma City Thunder,"$2,193,920",2022-2023,2023
+324,"Nik Stauskas, G",Indiana Pacers,"$2,193,920",2022-2023,2023
+325,"Udoka Azubuike, C",Utah Jazz,"$2,174,880",2022-2023,2023
+326,"Jaden McDaniels, F",Minnesota Timberwolves,"$2,161,440",2022-2023,2023
+327,"Jordan McLaughlin, G",Minnesota Timberwolves,"$2,160,000",2022-2023,2023
+328,"Malachi Flynn, PG",Toronto Raptors,"$2,145,720",2022-2023,2023
+329,"Cam Thomas, G",Brooklyn Nets,"$2,138,160",2022-2023,2023
+330,"Luke Kornet, C",Boston Celtics,"$2,133,278",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+331,"Desmond Bane, G",Memphis Grizzlies,"$2,130,240",2022-2023,2023
+332,"Jahlil Okafor, C",Indiana Pacers,"$2,130,023",2022-2023,2023
+333,"Jaden Springer, G",Philadelphia 76ers,"$2,125,200",2022-2023,2023
+334,"Day'Ron Sharpe, C",Brooklyn Nets,"$2,109,480",2022-2023,2023
+335,"Jevon Carter, G",Milwaukee Bucks,"$2,100,000",2022-2023,2023
+336,"Santi Aldama, F",Memphis Grizzlies,"$2,094,240",2022-2023,2023
+337,"Frank Ntilikina, PG",Dallas Mavericks,"$2,036,318",2022-2023,2023
+338,"Tony Bradley, C",Chicago Bulls,"$2,036,318",2022-2023,2023
+339,"Jaylin Williams, F",Oklahoma City Thunder,"$2,000,000",2022-2023,2023
+340,"Kenrich Williams, G",Oklahoma City Thunder,"$2,000,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+341,"Abdel Nader, F",Melbourne Pnx,"$2,000,000",2022-2023,2023
+342,"Danny Green, F",Cleveland Cavaliers,"$2,000,000",2022-2023,2023
+343,"Caleb Houstan, F",Orlando Magic,"$2,000,000",2022-2023,2023
+344,"Jeremiah Robinson-Earl, F",Oklahoma City Thunder,"$2,000,000",2022-2023,2023
+345,"Garrison Mathews, G",Atlanta Hawks,"$2,000,000",2022-2023,2023
+346,"Shake Milton, SG",Philadelphia 76ers,"$1,977,718",2022-2023,2023
+347,"Edmond Sumner, PG",Brooklyn Nets,"$1,968,175",2022-2023,2023
+348,"Jontay Porter, C",Toronto Raptors,"$1,950,000",2022-2023,2023
+349,"Denzel Valentine, G",Boston Celtics,"$1,939,350",2022-2023,2023
+350,"Jalen McDaniels, F",Philadelphia 76ers,"$1,930,681",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+351,"Naz Reid, C",Minnesota Timberwolves,"$1,930,681",2022-2023,2023
+352,"Terance Mann, G",LA Clippers,"$1,930,681",2022-2023,2023
+353,"Jaylen Nowell, G",Minnesota Timberwolves,"$1,930,681",2022-2023,2023
+354,"Daniel Gafford, F",Washington Wizards,"$1,930,681",2022-2023,2023
+355,"Dean Wade, F",Cleveland Cavaliers,"$1,930,681",2022-2023,2023
+356,"Lindy Waters III, F",Oklahoma City Thunder,"$1,927,896",2022-2023,2023
+357,"Chimezie Metu, PF",Sacramento Kings,"$1,910,680",2022-2023,2023
+358,"Davon Reed, SG",Los Angeles Lakers,"$1,902,133",2022-2023,2023
+359,"Killian Tillie, SF",Memphis Grizzlies,"$1,901,625",2022-2023,2023
+360,"Xavier Tillman, F",Memphis Grizzlies,"$1,901,625",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+361,"Theo Maledon, PG",Charlotte Hornets,"$1,900,000",2022-2023,2023
+362,"Wenyen Gabriel, F",Los Angeles Lakers,"$1,878,720",2022-2023,2023
+363,"Moritz Wagner, C",Orlando Magic,"$1,878,720",2022-2023,2023
+364,"Keita Bates-Diop, SF",San Antonio Spurs,"$1,878,720",2022-2023,2023
+365,"Thanasis Antetokounmpo, F",Milwaukee Bucks,"$1,878,720",2022-2023,2023
+366,"Oshae Brissett, SF",Indiana Pacers,"$1,846,738",2022-2023,2023
+367,"Juancho Hernangomez, PF",Toronto Raptors,"$1,836,090",2022-2023,2023
+368,"Anthony Gill, F",Washington Wizards,"$1,836,090",2022-2023,2023
+369,"Isaiah Joe, G",Oklahoma City Thunder,"$1,836,090",2022-2023,2023
+370,"Bismack Biyombo, C",Phoenix Suns,"$1,836,090",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+371,"Juan Toscano-Anderson, F",Utah Jazz,"$1,836,090",2022-2023,2023
+372,"Matthew Dellavedova, G",Sacramento Kings,"$1,836,090",2022-2023,2023
+373,"Robin Lopez, C",Cleveland Cavaliers,"$1,836,090",2022-2023,2023
+374,"Josh Okogie, G",Phoenix Suns,"$1,836,090",2022-2023,2023
+375,"Drew Eubanks, F",Portland Trail Blazers,"$1,836,090",2022-2023,2023
+376,"Damion Lee, SG",Phoenix Suns,"$1,836,090",2022-2023,2023
+377,"Dennis Smith Jr., PG",Charlotte Hornets,"$1,836,090",2022-2023,2023
+378,"Dennis Schroder, G",Los Angeles Lakers,"$1,836,090",2022-2023,2023
+379,"Justin Jackson, F",Boston Celtics,"$1,836,090",2022-2023,2023
+380,"Bryn Forbes, SG",Minnesota Timberwolves,"$1,836,090",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+381,"T.J. Warren, SF",Phoenix Suns,"$1,836,090",2022-2023,2023
+382,"Austin Rivers, SG",Minnesota Timberwolves,"$1,836,090",2022-2023,2023
+383,"Thomas Bryant, C",Denver Nuggets,"$1,836,090",2022-2023,2023
+384,"Udonis Haslem, PF",Miami Heat,"$1,836,090",2022-2023,2023
+385,"Aaron Holiday, G",Atlanta Hawks,"$1,836,090",2022-2023,2023
+386,"Frank Kaminsky, F",Houston Rockets,"$1,836,090",2022-2023,2023
+387,"Rodney McGruder, G",Detroit Pistons,"$1,836,090",2022-2023,2023
+388,"JaMychal Green, F",Golden State Warriors,"$1,836,090",2022-2023,2023
+389,"Andre Iguodala, F",Golden State Warriors,"$1,836,090",2022-2023,2023
+390,"Troy Brown Jr., F",Los Angeles Lakers,"$1,836,090",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+391,"Ryan Arcidiacono, G",Portland Trail Blazers,"$1,836,090",2022-2023,2023
+392,"Taj Gibson, F",Washington Wizards,"$1,836,090",2022-2023,2023
+393,"DeAndre Jordan, C",Denver Nuggets,"$1,836,090",2022-2023,2023
+394,"Theo Pinson, G",Dallas Mavericks,"$1,836,090",2022-2023,2023
+395,"Markieff Morris, PF",Dallas Mavericks,"$1,836,090",2022-2023,2023
+396,"Raul Neto, PG",Cleveland Cavaliers,"$1,836,090",2022-2023,2023
+397,"Matt Ryan, F",Minnesota Timberwolves,"$1,836,090",2022-2023,2023
+398,"Nathan Knight, F",Minnesota Timberwolves,"$1,836,090",2022-2023,2023
+399,"Svi Mykhailiuk, G",Charlotte Hornets,"$1,836,090",2022-2023,2023
+400,"Noah Vonleh, PF",Boston Celtics,"$1,836,090",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+401,"Blake Griffin, PF",Boston Celtics,"$1,836,090",2022-2023,2023
+402,"Wesley Matthews, SG",Milwaukee Bucks,"$1,836,090",2022-2023,2023
+403,"Wes Iwundu, F",Melbourne Pnx,"$1,824,003",2022-2023,2023
+404,"Gabe Vincent, G",Miami Heat,"$1,815,677",2022-2023,2023
+405,"Max Strus, G",Miami Heat,"$1,815,677",2022-2023,2023
+406,"Javonte Green, G",Chicago Bulls,"$1,815,677",2022-2023,2023
+407,"Juwan Morgan, F",LA Clippers,"$1,815,518",2022-2023,2023
+408,"Herbert Jones, F",New Orleans Pelicans,"$1,785,000",2022-2023,2023
+409,"Nick Richards, C",Charlotte Hornets,"$1,782,621",2022-2023,2023
+410,"Lamar Stevens, F",Cleveland Cavaliers,"$1,782,621",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+411,"Vernon Carey Jr., C",Washington Wizards,"$1,782,621",2022-2023,2023
+412,"Tre Jones, G",San Antonio Spurs,"$1,782,621",2022-2023,2023
+413,"KZ Okpala, SF",Sacramento Kings,"$1,782,621",2022-2023,2023
+414,"KJ Martin, F",Houston Rockets,"$1,782,621",2022-2023,2023
+415,"Paul Reed, F",Philadelphia 76ers,"$1,782,621",2022-2023,2023
+416,"Miye Oni, SF",Memphis Grizzlies,"$1,782,621",2022-2023,2023
+417,"Yogi Ferrell, PG",LA Clippers,"$1,782,621",2022-2023,2023
+418,"Alen Smailagic, PF",Golden State Warriors,"$1,782,621",2022-2023,2023
+419,"Naji Marshall, F",New Orleans Pelicans,"$1,782,621",2022-2023,2023
+420,"Yuta Watanabe, SF",Brooklyn Nets,"$1,762,796",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+421,"Khyri Thomas, SG",Houston Rockets,"$1,762,796",2022-2023,2023
+422,"Omer Yurtseven, C",Miami Heat,"$1,752,638",2022-2023,2023
+423,"Saben Lee, G",Philadelphia 76ers,"$1,752,638",2022-2023,2023
+424,"Devin Cannady, G",Orlando Magic,"$1,752,638",2022-2023,2023
+425,"Luca Vildoza, G",Milwaukee Bucks,"$1,752,638",2022-2023,2023
+426,"Rayjon Tucker, G",Milwaukee Bucks,"$1,752,638",2022-2023,2023
+427,"Haywood Highsmith, F",Miami Heat,"$1,752,638",2022-2023,2023
+428,"Malik Fitts, F",LA Clippers,"$1,752,638",2022-2023,2023
+429,"Paul Watson, SG",Oklahoma City Thunder,"$1,701,593",2022-2023,2023
+430,"Charlie Brown Jr., G",Memphis Grizzlies,"$1,701,593",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+431,"Kelan Martin, SG",New Orleans Pelicans,"$1,701,593",2022-2023,2023
+432,"Mfiondu Kabengele, C",Boston Celtics,"$1,701,593",2022-2023,2023
+433,"Sam Dekker, F",Toronto Raptors,"$1,669,178",2022-2023,2023
+434,"Jarrell Brantley, PF",Utah Jazz,"$1,669,178",2022-2023,2023
+435,"E'Twaun Moore, G",Orlando Magic,"$1,669,178",2022-2023,2023
+436,"Solomon Hill, SF",New York Knicks,"$1,669,178",2022-2023,2023
+437,"Trevor Ariza, SF",Los Angeles Lakers,"$1,669,178",2022-2023,2023
+438,"Semi Ojeleye, PF",LA Clippers,"$1,669,178",2022-2023,2023
+439,"Kevin Pangos, G",Cleveland Cavaliers,"$1,669,178",2022-2023,2023
+440,"Jabari Parker, PF",Boston Celtics,"$1,669,178",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+441,"Enes Freedom, C",Houston Rockets,"$1,669,178",2022-2023,2023
+442,"Jericho Sims, C",New York Knicks,"$1,639,842",2022-2023,2023
+443,"Kessler Edwards, F",Sacramento Kings,"$1,637,966",2022-2023,2023
+444,"Trevelin Queen, SG",Indiana Pacers,"$1,637,966",2022-2023,2023
+445,"Isaiah Todd, PF",Washington Wizards,"$1,575,000",2022-2023,2023
+446,"JT Thor, F",Charlotte Hornets,"$1,563,518",2022-2023,2023
+447,"Jared Butler, G",Oklahoma City Thunder,"$1,563,518",2022-2023,2023
+448,"Isaiah Livers, F",Detroit Pistons,"$1,563,518",2022-2023,2023
+449,"Jason Preston, G",LA Clippers,"$1,563,518",2022-2023,2023
+450,"Aaron Wiggins, G",Oklahoma City Thunder,"$1,563,518",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+451,"Miles McBride, G",New York Knicks,"$1,563,518",2022-2023,2023
+452,"Duane Washington Jr., PG",Phoenix Suns,"$1,563,518",2022-2023,2023
+453,"Trendon Watford, F",Portland Trail Blazers,"$1,563,518",2022-2023,2023
+454,"Daishen Nix, SG",Houston Rockets,"$1,563,518",2022-2023,2023
+455,"Austin Reaves, G",Los Angeles Lakers,"$1,563,518",2022-2023,2023
+456,"Brandon Boston Jr., G",LA Clippers,"$1,563,518",2022-2023,2023
+457,"Jock Landale, C",Phoenix Suns,"$1,563,518",2022-2023,2023
+458,"Greg Brown III, PF",Portland Trail Blazers,"$1,563,518",2022-2023,2023
+459,"Marko Simonovic, C",Chicago Bulls,"$1,563,518",2022-2023,2023
+460,"Ayo Dosunmu, G",Chicago Bulls,"$1,563,518",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+461,"Terry Taylor, F",Chicago Bulls,"$1,563,518",2022-2023,2023
+462,"Jose Alvarado, G",New Orleans Pelicans,"$1,563,518",2022-2023,2023
+463,"Sam Hauser, F",Boston Celtics,"$1,563,518",2022-2023,2023
+464,"Vit Krejci, G",Atlanta Hawks,"$1,563,518",2022-2023,2023
+465,"Dalano Banton, F",Toronto Raptors,"$1,563,318",2022-2023,2023
+466,"Jahmi'us Ramsey, PG",Toronto Raptors,"$1,517,981",2022-2023,2023
+467,"Daniel Oturu, C",Toronto Raptors,"$1,517,981",2022-2023,2023
+468,"Caleb Homesley, SG",Washington Wizards,"$1,517,981",2022-2023,2023
+469,"Mamadi Diakite, F",Cleveland Cavaliers,"$1,517,981",2022-2023,2023
+470,"Elijah Bryant, SG",Milwaukee Bucks,"$1,517,981",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+471,"Deividas Sirvydis, F",Indiana Pacers,"$1,517,981",2022-2023,2023
+472,"Christian Koloko, C",Toronto Raptors,"$1,500,000",2022-2023,2023
+473,"Tyus Jones, G",Memphis Grizzlies,"$1,500,000",2022-2023,2023
+474,"Alize Johnson, F",San Antonio Spurs,"$1,392,896",2022-2023,2023
+475,"Kemba Walker, PG",Dallas Mavericks,"$1,392,896",2022-2023,2023
+476,"Stanley Johnson, SF",San Antonio Spurs,"$1,245,164",2022-2023,2023
+477,"Kennedy Chandler, G",Memphis Grizzlies,"$1,200,000",2022-2023,2023
+478,"Alfonzo McKinnie, F",Chicago Bulls,"$1,090,007",2022-2023,2023
+479,"Bryce McGowens, G",Charlotte Hornets,"$1,075,000",2022-2023,2023
+480,"Chima Moneke, F",Sacramento Kings,"$1,017,781",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+481,"Jabari Walker, F",Portland Trail Blazers,"$1,017,781",2022-2023,2023
+482,"Josh Minott, F",Minnesota Timberwolves,"$1,017,781",2022-2023,2023
+483,"Tyrese Martin, G",Atlanta Hawks,"$1,017,781",2022-2023,2023
+484,"Ryan Rollins, G",Golden State Warriors,"$1,017,781",2022-2023,2023
+485,"Max Christie, G",Los Angeles Lakers,"$1,017,781",2022-2023,2023
+486,"Jaden Hardy, G",Dallas Mavericks,"$1,017,781",2022-2023,2023
+487,"Kenneth Lofton Jr., F",Memphis Grizzlies,"$1,000,000",2022-2023,2023
+488,"Luka Garza, C",Minnesota Timberwolves,"$925,258",2022-2023,2023
+489,"Jordan Goodwin, G",Washington Wizards,"$900,000",2022-2023,2023
+490,"Sam Merrill, G",Cleveland Cavaliers,"$850,000",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+491,"Kris Dunn, G",Utah Jazz,"$735,819",2022-2023,2023
+492,"Michael Carter-Williams, G",Orlando Magic,"$652,829",2022-2023,2023
+493,"Gorgui Dieng, C",San Antonio Spurs,"$622,582",2022-2023,2023
+494,"Goga Bitadze, C",Orlando Magic,"$612,181",2022-2023,2023
+495,"Boban Marjanovic, C",Houston Rockets,"$601,478",2022-2023,2023
+496,"James Johnson, F",Indiana Pacers,"$590,926",2022-2023,2023
+497,"Terrence Ross, G",Phoenix Suns,"$580,373",2022-2023,2023
+498,"Dewayne Dedmon, C",Philadelphia 76ers,"$580,373",2022-2023,2023
+499,"Reggie Jackson, PG",Denver Nuggets,"$580,373",2022-2023,2023
+500,"Justin Holiday, F",Dallas Mavericks,"$569,821",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+501,"Keifer Sykes, G",Indiana Pacers,"$558,345",2022-2023,2023
+502,"Eugene Omoruyi, F",Detroit Pistons,"$555,402",2022-2023,2023
+503,"Joe Wieskamp, SF",Toronto Raptors,"$554,989",2022-2023,2023
+504,"PJ Dozier, G",Sacramento Kings,"$539,450",2022-2023,2023
+505,"DeAndre' Bembry, SG",Milwaukee Bucks,"$518,021",2022-2023,2023
+506,"Cody Zeller, C",Miami Heat,"$517,060",2022-2023,2023
+507,"Admiral Schofield, SF",Orlando Magic,"$516,508",2022-2023,2023
+508,"Russell Westbrook, G",LA Clippers,"$495,955",2022-2023,2023
+509,"R.J. Hampton, G",Detroit Pistons,"$485,403",2022-2023,2023
+510,"Ish Wainright, F",Phoenix Suns,"$474,851",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+511,"Will Barton, G",Toronto Raptors,"$432,642",2022-2023,2023
+512,"Isaiah Roby, PF",San Antonio Spurs,"$400,000",2022-2023,2023
+513,"Goran Dragic, PG",Milwaukee Bucks,"$390,433",2022-2023,2023
+514,"Sandro Mamukelashvili, F",San Antonio Spurs,"$357,717",2022-2023,2023
+515,"Patrick Beverley, PG",Chicago Bulls,"$357,717",2022-2023,2023
+516,"Carlik Jones, G",Chicago Bulls,"$357,717",2022-2023,2023
+517,"DaQuan Jeffries, G",Sacramento Kings,"$300,000",2022-2023,2023
+518,"Meyers Leonard, C",Milwaukee Bucks,"$284,911",2022-2023,2023
+519,"D.J. Augustin, G",Houston Rockets,"$189,940",2022-2023,2023
+520,"Xavier Cooks, G",Washington Wizards,"$140,384",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+521,"Nate Williams, G",Portland Trail Blazers,"$52,644",2022-2023,2023
+522,"Kobi Simmons, G",Charlotte Hornets,"$32,795",2022-2023,2023
+523,"Justin Champagnie, F",Boston Celtics,"$28,241",2022-2023,2023
+524,"David Duke Jr., G",Brooklyn Nets,"$28,241",2022-2023,2023
+525,"Moses Brown, C",Brooklyn Nets,"$19,186",2022-2023,2023
+526,"Shaquille Harrison, G",Portland Trail Blazers,"$12,260",2022-2023,2023
+527,"Willie Cauley-Stein, C",Houston Rockets,"$10,552",2022-2023,2023
+528,"Tristan Thompson, C",Cleveland Cavaliers,"$10,552",2022-2023,2023
+529,"Xavier Sneed, F",Charlotte Hornets,"$8,558",2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
+RK,NAME,TEAM,SALARY,2022-2023,2023
