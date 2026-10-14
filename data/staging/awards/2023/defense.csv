@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Jaren Jackson Jr.,23,MEM,195,200,0.975,F,2022-2023,2023
+1st,Jrue Holiday,32,MIL,192,200,0.96,G,2022-2023,2023
+1st,Brook Lopez,34,MIL,181,200,0.905,C,2022-2023,2023
+1st,Evan Mobley,21,CLE,132,200,0.66,F,2022-2023,2023
+1st,Alex Caruso,28,CHI,125,200,0.625,G,2022-2023,2023
+2nd,Derrick White,28,BOS,99,200,0.495,G,2022-2023,2023
+2nd,Draymond Green,32,GSW,89,200,0.445,F,2022-2023,2023
+2nd,OG Anunoby,25,TOR,81,200,0.405,F,2022-2023,2023
+2nd,Dillon Brooks,27,MEM,54,200,0.27,G,2022-2023,2023
+2nd,Bam Adebayo,25,MIA,53,200,0.265,C,2022-2023,2023

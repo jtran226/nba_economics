@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Rudy Gobert,25,UTA,192,200,0.96,C,2017-2018,2018
+1st,Anthony Davis,24,NOP,163,200,0.815,F,2017-2018,2018
+1st,Victor Oladipo,25,IND,136,200,0.68,G,2017-2018,2018
+1st,Jrue Holiday,27,NOP,105,200,0.525,G,2017-2018,2018
+1st,Robert Covington,27,PHI,90,200,0.45,F,2017-2018,2018
+2nd,Joel Embiid,23,PHI,90,200,0.45,C,2017-2018,2018
+2nd,Draymond Green,27,GSW,86,200,0.43,F,2017-2018,2018
+2nd,Al Horford,31,BOS,85,200,0.425,F,2017-2018,2018
+2nd,Dejounte Murray,21,SAS,80,200,0.4,G,2017-2018,2018
+2nd,Jimmy Butler,28,MIN,79,200,0.395,G,2017-2018,2018

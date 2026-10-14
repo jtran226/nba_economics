@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Kristaps Porziņģis,20,NYK,260,260,1.0,130,0,2015-2016,2016
+1st,Karl-Anthony Towns,20,MIN,260,260,1.0,130,0,2015-2016,2016
+1st,Devin Booker,19,PHO,231,260,0.888,103,25,2015-2016,2016
+1st,Nikola Jokić,20,DEN,186,260,0.715,73,40,2015-2016,2016
+1st,Jahlil Okafor,20,PHI,186,260,0.715,71,44,2015-2016,2016
+2nd,Justise Winslow,19,MIA,151,260,0.581,44,63,2015-2016,2016
+2nd,D'Angelo Russell,19,LAL,142,260,0.546,25,92,2015-2016,2016
+2nd,Emmanuel Mudiay,19,DEN,140,260,0.538,35,70,2015-2016,2016
+2nd,Myles Turner,19,IND,139,260,0.535,28,83,2015-2016,2016
+2nd,Willie Cauley-Stein,22,SAC,50,260,0.192,2,46,2015-2016,2016

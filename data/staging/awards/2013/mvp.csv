@@ -1,0 +1,17 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,LeBron James,28,MIA,120,1207,1210,0.998,2012-2013,2013,True
+2,Kevin Durant,24,OKC,0,765,1210,0.632,2012-2013,2013,False
+3,Carmelo Anthony,28,NYK,1,475,1210,0.393,2012-2013,2013,False
+4,Chris Paul,27,LAC,0,289,1210,0.239,2012-2013,2013,False
+5,Kobe Bryant,34,LAL,0,184,1210,0.152,2012-2013,2013,False
+6,Tony Parker,30,SAS,0,86,1210,0.071,2012-2013,2013,False
+7,Tim Duncan,36,SAS,0,65,1210,0.054,2012-2013,2013,False
+8,James Harden,23,HOU,0,33,1210,0.027,2012-2013,2013,False
+9,Russell Westbrook,24,OKC,0,9,1210,0.007,2012-2013,2013,False
+10,Dwyane Wade,31,MIA,0,5,1210,0.004,2012-2013,2013,False
+11,Stephen Curry,24,GSW,0,3,1210,0.002,2012-2013,2013,False
+12,Kevin Garnett,36,BOS,0,1,1210,0.001,2012-2013,2013,False
+12,Marc Gasol,28,MEM,0,1,1210,0.001,2012-2013,2013,False
+12,Ty Lawson,25,DEN,0,1,1210,0.001,2012-2013,2013,False
+12,David Lee,29,GSW,0,1,1210,0.001,2012-2013,2013,False
+12,Joakim Noah,27,CHI,0,1,1210,0.001,2012-2013,2013,False

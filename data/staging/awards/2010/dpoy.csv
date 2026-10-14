@@ -1,0 +1,25 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Dwight Howard,24,ORL,110,576,610,0.944,2009-2010,2010,True
+2,Josh Smith,24,ATL,3,136,610,0.223,2009-2010,2010,False
+3,Gerald Wallace,27,CHA,1,113,610,0.185,2009-2010,2010,False
+4,LeBron James,25,CLE,4,61,610,0.1,2009-2010,2010,False
+5,Rajon Rondo,23,BOS,1,55,610,0.09,2009-2010,2010,False
+6,Metta World Peace,30,LAL,0,29,610,0.048,2009-2010,2010,False
+7,Andrew Bogut,25,MIL,1,23,610,0.038,2009-2010,2010,False
+8,Thabo Sefolosha,25,OKC,2,20,610,0.033,2009-2010,2010,False
+9,Anderson Varejão,27,CLE,0,18,610,0.03,2009-2010,2010,False
+10,Marcus Camby,35,TOT,0,13,610,0.021,2009-2010,2010,False
+10,Dwyane Wade,28,MIA,0,13,610,0.021,2009-2010,2010,False
+12,Kobe Bryant,31,LAL,0,9,610,0.015,2009-2010,2010,False
+13,Shawn Marion,31,DAL,0,8,610,0.013,2009-2010,2010,False
+14,Tim Duncan,33,SAS,0,7,610,0.011,2009-2010,2010,False
+15,Shane Battier,31,HOU,0,5,610,0.008,2009-2010,2010,False
+16,Andrei Kirilenko,28,UTA,0,4,610,0.007,2009-2010,2010,False
+17,Arron Afflalo,24,DEN,0,1,610,0.002,2009-2010,2010,False
+17,Matt Barnes,29,ORL,0,1,610,0.002,2009-2010,2010,False
+17,Brendan Haywood,30,TOT,0,1,610,0.002,2009-2010,2010,False
+17,David Lee,26,NYK,0,1,610,0.002,2009-2010,2010,False
+17,Kenyon Martin,32,DEN,0,1,610,0.002,2009-2010,2010,False
+17,Luc Mbah a Moute,23,MIL,0,1,610,0.002,2009-2010,2010,False
+17,Kendrick Perkins,25,BOS,0,1,610,0.002,2009-2010,2010,False
+17,Ben Wallace,35,DET,0,1,610,0.002,2009-2010,2010,False

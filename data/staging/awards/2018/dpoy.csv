@@ -1,0 +1,18 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Rudy Gobert,25,UTA,89,466,505,0.923,2017-2018,2018,True
+2,Joel Embiid,23,PHI,2,163,505,0.323,2017-2018,2018,False
+3,Anthony Davis,24,NOP,5,139,505,0.275,2017-2018,2018,False
+4,Paul George,27,OKC,2,38,505,0.075,2017-2018,2018,False
+5,Al Horford,31,BOS,1,37,505,0.073,2017-2018,2018,False
+6,Draymond Green,27,GSW,1,20,505,0.04,2017-2018,2018,False
+7,Jrue Holiday,27,NOP,1,11,505,0.022,2017-2018,2018,False
+8,Robert Covington,27,PHI,0,8,505,0.016,2017-2018,2018,False
+9,Kevin Durant,29,GSW,0,7,505,0.014,2017-2018,2018,False
+10,Jaylen Brown,21,BOS,0,5,505,0.01,2017-2018,2018,False
+11,Klay Thompson,27,GSW,0,4,505,0.008,2017-2018,2018,False
+12,Steven Adams,24,OKC,0,3,505,0.006,2017-2018,2018,False
+12,Jimmy Butler,28,MIN,0,3,505,0.006,2017-2018,2018,False
+14,Clint Capela,23,HOU,0,2,505,0.004,2017-2018,2018,False
+15,Andre Drummond,24,DET,0,1,505,0.002,2017-2018,2018,False
+15,Jusuf Nurkić,23,POR,0,1,505,0.002,2017-2018,2018,False
+15,Victor Oladipo,25,IND,0,1,505,0.002,2017-2018,2018,False

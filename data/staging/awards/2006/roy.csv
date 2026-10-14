@@ -1,0 +1,10 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Chris Paul,20,NOK,124,623,625,0.997,2005-2006,2006,True
+2,Charlie Villanueva,21,TOR,0,248,625,0.397,2005-2006,2006,False
+3,Andrew Bogut,21,MIL,0,98,625,0.157,2005-2006,2006,False
+4,Raymond Felton,21,CHA,0,79,625,0.126,2005-2006,2006,False
+5,Channing Frye,22,NYK,0,41,625,0.066,2005-2006,2006,False
+6,Deron Williams,21,UTA,1,31,625,0.05,2005-2006,2006,False
+7,Danny Granger,22,IND,0,2,625,0.003,2005-2006,2006,False
+7,Luther Head,23,HOU,0,2,625,0.003,2005-2006,2006,False
+9,Ryan Gomes,23,BOS,0,1,625,0.002,2005-2006,2006,False

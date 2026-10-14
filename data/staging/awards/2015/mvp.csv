@@ -1,0 +1,13 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Stephen Curry,26,GSW,100,1198,1300,0.922,2014-2015,2015,True
+2,James Harden,25,HOU,25,936,1300,0.72,2014-2015,2015,False
+3,LeBron James,30,CLE,5,552,1300,0.425,2014-2015,2015,False
+4,Russell Westbrook,26,OKC,0,352,1300,0.271,2014-2015,2015,False
+5,Anthony Davis,21,NOP,0,203,1300,0.156,2014-2015,2015,False
+6,Chris Paul,29,LAC,0,124,1300,0.095,2014-2015,2015,False
+7,LaMarcus Aldridge,29,POR,0,6,1300,0.005,2014-2015,2015,False
+8,Marc Gasol,30,MEM,0,3,1300,0.002,2014-2015,2015,False
+8,Blake Griffin,25,LAC,0,3,1300,0.002,2014-2015,2015,False
+10,Tim Duncan,38,SAS,0,1,1300,0.001,2014-2015,2015,False
+10,Kawhi Leonard,23,SAS,0,1,1300,0.001,2014-2015,2015,False
+10,Klay Thompson,24,GSW,0,1,1300,0.001,2014-2015,2015,False

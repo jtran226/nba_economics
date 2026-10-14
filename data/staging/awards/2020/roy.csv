@@ -1,0 +1,9 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Ja Morant,20,MEM,99,498,500,0.996,2019-2020,2020,True
+2,Kendrick Nunn,24,MIA,0,204,500,0.408,2019-2020,2020,False
+3,Zion Williamson,19,NOP,1,140,500,0.28,2019-2020,2020,False
+4,Brandon Clarke,23,MEM,0,50,500,0.1,2019-2020,2020,False
+5,Coby White,19,CHI,0,3,500,0.006,2019-2020,2020,False
+6,Terence Davis,22,TOR,0,2,500,0.004,2019-2020,2020,False
+6,Eric Paschall,23,GSW,0,2,500,0.004,2019-2020,2020,False
+8,RJ Barrett,19,NYK,0,1,500,0.002,2019-2020,2020,False

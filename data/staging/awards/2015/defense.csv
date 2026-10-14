@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Kawhi Leonard,23,SAS,242,258,0.938,F,2014-2015,2015
+1st,Draymond Green,24,GSW,229,258,0.888,F,2014-2015,2015
+1st,Tony Allen,33,MEM,207,258,0.802,G,2014-2015,2015
+1st,DeAndre Jordan,26,LAC,187,258,0.725,C,2014-2015,2015
+1st,Chris Paul,29,LAC,170,258,0.659,G,2014-2015,2015
+2nd,Anthony Davis,21,NOP,155,258,0.601,F,2014-2015,2015
+2nd,Jimmy Butler,25,CHI,132,258,0.512,G,2014-2015,2015
+2nd,Andrew Bogut,30,GSW,102,258,0.395,C,2014-2015,2015
+2nd,John Wall,24,WAS,67,258,0.26,G,2014-2015,2015
+2nd,Tim Duncan,38,SAS,64,258,0.248,F,2014-2015,2015

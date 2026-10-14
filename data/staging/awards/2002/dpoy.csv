@@ -1,0 +1,5 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Ben Wallace,27,DET,116,116,120,0.967,2001-2002,2002,True
+2,Kevin Garnett,25,MIN,2,2,120,0.017,2001-2002,2002,False
+3,Kobe Bryant,23,LAL,1,1,120,0.008,2001-2002,2002,False
+3,Dikembe Mutombo,35,PHI,1,1,120,0.008,2001-2002,2002,False

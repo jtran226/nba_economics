@@ -1,0 +1,18 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Joakim Noah,28,CHI,100,555,625,0.888,2013-2014,2014,True
+2,Roy Hibbert,27,IND,8,166,625,0.266,2013-2014,2014,False
+3,DeAndre Jordan,25,LAC,8,121,625,0.194,2013-2014,2014,False
+4,Serge Ibaka,24,OKC,2,79,625,0.126,2013-2014,2014,False
+5,Andre Iguodala,30,GSW,1,47,625,0.075,2013-2014,2014,False
+6,LeBron James,29,MIA,2,31,625,0.05,2013-2014,2014,False
+7,Paul George,23,IND,0,30,625,0.048,2013-2014,2014,False
+8,Anthony Davis,20,NOP,1,25,625,0.04,2013-2014,2014,False
+8,Dwight Howard,28,HOU,1,25,625,0.04,2013-2014,2014,False
+10,Andrew Bogut,29,GSW,1,11,625,0.018,2013-2014,2014,False
+11,Kawhi Leonard,22,SAS,0,9,625,0.014,2013-2014,2014,False
+12,P.J. Tucker,28,PHO,1,6,625,0.01,2013-2014,2014,False
+13,Tim Duncan,37,SAS,0,5,625,0.008,2013-2014,2014,False
+13,Chris Paul,28,LAC,0,5,625,0.008,2013-2014,2014,False
+15,Trevor Ariza,28,WAS,0,4,625,0.006,2013-2014,2014,False
+15,Marc Gasol,29,MEM,0,4,625,0.006,2013-2014,2014,False
+17,Patrick Beverley,25,HOU,0,2,625,0.003,2013-2014,2014,False

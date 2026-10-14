@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Kobe Bryant,29,LAL,52,60,0.867,G,2007-2008,2008
+1st,Kevin Garnett,31,BOS,52,60,0.867,F,2007-2008,2008
+1st,Marcus Camby,33,DEN,37,60,0.617,C,2007-2008,2008
+1st,Bruce Bowen,36,SAS,36,60,0.6,G,2007-2008,2008
+1st,Tim Duncan,31,SAS,33,60,0.55,F,2007-2008,2008
+2nd,Shane Battier,29,HOU,29,60,0.483,F,2007-2008,2008
+2nd,Chris Paul,22,NOH,26,60,0.433,G,2007-2008,2008
+2nd,Dwight Howard,22,ORL,25,60,0.417,C,2007-2008,2008
+2nd,Tayshaun Prince,27,DET,20,60,0.333,F,2007-2008,2008
+2nd,Raja Bell,31,PHO,18,60,0.3,G,2007-2008,2008

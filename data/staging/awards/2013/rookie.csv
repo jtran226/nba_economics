@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Damian Lillard,22,POR,58,58,1.0,29,0,2012-2013,2013
+1st,Bradley Beal,19,WAS,57,58,0.983,28,1,2012-2013,2013
+1st,Anthony Davis,19,NOH,57,58,0.983,28,1,2012-2013,2013
+1st,Dion Waiters,21,CLE,50,58,0.862,21,8,2012-2013,2013
+1st,Harrison Barnes,20,GSW,47,58,0.81,18,11,2012-2013,2013
+2nd,Andre Drummond,19,DET,35,58,0.603,10,15,2012-2013,2013
+2nd,Jonas Valančiūnas,20,TOR,31,58,0.534,6,19,2012-2013,2013
+2nd,Michael Kidd-Gilchrist,19,CHA,29,58,0.5,3,23,2012-2013,2013
+2nd,Kyle Singler,24,DET,17,58,0.293,1,15,2012-2013,2013
+2nd,Tyler Zeller,23,CLE,15,58,0.259,3,9,2012-2013,2013

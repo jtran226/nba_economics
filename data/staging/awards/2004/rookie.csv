@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Carmelo Anthony,19,DEN,56,56,1.0,28,0,2003-2004,2004
+1st,LeBron James,19,CLE,56,56,1.0,28,0,2003-2004,2004
+1st,Dwyane Wade,22,MIA,56,56,1.0,28,0,2003-2004,2004
+1st,Chris Bosh,19,TOR,53,56,0.946,25,3,2003-2004,2004
+1st,Kirk Hinrich,23,CHI,52,56,0.929,24,4,2003-2004,2004
+2nd,Josh Howard,23,DAL,29,56,0.518,3,23,2003-2004,2004
+2nd,T.J. Ford,20,MIL,27,56,0.482,5,17,2003-2004,2004
+2nd,Udonis Haslem,23,MIA,21,56,0.375,1,19,2003-2004,2004
+2nd,Marquis Daniels,23,DAL,20,56,0.357,1,18,2003-2004,2004
+2nd,Jarvis Hayes,22,WAS,20,56,0.357,1,18,2003-2004,2004

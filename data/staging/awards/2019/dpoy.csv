@@ -1,0 +1,11 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Rudy Gobert,26,UTA,65,411,500,0.822,2018-2019,2019,True
+2,Giannis Antetokounmpo,24,MIL,26,280,500,0.56,2018-2019,2019,False
+3,Paul George,28,OKC,6,150,500,0.3,2018-2019,2019,False
+4,Joel Embiid,24,PHI,1,26,500,0.052,2018-2019,2019,False
+5,Myles Turner,22,IND,0,15,500,0.03,2018-2019,2019,False
+6,Draymond Green,28,GSW,1,6,500,0.012,2018-2019,2019,False
+6,Kawhi Leonard,27,TOR,1,6,500,0.012,2018-2019,2019,False
+8,Marcus Smart,24,BOS,0,4,500,0.008,2018-2019,2019,False
+9,Jarrett Allen,20,BRK,0,1,500,0.002,2018-2019,2019,False
+9,Patrick Beverley,30,LAC,0,1,500,0.002,2018-2019,2019,False

@@ -1,0 +1,14 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Tim Duncan,26,SAS,60,962,1190,0.808,2002-2003,2003,True
+2,Kevin Garnett,26,MIN,43,871,1190,0.732,2002-2003,2003,False
+3,Kobe Bryant,24,LAL,8,496,1190,0.417,2002-2003,2003,False
+4,Tracy McGrady,23,ORL,4,427,1190,0.359,2002-2003,2003,False
+5,Shaquille O'Neal,30,LAL,3,126,1190,0.106,2002-2003,2003,False
+6,Allen Iverson,27,PHI,0,83,1190,0.07,2002-2003,2003,False
+7,Dirk Nowitzki,24,DAL,0,43,1190,0.036,2002-2003,2003,False
+8,Ben Wallace,28,DET,1,33,1190,0.028,2002-2003,2003,False
+9,Jason Kidd,29,NJN,0,31,1190,0.026,2002-2003,2003,False
+10,Chris Webber,29,SAC,0,19,1190,0.016,2002-2003,2003,False
+11,Jamal Mashburn,30,NOH,0,1,1190,0.001,2002-2003,2003,False
+11,Steve Nash,28,DAL,0,1,1190,0.001,2002-2003,2003,False
+11,Paul Pierce,25,BOS,0,1,1190,0.001,2002-2003,2003,False

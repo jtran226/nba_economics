@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Draymond Green,26,GSW,198,200,0.99,F,2016-2017,2017
+1st,Rudy Gobert,24,UTA,196,200,0.98,C,2016-2017,2017
+1st,Kawhi Leonard,25,SAS,192,200,0.96,F,2016-2017,2017
+1st,Chris Paul,31,LAC,140,200,0.7,G,2016-2017,2017
+1st,Patrick Beverley,28,HOU,110,200,0.55,G,2016-2017,2017
+2nd,Tony Allen,35,MEM,80,200,0.4,G,2016-2017,2017
+2nd,Danny Green,29,SAS,68,200,0.34,G,2016-2017,2017
+2nd,Anthony Davis,23,NOP,58,200,0.29,C,2016-2017,2017
+2nd,Andre Roberson,25,OKC,53,200,0.265,F,2016-2017,2017
+2nd,Giannis Antetokounmpo,22,MIL,35,200,0.175,F,2016-2017,2017

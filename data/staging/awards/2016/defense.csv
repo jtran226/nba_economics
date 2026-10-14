@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Kawhi Leonard,24,SAS,260,260,1.0,F,2015-2016,2016
+1st,Draymond Green,25,GSW,251,260,0.965,F,2015-2016,2016
+1st,Avery Bradley,25,BOS,149,260,0.573,G,2015-2016,2016
+1st,Chris Paul,30,LAC,148,260,0.569,G,2015-2016,2016
+1st,DeAndre Jordan,27,LAC,137,260,0.527,C,2015-2016,2016
+2nd,Hassan Whiteside,26,MIA,126,260,0.485,C,2015-2016,2016
+2nd,Tony Allen,34,MEM,121,260,0.465,G,2015-2016,2016
+2nd,Paul Millsap,30,ATL,97,260,0.373,F,2015-2016,2016
+2nd,Jimmy Butler,26,CHI,62,260,0.238,G,2015-2016,2016
+2nd,Paul George,25,IND,48,260,0.185,F,2015-2016,2016

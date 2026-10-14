@@ -1,0 +1,11 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Damian Lillard,22,POR,121,605,605,1.0,2012-2013,2013,True
+2,Anthony Davis,19,NOH,0,306,605,0.506,2012-2013,2013,False
+3,Bradley Beal,19,WAS,0,94,605,0.155,2012-2013,2013,False
+4,Andre Drummond,19,DET,0,36,605,0.06,2012-2013,2013,False
+5,Dion Waiters,21,CLE,0,21,605,0.035,2012-2013,2013,False
+6,Harrison Barnes,20,GSW,0,8,605,0.013,2012-2013,2013,False
+6,Chris Copeland,28,NYK,0,8,605,0.013,2012-2013,2013,False
+8,Michael Kidd-Gilchrist,19,CHA,0,3,605,0.005,2012-2013,2013,False
+9,Jonas Valančiūnas,20,TOR,0,2,605,0.003,2012-2013,2013,False
+10,John Jenkins,21,ATL,0,1,605,0.002,2012-2013,2013,False

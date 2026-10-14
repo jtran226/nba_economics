@@ -1,0 +1,18 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Kevin Durant,25,OKC,119,1232,1250,0.986,2013-2014,2014,True
+2,LeBron James,29,MIA,6,891,1250,0.713,2013-2014,2014,False
+3,Blake Griffin,24,LAC,0,434,1250,0.347,2013-2014,2014,False
+4,Joakim Noah,28,CHI,0,322,1250,0.258,2013-2014,2014,False
+5,James Harden,24,HOU,0,85,1250,0.068,2013-2014,2014,False
+6,Stephen Curry,25,GSW,0,66,1250,0.053,2013-2014,2014,False
+7,Chris Paul,28,LAC,0,45,1250,0.036,2013-2014,2014,False
+8,Al Jefferson,29,CHA,0,34,1250,0.027,2013-2014,2014,False
+9,Paul George,23,IND,0,33,1250,0.026,2013-2014,2014,False
+10,LaMarcus Aldridge,28,POR,0,26,1250,0.021,2013-2014,2014,False
+11,Kevin Love,25,MIN,0,25,1250,0.02,2013-2014,2014,False
+12,Tim Duncan,37,SAS,0,21,1250,0.017,2013-2014,2014,False
+12,Tony Parker,31,SAS,0,21,1250,0.017,2013-2014,2014,False
+14,Dirk Nowitzki,35,DAL,0,7,1250,0.006,2013-2014,2014,False
+15,Carmelo Anthony,29,NYK,0,4,1250,0.003,2013-2014,2014,False
+16,Goran Dragić,27,PHO,0,3,1250,0.002,2013-2014,2014,False
+17,Mike Conley,26,MEM,0,1,1250,0.001,2013-2014,2014,False

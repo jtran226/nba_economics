@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Giannis Antetokounmpo,25,MIL,195,200,0.975,F,2019-2020,2020
+1st,Anthony Davis,26,LAL,187,200,0.935,F,2019-2020,2020
+1st,Ben Simmons,23,PHI,185,200,0.925,G,2019-2020,2020
+1st,Rudy Gobert,27,UTA,180,200,0.9,C,2019-2020,2020
+1st,Marcus Smart,25,BOS,152,200,0.76,G,2019-2020,2020
+2nd,Kawhi Leonard,28,LAC,128,200,0.64,F,2019-2020,2020
+2nd,Brook Lopez,31,MIL,67,200,0.335,C,2019-2020,2020
+2nd,Bam Adebayo,22,MIA,61,200,0.305,F,2019-2020,2020
+2nd,Patrick Beverley,31,LAC,60,200,0.3,G,2019-2020,2020
+2nd,Eric Bledsoe,30,MIL,59,200,0.295,G,2019-2020,2020

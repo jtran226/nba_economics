@@ -1,0 +1,12 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,O.J. Mayo,21,MEM,58,58,1.0,29,0,2008-2009,2009
+1st,Derrick Rose,20,CHI,58,58,1.0,29,0,2008-2009,2009
+1st,Russell Westbrook,20,OKC,53,58,0.914,24,5,2008-2009,2009
+1st,Brook Lopez,20,NJN,49,58,0.845,21,7,2008-2009,2009
+1st,Michael Beasley,20,MIA,44,58,0.759,17,10,2008-2009,2009
+2nd,Eric Gordon,20,LAC,39,58,0.672,13,13,2008-2009,2009
+2nd,Kevin Love,20,MIN,34,58,0.586,7,20,2008-2009,2009
+2nd,Mario Chalmers,22,MIA,29,58,0.5,5,19,2008-2009,2009
+2nd,Marc Gasol,24,MEM,25,58,0.431,2,21,2008-2009,2009
+2nd,D.J. Augustin,21,CHA,17,58,0.293,0,17,2008-2009,2009
+2nd,Rudy Fernández,23,POR,17,58,0.293,0,17,2008-2009,2009

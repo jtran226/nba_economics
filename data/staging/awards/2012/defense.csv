@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,LeBron James,27,MIA,53,60,0.883,F,2011-2012,2012
+1st,Serge Ibaka,22,OKC,47,60,0.783,F,2011-2012,2012
+1st,Dwight Howard,26,ORL,41,60,0.683,C,2011-2012,2012
+1st,Chris Paul,26,LAC,35,60,0.583,G,2011-2012,2012
+1st,Tony Allen,30,MEM,33,60,0.55,G,2011-2012,2012
+2nd,Tyson Chandler,29,NYK,36,60,0.6,C,2011-2012,2012
+2nd,Rajon Rondo,25,BOS,29,60,0.483,G,2011-2012,2012
+2nd,Kevin Garnett,35,BOS,26,60,0.433,F,2011-2012,2012
+2nd,Luol Deng,26,CHI,20,60,0.333,F,2011-2012,2012
+2nd,Kobe Bryant,33,LAL,17,60,0.283,G,2011-2012,2012

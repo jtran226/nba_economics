@@ -1,0 +1,14 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Evan Mobley,23,CLE,35,285,500,0.57,2024-2025,2025,True
+2,Dyson Daniels,21,ATL,25,197,500,0.394,2024-2025,2025,False
+3,Draymond Green,34,GSW,15,154,500,0.308,2024-2025,2025,False
+4,Luguentz Dort,25,OKC,11,109,500,0.218,2024-2025,2025,False
+5,Amen Thompson,22,HOU,9,93,500,0.186,2024-2025,2025,False
+6,Ivica Zubac,27,LAC,4,34,500,0.068,2024-2025,2025,False
+7,Jaren Jackson Jr.,25,MEM,0,9,500,0.018,2024-2025,2025,False
+8,Giannis Antetokounmpo,30,MIL,1,5,500,0.01,2024-2025,2025,False
+9,Toumani Camara,24,POR,0,4,500,0.008,2024-2025,2025,False
+10,Bam Adebayo,27,MIA,0,3,500,0.006,2024-2025,2025,False
+10,Shai Gilgeous-Alexander,26,OKC,0,3,500,0.006,2024-2025,2025,False
+10,Derrick White,30,BOS,0,3,500,0.006,2024-2025,2025,False
+13,Rudy Gobert,32,MIN,0,1,500,0.002,2024-2025,2025,False

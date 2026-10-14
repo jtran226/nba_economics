@@ -1,0 +1,15 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Dikembe Mutombo,34,TOT,48,48,123,0.39,2000-2001,2001,True
+2,Kevin Garnett,24,MIN,26,26,123,0.211,2000-2001,2001,False
+3,Tim Duncan,24,SAS,14,14,123,0.114,2000-2001,2001,False
+4,Doug Christie,30,SAC,9,9,123,0.073,2000-2001,2001,False
+5,David Robinson,35,SAS,6,6,123,0.049,2000-2001,2001,False
+5,Ben Wallace,26,DET,6,6,123,0.049,2000-2001,2001,False
+7,Theo Ratliff,27,PHI,4,4,123,0.033,2000-2001,2001,False
+8,Bruce Bowen,29,MIA,2,2,123,0.016,2000-2001,2001,False
+8,Anthony Mason,34,MIA,2,2,123,0.016,2000-2001,2001,False
+8,Shaquille O'Neal,28,LAL,2,2,123,0.016,2000-2001,2001,False
+11,Kobe Bryant,22,LAL,1,1,123,0.008,2000-2001,2001,False
+11,Allen Iverson,25,PHI,1,1,123,0.008,2000-2001,2001,False
+11,Jason Kidd,27,PHO,1,1,123,0.008,2000-2001,2001,False
+11,Shawn Marion,22,PHO,1,1,123,0.008,2000-2001,2001,False

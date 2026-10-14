@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Rudy Gobert,31,MIN,198,198,1.0,C,2023-2024,2024
+1st,Victor Wembanyama,20,SAS,184,198,0.929,C,2023-2024,2024
+1st,Bam Adebayo,26,MIA,168,198,0.848,C,2023-2024,2024
+1st,Herbert Jones,25,NOP,159,198,0.803,F,2023-2024,2024
+1st,Anthony Davis,30,LAL,151,198,0.763,C,2023-2024,2024
+2nd,Alex Caruso,29,CHI,130,198,0.657,G,2023-2024,2024
+2nd,Jalen Suggs,22,ORL,99,198,0.5,G,2023-2024,2024
+2nd,Derrick White,29,BOS,98,198,0.495,G,2023-2024,2024
+2nd,Jaden McDaniels,23,MIN,66,198,0.333,F,2023-2024,2024
+2nd,Jrue Holiday,33,BOS,36,198,0.182,G,2023-2024,2024

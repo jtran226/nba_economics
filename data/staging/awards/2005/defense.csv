@@ -1,0 +1,12 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Ben Wallace,30,DET,51,60,0.85,C,2004-2005,2005
+1st,Bruce Bowen,33,SAS,48,60,0.8,G,2004-2005,2005
+1st,Kevin Garnett,28,MIN,48,60,0.8,F,2004-2005,2005
+1st,Tim Duncan,28,SAS,39,60,0.65,F,2004-2005,2005
+1st,Larry Hughes,26,WAS,22,60,0.367,G,2004-2005,2005
+2nd,Marcus Camby,30,DEN,21,60,0.35,C,2004-2005,2005
+2nd,Tayshaun Prince,24,DET,21,60,0.35,F,2004-2005,2005
+2nd,Chauncey Billups,28,DET,17,60,0.283,G,2004-2005,2005
+2nd,Andrei Kirilenko,23,UTA,17,60,0.283,F,2004-2005,2005
+2nd,Jason Kidd,31,NJN,16,60,0.267,G,2004-2005,2005
+2nd,Dwyane Wade,23,MIA,16,60,0.267,G,2004-2005,2005

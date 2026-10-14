@@ -1,0 +1,6 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Cooper Flagg,19,DAL,56,412,500,0.824,2025-2026,2026,True
+2,Kon Knueppel,20,CHO,44,386,500,0.772,2025-2026,2026,False
+3,VJ Edgecombe,20,PHI,0,96,500,0.192,2025-2026,2026,False
+4,Dylan Harper,19,SAS,0,5,500,0.01,2025-2026,2026,False
+5,Cedric Coward,22,MEM,0,1,500,0.002,2025-2026,2026,False

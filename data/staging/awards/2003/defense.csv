@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Ben Wallace,28,DET,55,58,0.948,C,2002-2003,2003
+1st,Kevin Garnett,26,MIN,47,58,0.81,F,2002-2003,2003
+1st,Tim Duncan,26,SAS,44,58,0.759,F,2002-2003,2003
+1st,Doug Christie,32,SAC,38,58,0.655,G,2002-2003,2003
+1st,Kobe Bryant,24,LAL,35,58,0.603,G,2002-2003,2003
+2nd,Jason Kidd,29,NJN,31,58,0.534,G,2002-2003,2003
+2nd,Metta World Peace,23,IND,27,58,0.466,F,2002-2003,2003
+2nd,Bruce Bowen,31,SAS,24,58,0.414,F,2002-2003,2003
+2nd,Eric Snow,29,PHI,16,58,0.276,G,2002-2003,2003
+2nd,Shaquille O'Neal,30,LAL,12,58,0.207,C,2002-2003,2003

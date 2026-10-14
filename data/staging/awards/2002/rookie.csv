@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Pau Gasol,21,MEM,56,56,1.0,28,0,2001-2002,2002
+1st,Shane Battier,23,MEM,54,56,0.964,26,2,2001-2002,2002
+1st,Jason Richardson,21,GSW,53,56,0.946,25,3,2001-2002,2002
+1st,Tony Parker,19,SAS,48,56,0.857,20,8,2001-2002,2002
+1st,Andrei Kirilenko,20,UTA,45,56,0.804,18,9,2001-2002,2002
+2nd,Jamaal Tinsley,23,IND,43,56,0.768,15,13,2001-2002,2002
+2nd,Richard Jefferson,21,NJN,35,56,0.625,8,19,2001-2002,2002
+2nd,Eddie Griffin,19,HOU,21,56,0.375,2,17,2001-2002,2002
+2nd,Željko Rebrača,29,DET,15,56,0.268,2,11,2001-2002,2002
+2nd,Vladimir Radmanović,21,SEA,11,56,0.196,1,9,2001-2002,2002

@@ -1,0 +1,7 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Scottie Barnes,20,TOR,48,378,500,0.756,2021-2022,2022,True
+2,Evan Mobley,20,CLE,43,363,500,0.726,2021-2022,2022,False
+3,Cade Cunningham,20,DET,9,153,500,0.306,2021-2022,2022,False
+4,Jalen Green,19,HOU,0,3,500,0.006,2021-2022,2022,False
+5,Franz Wagner,20,ORL,0,2,500,0.004,2021-2022,2022,False
+6,Herbert Jones,23,NOP,0,1,500,0.002,2021-2022,2022,False

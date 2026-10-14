@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Chet Holmgren,21,OKC,198,198,1.0,99,0,2023-2024,2024
+1st,Victor Wembanyama,20,SAS,198,198,1.0,99,0,2023-2024,2024
+1st,Brandon Miller,21,CHO,195,198,0.985,97,1,2023-2024,2024
+1st,Jaime Jaquez Jr.,22,MIA,188,198,0.949,89,10,2023-2024,2024
+1st,Brandin Podziemski,20,GSW,161,198,0.813,64,33,2023-2024,2024
+2nd,Dereck Lively II,19,DAL,119,198,0.601,26,67,2023-2024,2024
+2nd,Amen Thompson,21,HOU,100,198,0.505,10,80,2023-2024,2024
+2nd,Keyonte George,20,UTA,77,198,0.389,3,71,2023-2024,2024
+2nd,Cason Wallace,20,OKC,67,198,0.338,2,63,2023-2024,2024
+2nd,GG Jackson II,19,MEM,43,198,0.217,5,33,2023-2024,2024

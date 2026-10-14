@@ -1,0 +1,13 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Giannis Antetokounmpo,25,MIL,85,962,1010,0.952,2019-2020,2020,True
+2,LeBron James,35,LAL,16,753,1010,0.746,2019-2020,2020,False
+3,James Harden,30,HOU,0,367,1010,0.363,2019-2020,2020,False
+4,Luka Dončić,20,DAL,0,200,1010,0.198,2019-2020,2020,False
+5,Kawhi Leonard,28,LAC,0,168,1010,0.166,2019-2020,2020,False
+6,Anthony Davis,26,LAL,0,82,1010,0.081,2019-2020,2020,False
+7,Chris Paul,34,OKC,0,26,1010,0.026,2019-2020,2020,False
+8,Damian Lillard,29,POR,0,23,1010,0.023,2019-2020,2020,False
+9,Nikola Jokić,24,DEN,0,18,1010,0.018,2019-2020,2020,False
+10,Pascal Siakam,25,TOR,0,17,1010,0.017,2019-2020,2020,False
+11,Jimmy Butler,30,MIA,0,9,1010,0.009,2019-2020,2020,False
+12,Jayson Tatum,21,BOS,0,1,1010,0.001,2019-2020,2020,False

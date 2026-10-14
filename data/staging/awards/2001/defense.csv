@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Dikembe Mutombo,34,TOT,43,58,0.741,C,2000-2001,2001
+1st,Tim Duncan,24,SAS,40,58,0.69,F,2000-2001,2001
+1st,Jason Kidd,27,PHO,39,58,0.672,G,2000-2001,2001
+1st,Gary Payton,32,SEA,38,58,0.655,G,2000-2001,2001
+1st,Kevin Garnett,24,MIN,24,58,0.414,F,2000-2001,2001
+2nd,Kobe Bryant,22,LAL,26,58,0.448,G,2000-2001,2001
+2nd,Doug Christie,30,SAC,20,58,0.345,G,2000-2001,2001
+2nd,Bruce Bowen,29,MIA,18,58,0.31,F,2000-2001,2001
+2nd,Shaquille O'Neal,28,LAL,17,58,0.293,C,2000-2001,2001
+2nd,P.J. Brown,31,CHH,13,58,0.224,F,2000-2001,2001

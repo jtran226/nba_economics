@@ -1,0 +1,18 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Kawhi Leonard,24,SAS,84,547,650,0.842,2015-2016,2016,True
+2,Draymond Green,25,GSW,44,421,650,0.648,2015-2016,2016,False
+3,Hassan Whiteside,26,MIA,2,83,650,0.128,2015-2016,2016,False
+4,DeAndre Jordan,27,LAC,0,50,650,0.077,2015-2016,2016,False
+5,Paul Millsap,30,ATL,0,21,650,0.032,2015-2016,2016,False
+6,Avery Bradley,25,BOS,0,14,650,0.022,2015-2016,2016,False
+7,Rudy Gobert,23,UTA,0,13,650,0.02,2015-2016,2016,False
+8,Tony Allen,34,MEM,0,5,650,0.008,2015-2016,2016,False
+9,Anthony Davis,22,NOP,0,4,650,0.006,2015-2016,2016,False
+10,Andre Drummond,22,DET,0,3,650,0.005,2015-2016,2016,False
+11,Jimmy Butler,26,CHI,0,2,650,0.003,2015-2016,2016,False
+11,LeBron James,31,CLE,0,2,650,0.003,2015-2016,2016,False
+13,Trevor Ariza,30,HOU,0,1,650,0.002,2015-2016,2016,False
+13,Jae Crowder,25,BOS,0,1,650,0.002,2015-2016,2016,False
+13,Al Horford,29,ATL,0,1,650,0.002,2015-2016,2016,False
+13,Kyle Lowry,29,TOR,0,1,650,0.002,2015-2016,2016,False
+13,Chris Paul,30,LAC,0,1,650,0.002,2015-2016,2016,False

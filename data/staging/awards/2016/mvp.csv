@@ -1,0 +1,11 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Stephen Curry,27,GSW,131,1310,1310,1.0,2015-2016,2016,True
+2,Kawhi Leonard,24,SAS,0,634,1310,0.484,2015-2016,2016,False
+3,LeBron James,31,CLE,0,631,1310,0.482,2015-2016,2016,False
+4,Russell Westbrook,27,OKC,0,486,1310,0.371,2015-2016,2016,False
+5,Kevin Durant,27,OKC,0,147,1310,0.112,2015-2016,2016,False
+6,Chris Paul,30,LAC,0,107,1310,0.082,2015-2016,2016,False
+7,Draymond Green,25,GSW,0,50,1310,0.038,2015-2016,2016,False
+8,Damian Lillard,25,POR,0,26,1310,0.02,2015-2016,2016,False
+9,James Harden,26,HOU,0,9,1310,0.007,2015-2016,2016,False
+10,Kyle Lowry,29,TOR,0,6,1310,0.005,2015-2016,2016,False

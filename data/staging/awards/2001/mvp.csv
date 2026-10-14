@@ -1,0 +1,18 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Allen Iverson,25,PHI,93,1121,1240,0.904,2000-2001,2001,True
+2,Tim Duncan,24,SAS,18,706,1240,0.569,2000-2001,2001,False
+3,Shaquille O'Neal,28,LAL,7,578,1240,0.466,2000-2001,2001,False
+4,Chris Webber,27,SAC,5,521,1240,0.42,2000-2001,2001,False
+5,Kevin Garnett,24,MIN,1,151,1240,0.122,2000-2001,2001,False
+6,Tracy McGrady,21,ORL,0,64,1240,0.052,2000-2001,2001,False
+7,Karl Malone,37,UTA,0,21,1240,0.017,2000-2001,2001,False
+8,Jason Kidd,27,PHO,0,18,1240,0.015,2000-2001,2001,False
+9,Kobe Bryant,22,LAL,0,11,1240,0.009,2000-2001,2001,False
+10,David Robinson,35,SAS,0,8,1240,0.006,2000-2001,2001,False
+11,Ray Allen,25,MIL,0,7,1240,0.006,2000-2001,2001,False
+11,Vince Carter,24,TOR,0,7,1240,0.006,2000-2001,2001,False
+13,Paul Pierce,23,BOS,0,5,1240,0.004,2000-2001,2001,False
+14,Jerry Stackhouse,26,DET,0,3,1240,0.002,2000-2001,2001,False
+15,Michael Finley,27,DAL,0,1,1240,0.001,2000-2001,2001,False
+15,Anthony Mason,34,MIA,0,1,1240,0.001,2000-2001,2001,False
+15,John Stockton,38,UTA,0,1,1240,0.001,2000-2001,2001,False

@@ -1,0 +1,10 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Michael Carter-Williams,22,PHI,104,569,620,0.918,2013-2014,2014,True
+2,Victor Oladipo,21,ORL,16,364,620,0.587,2013-2014,2014,False
+3,Trey Burke,21,UTA,1,96,620,0.155,2013-2014,2014,False
+4,Mason Plumlee,23,BRK,2,58,620,0.094,2013-2014,2014,False
+5,Tim Hardaway Jr.,21,NYK,1,23,620,0.037,2013-2014,2014,False
+6,Gorgui Dieng,24,MIN,0,3,620,0.005,2013-2014,2014,False
+7,Steven Adams,20,OKC,0,1,620,0.002,2013-2014,2014,False
+7,Giannis Antetokounmpo,19,MIL,0,1,620,0.002,2013-2014,2014,False
+7,Nick Calathes,24,MEM,0,1,620,0.002,2013-2014,2014,False

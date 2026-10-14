@@ -1,0 +1,22 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Marc Gasol,28,MEM,30,212,605,0.35,2012-2013,2013,True
+2,LeBron James,28,MIA,18,149,605,0.246,2012-2013,2013,False
+3,Serge Ibaka,23,OKC,14,122,605,0.202,2012-2013,2013,False
+4,Joakim Noah,27,CHI,13,107,605,0.177,2012-2013,2013,False
+5,Tony Allen,31,MEM,9,102,605,0.169,2012-2013,2013,False
+6,Tim Duncan,36,SAS,11,94,605,0.155,2012-2013,2013,False
+7,Larry Sanders,24,MIL,4,90,605,0.149,2012-2013,2013,False
+8,Paul George,22,IND,8,57,605,0.094,2012-2013,2013,False
+9,Andre Iguodala,29,DEN,5,43,605,0.071,2012-2013,2013,False
+10,Roy Hibbert,26,IND,3,36,605,0.06,2012-2013,2013,False
+11,Chris Paul,27,LAC,2,19,605,0.031,2012-2013,2013,False
+12,Avery Bradley,22,BOS,2,15,605,0.025,2012-2013,2013,False
+13,Tyson Chandler,30,NYK,0,11,605,0.018,2012-2013,2013,False
+14,Dwight Howard,27,LAL,1,9,605,0.015,2012-2013,2013,False
+15,Luol Deng,27,CHI,1,6,605,0.01,2012-2013,2013,False
+16,Dwyane Wade,31,MIA,0,4,605,0.007,2012-2013,2013,False
+17,Trevor Ariza,27,WAS,0,3,605,0.005,2012-2013,2013,False
+17,Jimmy Butler,23,CHI,0,3,605,0.005,2012-2013,2013,False
+17,Kenneth Faried,23,DEN,0,3,605,0.005,2012-2013,2013,False
+17,Russell Westbrook,24,OKC,0,3,605,0.005,2012-2013,2013,False
+21,Mike Conley,25,MEM,0,1,605,0.002,2012-2013,2013,False

@@ -1,0 +1,20 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Kawhi Leonard,23,SAS,37,333,645,0.516,2014-2015,2015,True
+2,Draymond Green,24,GSW,45,317,645,0.491,2014-2015,2015,False
+3,DeAndre Jordan,26,LAC,32,261,645,0.405,2014-2015,2015,False
+4,Anthony Davis,21,NOP,11,107,645,0.166,2014-2015,2015,False
+5,Rudy Gobert,22,UTA,2,33,645,0.051,2014-2015,2015,False
+6,Andrew Bogut,30,GSW,0,31,645,0.048,2014-2015,2015,False
+7,Tony Allen,33,MEM,1,29,645,0.045,2014-2015,2015,False
+8,Tim Duncan,38,SAS,1,12,645,0.019,2014-2015,2015,False
+9,Michael Kidd-Gilchrist,21,CHO,0,9,645,0.014,2014-2015,2015,False
+10,Jimmy Butler,25,CHI,0,7,645,0.011,2014-2015,2015,False
+10,Marc Gasol,30,MEM,0,7,645,0.011,2014-2015,2015,False
+12,Joakim Noah,29,CHI,0,4,645,0.006,2014-2015,2015,False
+13,Trevor Ariza,29,HOU,0,3,645,0.005,2014-2015,2015,False
+13,LeBron James,30,CLE,0,3,645,0.005,2014-2015,2015,False
+15,Patrick Beverley,26,HOU,0,1,645,0.002,2014-2015,2015,False
+15,DeMarre Carroll,28,ATL,0,1,645,0.002,2014-2015,2015,False
+15,Nerlens Noel,20,PHI,0,1,645,0.002,2014-2015,2015,False
+15,Chris Paul,29,LAC,0,1,645,0.002,2014-2015,2015,False
+15,Hassan Whiteside,25,MIA,0,1,645,0.002,2014-2015,2015,False

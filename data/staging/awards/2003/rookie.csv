@@ -1,0 +1,9 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Yao Ming,22,HOU,56,56,1.0,28,0,2002-2003,2003
+1st,Amar'e Stoudemire,20,PHO,56,56,1.0,28,0,2002-2003,2003
+1st,Caron Butler,22,MIA,55,56,0.982,27,1,2002-2003,2003
+1st,Nenê,20,DEN,40,56,0.714,13,14,2002-2003,2003
+2nd,Manu Ginóbili,25,SAS,38,56,0.679,13,12,2002-2003,2003
+2nd,Carlos Boozer,21,CLE,28,56,0.5,5,18,2002-2003,2003
+2nd,Jay Williams,21,CHI,28,56,0.5,3,22,2002-2003,2003
+2nd,J.R. Bremer,22,BOS,18,56,0.321,2,14,2002-2003,2003

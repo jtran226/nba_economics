@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Ben Wallace,27,DET,51,58,0.879,C,2001-2002,2002
+1st,Gary Payton,33,SEA,47,58,0.81,G,2001-2002,2002
+1st,Tim Duncan,25,SAS,40,58,0.69,F,2001-2002,2002
+1st,Jason Kidd,28,NJN,37,58,0.638,G,2001-2002,2002
+1st,Kevin Garnett,25,MIN,27,58,0.466,F,2001-2002,2002
+2nd,Kobe Bryant,23,LAL,32,58,0.552,G,2001-2002,2002
+2nd,Dikembe Mutombo,35,PHI,27,58,0.466,C,2001-2002,2002
+2nd,Doug Christie,31,SAC,25,58,0.431,G,2001-2002,2002
+2nd,Bruce Bowen,30,SAS,21,58,0.362,F,2001-2002,2002
+2nd,Clifford Robinson,35,DET,14,58,0.241,F,2001-2002,2002

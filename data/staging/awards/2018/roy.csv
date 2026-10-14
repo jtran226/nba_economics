@@ -1,0 +1,6 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Ben Simmons,21,PHI,90,481,505,0.952,2017-2018,2018,True
+2,Donovan Mitchell,21,UTA,11,323,505,0.64,2017-2018,2018,False
+3,Jayson Tatum,19,BOS,0,101,505,0.2,2017-2018,2018,False
+4,Kyle Kuzma,22,LAL,0,3,505,0.006,2017-2018,2018,False
+5,Dennis Smith Jr.,20,DAL,0,1,505,0.002,2017-2018,2018,False

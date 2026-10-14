@@ -1,0 +1,10 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Nikola Jokić,28,DEN,79,926,990,0.935,2023-2024,2024,True
+2,Shai Gilgeous-Alexander,25,OKC,15,640,990,0.646,2023-2024,2024,False
+3,Luka Dončić,24,DAL,4,566,990,0.572,2023-2024,2024,False
+4,Giannis Antetokounmpo,29,MIL,1,192,990,0.194,2023-2024,2024,False
+5,Jalen Brunson,27,NYK,0,142,990,0.143,2023-2024,2024,False
+6,Jayson Tatum,25,BOS,0,86,990,0.087,2023-2024,2024,False
+7,Anthony Edwards,22,MIN,0,18,990,0.018,2023-2024,2024,False
+8,Domantas Sabonis,27,SAC,0,3,990,0.003,2023-2024,2024,False
+9,Kevin Durant,35,PHO,0,1,990,0.001,2023-2024,2024,False

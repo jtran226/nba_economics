@@ -1,0 +1,17 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Steve Nash,30,PHO,65,1066,1270,0.839,2004-2005,2005,True
+2,Shaquille O'Neal,32,MIA,58,1032,1270,0.813,2004-2005,2005,False
+3,Dirk Nowitzki,26,DAL,0,349,1270,0.275,2004-2005,2005,False
+4,Tim Duncan,28,SAS,1,328,1270,0.258,2004-2005,2005,False
+5,Allen Iverson,29,PHI,2,240,1270,0.189,2004-2005,2005,False
+6,LeBron James,20,CLE,0,93,1270,0.073,2004-2005,2005,False
+7,Tracy McGrady,25,HOU,0,44,1270,0.035,2004-2005,2005,False
+8,Dwyane Wade,23,MIA,0,43,1270,0.034,2004-2005,2005,False
+9,Amar'e Stoudemire,22,PHO,1,41,1270,0.032,2004-2005,2005,False
+9,Ray Allen,29,SEA,0,41,1270,0.032,2004-2005,2005,False
+11,Kevin Garnett,28,MIN,0,15,1270,0.012,2004-2005,2005,False
+12,Gilbert Arenas,23,WAS,0,4,1270,0.003,2004-2005,2005,False
+13,Vince Carter,28,TOT,0,3,1270,0.002,2004-2005,2005,False
+14,P.J. Brown,35,NOH,0,1,1270,0.001,2004-2005,2005,False
+14,Marcus Camby,30,DEN,0,1,1270,0.001,2004-2005,2005,False
+14,Shawn Marion,26,PHO,0,1,1270,0.001,2004-2005,2005,False

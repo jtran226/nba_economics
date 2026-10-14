@@ -1,0 +1,18 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Kobe Bryant,29,LAL,82,1100,1260,0.873,2007-2008,2008,True
+2,Chris Paul,22,NOH,28,894,1260,0.71,2007-2008,2008,False
+3,Kevin Garnett,31,BOS,15,670,1260,0.532,2007-2008,2008,False
+4,LeBron James,23,CLE,1,438,1260,0.348,2007-2008,2008,False
+5,Dwight Howard,22,ORL,0,60,1260,0.048,2007-2008,2008,False
+6,Amar'e Stoudemire,25,PHO,0,27,1260,0.021,2007-2008,2008,False
+7,Tim Duncan,31,SAS,0,25,1260,0.02,2007-2008,2008,False
+8,Tracy McGrady,28,HOU,0,19,1260,0.015,2007-2008,2008,False
+9,Steve Nash,33,PHO,0,18,1260,0.014,2007-2008,2008,False
+10,Manu Ginóbili,30,SAS,0,9,1260,0.007,2007-2008,2008,False
+11,Dirk Nowitzki,29,DAL,0,5,1260,0.004,2007-2008,2008,False
+12,Deron Williams,23,UTA,0,4,1260,0.003,2007-2008,2008,False
+13,Carmelo Anthony,23,DEN,0,3,1260,0.002,2007-2008,2008,False
+14,Carlos Boozer,26,UTA,0,1,1260,0.001,2007-2008,2008,False
+14,Antawn Jamison,31,WAS,0,1,1260,0.001,2007-2008,2008,False
+14,Paul Pierce,30,BOS,0,1,1260,0.001,2007-2008,2008,False
+14,Rasheed Wallace,33,DET,0,1,1260,0.001,2007-2008,2008,False

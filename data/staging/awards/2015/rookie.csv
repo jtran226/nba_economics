@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Andrew Wiggins,19,MIN,260,260,1.0,130,0,2014-2015,2015
+1st,Nikola Mirotić,23,CHI,258,260,0.992,128,2,2014-2015,2015
+1st,Nerlens Noel,20,PHI,252,260,0.969,125,2,2014-2015,2015
+1st,Elfrid Payton,20,ORL,250,260,0.962,121,8,2014-2015,2015
+1st,Jordan Clarkson,22,LAL,200,260,0.769,74,52,2014-2015,2015
+2nd,Marcus Smart,20,BOS,142,260,0.546,28,86,2014-2015,2015
+2nd,Zach LaVine,19,MIN,135,260,0.519,22,91,2014-2015,2015
+2nd,Bojan Bogdanović,25,BRK,107,260,0.412,7,93,2014-2015,2015
+2nd,Jusuf Nurkić,20,DEN,97,260,0.373,3,91,2014-2015,2015
+2nd,Langston Galloway,23,NYK,72,260,0.277,7,58,2014-2015,2015

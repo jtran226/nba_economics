@@ -1,0 +1,16 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,LeBron James,27,MIA,85,1074,1210,0.888,2011-2012,2012,True
+2,Kevin Durant,23,OKC,24,889,1210,0.735,2011-2012,2012,False
+3,Chris Paul,26,LAC,6,385,1210,0.318,2011-2012,2012,False
+4,Kobe Bryant,33,LAL,2,352,1210,0.291,2011-2012,2012,False
+5,Tony Parker,29,SAS,4,331,1210,0.274,2011-2012,2012,False
+6,Kevin Love,23,MIN,0,58,1210,0.048,2011-2012,2012,False
+7,Dwight Howard,26,ORL,0,13,1210,0.011,2011-2012,2012,False
+8,Rajon Rondo,25,BOS,0,12,1210,0.01,2011-2012,2012,False
+9,Steve Nash,37,PHO,0,7,1210,0.006,2011-2012,2012,False
+10,Dwyane Wade,30,MIA,0,6,1210,0.005,2011-2012,2012,False
+11,Derrick Rose,23,CHI,0,5,1210,0.004,2011-2012,2012,False
+12,Dirk Nowitzki,33,DAL,0,4,1210,0.003,2011-2012,2012,False
+12,Russell Westbrook,23,OKC,0,4,1210,0.003,2011-2012,2012,False
+14,Tim Duncan,35,SAS,0,3,1210,0.002,2011-2012,2012,False
+15,Joe Johnson,30,ATL,0,1,1210,0.001,2011-2012,2012,False

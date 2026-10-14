@@ -1,0 +1,7 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Emeka Okafor,22,CHA,77,514,630,0.816,2004-2005,2005,True
+2,Ben Gordon,21,CHI,43,443,630,0.703,2004-2005,2005,False
+3,Dwight Howard,19,ORL,6,161,630,0.256,2004-2005,2005,False
+4,Andre Iguodala,21,PHI,0,14,630,0.022,2004-2005,2005,False
+5,Luol Deng,19,CHI,0,1,630,0.002,2004-2005,2005,False
+5,J.R. Smith,19,NOH,0,1,630,0.002,2004-2005,2005,False

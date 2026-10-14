@@ -1,0 +1,13 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Giannis Antetokounmpo,25,MIL,75,432,500,0.864,2019-2020,2020,True
+2,Anthony Davis,26,LAL,14,200,500,0.4,2019-2020,2020,False
+3,Rudy Gobert,27,UTA,6,187,500,0.374,2019-2020,2020,False
+4,Ben Simmons,23,PHI,1,32,500,0.064,2019-2020,2020,False
+5,Bam Adebayo,22,MIA,2,17,500,0.034,2019-2020,2020,False
+6,Patrick Beverley,31,LAC,1,7,500,0.014,2019-2020,2020,False
+6,Marcus Smart,25,BOS,0,7,500,0.014,2019-2020,2020,False
+8,Andre Drummond,26,TOT,1,5,500,0.01,2019-2020,2020,False
+8,Kawhi Leonard,28,LAC,0,5,500,0.01,2019-2020,2020,False
+10,Brook Lopez,31,MIL,0,4,500,0.008,2019-2020,2020,False
+11,Hassan Whiteside,30,POR,0,3,500,0.006,2019-2020,2020,False
+12,Jarrett Allen,21,BRK,0,1,500,0.002,2019-2020,2020,False

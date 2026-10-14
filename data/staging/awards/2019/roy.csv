@@ -1,0 +1,10 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Luka Dončić,19,DAL,98,496,500,0.992,2018-2019,2019,True
+2,Trae Young,20,ATL,2,301,500,0.602,2018-2019,2019,False
+3,Deandre Ayton,20,PHO,0,66,500,0.132,2018-2019,2019,False
+4,Jaren Jackson Jr.,19,MEM,0,12,500,0.024,2018-2019,2019,False
+5,Collin Sexton,20,CLE,0,10,500,0.02,2018-2019,2019,False
+6,Shai Gilgeous-Alexander,20,LAC,0,7,500,0.014,2018-2019,2019,False
+7,Marvin Bagley III,19,SAC,0,6,500,0.012,2018-2019,2019,False
+8,Josh Okogie,20,MIN,0,1,500,0.002,2018-2019,2019,False
+8,Mitchell Robinson,20,NYK,0,1,500,0.002,2018-2019,2019,False

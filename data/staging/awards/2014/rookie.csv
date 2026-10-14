@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Michael Carter-Williams,22,PHI,250,250,1.0,125,0,2013-2014,2014
+1st,Victor Oladipo,21,ORL,248,250,0.992,124,0,2013-2014,2014
+1st,Trey Burke,21,UTA,230,250,0.92,108,14,2013-2014,2014
+1st,Mason Plumlee,23,BRK,214,250,0.856,95,24,2013-2014,2014
+1st,Tim Hardaway Jr.,21,NYK,204,250,0.816,87,30,2013-2014,2014
+2nd,Kelly Olynyk,22,BOS,119,250,0.476,19,81,2013-2014,2014
+2nd,Giannis Antetokounmpo,19,MIL,116,250,0.464,15,86,2013-2014,2014
+2nd,Gorgui Dieng,24,MIN,96,250,0.384,21,54,2013-2014,2014
+2nd,Cody Zeller,21,CHA,67,250,0.268,3,61,2013-2014,2014
+2nd,Steven Adams,20,OKC,65,250,0.26,9,47,2013-2014,2014

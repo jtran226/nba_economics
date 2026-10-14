@@ -1,0 +1,8 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Andrew Wiggins,19,MIN,110,604,650,0.929,2014-2015,2015,True
+2,Nikola Mirotić,23,CHI,14,335,650,0.515,2014-2015,2015,False
+3,Nerlens Noel,20,PHI,3,141,650,0.217,2014-2015,2015,False
+4,Elfrid Payton,20,ORL,3,79,650,0.122,2014-2015,2015,False
+5,Marcus Smart,20,BOS,0,6,650,0.009,2014-2015,2015,False
+6,Jusuf Nurkić,20,DEN,0,3,650,0.005,2014-2015,2015,False
+7,Jordan Clarkson,22,LAL,0,2,650,0.003,2014-2015,2015,False

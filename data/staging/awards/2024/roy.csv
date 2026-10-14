@@ -1,0 +1,7 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Victor Wembanyama,20,SAS,99,495,495,1.0,2023-2024,2024,True
+2,Chet Holmgren,21,OKC,0,295,495,0.596,2023-2024,2024,False
+3,Brandon Miller,21,CHO,0,86,495,0.174,2023-2024,2024,False
+4,Jaime Jaquez Jr.,22,MIA,0,10,495,0.02,2023-2024,2024,False
+5,Brandin Podziemski,20,GSW,0,4,495,0.008,2023-2024,2024,False
+6,Dereck Lively II,19,DAL,0,1,495,0.002,2023-2024,2024,False

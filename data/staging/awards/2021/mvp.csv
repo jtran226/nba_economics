@@ -1,0 +1,16 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Nikola Jokić,25,DEN,91,971,1010,0.961,2020-2021,2021,True
+2,Joel Embiid,26,PHI,1,586,1010,0.58,2020-2021,2021,False
+3,Stephen Curry,32,GSW,5,453,1010,0.449,2020-2021,2021,False
+4,Giannis Antetokounmpo,26,MIL,1,348,1010,0.345,2020-2021,2021,False
+5,Chris Paul,35,PHO,2,139,1010,0.138,2020-2021,2021,False
+6,Luka Dončić,21,DAL,0,42,1010,0.042,2020-2021,2021,False
+7,Damian Lillard,30,POR,0,38,1010,0.038,2020-2021,2021,False
+8,Julius Randle,26,NYK,0,20,1010,0.02,2020-2021,2021,False
+9,Derrick Rose,32,TOT,1,10,1010,0.01,2020-2021,2021,False
+10,Rudy Gobert,28,UTA,0,8,1010,0.008,2020-2021,2021,False
+11,Russell Westbrook,32,WAS,0,5,1010,0.005,2020-2021,2021,False
+12,Ben Simmons,24,PHI,0,3,1010,0.003,2020-2021,2021,False
+13,James Harden,31,TOT,0,1,1010,0.001,2020-2021,2021,False
+13,LeBron James,36,LAL,0,1,1010,0.001,2020-2021,2021,False
+13,Kawhi Leonard,29,LAC,0,1,1010,0.001,2020-2021,2021,False

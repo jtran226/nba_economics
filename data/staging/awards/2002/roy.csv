@@ -1,0 +1,6 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Pau Gasol,21,MEM,117,117,126,0.929,2001-2002,2002,True
+2,Richard Jefferson,21,NJN,3,3,126,0.024,2001-2002,2002,False
+3,Andrei Kirilenko,20,UTA,2,2,126,0.016,2001-2002,2002,False
+3,Jason Richardson,21,GSW,2,2,126,0.016,2001-2002,2002,False
+3,Jamaal Tinsley,23,IND,2,2,126,0.016,2001-2002,2002,False

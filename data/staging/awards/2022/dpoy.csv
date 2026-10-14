@@ -1,0 +1,12 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Marcus Smart,27,BOS,37,257,500,0.514,2021-2022,2022,True
+2,Mikal Bridges,25,PHO,22,202,500,0.404,2021-2022,2022,False
+3,Rudy Gobert,29,UTA,12,136,500,0.272,2021-2022,2022,False
+4,Bam Adebayo,24,MIA,13,128,500,0.256,2021-2022,2022,False
+5,Jaren Jackson Jr.,22,MEM,10,99,500,0.198,2021-2022,2022,False
+6,Giannis Antetokounmpo,27,MIL,5,58,500,0.116,2021-2022,2022,False
+7,Robert Williams,24,BOS,1,8,500,0.016,2021-2022,2022,False
+8,Jrue Holiday,31,MIL,0,6,500,0.012,2021-2022,2022,False
+9,Al Horford,35,BOS,0,3,500,0.006,2021-2022,2022,False
+10,Draymond Green,31,GSW,0,2,500,0.004,2021-2022,2022,False
+11,Matisse Thybulle,24,PHI,0,1,500,0.002,2021-2022,2022,False

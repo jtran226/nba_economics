@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Rudy Gobert,28,UTA,200,200,1.0,C,2020-2021,2021
+1st,Ben Simmons,24,PHI,200,200,1.0,G,2020-2021,2021
+1st,Draymond Green,30,GSW,176,200,0.88,F,2020-2021,2021
+1st,Jrue Holiday,30,MIL,157,200,0.785,G,2020-2021,2021
+1st,Giannis Antetokounmpo,26,MIL,135,200,0.675,F,2020-2021,2021
+2nd,Bam Adebayo,23,MIA,111,200,0.555,F,2020-2021,2021
+2nd,Jimmy Butler,31,MIA,111,200,0.555,G,2020-2021,2021
+2nd,Joel Embiid,26,PHI,87,200,0.435,C,2020-2021,2021
+2nd,Matisse Thybulle,23,PHI,63,200,0.315,G,2020-2021,2021
+2nd,Kawhi Leonard,29,LAC,43,200,0.215,F,2020-2021,2021

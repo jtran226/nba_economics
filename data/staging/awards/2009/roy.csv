@@ -1,0 +1,14 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Derrick Rose,20,CHI,111,574,600,0.957,2008-2009,2009,True
+2,O.J. Mayo,21,MEM,5,246,600,0.41,2008-2009,2009,False
+3,Brook Lopez,20,NJN,2,127,600,0.212,2008-2009,2009,False
+4,Russell Westbrook,20,OKC,2,73,600,0.122,2008-2009,2009,False
+5,Eric Gordon,20,LAC,0,22,600,0.037,2008-2009,2009,False
+6,Kevin Love,20,MIN,0,16,600,0.027,2008-2009,2009,False
+7,Michael Beasley,20,MIA,0,7,600,0.012,2008-2009,2009,False
+8,Marc Gasol,24,MEM,0,4,600,0.007,2008-2009,2009,False
+9,Rudy Fernández,23,POR,0,3,600,0.005,2008-2009,2009,False
+9,Robin Lopez,20,PHO,0,3,600,0.005,2008-2009,2009,False
+11,Mario Chalmers,22,MIA,0,2,600,0.003,2008-2009,2009,False
+11,Courtney Lee,23,ORL,0,2,600,0.003,2008-2009,2009,False
+13,Nicolas Batum,20,POR,0,1,600,0.002,2008-2009,2009,False

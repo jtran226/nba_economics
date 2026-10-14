@@ -1,0 +1,18 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Dirk Nowitzki,28,DAL,83,1138,1290,0.882,2006-2007,2007,True
+2,Steve Nash,32,PHO,44,1013,1290,0.785,2006-2007,2007,False
+3,Kobe Bryant,28,LAL,2,521,1290,0.404,2006-2007,2007,False
+4,Tim Duncan,30,SAS,0,286,1290,0.222,2006-2007,2007,False
+5,LeBron James,22,CLE,0,183,1290,0.142,2006-2007,2007,False
+6,Tracy McGrady,27,HOU,0,110,1290,0.085,2006-2007,2007,False
+7,Chris Bosh,22,TOR,0,43,1290,0.033,2006-2007,2007,False
+8,Gilbert Arenas,25,WAS,0,31,1290,0.024,2006-2007,2007,False
+9,Carlos Boozer,25,UTA,0,7,1290,0.005,2006-2007,2007,False
+9,Kevin Garnett,30,MIN,0,7,1290,0.005,2006-2007,2007,False
+11,Chauncey Billups,30,DET,0,4,1290,0.003,2006-2007,2007,False
+12,Shaquille O'Neal,34,MIA,0,3,1290,0.002,2006-2007,2007,False
+12,Dwyane Wade,25,MIA,0,3,1290,0.002,2006-2007,2007,False
+14,Amar'e Stoudemire,24,PHO,0,2,1290,0.002,2006-2007,2007,False
+15,Carmelo Anthony,22,DEN,0,1,1290,0.001,2006-2007,2007,False
+15,Baron Davis,27,GSW,0,1,1290,0.001,2006-2007,2007,False
+15,Tony Parker,24,SAS,0,1,1290,0.001,2006-2007,2007,False

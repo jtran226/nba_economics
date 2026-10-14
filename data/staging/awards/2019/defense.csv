@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Rudy Gobert,26,UTA,196,200,0.98,C,2018-2019,2019
+1st,Paul George,28,OKC,195,200,0.975,F,2018-2019,2019
+1st,Giannis Antetokounmpo,24,MIL,193,200,0.965,F,2018-2019,2019
+1st,Marcus Smart,24,BOS,145,200,0.725,G,2018-2019,2019
+1st,Eric Bledsoe,29,MIL,100,200,0.5,G,2018-2019,2019
+2nd,Jrue Holiday,28,NOP,90,200,0.45,G,2018-2019,2019
+2nd,Klay Thompson,28,GSW,82,200,0.41,G,2018-2019,2019
+2nd,Joel Embiid,24,PHI,80,200,0.4,C,2018-2019,2019
+2nd,Draymond Green,28,GSW,61,200,0.305,F,2018-2019,2019
+2nd,Kawhi Leonard,27,TOR,39,200,0.195,F,2018-2019,2019

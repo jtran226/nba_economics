@@ -1,0 +1,10 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Blake Griffin,21,LAC,58,58,1.0,29,0,2010-2011,2011
+1st,John Wall,20,WAS,57,58,0.983,28,1,2010-2011,2011
+1st,Landry Fields,22,NYK,56,58,0.966,28,0,2010-2011,2011
+1st,DeMarcus Cousins,20,SAC,54,58,0.931,26,2,2010-2011,2011
+1st,Gary Neal,26,SAS,44,58,0.759,18,8,2010-2011,2011
+2nd,Greg Monroe,20,DET,42,58,0.724,13,16,2010-2011,2011
+2nd,Wesley Johnson,23,MIN,26,58,0.448,4,18,2010-2011,2011
+2nd,Eric Bledsoe,21,LAC,19,58,0.328,0,19,2010-2011,2011
+2nd,Paul George,20,IND,12,58,0.207,1,10,2010-2011,2011

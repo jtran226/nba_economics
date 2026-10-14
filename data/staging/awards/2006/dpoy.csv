@@ -1,0 +1,21 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Ben Wallace,31,DET,58,420,620,0.677,2005-2006,2006,True
+2,Bruce Bowen,34,SAS,38,308,620,0.497,2005-2006,2006,False
+3,Andrei Kirilenko,24,UTA,12,121,620,0.195,2005-2006,2006,False
+4,Metta World Peace,26,TOT,6,65,620,0.105,2005-2006,2006,False
+5,Marcus Camby,31,DEN,3,55,620,0.089,2005-2006,2006,False
+6,Tim Duncan,29,SAS,3,42,620,0.068,2005-2006,2006,False
+7,Shawn Marion,27,PHO,0,33,620,0.053,2005-2006,2006,False
+8,Alonzo Mourning,35,MIA,4,29,620,0.047,2005-2006,2006,False
+9,Gerald Wallace,23,CHA,0,27,620,0.044,2005-2006,2006,False
+10,Shane Battier,27,MEM,0,3,620,0.005,2005-2006,2006,False
+10,Elton Brand,26,LAC,0,3,620,0.005,2005-2006,2006,False
+12,Andre Iguodala,22,PHI,0,2,620,0.003,2005-2006,2006,False
+13,Raja Bell,29,PHO,0,1,620,0.002,2005-2006,2006,False
+13,P.J. Brown,36,NOK,0,1,620,0.002,2005-2006,2006,False
+13,Kevin Garnett,29,MIN,0,1,620,0.002,2005-2006,2006,False
+13,Eddie Jones,34,MEM,0,1,620,0.002,2005-2006,2006,False
+13,Andrés Nocioni,26,CHI,0,1,620,0.002,2005-2006,2006,False
+13,James Posey,29,MIA,0,1,620,0.002,2005-2006,2006,False
+13,Tayshaun Prince,25,DET,0,1,620,0.002,2005-2006,2006,False
+13,Rasheed Wallace,31,DET,0,1,620,0.002,2005-2006,2006,False

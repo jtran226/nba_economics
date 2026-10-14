@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,VJ Edgecombe,20,PHI,200,200,1.0,100,0,2025-2026,2026
+1st,Cooper Flagg,19,DAL,200,200,1.0,100,0,2025-2026,2026
+1st,Kon Knueppel,20,CHO,200,200,1.0,100,0,2025-2026,2026
+1st,Dylan Harper,19,SAS,193,200,0.965,93,7,2025-2026,2026
+1st,Cedric Coward,22,MEM,125,200,0.625,29,67,2025-2026,2026
+2nd,Maxime Raynaud,22,SAC,110,200,0.55,26,58,2025-2026,2026
+2nd,Derik Queen,21,NOP,110,200,0.55,16,78,2025-2026,2026
+2nd,Jeremiah Fears,19,NOP,109,200,0.545,17,75,2025-2026,2026
+2nd,Ace Bailey,19,UTA,107,200,0.535,11,85,2025-2026,2026
+2nd,Collin Murray-Boyles,20,TOR,66,200,0.33,8,50,2025-2026,2026

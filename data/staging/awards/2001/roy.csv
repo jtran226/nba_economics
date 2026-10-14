@@ -1,0 +1,6 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Mike Miller,20,ORL,75,75,124,0.605,2000-2001,2001,True
+2,Kenyon Martin,23,NJN,36,36,124,0.29,2000-2001,2001,False
+3,Marc Jackson,26,GSW,7,7,124,0.056,2000-2001,2001,False
+4,Darius Miles,19,LAC,3,3,124,0.024,2000-2001,2001,False
+4,Morris Peterson,23,TOR,3,3,124,0.024,2000-2001,2001,False

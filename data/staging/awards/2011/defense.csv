@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Dwight Howard,25,ORL,56,60,0.933,C,2010-2011,2011
+1st,Rajon Rondo,24,BOS,39,60,0.65,G,2010-2011,2011
+1st,LeBron James,26,MIA,38,60,0.633,F,2010-2011,2011
+1st,Kobe Bryant,32,LAL,33,60,0.55,G,2010-2011,2011
+1st,Kevin Garnett,34,BOS,33,60,0.55,F,2010-2011,2011
+2nd,Tony Allen,29,MEM,23,60,0.383,G,2010-2011,2011
+2nd,Chris Paul,25,NOH,18,60,0.3,G,2010-2011,2011
+2nd,Tyson Chandler,28,DAL,17,60,0.283,C,2010-2011,2011
+2nd,Andre Iguodala,27,PHI,15,60,0.25,F,2010-2011,2011
+2nd,Joakim Noah,25,CHI,15,60,0.25,F,2010-2011,2011

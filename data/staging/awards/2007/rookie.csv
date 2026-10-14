@@ -1,0 +1,14 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Brandon Roy,22,POR,58,58,1.0,29,0,2006-2007,2007
+1st,Andrea Bargnani,21,TOR,57,58,0.983,28,1,2006-2007,2007
+1st,Randy Foye,23,MIN,48,58,0.828,21,6,2006-2007,2007
+1st,Rudy Gay,20,MEM,39,58,0.672,12,15,2006-2007,2007
+1st,LaMarcus Aldridge,21,POR,37,58,0.638,13,11,2006-2007,2007
+1st,Jorge Garbajosa,29,TOR,37,58,0.638,13,11,2006-2007,2007
+2nd,Paul Millsap,21,UTA,36,58,0.621,10,16,2006-2007,2007
+2nd,Adam Morrison,22,CHA,35,58,0.603,12,11,2006-2007,2007
+2nd,Tyrus Thomas,20,CHI,26,58,0.448,5,16,2006-2007,2007
+2nd,Craig Smith,23,MIN,21,58,0.362,1,19,2006-2007,2007
+2nd,Walter Herrmann,27,CHA,10,58,0.172,1,8,2006-2007,2007
+2nd,Rajon Rondo,20,BOS,10,58,0.172,1,8,2006-2007,2007
+2nd,Marcus Williams,21,NJN,10,58,0.172,1,8,2006-2007,2007

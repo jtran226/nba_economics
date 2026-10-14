@@ -1,0 +1,19 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Tim Duncan,25,SAS,57,954,1260,0.757,2001-2002,2002,True
+2,Jason Kidd,28,NJN,45,897,1260,0.712,2001-2002,2002,False
+3,Shaquille O'Neal,29,LAL,15,696,1260,0.552,2001-2002,2002,False
+4,Tracy McGrady,22,ORL,7,390,1260,0.31,2001-2002,2002,False
+5,Kobe Bryant,23,LAL,1,98,1260,0.078,2001-2002,2002,False
+6,Gary Payton,33,SEA,1,54,1260,0.043,2001-2002,2002,False
+7,Chris Webber,28,SAC,0,37,1260,0.029,2001-2002,2002,False
+8,Dirk Nowitzki,23,DAL,0,31,1260,0.025,2001-2002,2002,False
+9,Allen Iverson,26,PHI,0,29,1260,0.023,2001-2002,2002,False
+10,Ben Wallace,27,DET,0,24,1260,0.019,2001-2002,2002,False
+11,Paul Pierce,24,BOS,0,22,1260,0.017,2001-2002,2002,False
+12,Kevin Garnett,25,MIN,0,17,1260,0.013,2001-2002,2002,False
+13,Michael Jordan,38,WAS,0,16,1260,0.013,2001-2002,2002,False
+14,Steve Nash,27,DAL,0,5,1260,0.004,2001-2002,2002,False
+15,Jerry Stackhouse,27,DET,0,3,1260,0.002,2001-2002,2002,False
+16,Mike Bibby,23,SAC,0,1,1260,0.001,2001-2002,2002,False
+16,Elton Brand,22,LAC,0,1,1260,0.001,2001-2002,2002,False
+16,Peja Stojaković,24,SAC,0,1,1260,0.001,2001-2002,2002,False

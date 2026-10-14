@@ -1,0 +1,14 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Metta World Peace,24,IND,80,476,605,0.787,2003-2004,2004,True
+2,Ben Wallace,29,DET,26,325,605,0.537,2003-2004,2004,False
+3,Theo Ratliff,30,TOT,8,90,605,0.149,2003-2004,2004,False
+4,Bruce Bowen,32,SAS,4,76,605,0.126,2003-2004,2004,False
+5,Andrei Kirilenko,22,UTA,2,67,605,0.111,2003-2004,2004,False
+6,Kevin Garnett,27,MIN,0,36,605,0.06,2003-2004,2004,False
+7,Tim Duncan,27,SAS,0,8,605,0.013,2003-2004,2004,False
+8,Clifford Robinson,37,GSW,1,5,605,0.008,2003-2004,2004,False
+9,Kenyon Martin,26,NJN,0,2,605,0.003,2003-2004,2004,False
+10,Kobe Bryant,25,LAL,0,1,605,0.002,2003-2004,2004,False
+10,Shaquille O'Neal,31,LAL,0,1,605,0.002,2003-2004,2004,False
+10,James Posey,27,MEM,0,1,605,0.002,2003-2004,2004,False
+10,Earl Watson,24,MEM,0,1,605,0.002,2003-2004,2004,False

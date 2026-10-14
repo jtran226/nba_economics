@@ -1,0 +1,30 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Marcus Camby,32,DEN,70,431,650,0.663,2006-2007,2007,True
+2,Bruce Bowen,35,SAS,22,206,650,0.317,2006-2007,2007,False
+3,Tim Duncan,30,SAS,15,158,650,0.243,2006-2007,2007,False
+4,Shawn Marion,28,PHO,7,93,650,0.143,2006-2007,2007,False
+5,Shane Battier,28,HOU,7,86,650,0.132,2006-2007,2007,False
+6,Ben Wallace,32,CHI,1,42,650,0.065,2006-2007,2007,False
+7,Gerald Wallace,24,CHA,3,27,650,0.042,2006-2007,2007,False
+8,Metta World Peace,27,SAC,1,20,650,0.031,2006-2007,2007,False
+9,Tyson Chandler,24,NOK,0,15,650,0.023,2006-2007,2007,False
+10,Jermaine O'Neal,28,IND,1,11,650,0.017,2006-2007,2007,False
+11,Emeka Okafor,24,CHA,0,10,650,0.015,2006-2007,2007,False
+11,Tayshaun Prince,26,DET,0,10,650,0.015,2006-2007,2007,False
+13,Kevin Garnett,30,MIN,0,7,650,0.011,2006-2007,2007,False
+13,Kirk Hinrich,26,CHI,0,7,650,0.011,2006-2007,2007,False
+13,Andrei Kirilenko,25,UTA,0,7,650,0.011,2006-2007,2007,False
+16,Dwight Howard,21,ORL,1,6,650,0.009,2006-2007,2007,False
+16,Quinton Ross,25,LAC,1,6,650,0.009,2006-2007,2007,False
+18,Udonis Haslem,26,MIA,1,5,650,0.008,2006-2007,2007,False
+18,Josh Howard,26,DAL,0,5,650,0.008,2006-2007,2007,False
+20,Luol Deng,21,CHI,0,4,650,0.006,2006-2007,2007,False
+21,Caron Butler,26,WAS,0,3,650,0.005,2006-2007,2007,False
+21,Josh Smith,21,ATL,0,3,650,0.005,2006-2007,2007,False
+23,Raja Bell,30,PHO,0,2,650,0.003,2006-2007,2007,False
+24,Kobe Bryant,28,LAL,0,1,650,0.002,2006-2007,2007,False
+24,Devin Harris,23,DAL,0,1,650,0.002,2006-2007,2007,False
+24,Andre Iguodala,23,PHI,0,1,650,0.002,2006-2007,2007,False
+24,Yao Ming,26,HOU,0,1,650,0.002,2006-2007,2007,False
+24,Alonzo Mourning,36,MIA,0,1,650,0.002,2006-2007,2007,False
+24,Anthony Parker,31,TOR,0,1,650,0.002,2006-2007,2007,False

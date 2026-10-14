@@ -1,0 +1,7 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,LeBron James,19,CLE,78,508,590,0.861,2003-2004,2004,True
+2,Carmelo Anthony,19,DEN,40,430,590,0.729,2003-2004,2004,False
+3,Dwyane Wade,22,MIA,0,117,590,0.198,2003-2004,2004,False
+4,Kirk Hinrich,23,CHI,0,4,590,0.007,2003-2004,2004,False
+5,Chris Bosh,19,TOR,0,2,590,0.003,2003-2004,2004,False
+6,Marquis Daniels,23,DAL,0,1,590,0.002,2003-2004,2004,False

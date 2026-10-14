@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Joakim Noah,28,CHI,223,246,0.907,C,2013-2014,2014
+1st,Paul George,23,IND,161,246,0.654,F,2013-2014,2014
+1st,Chris Paul,28,LAC,156,246,0.634,G,2013-2014,2014
+1st,Serge Ibaka,24,OKC,152,246,0.618,F,2013-2014,2014
+1st,Andre Iguodala,30,GSW,148,246,0.602,G,2013-2014,2014
+2nd,LeBron James,29,MIA,134,246,0.545,F,2013-2014,2014
+2nd,Patrick Beverley,25,HOU,112,246,0.455,G,2013-2014,2014
+2nd,Jimmy Butler,24,CHI,103,246,0.419,G,2013-2014,2014
+2nd,Kawhi Leonard,22,SAS,89,246,0.362,F,2013-2014,2014
+2nd,Roy Hibbert,27,IND,76,246,0.309,C,2013-2014,2014

@@ -1,0 +1,16 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Ben Wallace,28,DET,100,531,585,0.908,2002-2003,2003,True
+2,Metta World Peace,23,IND,2,122,585,0.209,2002-2003,2003,False
+3,Kevin Garnett,26,MIN,8,121,585,0.207,2002-2003,2003,False
+4,Tim Duncan,26,SAS,2,90,585,0.154,2002-2003,2003,False
+5,Doug Christie,32,SAC,5,85,585,0.145,2002-2003,2003,False
+6,Allen Iverson,27,PHI,0,29,585,0.05,2002-2003,2003,False
+7,Bruce Bowen,31,SAS,0,20,585,0.034,2002-2003,2003,False
+8,Kobe Bryant,24,LAL,0,16,585,0.027,2002-2003,2003,False
+9,Theo Ratliff,29,ATL,0,15,585,0.026,2002-2003,2003,False
+10,Eric Snow,29,PHI,0,6,585,0.01,2002-2003,2003,False
+11,Gary Payton,34,TOT,0,5,585,0.009,2002-2003,2003,False
+12,Kenyon Martin,25,NJN,0,4,585,0.007,2002-2003,2003,False
+13,Adonal Foyle,27,GSW,0,3,585,0.005,2002-2003,2003,False
+13,Shawn Marion,24,PHO,0,3,585,0.005,2002-2003,2003,False
+13,Shaquille O'Neal,30,LAL,0,3,585,0.005,2002-2003,2003,False

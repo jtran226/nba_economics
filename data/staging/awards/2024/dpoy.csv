@@ -1,0 +1,14 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Rudy Gobert,31,MIN,72,433,495,0.875,2023-2024,2024,True
+2,Victor Wembanyama,20,SAS,19,245,495,0.495,2023-2024,2024,False
+3,Bam Adebayo,26,MIA,3,91,495,0.184,2023-2024,2024,False
+4,Anthony Davis,30,LAL,4,83,495,0.168,2023-2024,2024,False
+5,Herbert Jones,25,NOP,0,14,495,0.028,2023-2024,2024,False
+6,Jrue Holiday,33,BOS,1,7,495,0.014,2023-2024,2024,False
+7,Shai Gilgeous-Alexander,25,OKC,0,6,495,0.012,2023-2024,2024,False
+8,Derrick White,29,BOS,0,5,495,0.01,2023-2024,2024,False
+9,Giannis Antetokounmpo,29,MIL,0,3,495,0.006,2023-2024,2024,False
+10,Jarrett Allen,25,CLE,0,1,495,0.002,2023-2024,2024,False
+10,Alex Caruso,29,CHI,0,1,495,0.002,2023-2024,2024,False
+10,Domantas Sabonis,27,SAC,0,1,495,0.002,2023-2024,2024,False
+10,Jalen Suggs,22,ORL,0,1,495,0.002,2023-2024,2024,False

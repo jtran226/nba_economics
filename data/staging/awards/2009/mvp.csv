@@ -1,0 +1,13 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,LeBron James,24,CLE,109,1172,1210,0.969,2008-2009,2009,True
+2,Kobe Bryant,30,LAL,2,698,1210,0.577,2008-2009,2009,False
+3,Dwyane Wade,27,MIA,7,680,1210,0.562,2008-2009,2009,False
+4,Dwight Howard,23,ORL,1,328,1210,0.271,2008-2009,2009,False
+5,Chris Paul,23,NOH,2,192,1210,0.159,2008-2009,2009,False
+6,Chauncey Billups,32,TOT,0,33,1210,0.027,2008-2009,2009,False
+7,Paul Pierce,31,BOS,0,21,1210,0.017,2008-2009,2009,False
+8,Tony Parker,26,SAS,0,9,1210,0.007,2008-2009,2009,False
+9,Brandon Roy,24,POR,0,7,1210,0.006,2008-2009,2009,False
+10,Dirk Nowitzki,30,DAL,0,3,1210,0.002,2008-2009,2009,False
+11,Tim Duncan,32,SAS,0,2,1210,0.002,2008-2009,2009,False
+12,Yao Ming,28,HOU,0,1,1210,0.001,2008-2009,2009,False

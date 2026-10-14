@@ -1,0 +1,26 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Dwight Howard,25,ORL,114,585,600,0.975,2010-2011,2011,True
+2,Kevin Garnett,34,BOS,1,77,600,0.128,2010-2011,2011,False
+3,Tyson Chandler,28,DAL,0,70,600,0.117,2010-2011,2011,False
+4,Tony Allen,29,MEM,0,53,600,0.088,2010-2011,2011,False
+5,Rajon Rondo,24,BOS,0,45,600,0.075,2010-2011,2011,False
+6,Andrew Bogut,26,MIL,0,32,600,0.053,2010-2011,2011,False
+7,Grant Hill,38,PHO,1,30,600,0.05,2010-2011,2011,False
+8,Andre Iguodala,27,PHI,0,29,600,0.048,2010-2011,2011,False
+9,LeBron James,26,MIA,0,25,600,0.042,2010-2011,2011,False
+10,Luol Deng,25,CHI,0,24,600,0.04,2010-2011,2011,False
+11,Kobe Bryant,32,LAL,0,18,600,0.03,2010-2011,2011,False
+12,Chuck Hayes,27,HOU,2,13,600,0.022,2010-2011,2011,False
+12,Chris Paul,25,NOH,0,13,600,0.022,2010-2011,2011,False
+14,Serge Ibaka,21,OKC,0,12,600,0.02,2010-2011,2011,False
+15,Joakim Noah,25,CHI,1,11,600,0.018,2010-2011,2011,False
+16,Dwyane Wade,29,MIA,0,8,600,0.013,2010-2011,2011,False
+17,Tim Duncan,34,SAS,0,7,600,0.012,2010-2011,2011,False
+18,Metta World Peace,31,LAL,0,6,600,0.01,2010-2011,2011,False
+19,Keith Bogans,30,CHI,1,5,600,0.008,2010-2011,2011,False
+19,JaVale McGee,23,WAS,0,5,600,0.008,2010-2011,2011,False
+21,Thabo Sefolosha,26,OKC,0,4,600,0.007,2010-2011,2011,False
+22,Andrew Bynum,23,LAL,0,3,600,0.005,2010-2011,2011,False
+23,Kenyon Martin,33,DEN,0,2,600,0.003,2010-2011,2011,False
+23,Gerald Wallace,28,TOT,0,2,600,0.003,2010-2011,2011,False
+25,Josh Smith,25,ATL,0,1,600,0.002,2010-2011,2011,False

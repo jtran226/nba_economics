@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Dwight Howard,23,ORL,55,60,0.917,C,2008-2009,2009
+1st,Kobe Bryant,30,LAL,53,60,0.883,G,2008-2009,2009
+1st,LeBron James,24,CLE,47,60,0.783,F,2008-2009,2009
+1st,Chris Paul,23,NOH,36,60,0.6,G,2008-2009,2009
+1st,Kevin Garnett,32,BOS,35,60,0.583,F,2008-2009,2009
+2nd,Tim Duncan,32,SAS,30,60,0.5,C,2008-2009,2009
+2nd,Dwyane Wade,27,MIA,26,60,0.433,G,2008-2009,2009
+2nd,Rajon Rondo,22,BOS,23,60,0.383,G,2008-2009,2009
+2nd,Shane Battier,30,HOU,22,60,0.367,F,2008-2009,2009
+2nd,Metta World Peace,29,HOU,22,60,0.367,F,2008-2009,2009

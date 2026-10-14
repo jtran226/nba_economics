@@ -1,0 +1,13 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Brandon Roy,22,POR,127,638,640,0.997,2006-2007,2007,True
+2,Andrea Bargnani,21,TOR,1,264,640,0.413,2006-2007,2007,False
+3,Rudy Gay,20,MEM,0,93,640,0.145,2006-2007,2007,False
+4,Adam Morrison,22,CHA,0,44,640,0.069,2006-2007,2007,False
+5,Randy Foye,23,MIN,0,37,640,0.058,2006-2007,2007,False
+6,Paul Millsap,21,UTA,0,19,640,0.03,2006-2007,2007,False
+7,LaMarcus Aldridge,21,POR,0,18,640,0.028,2006-2007,2007,False
+8,Jorge Garbajosa,29,TOR,0,17,640,0.027,2006-2007,2007,False
+9,Tyrus Thomas,20,CHI,0,10,640,0.016,2006-2007,2007,False
+10,Walter Herrmann,27,CHA,0,5,640,0.008,2006-2007,2007,False
+11,Craig Smith,23,MIN,0,4,640,0.006,2006-2007,2007,False
+12,Rajon Rondo,20,BOS,0,3,640,0.005,2006-2007,2007,False

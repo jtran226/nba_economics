@@ -1,0 +1,9 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Shai Gilgeous-Alexander,27,OKC,83,939,1000,0.939,2025-2026,2026,True
+2,Nikola Jokić,30,DEN,10,634,1000,0.634,2025-2026,2026,False
+3,Victor Wembanyama,22,SAS,5,569,1000,0.569,2025-2026,2026,False
+4,Luka Dončić,26,LAL,0,250,1000,0.25,2025-2026,2026,False
+5,Cade Cunningham,24,DET,2,117,1000,0.117,2025-2026,2026,False
+6,Jaylen Brown,29,BOS,0,89,1000,0.089,2025-2026,2026,False
+7,Kawhi Leonard,34,LAC,0,1,1000,0.001,2025-2026,2026,False
+7,Donovan Mitchell,29,CLE,0,1,1000,0.001,2025-2026,2026,False

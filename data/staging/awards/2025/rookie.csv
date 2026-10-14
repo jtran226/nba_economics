@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Stephon Castle,20,SAS,200,200,1.0,100,0,2024-2025,2025
+1st,Zaccharie Risacher,19,ATL,199,200,0.995,99,1,2024-2025,2025
+1st,Jaylen Wells,21,MEM,195,200,0.975,96,3,2024-2025,2025
+1st,Zach Edey,22,MEM,173,200,0.865,73,27,2024-2025,2025
+1st,Alex Sarr,19,WAS,150,200,0.75,54,42,2024-2025,2025
+2nd,Kel'el Ware,20,MIA,138,200,0.69,44,50,2024-2025,2025
+2nd,Matas Buzelis,20,CHI,97,200,0.485,15,67,2024-2025,2025
+2nd,Yves Missi,20,NOP,90,200,0.45,7,76,2024-2025,2025
+2nd,Donovan Clingan,20,POR,73,200,0.365,6,61,2024-2025,2025
+2nd,Bub Carrington,19,WAS,53,200,0.265,3,47,2024-2025,2025

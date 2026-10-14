@@ -1,0 +1,21 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Kevin Garnett,31,BOS,90,493,620,0.795,2007-2008,2008,True
+2,Marcus Camby,33,DEN,12,178,620,0.287,2007-2008,2008,False
+3,Shane Battier,29,HOU,11,175,620,0.282,2007-2008,2008,False
+4,Bruce Bowen,36,SAS,7,80,620,0.129,2007-2008,2008,False
+5,Kobe Bryant,29,LAL,0,40,620,0.065,2007-2008,2008,False
+6,Josh Smith,22,ATL,1,34,620,0.055,2007-2008,2008,False
+7,Dwight Howard,22,ORL,1,24,620,0.039,2007-2008,2008,False
+7,Chris Paul,22,NOH,1,24,620,0.039,2007-2008,2008,False
+9,Tim Duncan,31,SAS,0,22,620,0.035,2007-2008,2008,False
+10,Tayshaun Prince,27,DET,0,13,620,0.021,2007-2008,2008,False
+11,Tyson Chandler,25,NOH,1,10,620,0.016,2007-2008,2008,False
+12,Rasheed Wallace,33,DET,0,9,620,0.015,2007-2008,2008,False
+13,Raja Bell,31,PHO,0,3,620,0.005,2007-2008,2008,False
+13,Samuel Dalembert,26,PHI,0,3,620,0.005,2007-2008,2008,False
+13,Richard Hamilton,29,DET,0,3,620,0.005,2007-2008,2008,False
+16,Chauncey Billups,31,DET,0,1,620,0.002,2007-2008,2008,False
+16,Andrei Kirilenko,26,UTA,0,1,620,0.002,2007-2008,2008,False
+16,Kyle Lowry,21,MEM,0,1,620,0.002,2007-2008,2008,False
+16,Rajon Rondo,21,BOS,0,1,620,0.002,2007-2008,2008,False
+16,Metta World Peace,28,SAC,0,1,620,0.002,2007-2008,2008,False

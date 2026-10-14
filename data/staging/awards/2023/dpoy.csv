@@ -1,0 +1,13 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Jaren Jackson Jr.,23,MEM,56,391,500,0.782,2022-2023,2023,True
+2,Brook Lopez,34,MIL,31,309,500,0.618,2022-2023,2023,False
+3,Evan Mobley,21,CLE,8,101,500,0.202,2022-2023,2023,False
+4,Draymond Green,32,GSW,3,34,500,0.068,2022-2023,2023,False
+5,Bam Adebayo,25,MIA,1,18,500,0.036,2022-2023,2023,False
+6,Giannis Antetokounmpo,28,MIL,0,14,500,0.028,2022-2023,2023,False
+7,OG Anunoby,25,TOR,0,8,500,0.016,2022-2023,2023,False
+7,Jrue Holiday,32,MIL,0,8,500,0.016,2022-2023,2023,False
+9,Joel Embiid,28,PHI,1,7,500,0.014,2022-2023,2023,False
+9,Nic Claxton,23,BRK,0,7,500,0.014,2022-2023,2023,False
+11,Alex Caruso,28,CHI,0,2,500,0.004,2022-2023,2023,False
+12,Jimmy Butler,33,MIA,0,1,500,0.002,2022-2023,2023,False

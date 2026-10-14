@@ -1,0 +1,7 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Blake Griffin,21,LAC,118,590,590,1.0,2010-2011,2011,True
+2,John Wall,20,WAS,0,295,590,0.5,2010-2011,2011,False
+3,DeMarcus Cousins,20,SAC,0,81,590,0.137,2010-2011,2011,False
+4,Landry Fields,22,NYK,0,62,590,0.105,2010-2011,2011,False
+5,Gary Neal,26,SAS,0,19,590,0.032,2010-2011,2011,False
+6,Greg Monroe,20,DET,0,15,590,0.025,2010-2011,2011,False

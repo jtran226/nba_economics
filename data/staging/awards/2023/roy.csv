@@ -1,0 +1,7 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Paolo Banchero,20,ORL,98,494,500,0.988,2022-2023,2023,True
+2,Jalen Williams,21,OKC,0,241,500,0.482,2022-2023,2023,False
+3,Walker Kessler,21,UTA,2,114,500,0.228,2022-2023,2023,False
+4,Bennedict Mathurin,20,IND,0,27,500,0.054,2022-2023,2023,False
+5,Keegan Murray,22,SAC,0,21,500,0.042,2022-2023,2023,False
+6,Jaden Ivey,20,DET,0,3,500,0.006,2022-2023,2023,False

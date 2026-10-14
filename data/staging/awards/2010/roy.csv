@@ -1,0 +1,7 @@
+voting_rank,player_name,age,team,first_place_votes,points_won,points_max,vote_share,season,year,award_winner
+1,Tyreke Evans,20,SAC,67,491,615,0.798,2009-2010,2010,True
+2,Stephen Curry,21,GSW,43,391,615,0.636,2009-2010,2010,False
+3,Brandon Jennings,20,MIL,12,204,615,0.332,2009-2010,2010,False
+4,Darren Collison,22,NOH,1,17,615,0.028,2009-2010,2010,False
+5,Jonny Flynn,20,MIN,0,2,615,0.003,2009-2010,2010,False
+5,Taj Gibson,24,CHI,0,2,615,0.003,2009-2010,2010,False

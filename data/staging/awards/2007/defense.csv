@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,position,season,year
+1st,Bruce Bowen,35,SAS,42,60,0.7,F,2006-2007,2007
+1st,Tim Duncan,30,SAS,36,60,0.6,F,2006-2007,2007
+1st,Marcus Camby,32,DEN,34,60,0.567,C,2006-2007,2007
+1st,Kobe Bryant,28,LAL,32,60,0.533,G,2006-2007,2007
+1st,Raja Bell,30,PHO,25,60,0.417,G,2006-2007,2007
+2nd,Ben Wallace,32,CHI,33,60,0.55,C,2006-2007,2007
+2nd,Jason Kidd,33,NJN,23,60,0.383,G,2006-2007,2007
+2nd,Tayshaun Prince,26,DET,21,60,0.35,F,2006-2007,2007
+2nd,Kevin Garnett,30,MIN,20,60,0.333,F,2006-2007,2007
+2nd,Kirk Hinrich,26,CHI,18,60,0.3,G,2006-2007,2007

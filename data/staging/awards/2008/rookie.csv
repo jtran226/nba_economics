@@ -1,0 +1,11 @@
+team_selection,player_name,age,team,points_won,points_max,vote_share,first_team_votes,second_team_votes,season,year
+1st,Al Horford,21,ATL,58,58,1.0,29,0,2007-2008,2008
+1st,Kevin Durant,19,SEA,57,58,0.983,28,1,2007-2008,2008
+1st,Luis Scola,27,HOU,53,58,0.914,26,1,2007-2008,2008
+1st,Al Thornton,24,LAC,48,58,0.828,20,8,2007-2008,2008
+1st,Jeff Green,21,SEA,43,58,0.741,15,13,2007-2008,2008
+2nd,Jamario Moon,27,TOR,38,58,0.655,12,14,2007-2008,2008
+2nd,Juan Carlos Navarro,27,MEM,24,58,0.414,5,14,2007-2008,2008
+2nd,Thaddeus Young,19,PHI,23,58,0.397,4,15,2007-2008,2008
+2nd,Rodney Stuckey,21,DET,22,58,0.379,5,12,2007-2008,2008
+2nd,Carl Landry,24,HOU,18,58,0.31,1,16,2007-2008,2008
