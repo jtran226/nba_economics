@@ -1,0 +1,18 @@
+Pos,Player,Team,No. of selections
+Starters[9],Starters[9],Starters[9],Starters[9]
+G,Kyrie Irving,Boston Celtics,5
+G,DeMar DeRozan,Toronto Raptors,4
+F,LeBron James,Cleveland Cavaliers,14
+F,Giannis Antetokounmpo,Milwaukee Bucks,2
+C,Joel Embiid,Philadelphia 76ers,1
+Reserves[10],Reserves[10],Reserves[10],Reserves[10]
+G,Bradley Beal,Washington Wizards,1
+G,Goran DragićREP3,Miami Heat,1
+C/F,Al Horford,Boston Celtics,5
+F/C,Kevin LoveINJ3,Cleveland Cavaliers,5
+G,Kyle Lowry,Toronto Raptors,4
+G,Victor Oladipo,Indiana Pacers,1
+F/C,Kristaps PorziņģisINJ4,New York Knicks,1
+G,John WallINJ2,Washington Wizards,5
+C,Andre DrummondREP2,Detroit Pistons,2
+G,Kemba WalkerREP4,Charlotte Hornets,2

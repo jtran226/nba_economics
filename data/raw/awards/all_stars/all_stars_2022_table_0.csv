@@ -1,0 +1,17 @@
+Pos,Player,Team,No. of selections
+Starters[12],Starters[12],Starters[12],Starters[12]
+G,Trae Young,Atlanta Hawks,2
+G,DeMar DeRozan,Chicago Bulls,5
+C,Joel Embiid,Philadelphia 76ers,5
+F,Kevin DurantINJ1,Brooklyn Nets,12
+F,Giannis Antetokounmpo,Milwaukee Bucks,6
+Reserves[14],Reserves[14],Reserves[14],Reserves[14]
+G,LaMelo BallREP1,Charlotte Hornets,1
+G,Darius Garland,Cleveland Cavaliers,1
+G,James HardenINJ3,Philadelphia 76ersNOTE1,10
+G,Zach LaVine,Chicago Bulls,2
+G,Fred VanVleet,Toronto Raptors,1
+F,Jimmy Butler,Miami Heat,6
+F,Khris Middleton,Milwaukee Bucks,3
+F,Jayson TatumST,Boston Celtics,3
+C,Jarrett AllenREP3,Cleveland Cavaliers,1

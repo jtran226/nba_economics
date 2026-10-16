@@ -1,0 +1,16 @@
+Pos,Player,Team,No. of selections
+Starters[8],Starters[8],Starters[8],Starters[8]
+G,Stephen Curry,Golden State Warriors,6
+G,James Harden,Houston Rockets,7
+F,Kevin Durant,Golden State Warriors,10
+F,Paul George,Oklahoma City Thunder,6
+F,LeBron James,Los Angeles Lakers,15
+Reserves[10],Reserves[10],Reserves[10],Reserves[10]
+G,Russell Westbrook,Oklahoma City Thunder,8
+G,Damian Lillard,Portland Trail Blazers,4
+G,Klay Thompson,Golden State Warriors,5
+F,Anthony Davis,New Orleans Pelicans,6
+F,LaMarcus Aldridge,San Antonio Spurs,7
+C,Nikola Jokić,Denver Nuggets,1
+C,Karl-Anthony Towns,Minnesota Timberwolves,2
+F,Dirk NowitzkiSPL,Dallas Mavericks,14

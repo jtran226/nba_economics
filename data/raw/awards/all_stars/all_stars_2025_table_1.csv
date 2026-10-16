@@ -1,0 +1,16 @@
+Pos,Player,Team,No. of selections
+Starters[9],Starters[9],Starters[9],Starters[9]
+G,Shai Gilgeous-Alexander,Oklahoma City Thunder,3
+G,Stephen Curry,Golden State Warriors,11
+F,LeBron JamesINJ3,Los Angeles Lakers,21
+F,Kevin Durant,Phoenix Suns,15
+C,Nikola Jokić,Denver Nuggets,7
+Reserves[12],Reserves[12],Reserves[12],Reserves[12]
+G,Anthony EdwardsINJ4,Minnesota Timberwolves,3
+G,James Harden,Los Angeles Clippers,11
+F,Jaren Jackson Jr.,Memphis Grizzlies,2
+F,Jalen Williams,Oklahoma City Thunder,1
+C,Anthony DavisINJ2,Dallas MavericksNOTE1,10
+C,Alperen Şengün,Houston Rockets,1
+C,Victor Wembanyama,San Antonio Spurs,1
+G,Kyrie IrvingREP2,Dallas Mavericks,9

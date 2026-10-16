@@ -1,0 +1,682 @@
+position,player_name,team,all_star_appearances,votes,selection_type,player_status,year,season,conference
+G,Allen Iverson,Philadelphia 76ers,2,1508142,starter,,2001,2000-2001,east
+G,Tracy McGrady,Orlando Magic,1,827122,starter,,2001,2000-2001,east
+F,Vince Carter,Toronto Raptors,2,1717687,starter,,2001,2000-2001,east
+F,Grant Hill,Orlando Magic,6,904885,starter,INJ,2001,2000-2001,east
+C,Alonzo Mourning,Miami Heat,6,917866,starter,INJ,2001,2000-2001,east
+G,Ray Allen,Milwaukee Bucks,2,409654,reserve,,2001,2000-2001,east
+G,Allan Houston,New York Knicks,2,476380,reserve,,2001,2000-2001,east
+G,Stephon Marbury,New Jersey Nets,1,512645,reserve,,2001,2000-2001,east
+G,Jerry Stackhouse,Detroit Pistons,2,459575,reserve,,2001,2000-2001,east
+F,Anthony Mason,Miami Heat,1,322696,reserve,,2001,2000-2001,east
+F,Glenn Robinson,Milwaukee Bucks,2,,reserve,,2001,2000-2001,east
+F,Latrell Sprewell,New York Knicks,4,817855,reserve,REP,2001,2000-2001,east
+C,Antonio Davis,Toronto Raptors,1,220917,reserve,REP,2001,2000-2001,east
+C,Dikembe Mutombo,Atlanta Hawks,7,627148,reserve,REP,2001,2000-2001,east
+C,Theo Ratliff,Philadelphia 76ers,1,637585,reserve,INJ,2001,2000-2001,east
+G,Jason Kidd,Phoenix Suns,4,1062837,starter,,2001,2000-2001,west
+G,Kobe Bryant,Los Angeles Lakers,3,1433747,starter,,2001,2000-2001,west
+F,Chris Webber,Sacramento Kings,3,1306243,starter,,2001,2000-2001,west
+F,Tim Duncan,San Antonio Spurs,3,1096522,starter,,2001,2000-2001,west
+C,Shaquille O'Neal,Los Angeles Lakers,8,1541298,starter,INJ,2001,2000-2001,west
+G,Michael Finley,Dallas Mavericks,2,279250,reserve,,2001,2000-2001,west
+G,Gary Payton,Seattle SuperSonics,7,732671,reserve,,2001,2000-2001,west
+F,Kevin Garnett,Minnesota Timberwolves,4,1003336,reserve,,2001,2000-2001,west
+F,Karl Malone,Utah Jazz,13,479624,reserve,,2001,2000-2001,west
+F,Antonio McDyess,Denver Nuggets,1,,reserve,,2001,2000-2001,west
+F,Rasheed Wallace,Portland Trail Blazers,2,510543,reserve,,2001,2000-2001,west
+C,David Robinson,San Antonio Spurs,10,716228,reserve,,2001,2000-2001,west
+C,Vlade Divac,Sacramento Kings,1,715687,reserve,REP,2001,2000-2001,west
+G,Allen Iverson,Philadelphia 76ers,3,920502,starter,,2002,2001-2002,east
+G,Michael Jordan,Washington Wizards,13,985448,starter,,2002,2001-2002,east
+F,Vince Carter,Toronto Raptors,3,1470176,starter,INJ,2002,2001-2002,east
+F,Antoine Walker,Boston Celtics,2,547172,starter,,2002,2001-2002,east
+C,Dikembe Mutombo,Philadelphia 76ers,8,616566,starter,,2002,2001-2002,east
+G,Ray Allen,Milwaukee Bucks,3,365421,reserve,,2002,2001-2002,east
+G,Baron Davis,Charlotte Hornets,1,127291,reserve,REP,2002,2001-2002,east
+G,Jason Kidd,New Jersey Nets,5,442630,reserve,,2002,2001-2002,east
+G,Tracy McGrady,Orlando Magic,2,453276,reserve,,2002,2001-2002,east
+F,Paul Pierce,Boston Celtics,1,254840,reserve,,2002,2001-2002,east
+F,Shareef Abdur-Rahim,Atlanta Hawks,1,335955,reserve,,2002,2001-2002,east
+F,Jermaine O'Neal,Indiana Pacers,1,411422,reserve,,2002,2001-2002,east
+C,Alonzo Mourning,Miami Heat,7,279423,reserve,,2002,2001-2002,east
+G,Steve Francis,Houston Rockets,1,456972,starter,,2002,2001-2002,west
+G,Kobe Bryant,Los Angeles Lakers,4,1121753,starter,,2002,2001-2002,west
+F,Kevin Garnett,Minnesota Timberwolves,5,880692,starter,,2002,2001-2002,west
+F,Tim Duncan,San Antonio Spurs,4,762289,starter,,2002,2001-2002,west
+C,Shaquille O'Neal,Los Angeles Lakers,9,1247438,starter,INJ,2002,2001-2002,west
+G,Steve Nash,Dallas Mavericks,1,278664,reserve,,2002,2001-2002,west
+G,Gary Payton,Seattle SuperSonics,8,367120,reserve,,2002,2001-2002,west
+F,Elton Brand,Los Angeles Clippers,1,160678,reserve,REP,2002,2001-2002,west
+F,Karl Malone,Utah Jazz,14,163009,reserve,,2002,2001-2002,west
+F,Dirk Nowitzki,Dallas Mavericks,1,398184,reserve,,2002,2001-2002,west
+F,Peja Stojaković,Sacramento Kings,1,323664,reserve,,2002,2001-2002,west
+F,Wally Szczerbiak,Minnesota Timberwolves,1,,reserve,,2002,2001-2002,west
+F,Chris Webber,Sacramento Kings,4,553401,reserve,,2002,2001-2002,west
+G,Allen Iverson,Philadelphia 76ers,4,1155897,starter,,2003,2002-2003,east
+G,Tracy McGrady,Orlando Magic,3,1316297,starter,,2003,2002-2003,east
+F,Vince Carter,Toronto Raptors,4,1300895,starter,,2003,2002-2003,east
+F,Jermaine O'Neal,Indiana Pacers,2,940958,starter,,2003,2002-2003,east
+C,Ben Wallace,Detroit Pistons,1,1123090,starter,,2003,2002-2003,east
+G,Michael Jordan,Washington Wizards,14,1082909,reserve,,2003,2002-2003,east
+G,Jason Kidd,New Jersey Nets,6,962325,reserve,,2003,2002-2003,east
+F,Paul Pierce,Boston Celtics,2,313652,reserve,,2003,2002-2003,east
+F,Jamal Mashburn,New Orleans Hornets,1,235417,reserve,,2003,2002-2003,east
+F,Antoine Walker,Boston Celtics,3,528613,reserve,,2003,2002-2003,east
+C,Žydrūnas Ilgauskas,Cleveland Cavaliers,1,297895,reserve,,2003,2002-2003,east
+C,Brad Miller,Indiana Pacers,1,238755,reserve,,2003,2002-2003,east
+G,Steve Francis,Houston Rockets,2,966669,starter,,2003,2002-2003,west
+G,Kobe Bryant,Los Angeles Lakers,5,1474386,starter,,2003,2002-2003,west
+F,Kevin Garnett,Minnesota Timberwolves,6,1086780,starter,,2003,2002-2003,west
+F,Tim Duncan,San Antonio Spurs,5,1179955,starter,,2003,2002-2003,west
+C,Yao Ming,Houston Rockets,1,1286324,starter,,2003,2002-2003,west
+G,Stephon Marbury,Phoenix Suns,2,,reserve,,2003,2002-2003,west
+G,Steve Nash,Dallas Mavericks,2,786923,reserve,,2003,2002-2003,west
+G,Gary Payton,Seattle SuperSonics,9,511056,reserve,,2003,2002-2003,west
+F,Shawn Marion,Phoenix Suns,1,,reserve,,2003,2002-2003,west
+F,Dirk Nowitzki,Dallas Mavericks,2,1079425,reserve,,2003,2002-2003,west
+F,Peja Stojaković,Sacramento Kings,2,308524,reserve,REP,2003,2002-2003,west
+F,Chris Webber,Sacramento Kings,5,906836,reserve,INJ,2003,2002-2003,west
+C,Shaquille O'Neal,Los Angeles Lakers,10,1049081,reserve,,2003,2002-2003,west
+G,Allen Iverson,Philadelphia 76ers,5,1731648,starter,,2004,2003-2004,east
+G,Tracy McGrady,Orlando Magic,4,1231825,starter,,2004,2003-2004,east
+F,Vince Carter,Toronto Raptors,5,2127183,starter,,2004,2003-2004,east
+F,Jermaine O'Neal,Indiana Pacers,3,1629054,starter,,2004,2003-2004,east
+C,Ben Wallace,Detroit Pistons,2,1982251,starter,,2004,2003-2004,east
+G,Baron Davis,New Orleans Hornets,2,,reserve,,2004,2003-2004,east
+G,Jason Kidd,New Jersey Nets,7,,reserve,,2004,2003-2004,east
+G,Michael Redd,Milwaukee Bucks,1,,reserve,,2004,2003-2004,east
+F,Paul Pierce,Boston Celtics,3,,reserve,,2004,2003-2004,east
+F,Ron Artest,Indiana Pacers,1,,reserve,,2004,2003-2004,east
+F,Kenyon Martin,New Jersey Nets,1,,reserve,,2004,2003-2004,east
+C,Jamaal Magloire,New Orleans Hornets,1,,reserve,,2004,2003-2004,east
+G,Steve Francis,Houston Rockets,3,976841,starter,,2004,2003-2004,west
+G,Kobe Bryant,Los Angeles Lakers,6,1759717,starter,,2004,2003-2004,west
+F,Kevin Garnett,Minnesota Timberwolves,7,1780918,starter,,2004,2003-2004,west
+F,Tim Duncan,San Antonio Spurs,6,1681435,starter,,2004,2003-2004,west
+C,Yao Ming,Houston Rockets,2,1484531,starter,,2004,2003-2004,west
+G,Ray Allen,Seattle SuperSonics,4,,reserve,,2004,2003-2004,west
+G,Sam Cassell,Minnesota Timberwolves,1,,reserve,,2004,2003-2004,west
+F,Andrei Kirilenko,Utah Jazz,1,,reserve,,2004,2003-2004,west
+F,Dirk Nowitzki,Dallas Mavericks,3,,reserve,,2004,2003-2004,west
+F,Peja Stojaković,Sacramento Kings,3,,reserve,,2004,2003-2004,west
+C,Brad Miller,Sacramento Kings,2,,reserve,,2004,2003-2004,west
+C,Shaquille O'Neal,Los Angeles Lakers,11,,reserve,,2004,2003-2004,west
+G,Kobe Bryant,Los Angeles Lakers,7,1815952,starter,,2005,2004-2005,west
+G,Tracy McGrady,Houston Rockets,5,1993687,starter,,2005,2004-2005,west
+F,Kevin Garnett,Minnesota Timberwolves,8,2087200,starter,,2005,2004-2005,west
+F,Tim Duncan,San Antonio Spurs,7,1812522,starter,,2005,2004-2005,west
+C,Yao Ming,Houston Rockets,3,2558578,starter,,2005,2004-2005,west
+G,Ray Allen,Seattle SuperSonics,5,,reserve,,2005,2004-2005,west
+G,Manu Ginóbili,San Antonio Spurs,1,,reserve,,2005,2004-2005,west
+G,Steve Nash,Phoenix Suns,3,,reserve,,2005,2004-2005,west
+F,Rashard Lewis,Seattle SuperSonics,1,,reserve,,2005,2004-2005,west
+F,Shawn Marion,Phoenix Suns,2,,reserve,,2005,2004-2005,west
+F,Dirk Nowitzki,Dallas Mavericks,4,,reserve,,2005,2004-2005,west
+C,Amare Stoudemire,Phoenix Suns,1,,reserve,,2005,2004-2005,west
+G,Allen Iverson,Philadelphia 76ers,6,1590400,starter,,2005,2004-2005,east
+G,Vince Carter,New Jersey Nets,6,1803529,starter,,2005,2004-2005,east
+F,LeBron James,Cleveland Cavaliers,1,1661204,starter,,2005,2004-2005,east
+F,Grant Hill,Orlando Magic,7,1497489,starter,,2005,2004-2005,east
+C,Shaquille O'Neal,Miami Heat,12,2488089,starter,,2005,2004-2005,east
+G,Gilbert Arenas,Washington Wizards,1,,reserve,,2005,2004-2005,east
+G,Dwyane Wade,Miami Heat,1,,reserve,,2005,2004-2005,east
+F,Paul Pierce,Boston Celtics,4,,reserve,,2005,2004-2005,east
+F,Antawn Jamison,Washington Wizards,1,,reserve,,2005,2004-2005,east
+F,Jermaine O'Neal,Indiana Pacers,4,,reserve,,2005,2004-2005,east
+C,Zydrunas Ilgauskas,Cleveland Cavaliers,2,,reserve,,2005,2004-2005,east
+C,Ben Wallace,Detroit Pistons,3,,reserve,,2005,2004-2005,east
+G,Allen Iverson,Philadelphia 76ers,7,,starter,,2006,2005-2006,east
+G,Dwyane Wade,Miami Heat,2,,starter,,2006,2005-2006,east
+F,LeBron James,Cleveland Cavaliers,2,,starter,,2006,2005-2006,east
+F,Jermaine O'Neal,Indiana Pacers,5,,starter,INJ,2006,2005-2006,east
+C,Shaquille O'Neal,Miami Heat,13,,starter,,2006,2005-2006,east
+G,Gilbert Arenas,Washington Wizards,2,,reserve,REP,2006,2005-2006,east
+G,Chauncey Billups,Detroit Pistons,1,,reserve,,2006,2005-2006,east
+G,Vince Carter,New Jersey Nets,7,,reserve,,2006,2005-2006,east
+G,Richard Hamilton,Detroit Pistons,1,,reserve,,2006,2005-2006,east
+F,Chris Bosh,Toronto Raptors,1,,reserve,,2006,2005-2006,east
+F,Paul Pierce,Boston Celtics,5,,reserve,,2006,2005-2006,east
+F,Rasheed Wallace,Detroit Pistons,3,,reserve,,2006,2005-2006,east
+C,Ben Wallace,Detroit Pistons,4,,reserve,,2006,2005-2006,east
+G,Steve Nash,Phoenix Suns,4,,starter,,2006,2005-2006,west
+G,Kobe Bryant,Los Angeles Lakers,8,,starter,,2006,2005-2006,west
+F,Tracy McGrady,Houston Rockets,6,,starter,,2006,2005-2006,west
+F,Tim Duncan,San Antonio Spurs,8,,starter,,2006,2005-2006,west
+C,Yao Ming,Houston Rockets,4,,starter,,2006,2005-2006,west
+G,Ray Allen,Seattle SuperSonics,6,,reserve,,2006,2005-2006,west
+G,Tony Parker,San Antonio Spurs,1,,reserve,,2006,2005-2006,west
+F,Elton Brand,Los Angeles Clippers,2,,reserve,,2006,2005-2006,west
+F,Kevin Garnett,Minnesota Timberwolves,9,,reserve,,2006,2005-2006,west
+C,Pau Gasol,Memphis Grizzlies,1,,reserve,,2006,2005-2006,west
+F,Shawn Marion,Phoenix Suns,3,,reserve,,2006,2005-2006,west
+F,Dirk Nowitzki,Dallas Mavericks,5,,reserve,,2006,2005-2006,west
+G,Gilbert Arenas,Washington Wizards,3,,starter,,2007,2006-2007,east
+G,Dwyane Wade,Miami Heat,3,,starter,,2007,2006-2007,east
+F,LeBron James,Cleveland Cavaliers,3,,starter,,2007,2006-2007,east
+F,Chris Bosh,Toronto Raptors,2,,starter,,2007,2006-2007,east
+C,Shaquille O'Neal,Miami Heat,14,,starter,,2007,2006-2007,east
+G,Chauncey Billups,Detroit Pistons,2,,reserve,,2007,2006-2007,east
+F,Caron Butler,Washington Wizards,1,,reserve,,2007,2006-2007,east
+G,Vince Carter,New Jersey Nets,8,,reserve,,2007,2006-2007,east
+G,Richard Hamilton,Detroit Pistons,2,,reserve,,2007,2006-2007,east
+C,Dwight Howard,Orlando Magic,1,,reserve,,2007,2006-2007,east
+G,Joe Johnson,Atlanta Hawks,1,,reserve,,2007,2006-2007,east
+G,Jason Kidd,New Jersey Nets,8,,reserve,,2007,2006-2007,east
+F,Jermaine O'Neal,Indiana Pacers,6,,reserve,,2007,2006-2007,east
+G,Kobe Bryant,Los Angeles Lakers,9,,starter,,2007,2006-2007,west
+G,Tracy McGrady,Houston Rockets,7,,starter,,2007,2006-2007,west
+F,Kevin Garnett,Minnesota Timberwolves,10,,starter,,2007,2006-2007,west
+F,Tim Duncan,San Antonio Spurs,9,,starter,,2007,2006-2007,west
+C,Yao Ming,Houston Rockets,5,,starter,,2007,2006-2007,west
+G,Ray Allen,Seattle SuperSonics,7,,reserve,,2007,2006-2007,west
+F,Carmelo Anthony,Denver Nuggets,1,,reserve,,2007,2006-2007,west
+F,Carlos Boozer,Utah Jazz,1,,reserve,,2007,2006-2007,west
+F,Josh Howard,Dallas Mavericks,1,,reserve,,2007,2006-2007,west
+G,Allen Iverson,Denver Nuggets,8,,reserve,,2007,2006-2007,west
+F,Shawn Marion,Phoenix Suns,4,,reserve,,2007,2006-2007,west
+G,Steve Nash,Phoenix Suns,5,,reserve,,2007,2006-2007,west
+F,Dirk Nowitzki,Dallas Mavericks,6,,reserve,,2007,2006-2007,west
+C,Mehmet Okur,Utah Jazz,1,,reserve,,2007,2006-2007,west
+G,Tony Parker,San Antonio Spurs,2,,reserve,,2007,2006-2007,west
+C,Amare Stoudemire,Phoenix Suns,2,,reserve,,2007,2006-2007,west
+G,Allen Iverson,Denver Nuggets,9,1203152,starter,,2008,2007-2008,west
+G,Kobe Bryant,Los Angeles Lakers,10,2004940,starter,,2008,2007-2008,west
+F,Carmelo Anthony,Denver Nuggets,2,1723701,starter,,2008,2007-2008,west
+F,Tim Duncan,San Antonio Spurs,10,1712800,starter,,2008,2007-2008,west
+C,Yao Ming,Houston Rockets,6,1709180,starter,,2008,2007-2008,west
+F,Carlos Boozer,Utah Jazz,2,,reserve,,2008,2007-2008,west
+G,Steve Nash,Phoenix Suns,6,,reserve,,2008,2007-2008,west
+F,Dirk Nowitzki,Dallas Mavericks,7,,reserve,,2008,2007-2008,west
+G,Chris Paul,New Orleans Hornets,1,,reserve,,2008,2007-2008,west
+G,Brandon Roy,Portland Trail Blazers,1,,reserve,,2008,2007-2008,west
+C,Amare Stoudemire,Phoenix Suns,3,,reserve,,2008,2007-2008,west
+F,David West,New Orleans Hornets,1,,reserve,,2008,2007-2008,west
+G,Jason Kidd,New Jersey Nets,9,1246386,starter,,2008,2007-2008,east
+G,Dwyane Wade,Miami Heat,4,1608260,starter,,2008,2007-2008,east
+F,LeBron James,Cleveland Cavaliers,4,2108831,starter,,2008,2007-2008,east
+F,Kevin Garnett,Boston Celtics,11,2399148,starter,,2008,2007-2008,east
+C,Dwight Howard,Orlando Magic,2,2066991,starter,,2008,2007-2008,east
+G,Ray Allen,Boston Celtics,8,,reserve,,2008,2007-2008,east
+G,Chauncey Billups,Detroit Pistons,3,,reserve,,2008,2007-2008,east
+F,Caron Butler,Washington Wizards,2,,reserve,,2008,2007-2008,east
+F,Chris Bosh,Toronto Raptors,3,,reserve,,2008,2007-2008,east
+G,Richard Hamilton,Detroit Pistons,3,,reserve,,2008,2007-2008,east
+F,Antawn Jamison,Washington Wizards,2,,reserve,,2008,2007-2008,east
+G,Joe Johnson,Atlanta Hawks,2,,reserve,,2008,2007-2008,east
+F,Paul Pierce,Boston Celtics,6,,reserve,,2008,2007-2008,east
+C,Rasheed Wallace,Detroit Pistons,4,,reserve,,2008,2007-2008,east
+G,Allen Iverson,Detroit Pistons,10,1804649,starter,,2009,2008-2009,east
+G,Dwyane Wade,Miami Heat,5,2741413,starter,,2009,2008-2009,east
+F,LeBron James,Cleveland Cavaliers,5,2940823,starter,,2009,2008-2009,east
+F,Kevin Garnett,Boston Celtics,12,2066833,starter,,2009,2008-2009,east
+C,Dwight Howard,Orlando Magic,3,3150181,starter,,2009,2008-2009,east
+G,Ray Allen,Boston Celtics,9,,reserve,,2009,2008-2009,east
+G,Devin Harris,New Jersey Nets,1,,reserve,,2009,2008-2009,east
+G,Joe Johnson,Atlanta Hawks,3,,reserve,,2009,2008-2009,east
+G,Jameer Nelson,Orlando Magic,1,,reserve,INJ,2009,2008-2009,east
+G,Mo Williams,Cleveland Cavaliers,1,,reserve,,2009,2008-2009,east
+F,Danny Granger,Indiana Pacers,1,,reserve,,2009,2008-2009,east
+F,Rashard Lewis,Orlando Magic,2,,reserve,,2009,2008-2009,east
+F,Paul Pierce,Boston Celtics,7,,reserve,,2009,2008-2009,east
+F/C,Chris Bosh,Toronto Raptors,4,,reserve,INJ,2009,2008-2009,east
+G,Chris Paul,New Orleans Hornets,2,2134798,starter,,2009,2008-2009,west
+G,Kobe Bryant,Los Angeles Lakers,11,2805397,starter,,2009,2008-2009,west
+F,Amar'e Stoudemire,Phoenix Suns,4,1460429,starter,,2009,2008-2009,west
+F,Tim Duncan,San Antonio Spurs,11,2578168,starter,,2009,2008-2009,west
+C,Yao Ming,Houston Rockets,7,2532958,starter,,2009,2008-2009,west
+G,Chauncey Billups,Denver Nuggets,4,,reserve,,2009,2008-2009,west
+G,Tony Parker,San Antonio Spurs,3,,reserve,,2009,2008-2009,west
+G,Brandon Roy,Portland Trail Blazers,2,,reserve,,2009,2008-2009,west
+F,Pau Gasol,Los Angeles Lakers,2,,reserve,,2009,2008-2009,west
+F,Dirk Nowitzki,Dallas Mavericks,8,,reserve,,2009,2008-2009,west
+F,David West,New Orleans Hornets,2,,reserve,,2009,2008-2009,west
+C,Shaquille O'Neal,Phoenix Suns,15,,reserve,,2009,2008-2009,west
+G,Allen IversonDNP,Philadelphia 76ers,11,1269568,starter,,2010,2009-2010,east
+G,Dwyane Wade,Miami Heat,6,2327550,starter,,2010,2009-2010,east
+F,LeBron James,Cleveland Cavaliers,6,2549693,starter,,2010,2009-2010,east
+F,Kevin Garnett,Boston Celtics,13,1978116,starter,,2010,2009-2010,east
+C,Dwight Howard,Orlando Magic,4,2360096,starter,,2010,2009-2010,east
+G,Joe Johnson,Atlanta Hawks,4,,reserve,,2010,2009-2010,east
+G,Rajon Rondo,Boston Celtics,1,,reserve,,2010,2009-2010,east
+G,Derrick Rose,Chicago Bulls,1,,reserve,,2010,2009-2010,east
+F,Paul Pierce,Boston Celtics,8,,reserve,,2010,2009-2010,east
+F,Gerald Wallace,Charlotte Bobcats,1,,reserve,,2010,2009-2010,east
+F,Chris Bosh,Toronto Raptors,5,,reserve,,2010,2009-2010,east
+F/C,Al Horford,Atlanta Hawks,1,,reserve,,2010,2009-2010,east
+C,David Lee,New York Knicks,1,,reserve,REP,2010,2009-2010,east
+G,Steve Nash,Phoenix Suns,7,1222235,starter,,2010,2009-2010,west
+G,Kobe Bryant,Los Angeles Lakers,12,2456224,starter,INJ,2010,2009-2010,west
+F,Carmelo Anthony,Denver Nuggets,3,2137560,starter,,2010,2009-2010,west
+F,Tim Duncan,San Antonio Spurs,12,1156696,starter,,2010,2009-2010,west
+C,Amar'e Stoudemire,Phoenix Suns,5,1824093,starter,,2010,2009-2010,west
+G,Chauncey Billups,Denver Nuggets,5,,reserve,REP,2010,2009-2010,west
+G,Jason Kidd,Dallas Mavericks,10,,reserve,REP,2010,2009-2010,west
+G,Chris Paul,New Orleans Hornets,3,,reserve,INJ,2010,2009-2010,west
+G,Brandon Roy,Portland Trail Blazers,3,,reserve,INJ,2010,2009-2010,west
+G,Deron Williams,Utah Jazz,1,,reserve,,2010,2009-2010,west
+F,Kevin Durant,Oklahoma City Thunder,1,,reserve,,2010,2009-2010,west
+F,Dirk Nowitzki,Dallas Mavericks,9,,reserve,,2010,2009-2010,west
+F,Zach Randolph,Memphis Grizzlies,1,,reserve,,2010,2009-2010,west
+F/C,Pau Gasol,Los Angeles Lakers,3,,reserve,,2010,2009-2010,west
+C,Chris Kaman,Los Angeles Clippers,1,,reserve,REP,2010,2009-2010,west
+G,Derrick Rose,Chicago Bulls,2,1914996,starter,,2011,2010-2011,east
+G,Dwyane Wade,Miami Heat,7,2048175,starter,,2011,2010-2011,east
+F,LeBron James,Miami Heat,7,2053011,starter,,2011,2010-2011,east
+F,Amar'e Stoudemire,New York Knicks,6,1674995,starter,,2011,2010-2011,east
+C,Dwight Howard,Orlando Magic,5,2099204,starter,,2011,2010-2011,east
+G,Ray Allen,Boston Celtics,10,,reserve,,2011,2010-2011,east
+F,Chris Bosh,Miami Heat,6,,reserve,,2011,2010-2011,east
+F,Kevin Garnett,Boston Celtics,14,,reserve,,2011,2010-2011,east
+C,Al Horford,Atlanta Hawks,2,,reserve,,2011,2010-2011,east
+G,Joe Johnson,Atlanta Hawks,5,,reserve,,2011,2010-2011,east
+F,Paul Pierce,Boston Celtics,9,,reserve,,2011,2010-2011,east
+G,Rajon Rondo,Boston Celtics,2,,reserve,,2011,2010-2011,east
+G,Chris Paul,New Orleans Hornets,4,1281591,starter,,2011,2010-2011,west
+G,Kobe Bryant,Los Angeles Lakers,13,2380016,starter,,2011,2010-2011,west
+F,Carmelo Anthony,Denver Nuggets,4,1299849,starter,,2011,2010-2011,west
+F,Kevin Durant,Oklahoma City Thunder,2,1736728,starter,,2011,2010-2011,west
+C,Yao Ming,Houston Rockets,8,1146426,starter,INJ,2011,2010-2011,west
+C,Tim Duncan,San Antonio Spurs,13,,reserve,,2011,2010-2011,west
+F,Pau Gasol,Los Angeles Lakers,4,,reserve,,2011,2010-2011,west
+G,Manu Ginóbili,San Antonio Spurs,2,,reserve,,2011,2010-2011,west
+F,Blake Griffin,Los Angeles Clippers,1,,reserve,,2011,2010-2011,west
+F,Kevin Love,Minnesota Timberwolves,1,,reserve,REP,2011,2010-2011,west
+F,Dirk Nowitzki,Dallas Mavericks,10,,reserve,,2011,2010-2011,west
+G,Russell Westbrook,Oklahoma City Thunder,1,,reserve,,2011,2010-2011,west
+G,Deron Williams,Utah Jazz,2,,reserve,,2011,2010-2011,west
+G,Chris Paul,Los Angeles Clippers,5,1138743,starter,,2012,2011-2012,west
+G,Kobe Bryant,Los Angeles Lakers,14,1555479,starter,,2012,2011-2012,west
+F,Kevin Durant,Oklahoma City Thunder,3,1345566,starter,,2012,2011-2012,west
+F,Blake Griffin,Los Angeles Clippers,2,1200560,starter,,2012,2011-2012,west
+C,Andrew Bynum,Los Angeles Lakers,1,1051945,starter,,2012,2011-2012,west
+F,LaMarcus Aldridge,Portland Trail Blazers,1,,reserve,,2012,2011-2012,west
+C,Marc Gasol,Memphis Grizzlies,1,,reserve,,2012,2011-2012,west
+F,Kevin Love,Minnesota Timberwolves,2,,reserve,,2012,2011-2012,west
+G,Steve Nash,Phoenix Suns,8,,reserve,,2012,2011-2012,west
+F,Dirk Nowitzki,Dallas Mavericks,11,,reserve,,2012,2011-2012,west
+G,Tony Parker,San Antonio Spurs,4,,reserve,,2012,2011-2012,west
+G,Russell Westbrook,Oklahoma City Thunder,2,,reserve,,2012,2011-2012,west
+G,Derrick Rose,Chicago Bulls,3,1514723,starter,,2012,2011-2012,east
+G,Dwyane Wade,Miami Heat,8,1334223,starter,,2012,2011-2012,east
+F,LeBron James,Miami Heat,8,1360680,starter,,2012,2011-2012,east
+F,Carmelo Anthony,New York Knicks,5,1041290,starter,,2012,2011-2012,east
+C,Dwight Howard,Orlando Magic,6,1600390,starter,,2012,2011-2012,east
+F,Chris Bosh,Miami Heat,7,,reserve,,2012,2011-2012,east
+F,Luol Deng,Chicago Bulls,1,,reserve,,2012,2011-2012,east
+C,Roy Hibbert,Indiana Pacers,1,,reserve,,2012,2011-2012,east
+F/G,Andre Iguodala,Philadelphia 76ers,1,,reserve,,2012,2011-2012,east
+G,Joe Johnson,Atlanta Hawks,6,,reserve,INJ,2012,2011-2012,east
+F,Paul Pierce,Boston Celtics,10,,reserve,,2012,2011-2012,east
+G,Rajon Rondo,Boston Celtics,3,,reserve,REP,2012,2011-2012,east
+G,Deron Williams,New Jersey Nets,3,,reserve,,2012,2011-2012,east
+G,Rajon Rondo,Boston Celtics,4,924180,starter,INJ,2013,2012-2013,east
+G,Dwyane Wade (C),Miami Heat,9,1052310,starter,,2013,2012-2013,east
+F,LeBron James,Miami Heat,9,1583646,starter,,2013,2012-2013,east
+F,Carmelo Anthony,New York Knicks,6,1460950,starter,,2013,2012-2013,east
+F/C,Kevin Garnett,Boston Celtics,15,553222,starter,,2013,2012-2013,east
+F/C,Chris Bosh,Miami Heat,8,,reserve,,2013,2012-2013,east
+C,Tyson Chandler,New York Knicks,1,,reserve,,2013,2012-2013,east
+F,Luol Deng,Chicago Bulls,2,,reserve,,2013,2012-2013,east
+F,Paul George,Indiana Pacers,1,,reserve,,2013,2012-2013,east
+G,Jrue Holiday,Philadelphia 76ers,1,,reserve,,2013,2012-2013,east
+G,Kyrie Irving,Cleveland Cavaliers,1,,reserve,,2013,2012-2013,east
+C,Joakim Noah,Chicago Bulls,1,,reserve,,2013,2012-2013,east
+C,Brook Lopez,Brooklyn Nets,1,,reserve,REP,2013,2012-2013,east
+G,Chris Paul (C),Los Angeles Clippers,6,929155,starter,,2013,2012-2013,west
+G,Kobe Bryant,Los Angeles Lakers,15,1591437,starter,,2013,2012-2013,west
+F,Kevin Durant,Oklahoma City Thunder,4,1504047,starter,,2013,2012-2013,west
+F,Blake Griffin,Los Angeles Clippers,3,863832,starter,,2013,2012-2013,west
+C,Dwight Howard,Los Angeles Lakers,7,922070,starter,,2013,2012-2013,west
+F,LaMarcus Aldridge,Portland Trail Blazers,2,,reserve,,2013,2012-2013,west
+F,Tim Duncan,San Antonio Spurs,14,,reserve,,2013,2012-2013,west
+G,James Harden,Houston Rockets,1,,reserve,,2013,2012-2013,west
+F,David Lee,Golden State Warriors,2,,reserve,,2013,2012-2013,west
+G,Tony Parker,San Antonio Spurs,5,,reserve,,2013,2012-2013,west
+F,Zach Randolph,Memphis Grizzlies,2,,reserve,,2013,2012-2013,west
+G,Russell Westbrook,Oklahoma City Thunder,3,,reserve,,2013,2012-2013,west
+G,Dwyane Wade,Miami Heat,10,929542,starter,,2014,2013-2014,east
+G,Kyrie Irving,Cleveland Cavaliers,2,860221,starter,,2014,2013-2014,east
+F,LeBron James,Miami Heat,10,1416419,starter,,2014,2013-2014,east
+F,Paul George,Indiana Pacers,2,1211318,starter,,2014,2013-2014,east
+F,Carmelo Anthony,New York Knicks,7,935702,starter,,2014,2013-2014,east
+C,Joakim Noah,Chicago Bulls,2,,reserve,,2014,2013-2014,east
+C,Roy Hibbert,Indiana Pacers,2,,reserve,,2014,2013-2014,east
+F/C,Chris Bosh,Miami Heat,9,,reserve,,2014,2013-2014,east
+F,Paul Millsap,Atlanta Hawks,1,,reserve,,2014,2013-2014,east
+G,John Wall,Washington Wizards,1,,reserve,,2014,2013-2014,east
+G,Joe Johnson,Brooklyn Nets,7,,reserve,,2014,2013-2014,east
+G,DeMar DeRozan,Toronto Raptors,1,,reserve,,2014,2013-2014,east
+G,Stephen Curry,Golden State Warriors,1,1047281,starter,,2014,2013-2014,west
+G,Kobe Bryant,Los Angeles Lakers,16,988864,starter,INJ,2014,2013-2014,west
+F,Kevin Durant,Oklahoma City Thunder,5,1396294,starter,,2014,2013-2014,west
+F,Blake Griffin,Los Angeles Clippers,4,688466,starter,,2014,2013-2014,west
+F/C,Kevin Love,Minnesota Timberwolves,3,661246,starter,,2014,2013-2014,west
+C,Dwight Howard,Houston Rockets,8,,reserve,,2014,2013-2014,west
+F,LaMarcus Aldridge,Portland Trail Blazers,3,,reserve,,2014,2013-2014,west
+F,Dirk Nowitzki,Dallas Mavericks,12,,reserve,,2014,2013-2014,west
+G,Chris Paul,Los Angeles Clippers,7,,reserve,,2014,2013-2014,west
+G,James Harden,Houston Rockets,2,,reserve,,2014,2013-2014,west
+G,Tony Parker,San Antonio Spurs,6,,reserve,,2014,2013-2014,west
+G,Damian Lillard,Portland Trail Blazers,1,,reserve,,2014,2013-2014,west
+F/C,Anthony Davis,New Orleans Pelicans,1,,reserve,REP,2014,2013-2014,west
+G,John Wall,Washington Wizards,2,886368,starter,,2015,2014-2015,east
+G,Kyle Lowry,Toronto Raptors,1,805290,starter,,2015,2014-2015,east
+F,LeBron James,Cleveland Cavaliers,11,1470483,starter,,2015,2014-2015,east
+F,Pau Gasol,Chicago Bulls,5,974177,starter,,2015,2014-2015,east
+F,Carmelo Anthony,New York Knicks,8,647005,starter,,2015,2014-2015,east
+C,Al Horford,Atlanta Hawks,3,,reserve,,2015,2014-2015,east
+F,Chris Bosh,Miami Heat,10,,reserve,,2015,2014-2015,east
+F,Paul Millsap,Atlanta Hawks,2,,reserve,,2015,2014-2015,east
+G,Jimmy Butler,Chicago Bulls,1,,reserve,,2015,2014-2015,east
+G,Dwyane Wade,Miami Heat,11,,reserve,INJ,2015,2014-2015,east
+G,Jeff Teague,Atlanta Hawks,1,,reserve,,2015,2014-2015,east
+G,Kyrie Irving,Cleveland Cavaliers,3,,reserve,,2015,2014-2015,east
+G,Kyle Korver,Atlanta Hawks,1,,reserve,REP,2015,2014-2015,east
+G,Stephen Curry,Golden State Warriors,2,1513324,starter,,2015,2014-2015,west
+G,Kobe Bryant,Los Angeles Lakers,17,1152402,starter,INJ,2015,2014-2015,west
+F,Anthony Davis,New Orleans Pelicans,2,1369911,starter,INJ,2015,2014-2015,west
+C,Marc Gasol,Memphis Grizzlies,2,795121,starter,,2015,2014-2015,west
+F,Blake Griffin,Los Angeles Clippers,5,700615,starter,INJ,2015,2014-2015,west
+C,LaMarcus AldridgeST,Portland Trail Blazers,4,,reserve,,2015,2014-2015,west
+F,Tim Duncan,San Antonio Spurs,15,,reserve,,2015,2014-2015,west
+F,Kevin Durant,Oklahoma City Thunder,6,,reserve,,2015,2014-2015,west
+G,Klay ThompsonST,Golden State Warriors,1,,reserve,,2015,2014-2015,west
+G,Russell Westbrook,Oklahoma City Thunder,4,,reserve,,2015,2014-2015,west
+G,James HardenST,Houston Rockets,3,,reserve,,2015,2014-2015,west
+G,Chris Paul,Los Angeles Clippers,8,,reserve,,2015,2014-2015,west
+C,DeMarcus Cousins,Sacramento Kings,1,,reserve,REP,2015,2014-2015,west
+G,Damian Lillard,Portland Trail Blazers,2,,reserve,REP,2015,2014-2015,west
+F,Dirk Nowitzki,Dallas Mavericks,13,,reserve,REP,2015,2014-2015,west
+G,Dwyane Wade,Miami Heat,12,941466,starter,,2016,2015-2016,east
+G,Kyle Lowry,Toronto Raptors,2,646441,starter,,2016,2015-2016,east
+F,LeBron James,Cleveland Cavaliers,12,1089206,starter,,2016,2015-2016,east
+F,Paul George,Indiana Pacers,3,711595,starter,,2016,2015-2016,east
+F,Carmelo Anthony,New York Knicks,9,567348,starter,,2016,2015-2016,east
+G/F,Jimmy Butler,Chicago Bulls,2,,reserve,INJ,2016,2015-2016,east
+F/C,Chris Bosh,Miami Heat,11,,reserve,INJ,2016,2015-2016,east
+G,John Wall,Washington Wizards,3,,reserve,,2016,2015-2016,east
+F,Paul Millsap,Atlanta Hawks,3,,reserve,,2016,2015-2016,east
+G,DeMar DeRozan,Toronto Raptors,2,,reserve,,2016,2015-2016,east
+C,Andre Drummond,Detroit Pistons,1,,reserve,,2016,2015-2016,east
+G,Isaiah Thomas,Boston Celtics,1,,reserve,,2016,2015-2016,east
+F/C,Pau Gasol,Chicago Bulls,6,,reserve,REP,2016,2015-2016,east
+C/F,Al Horford,Atlanta Hawks,4,,reserve,REP,2016,2015-2016,east
+G,Stephen Curry,Golden State Warriors,3,1604325,starter,,2016,2015-2016,west
+G,Russell Westbrook,Oklahoma City Thunder,5,772009,starter,,2016,2015-2016,west
+G,Kobe Bryant,Los Angeles Lakers,18,1891614,starter,,2016,2015-2016,west
+F,Kevin Durant,Oklahoma City Thunder,7,980787,starter,,2016,2015-2016,west
+F,Kawhi Leonard,San Antonio Spurs,1,782339,starter,,2016,2015-2016,west
+G,Chris Paul,Los Angeles Clippers,9,,reserve,,2016,2015-2016,west
+F/C,LaMarcus Aldridge,San Antonio Spurs,5,,reserve,,2016,2015-2016,west
+G,James Harden,Houston Rockets,4,,reserve,,2016,2015-2016,west
+F/C,Anthony Davis,New Orleans Pelicans,3,,reserve,,2016,2015-2016,west
+C,DeMarcus Cousins,Sacramento Kings,2,,reserve,,2016,2015-2016,west
+G,Klay Thompson,Golden State Warriors,2,,reserve,,2016,2015-2016,west
+F,Draymond Green,Golden State Warriors,1,,reserve,,2016,2015-2016,west
+G,Kyrie Irving,Cleveland Cavaliers,4,,starter,,2017,2016-2017,east
+G,DeMar DeRozan,Toronto Raptors,3,,starter,,2017,2016-2017,east
+F,LeBron James,Cleveland Cavaliers,13,,starter,,2017,2016-2017,east
+F,Jimmy Butler,Chicago Bulls,3,,starter,,2017,2016-2017,east
+F/G,Giannis Antetokounmpo,Milwaukee Bucks,1,,starter,,2017,2016-2017,east
+G,Isaiah Thomas,Boston Celtics,2,,reserve,,2017,2016-2017,east
+G,John Wall,Washington Wizards,4,,reserve,,2017,2016-2017,east
+F/C,Kevin Love,Cleveland Cavaliers,4,,reserve,INJ,2017,2016-2017,east
+F,Carmelo Anthony,New York Knicks,10,,reserve,REP,2017,2016-2017,east
+G,Kyle Lowry,Toronto Raptors,3,,reserve,,2017,2016-2017,east
+F,Paul George,Indiana Pacers,4,,reserve,,2017,2016-2017,east
+G,Kemba Walker,Charlotte Hornets,1,,reserve,,2017,2016-2017,east
+F,Paul Millsap,Atlanta Hawks,4,,reserve,,2017,2016-2017,east
+G,Stephen Curry,Golden State Warriors,4,,starter,,2017,2016-2017,west
+G,James Harden,Houston Rockets,5,,starter,,2017,2016-2017,west
+F,Kevin Durant,Golden State Warriors,8,,starter,,2017,2016-2017,west
+F,Kawhi Leonard,San Antonio Spurs,2,,starter,,2017,2016-2017,west
+F/C,Anthony Davis,New Orleans Pelicans,4,,starter,,2017,2016-2017,west
+G,Russell Westbrook,Oklahoma City Thunder,6,,reserve,,2017,2016-2017,west
+G,Klay Thompson,Golden State Warriors,3,,reserve,,2017,2016-2017,west
+F,Draymond Green,Golden State Warriors,2,,reserve,,2017,2016-2017,west
+C,DeMarcus Cousins,Sacramento Kings,3,,reserve,,2017,2016-2017,west
+C,Marc Gasol,Memphis Grizzlies,3,,reserve,,2017,2016-2017,west
+C,DeAndre Jordan,Los Angeles Clippers,1,,reserve,,2017,2016-2017,west
+F,Gordon Hayward,Utah Jazz,1,,reserve,,2017,2016-2017,west
+G,Kyrie Irving,Boston Celtics,5,,starter,,2018,2017-2018,east
+G,DeMar DeRozan,Toronto Raptors,4,,starter,,2018,2017-2018,east
+F,LeBron James,Cleveland Cavaliers,14,,starter,,2018,2017-2018,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,2,,starter,,2018,2017-2018,east
+C,Joel Embiid,Philadelphia 76ers,1,,starter,,2018,2017-2018,east
+G,Bradley Beal,Washington Wizards,1,,reserve,,2018,2017-2018,east
+G,Goran Dragić,Miami Heat,1,,reserve,REP,2018,2017-2018,east
+C/F,Al Horford,Boston Celtics,5,,reserve,,2018,2017-2018,east
+F/C,Kevin Love,Cleveland Cavaliers,5,,reserve,INJ,2018,2017-2018,east
+G,Kyle Lowry,Toronto Raptors,4,,reserve,,2018,2017-2018,east
+G,Victor Oladipo,Indiana Pacers,1,,reserve,,2018,2017-2018,east
+F/C,Kristaps Porziņģis,New York Knicks,1,,reserve,INJ,2018,2017-2018,east
+G,John Wall,Washington Wizards,5,,reserve,INJ,2018,2017-2018,east
+C,Andre Drummond,Detroit Pistons,2,,reserve,REP,2018,2017-2018,east
+G,Kemba Walker,Charlotte Hornets,2,,reserve,REP,2018,2017-2018,east
+G,Stephen Curry,Golden State Warriors,5,,starter,,2018,2017-2018,west
+G,James Harden,Houston Rockets,6,,starter,,2018,2017-2018,west
+F,Kevin Durant,Golden State Warriors,9,,starter,,2018,2017-2018,west
+F/C,Anthony Davis,New Orleans Pelicans,5,,starter,,2018,2017-2018,west
+C,DeMarcus Cousins,New Orleans Pelicans,4,,starter,INJ,2018,2017-2018,west
+G,Russell Westbrook,Oklahoma City Thunder,7,,reserve,,2018,2017-2018,west
+G,Damian Lillard,Portland Trail Blazers,3,,reserve,,2018,2017-2018,west
+F,Draymond Green,Golden State Warriors,3,,reserve,,2018,2017-2018,west
+C,Karl-Anthony Towns,Minnesota Timberwolves,1,,reserve,,2018,2017-2018,west
+F/C,LaMarcus Aldridge,San Antonio Spurs,6,,reserve,,2018,2017-2018,west
+G,Klay Thompson,Golden State Warriors,4,,reserve,,2018,2017-2018,west
+G/F,Jimmy Butler,Minnesota Timberwolves,4,,reserve,,2018,2017-2018,west
+F,Paul George,Oklahoma City Thunder,5,,reserve,REP,2018,2017-2018,west
+G,Kemba Walker,Charlotte Hornets,3,,starter,,2019,2018-2019,east
+G,Kyrie Irving,Boston Celtics,6,,starter,,2019,2018-2019,east
+F,Kawhi Leonard,Toronto Raptors,3,,starter,,2019,2018-2019,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,3,,starter,,2019,2018-2019,east
+C,Joel Embiid,Philadelphia 76ers,2,,starter,,2019,2018-2019,east
+G,Kyle Lowry,Toronto Raptors,5,,reserve,,2019,2018-2019,east
+G,Victor Oladipo,Indiana Pacers,2,,reserve,INJ,2019,2018-2019,east
+F,Khris Middleton,Milwaukee Bucks,1,,reserve,,2019,2018-2019,east
+G,Bradley Beal,Washington Wizards,2,,reserve,,2019,2018-2019,east
+G,Ben Simmons,Philadelphia 76ers,1,,reserve,,2019,2018-2019,east
+F,Blake Griffin,Detroit Pistons,6,,reserve,,2019,2018-2019,east
+C,Nikola Vučević,Orlando Magic,1,,reserve,,2019,2018-2019,east
+G,Dwyane Wade,Miami Heat,13,,reserve,SPL,2019,2018-2019,east
+G,D'Angelo Russell,Brooklyn Nets,1,,reserve,REP,2019,2018-2019,east
+G,Stephen Curry,Golden State Warriors,6,,starter,,2019,2018-2019,west
+G,James Harden,Houston Rockets,7,,starter,,2019,2018-2019,west
+F,Kevin Durant,Golden State Warriors,10,,starter,,2019,2018-2019,west
+F,Paul George,Oklahoma City Thunder,6,,starter,,2019,2018-2019,west
+F,LeBron James,Los Angeles Lakers,15,,starter,,2019,2018-2019,west
+G,Russell Westbrook,Oklahoma City Thunder,8,,reserve,,2019,2018-2019,west
+G,Damian Lillard,Portland Trail Blazers,4,,reserve,,2019,2018-2019,west
+G,Klay Thompson,Golden State Warriors,5,,reserve,,2019,2018-2019,west
+F,Anthony Davis,New Orleans Pelicans,6,,reserve,,2019,2018-2019,west
+F,LaMarcus Aldridge,San Antonio Spurs,7,,reserve,,2019,2018-2019,west
+C,Nikola Jokić,Denver Nuggets,1,,reserve,,2019,2018-2019,west
+C,Karl-Anthony Towns,Minnesota Timberwolves,2,,reserve,,2019,2018-2019,west
+F,Dirk Nowitzki,Dallas Mavericks,14,,reserve,SPL,2019,2018-2019,west
+G,Kemba Walker,Boston Celtics,4,,starter,,2020,2019-2020,east
+G,Trae Young,Atlanta Hawks,1,,starter,,2020,2019-2020,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,4,,starter,,2020,2019-2020,east
+F,Pascal Siakam,Toronto Raptors,1,,starter,,2020,2019-2020,east
+C,Joel Embiid,Philadelphia 76ers,3,,starter,,2020,2019-2020,east
+G,Kyle Lowry,Toronto Raptors,6,,reserve,,2020,2019-2020,east
+G,Ben Simmons,Philadelphia 76ers,2,,reserve,,2020,2019-2020,east
+G,Jimmy Butler,Miami Heat,5,,reserve,,2020,2019-2020,east
+F,Khris Middleton,Milwaukee Bucks,2,,reserve,,2020,2019-2020,east
+F,Bam Adebayo,Miami Heat,1,,reserve,,2020,2019-2020,east
+F,Jayson Tatum,Boston Celtics,1,,reserve,,2020,2019-2020,east
+C,Domantas Sabonis,Indiana Pacers,1,,reserve,,2020,2019-2020,east
+G,James Harden,Houston Rockets,8,,starter,,2020,2019-2020,west
+G,Luka Dončić,Dallas Mavericks,1,,starter,,2020,2019-2020,west
+F,LeBron James,Los Angeles Lakers,16,,starter,,2020,2019-2020,west
+F,Kawhi Leonard,Los Angeles Clippers,4,,starter,,2020,2019-2020,west
+C,Anthony Davis,Los Angeles Lakers,7,,starter,,2020,2019-2020,west
+G,Chris Paul,Oklahoma City Thunder,10,,reserve,,2020,2019-2020,west
+G,Russell Westbrook,Houston Rockets,9,,reserve,,2020,2019-2020,west
+G,Damian Lillard,Portland Trail Blazers,5,,reserve,INJ,2020,2019-2020,west
+G,Donovan Mitchell,Utah Jazz,1,,reserve,,2020,2019-2020,west
+F,Brandon Ingram,New Orleans Pelicans,1,,reserve,,2020,2019-2020,west
+C,Nikola Jokić,Denver Nuggets,2,,reserve,,2020,2019-2020,west
+C,Rudy Gobert,Utah Jazz,1,,reserve,,2020,2019-2020,west
+G,Devin Booker,Phoenix Suns,1,,reserve,REP,2020,2019-2020,west
+G,Bradley Beal,Washington Wizards,3,,starter,,2021,2020-2021,east
+G,Kyrie Irving,Brooklyn Nets,7,,starter,,2021,2020-2021,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,5,,starter,,2021,2020-2021,east
+F,Kevin Durant,Brooklyn Nets,11,,starter,INJ,2021,2020-2021,east
+C,Joel EmbiidCOVID,Philadelphia 76ers,4,,starter,,2021,2020-2021,east
+G,Jaylen Brown,Boston Celtics,1,,reserve,,2021,2020-2021,east
+G,James Harden,Brooklyn Nets,9,,reserve,,2021,2020-2021,east
+G,Zach LaVine,Chicago Bulls,1,,reserve,,2021,2020-2021,east
+G,Ben SimmonsCOVID,Philadelphia 76ers,3,,reserve,,2021,2020-2021,east
+F,Julius Randle,New York Knicks,1,,reserve,,2021,2020-2021,east
+F,Domantas Sabonis,Indiana Pacers,2,,reserve,REP,2021,2020-2021,east
+F,Jayson TatumST,Boston Celtics,2,,reserve,,2021,2020-2021,east
+C,Nikola Vučević,Orlando Magic,2,,reserve,,2021,2020-2021,east
+G,Stephen Curry,Golden State Warriors,7,,starter,,2021,2020-2021,west
+G,Luka Dončić,Dallas Mavericks,2,,starter,,2021,2020-2021,west
+F,LeBron James,Los Angeles Lakers,17,,starter,,2021,2020-2021,west
+F,Kawhi Leonard,Los Angeles Clippers,5,,starter,,2021,2020-2021,west
+C,Nikola Jokić,Denver Nuggets,3,,starter,,2021,2020-2021,west
+G,Devin Booker,Phoenix Suns,2,,reserve,REP,2021,2020-2021,west
+G,Mike Conley,Utah Jazz,1,,reserve,REP,2021,2020-2021,west
+G,Damian Lillard,Portland Trail Blazers,6,,reserve,,2021,2020-2021,west
+G,Donovan Mitchell,Utah Jazz,2,,reserve,,2021,2020-2021,west
+G,Chris Paul,Phoenix Suns,11,,reserve,,2021,2020-2021,west
+F,Anthony Davis,Los Angeles Lakers,8,,reserve,INJ,2021,2020-2021,west
+F,Paul George,Los Angeles Clippers,7,,reserve,,2021,2020-2021,west
+F,Zion WilliamsonST,New Orleans Pelicans,1,,reserve,,2021,2020-2021,west
+C,Rudy Gobert,Utah Jazz,2,,reserve,,2021,2020-2021,west
+G,Trae Young,Atlanta Hawks,2,,starter,,2022,2021-2022,east
+G,DeMar DeRozan,Chicago Bulls,5,,starter,,2022,2021-2022,east
+C,Joel Embiid,Philadelphia 76ers,5,,starter,,2022,2021-2022,east
+F,Kevin Durant,Brooklyn Nets,12,,starter,INJ,2022,2021-2022,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,6,,starter,,2022,2021-2022,east
+G,LaMelo Ball,Charlotte Hornets,1,,reserve,REP,2022,2021-2022,east
+G,Darius Garland,Cleveland Cavaliers,1,,reserve,,2022,2021-2022,east
+G,James Harden,Philadelphia 76ersNOTE1,10,,reserve,INJ,2022,2021-2022,east
+G,Zach LaVine,Chicago Bulls,2,,reserve,,2022,2021-2022,east
+G,Fred VanVleet,Toronto Raptors,1,,reserve,,2022,2021-2022,east
+F,Jimmy Butler,Miami Heat,6,,reserve,,2022,2021-2022,east
+F,Khris Middleton,Milwaukee Bucks,3,,reserve,,2022,2021-2022,east
+F,Jayson TatumST,Boston Celtics,3,,reserve,,2022,2021-2022,east
+C,Jarrett Allen,Cleveland Cavaliers,1,,reserve,REP,2022,2021-2022,east
+G,Stephen Curry,Golden State Warriors,8,,starter,,2022,2021-2022,west
+G,Ja Morant,Memphis Grizzlies,1,,starter,,2022,2021-2022,west
+C,Nikola Jokić,Denver Nuggets,4,,starter,,2022,2021-2022,west
+F,LeBron James,Los Angeles Lakers,18,,starter,,2022,2021-2022,west
+F,Andrew Wiggins,Golden State Warriors,1,,starter,,2022,2021-2022,west
+G,Devin Booker,Phoenix Suns,3,,reserve,,2022,2021-2022,west
+G,Luka Dončić,Dallas Mavericks,3,,reserve,,2022,2021-2022,west
+G,Donovan Mitchell,Utah Jazz,3,,reserve,,2022,2021-2022,west
+G,Dejounte Murray,San Antonio Spurs,1,,reserve,REP,2022,2021-2022,west
+G,Chris Paul,Phoenix Suns,12,,reserve,,2022,2021-2022,west
+F,Draymond Green,Golden State Warriors,4,,reserve,INJ,2022,2021-2022,west
+C,Rudy Gobert,Utah Jazz,3,,reserve,,2022,2021-2022,west
+C,Karl-Anthony Towns,Minnesota Timberwolves,3,,reserve,,2022,2021-2022,west
+G,Kyrie Irving,Dallas MavericksNOTE1,8,,starter,,2023,2022-2023,east
+G,Donovan Mitchell,Cleveland Cavaliers,4,,starter,,2023,2022-2023,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,7,,starter,,2023,2022-2023,east
+F,Kevin Durant,Phoenix SunsNOTE2,13,,starter,INJ,2023,2022-2023,east
+F,Jayson Tatum,Boston Celtics,4,,starter,,2023,2022-2023,east
+G,Jaylen Brown,Boston Celtics,2,,reserve,,2023,2022-2023,east
+G,DeMar DeRozan,Chicago Bulls,6,,reserve,,2023,2022-2023,east
+G,Tyrese Haliburton,Indiana Pacers,1,,reserve,,2023,2022-2023,east
+G,Jrue Holiday,Milwaukee Bucks,2,,reserve,,2023,2022-2023,east
+F,Julius Randle,New York Knicks,2,,reserve,,2023,2022-2023,east
+C,Bam Adebayo,Miami Heat,2,,reserve,,2023,2022-2023,east
+C,Joel EmbiidST,Philadelphia 76ers,6,,reserve,,2023,2022-2023,east
+F,Pascal Siakam,Toronto Raptors,2,,reserve,REP,2023,2022-2023,east
+G,Stephen Curry,Golden State Warriors,9,,starter,INJ,2023,2022-2023,west
+G,Luka Dončić,Dallas Mavericks,4,,starter,,2023,2022-2023,west
+C,Nikola Jokić,Denver Nuggets,5,,starter,,2023,2022-2023,west
+F,LeBron James,Los Angeles Lakers,19,,starter,,2023,2022-2023,west
+F,Zion Williamson,New Orleans Pelicans,2,,starter,INJ,2023,2022-2023,west
+G,Shai Gilgeous-Alexander,Oklahoma City Thunder,1,,reserve,,2023,2022-2023,west
+G,Damian Lillard,Portland Trail Blazers,7,,reserve,,2023,2022-2023,west
+G,Ja MorantST,Memphis Grizzlies,2,,reserve,,2023,2022-2023,west
+F,Paul George,Los Angeles Clippers,8,,reserve,,2023,2022-2023,west
+F,Jaren Jackson Jr.,Memphis Grizzlies,1,,reserve,,2023,2022-2023,west
+F,Lauri MarkkanenST,Utah Jazz,1,,reserve,,2023,2022-2023,west
+C,Domantas Sabonis,Sacramento Kings,3,,reserve,,2023,2022-2023,west
+G,Anthony Edwards,Minnesota Timberwolves,1,,reserve,REP,2023,2022-2023,west
+G,De'Aaron Fox,Sacramento Kings,1,,reserve,REP,2023,2022-2023,west
+G,Tyrese Haliburton,Indiana Pacers,2,,starter,,2024,2023-2024,east
+G,Damian Lillard,Milwaukee Bucks,8,,starter,,2024,2023-2024,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,8,,starter,,2024,2023-2024,east
+F,Jayson Tatum,Boston Celtics,5,,starter,,2024,2023-2024,east
+C,Joel Embiid,Philadelphia 76ers,7,,starter,INJ,2024,2023-2024,east
+G,Jalen Brunson,New York Knicks,1,,reserve,,2024,2023-2024,east
+G,Tyrese Maxey,Philadelphia 76ers,1,,reserve,,2024,2023-2024,east
+G,Donovan Mitchell,Cleveland Cavaliers,5,,reserve,,2024,2023-2024,east
+G,Trae Young,Atlanta Hawks,3,,reserve,REP,2024,2023-2024,east
+F,Paolo Banchero,Orlando Magic,1,,reserve,,2024,2023-2024,east
+F,Scottie Barnes,Toronto Raptors,1,,reserve,REP,2024,2023-2024,east
+F,Jaylen Brown,Boston Celtics,3,,reserve,,2024,2023-2024,east
+F,Julius Randle,New York Knicks,3,,reserve,INJ,2024,2023-2024,east
+C,Bam AdebayoST,Miami Heat,3,,reserve,,2024,2023-2024,east
+G,Luka Dončić,Dallas Mavericks,5,,starter,,2024,2023-2024,west
+G,Shai Gilgeous-Alexander,Oklahoma City Thunder,2,,starter,,2024,2023-2024,west
+F,Kevin Durant,Phoenix Suns,14,,starter,,2024,2023-2024,west
+F,LeBron James,Los Angeles Lakers,20,,starter,,2024,2023-2024,west
+C,Nikola Jokić,Denver Nuggets,6,,starter,,2024,2023-2024,west
+G,Devin Booker,Phoenix Suns,4,,reserve,,2024,2023-2024,west
+G,Stephen Curry,Golden State Warriors,10,,reserve,,2024,2023-2024,west
+G,Anthony Edwards,Minnesota Timberwolves,2,,reserve,,2024,2023-2024,west
+F,Paul George,Los Angeles Clippers,9,,reserve,,2024,2023-2024,west
+F,Kawhi Leonard,Los Angeles Clippers,6,,reserve,,2024,2023-2024,west
+F,Karl-Anthony Towns,Minnesota Timberwolves,4,,reserve,,2024,2023-2024,west
+C,Anthony Davis,Los Angeles Lakers,9,,reserve,,2024,2023-2024,west
+G,Jalen Brunson,New York Knicks,2,,starter,,2025,2024-2025,east
+G,Donovan Mitchell,Cleveland Cavaliers,6,,starter,,2025,2024-2025,east
+F,Jayson Tatum,Boston Celtics,6,,starter,,2025,2024-2025,east
+F,Giannis Antetokounmpo,Milwaukee Bucks,9,,starter,INJ,2025,2024-2025,east
+C,Karl-Anthony Towns,New York Knicks,5,,starter,,2025,2024-2025,east
+F,Jaylen Brown,Boston Celtics,4,,reserve,,2025,2024-2025,east
+G,Cade Cunningham,Detroit Pistons,1,,reserve,,2025,2024-2025,east
+G,Darius Garland,Cleveland Cavaliers,2,,reserve,,2025,2024-2025,east
+G,Tyler Herro,Miami Heat,1,,reserve,,2025,2024-2025,east
+G,Damian Lillard,Milwaukee Bucks,9,,reserve,,2025,2024-2025,east
+F,Evan Mobley,Cleveland Cavaliers,1,,reserve,,2025,2024-2025,east
+F,Pascal Siakam,Indiana Pacers,3,,reserve,,2025,2024-2025,east
+G,Trae Young,Atlanta Hawks,4,,reserve,REP,2025,2024-2025,east
+G,Shai Gilgeous-Alexander,Oklahoma City Thunder,3,,starter,,2025,2024-2025,west
+G,Stephen Curry,Golden State Warriors,11,,starter,,2025,2024-2025,west
+F,LeBron James,Los Angeles Lakers,21,,starter,INJ,2025,2024-2025,west
+F,Kevin Durant,Phoenix Suns,15,,starter,,2025,2024-2025,west
+C,Nikola Jokić,Denver Nuggets,7,,starter,,2025,2024-2025,west
+G,Anthony Edwards,Minnesota Timberwolves,3,,reserve,INJ,2025,2024-2025,west
+G,James Harden,Los Angeles Clippers,11,,reserve,,2025,2024-2025,west
+F,Jaren Jackson Jr.,Memphis Grizzlies,2,,reserve,,2025,2024-2025,west
+F,Jalen Williams,Oklahoma City Thunder,1,,reserve,,2025,2024-2025,west
+C,Anthony Davis,Dallas MavericksNOTE1,10,,reserve,INJ,2025,2024-2025,west
+C,Alperen Şengün,Houston Rockets,1,,reserve,,2025,2024-2025,west
+C,Victor Wembanyama,San Antonio Spurs,1,,reserve,,2025,2024-2025,west
+G,Kyrie Irving,Dallas Mavericks,9,,reserve,REP,2025,2024-2025,west
+F/C,Giannis Antetokounmpo,Milwaukee Bucks,10,,starter,INJ,2026,2025-2026,east
+G/F,Jaylen Brown,Boston Celtics,5,,starter,,2026,2025-2026,east
+G,Jalen Brunson,New York Knicks,3,,starter,,2026,2025-2026,east
+G/F,Cade Cunningham,Detroit Pistons,2,,starter,,2026,2025-2026,east
+G,Tyrese Maxey,Philadelphia 76ers,2,,starter,,2026,2025-2026,east
+F,Scottie Barnes,Toronto Raptors,2,,reserve,,2026,2025-2026,east
+C,Jalen Duren,Detroit Pistons,1,,reserve,,2026,2025-2026,east
+F,Brandon Ingram,Toronto Raptors,2,,reserve,REP,2026,2025-2026,east
+F,Jalen Johnson,Atlanta Hawks,1,,reserve,,2026,2025-2026,east
+G,Donovan Mitchell,Cleveland Cavaliers,7,,reserve,,2026,2025-2026,east
+G,Norman Powell,Miami Heat,1,,reserve,,2026,2025-2026,east
+F/C,Pascal Siakam,Indiana Pacers,4,,reserve,,2026,2025-2026,east
+C/F,Karl-Anthony Towns,New York Knicks,6,,reserve,,2026,2025-2026,east
+G,Stephen Curry,Golden State Warriors,12,,starter,INJ,2026,2025-2026,west
+G/F,Luka Dončić,Los Angeles Lakers,6,,starter,,2026,2025-2026,west
+G/F,Shai Gilgeous-Alexander,Oklahoma City Thunder,4,,starter,INJ,2026,2025-2026,west
+C,Nikola Jokić,Denver Nuggets,8,,starter,,2026,2025-2026,west
+C/F,Victor Wembanyama,San Antonio Spurs,2,,starter,,2026,2025-2026,west
+F,Deni Avdija,Portland Trail Blazers,1,,reserve,,2026,2025-2026,west
+G,Devin Booker,Phoenix Suns,5,,reserve,,2026,2025-2026,west
+F/C,Kevin Durant,Houston Rockets,16,,reserve,,2026,2025-2026,west
+G,Anthony Edwards,Minnesota Timberwolves,4,,reserve,,2026,2025-2026,west
+C/F,Chet Holmgren,Oklahoma City Thunder,1,,reserve,,2026,2025-2026,west
+F,LeBron James,Los Angeles Lakers,22,,reserve,,2026,2025-2026,west
+G/F,Kawhi LeonardNOTE,Los Angeles Clippers,7,,reserve,,2026,2025-2026,west
+G,Jamal Murray,Denver Nuggets,1,,reserve,,2026,2025-2026,west
+C/F,Alperen Şengün,Houston Rockets,2,,reserve,REP,2026,2025-2026,west
+G,De'Aaron Fox,San Antonio Spurs,2,,reserve,REP,2026,2025-2026,west
