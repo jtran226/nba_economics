@@ -1,0 +1,182 @@
+executive_name,start_date,end_date,franchise_id,franchise_name
+Pete Babcock,1990-02-14,2003-04-02,ATL,Atlanta Hawks
+Billy Knight,2003-04-02,2008-05-28,ATL,Atlanta Hawks
+Rick Sund,2008-05-28,2012-06-25,ATL,Atlanta Hawks
+Danny Ferry,2012-06-25,2014-09-12,ATL,Atlanta Hawks
+Mike Budenholzer,2014-09-12,2017-05-25,ATL,Atlanta Hawks
+Travis Schlenk,2017-05-25,2022-12-21,ATL,Atlanta Hawks
+Landry Fields,2022-12-21,2025-04-21,ATL,Atlanta Hawks
+Onsi Saleh,2025-04-21,,ATL,Atlanta Hawks
+Chris Wallace,2001-01-08,2003-05-09,BOS,Boston Celtics
+Danny Ainge,2003-05-09,2021-06-02,BOS,Boston Celtics
+Brad Stevens,2021-06-02,,BOS,Boston Celtics
+Jerry Krause,1985-03-26,2003-04-07,CHI,Chicago Bulls
+John Paxson,2003-04-14,2009-05-21,CHI,Chicago Bulls
+Gar Forman,2009-05-21,2020-04-13,CHI,Chicago Bulls
+Artūras Karnišovas,2020-04-13,2026-04-06,CHI,Chicago Bulls
+Bryson Graham,2026-05-04,,CHI,Chicago Bulls
+Jim Paxson,1999-06-01,2005-04-21,CLE,Cleveland Cavaliers
+Danny Ferry,2005-06-27,2010-06-04,CLE,Cleveland Cavaliers
+Chris Grant,2010-06-04,2014-02-06,CLE,Cleveland Cavaliers
+David Griffin,2014-02-06,2017-06-19,CLE,Cleveland Cavaliers
+Koby Altman,2017-06-19,,CLE,Cleveland Cavaliers
+Don Nelson,1997-02-07,2005-03-19,DAL,Dallas Mavericks
+Donn Nelson,2005-03-19,2021-06-16,DAL,Dallas Mavericks
+Nico Harrison,2021-06-28,2025-11-11,DAL,Dallas Mavericks
+Michael Finley,2025-11-11,2026-05-04,DAL,Dallas Mavericks
+Matt Riccardi,2025-11-11,2026-05-04,DAL,Dallas Mavericks
+Masai Ujiri,2026-05-04,,DAL,Dallas Mavericks
+Dan Issel,1998-03-25,2001-08-09,DEN,Denver Nuggets
+Kiki Vandeweghe,2001-08-09,2006-05-05,DEN,Denver Nuggets
+Mark Warkentien,2006-09-07,2010-08-03,DEN,Denver Nuggets
+Masai Ujiri,2010-08-27,2013-05-31,DEN,Denver Nuggets
+Tim Connelly,2013-06-17,2022-05-23,DEN,Denver Nuggets
+Calvin Booth,2022-05-23,2025-04-08,DEN,Denver Nuggets
+Ben Tenzer,2025-04-14,,DEN,Denver Nuggets
+Joe Dumars,2000-06-06,2014-04-14,DET,Detroit Pistons
+Stan Van Gundy,2014-05-14,2018-05-07,DET,Detroit Pistons
+Jeff Bower,2018-05-08,2018-06-01,DET,Detroit Pistons
+Ed Stefanski,2018-06-01,2020-06-18,DET,Detroit Pistons
+Troy Weaver,2020-06-18,2024-05-31,DET,Detroit Pistons
+Trajan Langdon,2024-06-01,,DET,Detroit Pistons
+Garry St. Jean,1997-07-12,2004-04-22,GSW,Golden State Warriors
+Chris Mullin,2004-04-22,2009-05-11,GSW,Golden State Warriors
+Larry Riley,2009-05-11,2012-04-24,GSW,Golden State Warriors
+Bob Myers,2012-04-24,2023-05-30,GSW,Golden State Warriors
+Mike Dunleavy,2023-06-16,,GSW,Golden State Warriors
+Carroll Dawson,1996-08-30,2007-05-06,HOU,Houston Rockets
+Daryl Morey,2007-05-06,2020-10-15,HOU,Houston Rockets
+Rafael Stone,2020-10-15,,HOU,Houston Rockets
+Donnie Walsh,1986-04-20,2003-07-11,IND,Indiana Pacers
+Larry Bird,2003-07-11,2012-06-27,IND,Indiana Pacers
+Donnie Walsh,2012-06-27,2013-06-27,IND,Indiana Pacers
+Larry Bird,2013-06-27,2017-05-01,IND,Indiana Pacers
+Kevin Pritchard,2017-05-01,,IND,Indiana Pacers
+Elgin Baylor,1986-04-15,2008-10-07,LAC,Los Angeles Clippers
+Mike Dunleavy,2008-10-07,2010-03-09,LAC,Los Angeles Clippers
+Neil Olshey,2010-03-09,2012-06-04,LAC,Los Angeles Clippers
+Vinny Del Negro,2012-06-04,2012-09-04,LAC,Los Angeles Clippers
+Andy Roeser,2012-06-04,2012-09-04,LAC,Los Angeles Clippers
+Gary Sacks,2012-06-04,2013-06-24,LAC,Los Angeles Clippers
+Doc Rivers,2013-06-25,2017-08-04,LAC,Los Angeles Clippers
+Lawrence Frank,2017-08-04,,LAC,Los Angeles Clippers
+Mitch Kupchak,2000-08-07,2017-02-21,LAL,Los Angeles Lakers
+Magic Johnson,2017-02-21,2019-04-09,LAL,Los Angeles Lakers
+Rob Pelinka,2019-04-09,,LAL,Los Angeles Lakers
+Billy Knight,2000-05-10,2002-04-19,MEM,Memphis Grizzlies
+Dick Versace,2002-04-19,2002-04-30,MEM,Memphis Grizzlies
+Jerry West,2002-04-30,2007-06-18,MEM,Memphis Grizzlies
+Chris Wallace,2007-06-19,2012-11-03,MEM,Memphis Grizzlies
+Jason Levien,2012-11-04,2014-05-19,MEM,Memphis Grizzlies
+Chris Wallace,2014-05-19,2019-04-11,MEM,Memphis Grizzlies
+Zach Kleiman,2019-04-11,,MEM,Memphis Grizzlies
+Randy Pfund,1996-11-18,2008-09-29,MIA,Miami Heat
+Pat Riley,2008-09-29,,MIA,Miami Heat
+Ernie Grunfeld,1999-08-13,2003-06-29,MIL,Milwaukee Bucks
+Larry Harris,2003-06-29,2008-03-19,MIL,Milwaukee Bucks
+John Hammond,2008-04-11,2017-05-23,MIL,Milwaukee Bucks
+Justin Zanik,2017-05-23,2017-06-16,MIL,Milwaukee Bucks
+Jon Horst,2017-06-16,,MIL,Milwaukee Bucks
+Kevin McHale,1995-05-11,2008-12-08,MIN,Minnesota Timberwolves
+Jim Stack,2008-12-08,2009-05-22,MIN,Minnesota Timberwolves
+David Kahn,2009-05-22,2013-05-03,MIN,Minnesota Timberwolves
+Flip Saunders,2013-05-03,2015-10-25,MIN,Minnesota Timberwolves
+Milt Newton,2015-10-25,2016-04-20,MIN,Minnesota Timberwolves
+Tom Thibodeau,2016-04-20,2019-01-06,MIN,Minnesota Timberwolves
+Scott Layden,2019-01-06,2019-05-03,MIN,Minnesota Timberwolves
+Gersson Rosas,2019-05-03,2021-09-22,MIN,Minnesota Timberwolves
+Sachin Gupta,2021-09-22,2022-05-23,MIN,Minnesota Timberwolves
+Tim Connelly,2022-05-23,,MIN,Minnesota Timberwolves
+Scott Layden,1999-08-10,2003-12-22,NYK,New York Knicks
+Isiah Thomas,2003-12-22,2008-04-02,NYK,New York Knicks
+Donnie Walsh,2008-04-02,2011-06-30,NYK,New York Knicks
+Glen Grunwald,2011-06-30,2013-09-26,NYK,New York Knicks
+Steve Mills,2013-09-26,2014-03-18,NYK,New York Knicks
+Phil Jackson,2014-03-18,2017-06-28,NYK,New York Knicks
+Steve Mills,2017-06-28,2020-02-04,NYK,New York Knicks
+Scott Perry,2020-02-04,2020-03-02,NYK,New York Knicks
+Leon Rose,2020-03-02,,NYK,New York Knicks
+Rick Sund,2001-06-01,2007-04-24,OKC,Oklahoma City Thunder
+Sam Presti,2007-06-07,,OKC,Oklahoma City Thunder
+John Gabriel,1996-04-29,2004-03-12,ORL,Orlando Magic
+John Weisbrod,2004-03-12,2005-05-23,ORL,Orlando Magic
+Dave Twardzik,2005-05-23,2006-05-03,ORL,Orlando Magic
+Otis Smith,2005-05-23,2012-05-21,ORL,Orlando Magic
+Rob Hennigan,2012-06-20,2017-04-13,ORL,Orlando Magic
+Matt Lloyd,2017-04-13,2017-05-22,ORL,Orlando Magic
+Jeff Weltman,2017-05-22,,ORL,Orlando Magic
+Billy King,1998-05-19,2007-12-04,PHI,Philadelphia 76ers
+Ed Stefanski,2007-12-04,2010-08-12,PHI,Philadelphia 76ers
+Rod Thorn,2010-08-12,2012-09-21,PHI,Philadelphia 76ers
+Tony DiLeo,2012-09-21,2013-05-14,PHI,Philadelphia 76ers
+Sam Hinkie,2013-05-14,2016-04-06,PHI,Philadelphia 76ers
+Jerry Colangelo,2016-04-07,2016-04-09,PHI,Philadelphia 76ers
+Bryan Colangelo,2016-04-10,2018-06-07,PHI,Philadelphia 76ers
+Brett Brown,2018-06-07,2018-09-18,PHI,Philadelphia 76ers
+Elton Brand,2018-09-18,2020-11-02,PHI,Philadelphia 76ers
+Daryl Morey,2020-11-02,2026-05-12,PHI,Philadelphia 76ers
+Bob Myers,2026-05-12,2026-05-29,PHI,Philadelphia 76ers
+Mike Gansey,2026-05-29,,PHI,Philadelphia 76ers
+Bryan Colangelo,1994-02-23,2006-02-27,PHO,Phoenix Suns
+Mike D'Antoni,2006-03-10,2007-06-06,PHO,Phoenix Suns
+Steve Kerr,2007-06-06,2010-06-30,PHO,Phoenix Suns
+Lance Blanks,2010-08-05,2013-04-22,PHO,Phoenix Suns
+Lon Babby,2013-04-22,2013-05-07,PHO,Phoenix Suns
+Ryan McDonough,2013-05-07,2018-10-08,PHO,Phoenix Suns
+James Jones,2018-10-08,2025-05-01,PHO,Phoenix Suns
+Brian Gregory,2025-05-01,,PHO,Phoenix Suns
+Bob Whitsitt,1994-07-12,2003-06-30,POR,Portland Trail Blazers
+John Nash,2003-07-16,2006-05-30,POR,Portland Trail Blazers
+Steve Patterson,2006-05-30,2007-03-01,POR,Portland Trail Blazers
+Tod Leiweke,2007-03-01,2007-03-29,POR,Portland Trail Blazers
+Kevin Pritchard,2007-03-29,2010-06-24,POR,Portland Trail Blazers
+Rich Cho,2010-07-19,2011-05-23,POR,Portland Trail Blazers
+Chad Buchanan,2011-05-23,2012-06-04,POR,Portland Trail Blazers
+Neil Olshey,2012-06-04,2021-12-03,POR,Portland Trail Blazers
+Joe Cronin,2021-12-03,,POR,Portland Trail Blazers
+Geoff Petrie,1994-06-01,2013-06-17,SAC,Sacramento Kings
+Pete D'Alessandro,2013-06-17,2015-03-03,SAC,Sacramento Kings
+Vlade Divac,2015-03-03,2020-08-14,SAC,Sacramento Kings
+Joe Dumars,2020-08-14,2020-09-17,SAC,Sacramento Kings
+Monte McNair,2020-09-17,2025-04-17,SAC,Sacramento Kings
+Scott Perry,2025-04-21,,SAC,Sacramento Kings
+Gregg Popovich,1994-05-31,2002-07-01,SAS,San Antonio Spurs
+R.C. Buford,2002-07-01,2019-07-23,SAS,San Antonio Spurs
+Brian Wright,2019-07-23,,SAS,San Antonio Spurs
+Glen Grunwald,1997-11-20,2004-04-01,TOR,Toronto Raptors
+Jack McCloskey,2004-04-01,2004-06-07,TOR,Toronto Raptors
+Rob Babcock,2004-06-07,2006-01-26,TOR,Toronto Raptors
+Wayne Embry,2006-01-26,2006-02-28,TOR,Toronto Raptors
+Bryan Colangelo,2006-02-28,2013-05-31,TOR,Toronto Raptors
+Masai Ujiri,2013-05-31,2025-06-27,TOR,Toronto Raptors
+Bobby Webster,2025-06-27,,TOR,Toronto Raptors
+Kevin O'Connor,1999-08-26,2012-08-07,UTA,Utah Jazz
+Dennis Lindsey,2012-08-07,2021-06-27,UTA,Utah Jazz
+Justin Zanik,2021-06-27,2021-12-15,UTA,Utah Jazz
+Danny Ainge,2021-12-15,,UTA,Utah Jazz
+Michael Jordan,2000-01-19,2001-09-26,WAS,Washington Wizards
+Wes Unseld,2001-09-26,2003-06-30,WAS,Washington Wizards
+Ernie Grunfeld,2003-06-30,2019-04-02,WAS,Washington Wizards
+Tommy Sheppard,2019-04-02,2023-04-19,WAS,Washington Wizards
+Michael Winger,2023-05-24,,WAS,Washington Wizards
+Rod Thorn,2000-06-02,2004-06-29,BRK,Brooklyn Nets
+Ed Stefanski,2004-06-29,2007-12-04,BRK,Brooklyn Nets
+Rod Thorn,2007-12-04,2008-05-08,BRK,Brooklyn Nets
+Kiki Vandeweghe,2008-05-08,2010-05-19,BRK,Brooklyn Nets
+Rod Thorn,2010-05-19,2010-07-14,BRK,Brooklyn Nets
+Billy King,2010-07-14,2016-01-10,BRK,Brooklyn Nets
+Frank Zanin,2016-01-10,2016-02-18,BRK,Brooklyn Nets
+Sean Marks,2016-02-18,,BRK,Brooklyn Nets
+Bob Bass,1995-06-13,2002-05-15,CHO,Charlotte Hornets
+Bernie Bickerstaff,2003-10-16,2007-05-31,CHO,Charlotte Hornets
+Rod Higgins,2007-05-31,2011-06-14,CHO,Charlotte Hornets
+Rich Cho,2011-06-14,2018-04-08,CHO,Charlotte Hornets
+Mitch Kupchak,2018-04-08,2024-02-12,CHO,Charlotte Hornets
+Jeff Peterson,2024-03-05,,CHO,Charlotte Hornets
+Bob Bass,2002-05-16,2004-06-17,NOP,New Orleans Pelicans
+Allan Bristow,2004-06-17,2005-10-01,NOP,New Orleans Pelicans
+Jeff Bower,2005-10-01,2010-07-13,NOP,New Orleans Pelicans
+Dell Demps,2010-07-21,2019-02-15,NOP,New Orleans Pelicans
+Danny Ferry,2019-02-15,2019-04-17,NOP,New Orleans Pelicans
+David Griffin,2019-04-17,2025-04-14,NOP,New Orleans Pelicans
+Joe Dumars,2025-04-17,,NOP,New Orleans Pelicans
