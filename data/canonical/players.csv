@@ -1,0 +1,2585 @@
+player_id,player_name,country,college,draft_year,draft_round,draft_number
+3,Grant Long,USA,Eastern Michigan,1988,2,33
+15,Eric Piatkowski,USA,Nebraska,1994,1,15
+21,Greg Anthony,USA,UNLV,1991,1,12
+26,Luc Longley,Australia,New Mexico,1991,1,7
+28,Doug West,USA,Villanova,1989,2,38
+29,Jim McIlvaine,USA,Marquette,1994,2,32
+42,Monty Williams,USA,Notre Dame,1994,1,24
+43,Chris Whitney,USA,Clemson,1993,2,47
+45,George McCloud,USA,Florida State,1989,1,7
+51,Mahmoud Abdul-Rauf,USA,Louisiana State,1990,1,3
+53,Mario Elie,USA,American International,1985,7,160
+54,Dickey Simpkins,USA,Providence,1994,1,21
+56,Gary Payton,USA,Oregon State,1990,1,2
+57,Doug Christie,USA,Pepperdine,1992,1,17
+63,Michael Smith,USA,Providence,1994,2,35
+64,Sam Perkins,USA,North Carolina,1984,1,4
+67,Tom Hammonds,USA,Georgia Tech,1989,1,9
+70,Steve Kerr,USA,Arizona,1988,2,50
+72,Kenny Anderson,USA,Georgia Tech,1991,1,2
+76,Cedric Ceballos,USA,California State-Fullerton,1990,2,48
+77,Doug Overton,USA,La Salle,1991,2,40
+84,Latrell Sprewell,USA,Alabama,1992,1,24
+85,Brent Price,USA,Oklahoma,1992,2,32
+87,Dikembe Mutombo,Democratic Republic of the Congo,Georgetown,1991,1,4
+89,Nick Van Exel,USA,Cincinnati,1993,2,37
+93,Hubert Davis,USA,North Carolina,1992,1,20
+95,Mark Bryant,USA,Seton Hall,1988,1,21
+96,Detlef Schrempf,Germany,Washington,1985,1,8
+98,Nick Anderson,USA,Illinois,1989,1,11
+103,Todd Day,USA,Arkansas,1992,1,8
+105,Dan Majerle,USA,Central Michigan,1988,1,14
+109,Robert Horry,USA,Alabama,1992,1,11
+111,LaPhonso Ellis,USA,Notre Dame,1992,1,5
+120,Steven Smith,USA,Michigan State,1991,1,5
+121,Patrick Ewing,Jamaica,Georgetown,1985,1,1
+123,Robert Pack,USA,Southern California,Undrafted,Undrafted,Undrafted
+124,Vlade Divac,Serbia,,1989,1,26
+128,David Benoit,USA,Alabama,Undrafted,Undrafted,Undrafted
+133,David Wesley,USA,Baylor,Undrafted,Undrafted,Undrafted
+136,P.J. Brown,USA,Louisiana Tech,1992,2,29
+137,Vernon Maxwell,USA,Florida,1988,2,47
+145,Tracy Murray,USA,UCLA,1992,1,18
+146,Jud Buechler,USA,Arizona,1990,2,38
+147,Jalen Rose,USA,Michigan,1994,1,13
+164,Chris Childs,USA,Boise State,Undrafted,Undrafted,Undrafted
+165,Hakeem Olajuwon,Nigeria,Houston,1984,1,1
+166,Ron Harper,USA,Miami (Ohio),1986,1,8
+168,Chris Mills,USA,Arizona,1993,1,22
+176,Antonio Harvey,USA,Pfeiffer,Undrafted,Undrafted,Undrafted
+177,Muggsy Bogues,USA,Wake Forest,1987,1,12
+178,Olden Polynice,Haiti,Virginia,1987,1,8
+179,Bryant Stith,USA,Virginia,1992,1,13
+180,John Crotty,USA,Virginia,Undrafted,Undrafted,Undrafted
+182,Billy Owens,USA,Syracuse,1991,1,3
+185,Chris Webber,USA,Michigan,1993,1,1
+190,Duane Causwell,USA,Temple,1990,1,18
+193,Anthony Mason,USA,Tennessee State,1988,3,53
+197,Scott Burrell,USA,Connecticut,1993,1,20
+198,Danny Ferry,USA,Duke,1989,1,2
+201,Chris Dudley,USA,Yale,1987,4,75
+202,Gary Grant,USA,Michigan,1988,1,15
+208,Sam Cassell,USA,Florida State,1993,1,24
+209,Dell Curry,USA,Virginia Tech,1986,1,15
+210,Terrell Brandon,USA,Oregon,1991,1,11
+213,Antonio Davis,USA,Texas-El Paso,1990,2,45
+216,Brian Shaw,USA,California-Santa Barbara,1988,1,24
+219,Vinny Del Negro,USA,North Carolina State,1988,2,29
+221,Clar. Weatherspoon,USA,Southern Mississippi,1992,1,9
+223,Bill Curley,USA,Boston College,1994,1,22
+224,Eddie Jones,USA,Temple,1994,1,10
+228,Adam Keefe,USA,Stanford,1992,1,10
+236,Kevin Edwards,USA,DePaul,1988,1,20
+238,Tyrone Hill,USA,Xavier,1990,1,11
+239,Darrick Martin,USA,UCLA,Undrafted,Undrafted,Undrafted
+243,Aaron McKie,USA,Temple,1994,1,17
+244,Dee Brown,USA,Jacksonville,1990,1,19
+248,George Lynch,USA,North Carolina,1993,1,12
+251,Sean Elliott,USA,Arizona,1989,1,3
+252,Karl Malone,USA,Louisiana Tech,1985,1,13
+255,Grant Hill,USA,Duke,1994,1,3
+258,Brian Grant,USA,Xavier,1994,1,8
+270,Horace Grant,USA,Clemson,1987,1,10
+271,Johnny Newman,USA,Richmond,1986,2,29
+275,Allan Houston,USA,Tennessee,1993,1,11
+278,Stacey Augmon,USA,UNLV,1991,1,9
+280,Felton Spencer,USA,Louisville,1990,1,6
+281,Scott Williams,USA,North Carolina,Undrafted,Undrafted,Undrafted
+283,Lindsey Hunter,USA,Jackson State,1993,1,10
+292,Anthony Miller,USA,Michigan State,1994,2,39
+296,Rick Fox,Canada,North Carolina,1991,1,24
+297,Alonzo Mourning,USA,Georgetown,1992,1,2
+299,Glenn Robinson,USA,Purdue,1994,1,1
+302,Mookie Blaylock,USA,Oklahoma,1989,1,12
+304,John Stockton,USA,Gonzaga,1984,1,16
+317,John Starks,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+323,Greg Foster,USA,Texas-El Paso,1990,2,35
+324,Anthony Peeler,USA,Missouri,1992,1,15
+330,Danny Manning,USA,Kansas,1988,1,1
+339,Tom Gugliotta,USA,North Carolina State,1992,1,6
+344,Dana Barros,USA,Boston College,1989,1,16
+345,Terry Porter,USA,Wisconsin-Stevens Point,1985,1,24
+348,Mitchell Butler,USA,UCLA,Undrafted,Undrafted,Undrafted
+349,Mark Jackson,USA,St. John's (NY),1987,1,18
+353,Darrell Armstrong,USA,Fayetteville State,Undrafted,Undrafted,Undrafted
+358,Anfernee Hardaway,USA,Memphis State,1993,1,3
+359,Chucky Brown,USA,North Carolina State,1989,2,43
+361,Clifford Robinson,USA,Connecticut,1989,2,36
+363,Christian Laettner,USA,Duke,1992,1,3
+365,Derrick McKey,USA,Alabama,1987,1,9
+369,Charlie Ward,USA,Florida State,1994,1,26
+371,Terry Mills,USA,Michigan,1990,1,16
+375,Isaiah Rider,USA,UNLV,1993,1,5
+376,Eric Montross,USA,North Carolina,1994,1,9
+380,Tony Smith,USA,Marquette,1990,2,51
+381,James Robinson,USA,Alabama,1993,1,21
+383,Kendall Gill,USA,Illinois,1990,1,5
+384,Calbert Cheaney,USA,Indiana,1993,1,6
+386,Elliot Perry,USA,Memphis,1991,2,37
+389,Toni Kukoc,Croatia,,1990,2,29
+393,Rod Strickland,USA,DePaul,1988,1,19
+397,Reggie Miller,USA,UCLA,1987,1,11
+399,Sean Rooks,USA,Arizona,1992,2,30
+400,Derek Strong,USA,Xavier,1990,2,47
+406,Shaquille O'Neal,USA,Louisiana State,1992,1,1
+417,Sam Mitchell,USA,Mercer,1985,3,54
+422,Avery Johnson,USA,Southern,Undrafted,Undrafted,Undrafted
+423,Chris Gatling,USA,Old Dominion,1991,1,16
+426,Terry Davis,USA,Virginia Union,Undrafted,Undrafted,Undrafted
+428,Sherman Douglas,USA,Syracuse,1989,2,28
+431,Shawn Kemp,USA,Concord HS (IN),1989,1,17
+435,Carlos Rogers,USA,Tennessee State,1994,1,11
+436,Juwan Howard,USA,Michigan,1994,1,5
+440,Zan Tabak,Croatia,,1991,2,51
+441,Lamond Murray,USA,California,1994,1,7
+442,Pervis Ellison,USA,Louisville,1989,1,1
+445,Wesley Person,USA,Auburn,1994,1,23
+446,Lucious Harris,USA,Long Beach State,1993,2,28
+448,Bo Outlaw,USA,Houston,Undrafted,Undrafted,Undrafted
+452,Vin Baker,USA,Hartford,1993,1,8
+458,Howard Eisley,USA,Boston College,1994,2,30
+461,Popeye Jones,USA,Murray State,1992,2,41
+462,J.R. Reid,USA,North Carolina,1989,1,5
+467,Jason Kidd,USA,California,1994,1,2
+468,Jon Barry,USA,Georgia Tech,1992,1,21
+469,Jamal Mashburn,USA,Kentucky,1993,1,4
+672,Matt Bullard,USA,Iowa,Undrafted,Undrafted,Undrafted
+673,Alan Henderson,USA,Indiana,1995,1,16
+677,Eric Williams,USA,Providence,1995,1,14
+679,Jason Caffey,USA,Alabama,1995,1,20
+680,John Amaechi,United Kingdom,Penn State,Undrafted,Undrafted,Undrafted
+681,Donny Marshall,USA,Connecticut,1995,2,39
+682,Bob Sura,USA,Florida State,1995,1,17
+685,Cherokee Parks,USA,Duke,1995,1,12
+686,Antonio McDyess,USA,Alabama,1995,1,2
+688,Michael Curry,USA,Georgia Southern,Undrafted,Undrafted,Undrafted
+689,Theo Ratliff,USA,Wyoming,1995,1,18
+690,Don Reid,USA,Georgetown,1995,2,58
+692,Andrew DeClercq,USA,Florida,1995,2,34
+693,Joe Smith,USA,Maryland,1995,1,1
+694,Sam Mack,USA,Houston,Undrafted,Undrafted,Undrafted
+695,Eldridge Recasner,USA,Washington,1992,,
+696,Travis Best,USA,Georgia Tech,1995,1,23
+697,Fred Hoiberg,USA,Iowa State,1995,2,52
+699,Brent Barry,USA,Oregon State,1995,1,15
+702,Voshon Lenard,USA,Minnesota,1994,2,46
+703,Kurt Thomas,USA,TCU,1995,1,10
+708,Kevin Garnett,USA,,1995,1,5
+711,Jerry Stackhouse,USA,North Carolina,1995,1,3
+713,Chris Carr,USA,Southern Illinois,1995,2,56
+714,Michael Finley,USA,Wisconsin,1995,1,21
+715,John Coker,USA,Boise State,Undrafted,Undrafted,Undrafted
+717,Arvydas Sabonis,Lithuania,,1986,1,24
+718,Gary Trent,USA,Ohio,1995,1,11
+721,Tyus Edney,USA,UCLA,1995,2,47
+722,Corliss Williamson,USA,Arkansas,1995,1,13
+724,Cory Alexander,USA,Virginia,1995,1,29
+727,Eric Snow,USA,Michigan State,1995,2,43
+731,Greg Ostertag,USA,Kansas,1995,1,28
+735,Bryant Reeves,USA,Oklahoma State,1995,1,6
+739,Rasheed Wallace,USA,North Carolina,1995,1,4
+753,Randy Brown,USA,New Mexico State,1991,2,31
+754,Jim Jackson,USA,Ohio State,1992,1,4
+757,Damon Stoudamire,USA,Arizona,1995,1,7
+760,Jerome Kersey,USA,Longwood,1984,2,46
+761,Matt Geiger,USA,Georgia Tech,1992,2,42
+762,Shawn Bradley,USA,Brigham Young,1993,1,2
+763,Tony Massenburg,USA,Maryland,1990,2,43
+764,David Robinson,USA,Navy,1987,1,1
+765,Hersey Hawkins,USA,Bradley,1988,1,6
+766,David Wingate,USA,Georgetown,1986,2,44
+779,Glen Rice,USA,Michigan,1989,1,4
+781,Will Perdue,USA,Vanderbilt,1988,1,11
+782,Mitch Richmond,USA,Kansas State,1988,1,5
+788,Kevin Willis,USA,Michigan State,1984,1,11
+891,Charles Oakley,USA,Virginia Union,1985,1,9
+893,Michael Jordan,USA,North Carolina,1984,1,3
+895,Tyrone Corbin,USA,DePaul,1985,2,35
+896,Tim Hardaway,USA,Texas-El Paso,1989,1,14
+901,Otis Thorpe,USA,Providence,1984,1,9
+902,Bimbo Coles,USA,Virginia Tech,1990,2,40
+904,Chris Mullin,USA,St. John's (NY),1985,1,7
+905,Dale Davis,USA,Clemson,1991,1,13
+911,Ervin Johnson,USA,New Orleans,1993,1,23
+913,Larry Johnson,USA,UNLV,1991,1,1
+915,Rodney Rogers,USA,Wake Forest,1993,1,9
+916,Corie Blount,USA,Cincinnati,1993,1,25
+919,Loy Vaught,USA,Michigan,1990,1,13
+920,A.C. Green,USA,Oregon State,1985,1,23
+922,Elden Campbell,USA,Clemson,1990,1,27
+923,Donyell Marshall,USA,Connecticut,1994,1,4
+924,Anthony Goldwire,USA,Houston,1994,2,52
+931,Don MacLean,USA,UCLA,1992,1,19
+932,Oliver Miller,USA,Arkansas,1992,1,22
+934,Derrick Coleman,USA,Syracuse,1990,1,1
+935,Bryon Russell,USA,Long Beach State,1993,2,45
+937,Scottie Pippen,USA,Central Arkansas,1987,1,5
+947,Allen Iverson,USA,Georgetown,1996,1,1
+948,Marcus Camby,USA,Massachusetts,1996,1,2
+949,Shareef Abdur-Rahim,USA,California,1996,1,3
+950,Stephon Marbury,USA,Georgia Tech,1996,1,4
+951,Ray Allen,USA,Connecticut,1996,1,5
+952,Antoine Walker,USA,Kentucky,1996,1,6
+953,Lorenzen Wright,USA,Memphis,1996,1,7
+954,Kerry Kittles,USA,Villanova,1996,1,8
+955,Samaki Walker,USA,Louisville,1996,1,9
+956,Erick Dampier,USA,Mississippi State,1996,1,10
+957,Todd Fuller,USA,North Carolina State,1996,1,11
+958,Vitaly Potapenko,Ukraine,Wright State,1996,1,12
+959,Steve Nash,Canada,Santa Clara,1996,1,15
+960,Tony Delk,USA,Kentucky,1996,1,16
+961,John Wallace,USA,Syracuse,1996,1,18
+962,Walter McCarty,USA,Kentucky,1996,1,19
+965,Derek Fisher,USA,Arkansas-Little Rock,1996,1,24
+966,Jerome Williams,USA,Georgetown,1996,1,26
+969,Travis Knight,USA,Connecticut,1996,1,29
+970,Othella Harrington,USA,Georgetown,1996,2,30
+976,Jeff McInnis,USA,North Carolina,1996,2,37
+977,Kobe Bryant,USA,,1996,1,13
+978,Peja Stojakovic,Serbia,,1996,1,14
+979,Jermaine O'Neal,USA,,1996,1,17
+980,Zydrunas Ilgauskas,Lithuania,,1996,1,20
+981,Efthimios Rentzias,Greece,,1996,1,23
+983,Moochie Norris,USA,West Florida,1996,2,33
+988,Randy Livingston,USA,Louisiana State,1996,2,42
+990,Malik Rose,USA,Drexel,1996,2,44
+994,Jamie Feick,USA,Michigan State,1996,2,48
+998,Mark Pope,USA,Kentucky,1996,2,52
+1000,Shandon Anderson,USA,Georgia,1996,2,54
+1005,Walt Williams,USA,Maryland,1992,1,7
+1023,Emanual Davis,USA,Delaware State,Undrafted,Undrafted,Undrafted
+1032,Darvin Ham,USA,Texas Tech,Undrafted,Undrafted,Undrafted
+1035,Shawnelle Scott,USA,St. John's (NY),1994,2,43
+1038,Juaquin Hawkins,USA,Long Beach State,Undrafted,Undrafted,Undrafted
+1043,Amal McCaskill,USA,Marquette,1996,2,49
+1049,Shane Heal,Australia,,Undrafted,Undrafted,Undrafted
+1051,Dean Garrett,USA,Indiana,1988,2,38
+1052,Ben Handlogten,USA,Western Michigan,Undrafted,Undrafted,Undrafted
+1065,Erick Strickland,USA,Nebraska,Undrafted,Undrafted,Undrafted
+1073,Reggie Slater,USA,Wyoming,Undrafted,Undrafted,Undrafted
+1074,Matt Maloney,USA,Pennsylvania,Undrafted,Undrafted,Undrafted
+1085,Ira Bowman,USA,Pennsylvania,Undrafted,Undrafted,Undrafted
+1088,Chucky Atkins,USA,South Florida,Undrafted,Undrafted,Undrafted
+1110,Mark Strickland,USA,Temple,Undrafted,Undrafted,Undrafted
+1112,Ben Wallace,USA,Virginia Union,Undrafted,Undrafted,Undrafted
+1114,Jaren Jackson,USA,Georgetown,Undrafted,Undrafted,Undrafted
+1134,Ike Austin,USA,Arizona State,1991,2,48
+1138,Michael Hawkins,USA,Xavier,Undrafted,Undrafted,Undrafted
+1425,Aaron Williams,USA,Xavier,Undrafted,Undrafted,Undrafted
+1434,Dragan Tarlac,Serbia,,1995,2,31
+1442,Zeljko Rebraca,Serbia,,1994,2,54
+1444,Lawrence Funderburke,USA,Ohio State,1994,2,51
+1477,Bruce Bowen,USA,California State-Fullerton,Undrafted,Undrafted,Undrafted
+1495,Tim Duncan,US Virgin Islands,Wake Forest,1997,1,1
+1496,Keith Van Horn,USA,Utah,1997,1,2
+1497,Chauncey Billups,USA,Colorado,1997,1,3
+1498,Antonio Daniels,USA,Bowling Green,1997,1,4
+1499,Tony Battie,USA,Texas Tech,1997,1,5
+1500,Ron Mercer,USA,Kentucky,1997,1,6
+1501,Tim Thomas,USA,Villanova,1997,1,7
+1502,Adonal Foyle,St. Vincent & Grenadines,Colgate,1997,1,8
+1503,Tracy McGrady,USA,,1997,1,9
+1504,Danny Fortson,USA,Cincinnati,1997,1,10
+1505,Tariq Abdul-Wahad,France,San Jose State,1997,1,11
+1506,Austin Croshere,USA,Providence,1997,1,12
+1507,Derek Anderson,USA,Kentucky,1997,1,13
+1508,Maurice Taylor,USA,Michigan,1997,1,14
+1509,Kelvin Cato,USA,Iowa State,1997,1,15
+1510,Brevin Knight,USA,Stanford,1997,1,16
+1513,Scot Pollard,USA,Kansas,1997,1,19
+1514,Paul Grant,USA,Wisconsin,1997,1,20
+1515,Anthony Parker,USA,Bradley,1997,1,21
+1517,Bobby Jackson,USA,Minnesota,1997,1,23
+1519,John Thomas,USA,Minnesota,1997,1,25
+1520,Charles Smith,USA,New Mexico,1997,1,26
+1521,Jacque Vaughn,USA,Kansas,1997,1,27
+1531,Marc Jackson,USA,Temple,1997,2,37
+1533,Anthony Johnson,USA,College of Charleston,1997,2,39
+1536,Stephen Jackson,USA,Butler C.C. (KS),1997,2,42
+1538,Cedric Henderson,USA,Memphis,1997,2,44
+1541,Alvin Williams,USA,Villanova,1997,2,47
+1542,Predrag Drobnjak,Serbia,,1997,2,48
+1544,Chris Crawford,USA,Marquette,1997,2,50
+1548,Mark Blount,USA,Pittsburgh,1997,2,54
+1554,Jamal Robinson,USA,Virginia,1997,,
+1559,Adrian Griffin,USA,Seton Hall,Undrafted,Undrafted,Undrafted
+1562,Gerard King,USA,Nicholls State,Undrafted,Undrafted,Undrafted
+1563,Kevin Ollie,USA,Connecticut,Undrafted,Undrafted,Undrafted
+1564,Etdrick Bohannon,USA,Auburn-Montgomery,Undrafted,Undrafted,Undrafted
+1565,Michael Stewart,USA,California,Undrafted,Undrafted,Undrafted
+1572,Nate Huffman,USA,Central Michigan,Undrafted,Undrafted,Undrafted
+1585,Brandon Williams,USA,Davidson,Undrafted,Undrafted,Undrafted
+1594,Rick Brunson,USA,Temple,Undrafted,Undrafted,Undrafted
+1600,Kornel David,USA,,Undrafted,Undrafted,Undrafted
+1601,Rusty LaRue,USA,Wake Forest,Undrafted,Undrafted,Undrafted
+1607,Troy Hudson,USA,Southern Illinois,Undrafted,Undrafted,Undrafted
+1609,Art Long,USA,Cincinnati,Undrafted,Undrafted,Undrafted
+1612,Chris Garner,USA,Memphis,Undrafted,Undrafted,Undrafted
+1630,Mikki Moore,USA,Nebraska,Undrafted,Undrafted,Undrafted
+1683,Larry Robinson,USA,Centenary-Louisiana,Undrafted,Undrafted,Undrafted
+1709,Michael Olowokandi,Nigeria,Pacific,1998,1,1
+1710,Mike Bibby,USA,Arizona,1998,1,2
+1711,Raef LaFrentz,USA,Kansas,1998,1,3
+1712,Antawn Jamison,USA,North Carolina,1998,1,4
+1713,Vince Carter,USA,North Carolina,1998,1,5
+1714,Robert Traylor,USA,Michigan,1998,1,6
+1715,Jason Williams,USA,Florida,1998,1,7
+1716,Larry Hughes,USA,St. Louis,1998,1,8
+1717,Dirk Nowitzki,Germany,,1998,1,9
+1718,Paul Pierce,USA,Kansas,1998,1,10
+1719,Bonzi Wells,USA,Ball State,1998,1,11
+1720,Michael Doleac,USA,Utah,1998,1,12
+1721,Keon Clark,USA,UNLV,1998,1,13
+1722,Michael Dickerson,USA,Arizona,1998,1,14
+1723,Matt Harpring,USA,Georgia Tech,1998,1,15
+1724,Bryce Drew,USA,Valparaiso,1998,1,16
+1725,Rasho Nesterovic,Slovenia,,1998,1,17
+1727,Pat Garrity,USA,Notre Dame,1998,1,19
+1728,Roshown McLeod,USA,Duke,1998,1,20
+1729,Ricky Davis,USA,Iowa,1998,1,21
+1730,Brian Skinner,USA,Baylor,1998,1,22
+1731,Tyronn Lue,USA,Nebraska,1998,1,23
+1732,Felipe Lopez,Dominican Republic,St. John's (NY),1998,1,24
+1733,Al Harrington,USA,,1998,1,25
+1734,Sam Jacobson,USA,Minnesota,1998,1,26
+1735,Vladimir Stepania,Georgia,,1998,1,27
+1736,Corey Benjamin,USA,Oregon State,1998,1,28
+1737,Nazr Mohammed,USA,Kentucky,1998,1,29
+1738,Ansu Sesay,USA,Mississippi,1998,2,30
+1739,Ruben Patterson,USA,Cincinnati,1998,2,31
+1740,Rashard Lewis,USA,,1998,2,32
+1741,Jelani McCoy,USA,UCLA,1998,2,33
+1742,Shammond Williams,USA,North Carolina,1998,2,34
+1743,Bruno Sundov,Croatia,,1998,2,35
+1744,Jerome James,USA,Florida A&M,1998,2,36
+1747,Rafer Alston,USA,Fresno State,1998,2,39
+1749,Cuttino Mobley,USA,Rhode Island,1998,2,41
+1751,Jahidi White,USA,Georgetown,1998,2,43
+1752,Sean Marks,New Zealand,California,1998,2,44
+1760,Derrick Dial,USA,Eastern Michigan,1998,2,52
+1761,Greg Buckner,USA,Clemson,1998,2,53
+1762,Tremaine Fowlkes,USA,Fresno State,1998,2,54
+1763,Ryan Bowen,USA,Iowa,1998,2,55
+1765,Torraye Braggs,USA,Xavier,1998,2,57
+1766,Maceo Baston,USA,Michigan,1998,2,58
+1800,Damon Jones,USA,Houston,Undrafted,Undrafted,Undrafted
+1802,Brad Miller,USA,Purdue,Undrafted,Undrafted,Undrafted
+1829,Ike Fontaine,USA,Washington State,Undrafted,Undrafted,Undrafted
+1838,Tyrone Nesby,USA,UNLV,Undrafted,Undrafted,Undrafted
+1853,Anthony Carter,USA,Hawaii,Undrafted,Undrafted,Undrafted
+1863,Earl Boykins,USA,Eastern Michigan,Undrafted,Undrafted,Undrafted
+1864,Steve Goodrich,USA,Princeton,Undrafted,Undrafted,Undrafted
+1882,Elton Brand,USA,Duke,1999,1,1
+1883,Steve Francis,USA,Maryland,1999,1,2
+1884,Baron Davis,USA,UCLA,1999,1,3
+1885,Lamar Odom,USA,Rhode Island,1999,1,4
+1886,Jonathan Bender,USA,,1999,1,5
+1887,Wally Szczerbiak,USA,Miami (Ohio),1999,1,6
+1888,Richard Hamilton,USA,Connecticut,1999,1,7
+1889,Andre Miller,USA,Utah,1999,1,8
+1890,Shawn Marion,USA,UNLV,1999,1,9
+1891,Jason Terry,USA,Arizona,1999,1,10
+1892,Trajan Langdon,USA,Duke,1999,1,11
+1893,Aleksandar Radojevic,Bosnia and Herzegovina,,1999,1,12
+1894,Corey Maggette,USA,Duke,1999,1,13
+1895,William Avery,USA,Duke,1999,1,14
+1897,Metta World Peace,USA,St. John's (NY),1999,1,16
+1898,Cal Bowdler,USA,Old Dominion,1999,1,17
+1899,James Posey,USA,Xavier,1999,1,18
+1900,Quincy Lewis,USA,Minnesota,1999,1,19
+1901,Dion Glover,USA,Georgia Tech,1999,1,20
+1902,Jeff Foster,USA,Southwest Texas State,1999,1,21
+1903,Kenny Thomas,USA,New Mexico,1999,1,22
+1904,Devean George,USA,Augsburg,1999,1,23
+1905,Andrei Kirilenko,Russia,,1999,1,24
+1906,Tim James,USA,Miami,1999,1,25
+1907,Vonteego Cummings,USA,Pittsburgh,1999,1,26
+1908,Jumaine Jones,USA,Georgia,1999,1,27
+1909,Scott Padgett,USA,Kentucky,1999,1,28
+1910,Leon Smith,USA,,1999,1,29
+1913,Michael Ruffin,USA,Tulsa,1999,2,32
+1914,Chris Herren,USA,Fresno State,1999,2,33
+1915,Evan Eschmeyer,USA,Northwestern,1999,2,34
+1916,Calvin Booth,USA,Penn State,1999,2,35
+1917,Wang Zhi-zhi,China,,1999,2,36
+1918,Obinna Ekezie,Nigeria,Maryland,1999,2,37
+1919,Laron Profit,USA,Maryland,1999,2,38
+1921,Gordan Giricek,Croatia,,1999,2,40
+1922,Francisco Elson,Netherlands,California,1999,2,41
+1924,Lee Nailon,USA,TCU,1999,2,43
+1928,Todd MacCulloch,Canada,Washington,1999,2,47
+1930,Lari Ketner,USA,Massachusetts,1999,2,49
+1934,Rodney Buford,USA,Creighton,1999,2,53
+1938,Manu Ginobili,Argentina,,1999,2,57
+1942,Harold Jamison,USA,Clemson,Undrafted,Undrafted,Undrafted
+1944,Eddie Robinson,USA,Central Oklahoma,Undrafted,Undrafted,Undrafted
+1950,Andy Panko,USA,Lebanon Valley,Undrafted,Undrafted,Undrafted
+1952,Raja Bell,US Virgin Islands,Florida International,Undrafted,Undrafted,Undrafted
+1956,Ira Newble,USA,Miami (Ohio),Undrafted,Undrafted,Undrafted
+1960,Milt Palacio,Belize,Colorado State,Undrafted,Undrafted,Undrafted
+1975,Jamel Thomas,USA,Providence,Undrafted,Undrafted,Undrafted
+1983,Jermaine Jackson,USA,Detroit,Undrafted,Undrafted,Undrafted
+1985,Zendon Hamilton,USA,St. John's (NY),Undrafted,Undrafted,Undrafted
+2030,Kenyon Martin,USA,Cincinnati,2000,1,1
+2031,Stromile Swift,USA,Louisiana State,2000,1,2
+2032,Darius Miles,USA,,2000,1,3
+2033,Marcus Fizer,USA,Iowa State,2000,1,4
+2034,Mike Miller,USA,Florida,2000,1,5
+2035,DerMarr Johnson,USA,Cincinnati,2000,1,6
+2036,Chris Mihm,USA,Texas,2000,1,7
+2037,Jamal Crawford,USA,Michigan,2000,1,8
+2038,Joel Przybilla,USA,Minnesota,2000,1,9
+2039,Keyon Dooling,USA,Missouri,2000,1,10
+2040,Jerome Moiso,France,UCLA,2000,1,11
+2041,Etan Thomas,USA,Syracuse,2000,1,12
+2042,Courtney Alexander,USA,Fresno State,2000,1,13
+2043,Mateen Cleaves,USA,Michigan State,2000,1,14
+2044,Jason Collier,USA,Georgia Tech,2000,1,15
+2045,Hedo Turkoglu,Turkey,,2000,1,16
+2046,Desmond Mason,USA,Oklahoma State,2000,1,17
+2047,Quentin Richardson,USA,DePaul,2000,1,18
+2048,Jamaal Magloire,Canada,Kentucky,2000,1,19
+2049,Speedy Claxton,USA,Hofstra,2000,1,20
+2050,Morris Peterson,USA,Michigan State,2000,1,21
+2051,Donnell Harvey,USA,Florida,2000,1,22
+2052,DeShawn Stevenson,USA,,2000,1,23
+2053,Dalibor Bagaric,Croatia,,2000,1,24
+2054,Jake Tsakalidis,Greece,,2000,1,25
+2055,Mamadou N'diaye,Senegal,Auburn,2000,1,26
+2056,Primoz Brezec,Slovenia,,2000,1,27
+2057,Erick Barkley,USA,St. John's (NY),2000,1,28
+2058,Mark Madsen,USA,Stanford,2000,1,29
+2059,Eduardo Najera,Mexico,Oklahoma,2000,2,38
+2060,Marko Jaric,Serbia,,2000,2,30
+2061,Dan Langhi,USA,Vanderbilt,2000,2,31
+2062,A.J. Guyton,USA,Indiana,2000,2,32
+2063,Jake Voskuhl,USA,Connecticut,2000,2,33
+2064,Khalid El-Amin,USA,Connecticut,2000,2,34
+2065,Mike Smith,USA,Louisiana-Monroe,2000,2,35
+2066,Soumaila Samake,Mali,,2000,2,36
+2067,Eddie House,USA,Arizona State,2000,2,37
+2068,Lavor Postell,USA,St. John's (NY),2000,2,39
+2069,Hanno Mottola,Finland,Utah,2000,2,40
+2071,Olumide Oyedeji,Nigeria,,2000,2,42
+2072,Michael Redd,USA,Ohio State,2000,2,43
+2073,Brian Cardinal,USA,Purdue,2000,2,44
+2074,Jabari Smith,USA,Louisiana State,2000,2,45
+2078,Jason Hart,USA,Syracuse,2000,2,49
+2079,Kaniel Dickens,USA,Idaho,2000,2,50
+2080,Igor Rakocevic,Serbia,,2000,2,51
+2081,Ernest Brown,USA,Indian Hills C.C.,2000,2,52
+2082,Dan McClintock,USA,Northern Arizona,2000,2,53
+2084,Chris Porter,USA,Auburn,2000,2,55
+2091,Daniel Santiago,Puerto Rico,St. Vincent,Undrafted,Undrafted,Undrafted
+2092,Ruben Garces,USA,Providence,Undrafted,Undrafted,Undrafted
+2098,Slava Medvedenko,Ukraine,,Undrafted,Undrafted,Undrafted
+2101,Paul McPherson,USA,DePaul,Undrafted,Undrafted,Undrafted
+2106,Ruben Wolkowyski,Argentina,,Undrafted,Undrafted,Undrafted
+2109,Eddie Gill,USA,Weber State,Undrafted,Undrafted,Undrafted
+2121,Terrance Roberson,USA,Fresno State,Undrafted,Undrafted,Undrafted
+2123,Garth Joseph,USA,St. Rose,Undrafted,Undrafted,Undrafted
+2124,Malik Allen,USA,Villanova,Undrafted,Undrafted,Undrafted
+2128,David Vanterpool,USA,St. Bonaventure,Undrafted,Undrafted,Undrafted
+2130,Mike Penberthy,USA,The Master's College,Undrafted,Undrafted,Undrafted
+2137,Ime Udoka,USA,Portland State,Undrafted,Undrafted,Undrafted
+2143,Pepe Sanchez,Argentina,Temple,Undrafted,Undrafted,Undrafted
+2173,Sean Colson,USA,North Carolina-Charlotte,Undrafted,Undrafted,Undrafted
+2198,Kwame Brown,USA,,2001,1,1
+2199,Tyson Chandler,USA,,2001,1,2
+2200,Pau Gasol,Spain,,2001,1,3
+2201,Eddy Curry,USA,,2001,1,4
+2202,Jason Richardson,USA,Michigan State,2001,1,5
+2203,Shane Battier,USA,Duke,2001,1,6
+2204,Eddie Griffin,USA,Seton Hall,2001,1,7
+2205,DeSagana Diop,Senegal,,2001,1,8
+2206,Rodney White,USA,North Carolina-Charlotte,2001,1,9
+2207,Joe Johnson,USA,Arkansas,2001,1,10
+2208,Kedrick Brown,USA,Northwest Florida State,2001,1,11
+2209,Vladimir Radmanovic,Serbia,,2001,1,12
+2210,Richard Jefferson,USA,Arizona,2001,1,13
+2211,Troy Murphy,USA,Notre Dame,2001,1,14
+2212,Steven Hunter,USA,DePaul,2001,1,15
+2213,Kirk Haston,USA,Indiana,2001,1,16
+2214,Michael Bradley,USA,Villanova,2001,1,17
+2215,Jason Collins,USA,Stanford,2001,1,18
+2216,Zach Randolph,USA,Michigan State,2001,1,19
+2217,Brendan Haywood,USA,North Carolina,2001,1,20
+2218,Joseph Forte,USA,North Carolina,2001,1,21
+2219,Jeryl Sasser,USA,Southern Methodist,2001,1,22
+2220,Brandon Armstrong,USA,Pepperdine,2001,1,23
+2221,Raul Lopez,Spain,,2001,1,24
+2222,Gerald Wallace,USA,Alabama,2001,1,25
+2223,Samuel Dalembert,Haiti,Seton Hall,2001,1,26
+2224,Jamaal Tinsley,USA,Iowa State,2001,1,27
+2225,Tony Parker,France,,2001,1,28
+2226,Will Solomon,USA,Clemson,2001,2,32
+2228,Alton Ford,USA,Houston,2001,2,50
+2229,Mike James,USA,Duquesne,Undrafted,Undrafted,Undrafted
+2230,Maurice Evans,USA,Texas,Undrafted,Undrafted,Undrafted
+2237,Ratko Varda,Bosnia and Herzegovina,,Undrafted,Undrafted,Undrafted
+2238,Antonis Fotsis,Greece,,2001,2,47
+2239,Trenton Hassell,USA,Austin Peay,2001,2,29
+2240,Gilbert Arenas,USA,Arizona,2001,2,30
+2241,Omar Cook,USA,St. John's (NY),2001,2,31
+2242,Terence Morris,USA,Maryland,2001,2,33
+2243,Brian Scalabrine,USA,Southern California,2001,2,34
+2244,Jeff Trepagnier,USA,Southern California,2001,2,35
+2245,Damone Brown,USA,Syracuse,2001,2,36
+2246,Mehmet Okur,Turkey,,2001,2,37
+2248,Earl Watson,USA,UCLA,2001,2,39
+2249,Jamison Brewer,USA,Auburn,2001,2,40
+2250,Bobby Simmons,USA,DePaul,2001,2,41
+2253,Sean Lampley,USA,California,2001,2,44
+2254,Loren Woods,USA,Arizona,2001,2,45
+2256,Ken Johnson,USA,Ohio State,2001,2,48
+2257,Ruben Boumtje-Boumtje,USA,Georgetown,2001,2,49
+2260,Jarron Collins,USA,Stanford,2001,2,52
+2261,Kenny Satterfield,USA,Cincinnati,2001,2,53
+2264,Alvin Jones,USA,Georgia Tech,2001,2,56
+2294,Charlie Bell,USA,Michigan State,Undrafted,Undrafted,Undrafted
+2306,Carlos Arroyo,Puerto Rico,Florida International,Undrafted,Undrafted,Undrafted
+2321,Paul Shirley,USA,Iowa State,Undrafted,Undrafted,Undrafted
+2343,Joe Crispin,USA,Penn State,Undrafted,Undrafted,Undrafted
+2347,Tang Hamilton,USA,Mississippi State,Undrafted,Undrafted,Undrafted
+2349,Victor Alexander,USA,Iowa State,1991,1,17
+2351,Oscar Torres,Venezuela,,Undrafted,Undrafted,Undrafted
+2352,Dean Oliver,USA,Iowa,Undrafted,Undrafted,Undrafted
+2357,Tierre Brown,USA,McNeese State,Undrafted,Undrafted,Undrafted
+2365,Chris Andersen,USA,Blinn J.C.,Undrafted,Undrafted,Undrafted
+2366,Mike Wilks,USA,Rice,Undrafted,Undrafted,Undrafted
+2367,Geno Carlisle,USA,California,Undrafted,Undrafted,Undrafted
+2369,Norman Richardson,USA,Hofstra,Undrafted,Undrafted,Undrafted
+2370,Mengke Bateer,China,,Undrafted,Undrafted,Undrafted
+2397,Yao Ming,China,,2002,1,1
+2398,Jay Williams,USA,Duke,2002,1,2
+2399,Mike Dunleavy,USA,Duke,2002,1,3
+2400,Drew Gooden,USA,Kansas,2002,1,4
+2401,Nikoloz Tskitishvili,Georgia,,2002,1,5
+2402,Dajuan Wagner,USA,Memphis,2002,1,6
+2403,Nene,Brazil,,2002,1,7
+2404,Chris Wilcox,USA,Maryland,2002,1,8
+2405,Amar'e Stoudemire,USA,,2002,1,9
+2406,Caron Butler,USA,Connecticut,2002,1,10
+2407,Jared Jeffries,USA,Indiana,2002,1,11
+2408,Melvin Ely,USA,Fresno State,2002,1,12
+2409,Marcus Haislip,USA,Tennessee,2002,1,13
+2410,Fred Jones,USA,Oregon,2002,1,14
+2411,Bostjan Nachbar,Slovenia,,2002,1,15
+2412,Jiri Welsch,Czech Republic,,2002,1,16
+2413,Juan Dixon,USA,Maryland,2002,1,17
+2414,Curtis Borchardt,USA,Stanford,2002,1,18
+2415,Ryan Humphrey,USA,Notre Dame,2002,1,19
+2416,Kareem Rush,USA,Missouri,2002,1,20
+2417,Qyntel Woods,USA,Northeast Mississippi CC,2002,1,21
+2418,Casey Jacobsen,USA,Stanford,2002,1,22
+2419,Tayshaun Prince,USA,Kentucky,2002,1,23
+2420,Nenad Krstic,Serbia,,2002,1,24
+2421,Frank Williams,USA,Illinois,2002,1,25
+2422,John Salmons,USA,Miami,2002,1,26
+2423,Chris Jefferies,USA,Fresno State,2002,1,27
+2424,Dan Dickau,USA,Gonzaga,2002,1,28
+2425,Robert Archibald,Scotland,Illinois,2002,2,31
+2427,Roger Mason Jr.,USA,Virginia,2002,2,30
+2428,Vincent Yarbrough,USA,Tennessee,2002,2,32
+2429,Dan Gadzuric,Netherlands,UCLA,2002,2,33
+2430,Carlos Boozer,USA,Duke,2002,2,34
+2431,David Andersen,Australia,,2002,2,36
+2432,Tito Maddox,USA,Fresno State,2002,2,37
+2434,Juan Carlos Navarro,Spain,,2002,2,39
+2435,Mario Kasun,Croatia,,2002,2,40
+2436,Flip Murray,USA,Shaw,2002,2,41
+2437,Lonny Baxter,USA,Maryland,2002,2,43
+2440,Matt Barnes,USA,UCLA,2002,2,45
+2441,Jamal Sampson,USA,California,2002,2,46
+2442,Chris Owens,USA,Texas,2002,2,47
+2443,Darius Songaila,Lithuania,Wake Forest,2002,2,49
+2446,Rasual Butler,USA,La Salle,2002,2,52
+2447,Tamar Slay,USA,Marshall,2002,2,53
+2449,Luis Scola,Argentina,,2002,2,55
+2450,Randy Holcomb,USA,San Diego State,2002,2,56
+2451,Corsley Edwards,USA,Central Connecticut State,2002,2,57
+2452,J.R. Bremer,USA,St. Bonaventure,Undrafted,Undrafted,Undrafted
+2453,Predrag Savovic,Serbia,Hawaii,Undrafted,Undrafted,Undrafted
+2454,Junior Harrington,USA,Wingate,Undrafted,Undrafted,Undrafted
+2456,Cezary Trybanski,Poland,,Undrafted,Undrafted,Undrafted
+2457,Jannero Pargo,USA,Arkansas,Undrafted,Undrafted,Undrafted
+2462,Guy Rucker,USA,Iowa,1999,,
+2466,Maurice Carter,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+2469,Pat Burke,Ireland,Auburn,Undrafted,Undrafted,Undrafted
+2470,Smush Parker,USA,Fordham,Undrafted,Undrafted,Undrafted
+2471,Mike Batiste,USA,Arizona State,Undrafted,Undrafted,Undrafted
+2484,Devin Brown,USA,Texas-San Antonio,Undrafted,Undrafted,Undrafted
+2486,Maurice Baker,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+2492,Adam Harrington,USA,Auburn,Undrafted,Undrafted,Undrafted
+2499,Richie Frahm,USA,Gonzaga,Undrafted,Undrafted,Undrafted
+2501,Reggie Evans,USA,Iowa,Undrafted,Undrafted,Undrafted
+2541,Antoine Rigaudeau,France,,Undrafted,Undrafted,Undrafted
+2544,LeBron James,USA,,2003,1,1
+2545,Darko Milicic,Serbia,,2003,1,2
+2546,Carmelo Anthony,USA,Syracuse,2003,1,3
+2547,Chris Bosh,USA,Georgia Tech,2003,1,4
+2548,Dwyane Wade,USA,Marquette,2003,1,5
+2549,Chris Kaman,USA,Central Michigan,2003,1,6
+2550,Kirk Hinrich,USA,Kansas,2003,1,7
+2551,T.J. Ford,USA,Texas,2003,1,8
+2552,Michael Sweetney,USA,Georgetown,2003,1,9
+2553,Jarvis Hayes,USA,Georgia,2003,1,10
+2554,Mickael Pietrus,France,,2003,1,11
+2555,Nick Collison,USA,Kansas,2003,1,12
+2556,Marcus Banks,USA,UNLV,2003,1,13
+2557,Luke Ridnour,USA,Oregon,2003,1,14
+2558,Reece Gaines,USA,Louisville,2003,1,15
+2559,Troy Bell,USA,Boston College,2003,1,16
+2560,Zarko Cabarkapa,Serbia,,2003,1,17
+2561,David West,USA,Xavier,2003,1,18
+2562,Sasha Pavlovic,Montenegro,,2003,1,19
+2563,Dahntay Jones,USA,Duke,2003,1,20
+2564,Boris Diaw,France,,2003,1,21
+2565,Zoran Planinic,Croatia,,2003,1,22
+2566,Travis Outlaw,USA,,2003,1,23
+2567,Brian Cook,USA,Illinois,2003,1,24
+2568,Carlos Delfino,Argentina,,2003,1,25
+2569,Ndudi Ebi,USA,,2003,1,26
+2570,Kendrick Perkins,USA,,2003,1,27
+2571,Leandro Barbosa,Brazil,,2003,1,28
+2572,Josh Howard,USA,Wake Forest,2003,1,29
+2573,Maciej Lampe,Poland,,2003,2,30
+2574,Jason Kapono,USA,UCLA,2003,2,31
+2575,Luke Walton,USA,Arizona,2003,2,32
+2580,Travis Hansen,USA,Brigham Young,2003,2,37
+2581,Steve Blake,USA,Maryland,2003,2,38
+2582,Slavko Vranes,Montenegro,,2003,2,39
+2583,Derrick Zimmerman,USA,Mississippi State,2003,2,40
+2584,Willie Green,USA,Detroit Mercy,2003,2,41
+2585,Zaza Pachulia,Georgia,,2003,2,42
+2586,Keith Bogans,USA,Kentucky,2003,2,43
+2588,Matt Bonner,USA,Florida,2003,2,45
+2590,Mo Williams,USA,Alabama,2003,2,47
+2591,James Lang,USA,,2003,2,48
+2592,James Jones,USA,Miami,2003,2,49
+2594,Kyle Korver,USA,Creighton,2003,2,51
+2599,Brandon Hunter,USA,Ohio,2003,2,56
+2601,Andreas Glyniadakis,Greece,,2003,2,58
+2602,Jerome Beasley,USA,North Dakota,2003,2,33
+2604,Theron Smith,USA,Ball State,Undrafted,Undrafted,Undrafted
+2605,Marquis Daniels,USA,Auburn,Undrafted,Undrafted,Undrafted
+2617,Udonis Haslem,USA,Florida,Undrafted,Undrafted,Undrafted
+2624,Quinton Ross,USA,Southern Methodist,Undrafted,Undrafted,Undrafted
+2632,Kirk Penney,USA,Wisconsin,Undrafted,Undrafted,Undrafted
+2637,Alex Scales,USA,Oregon,Undrafted,Undrafted,Undrafted
+2639,Britton Johnsen,USA,Utah,Undrafted,Undrafted,Undrafted
+2648,Ronald Dupree,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+2657,Yuta Tabuse,USA,Brigham Young-Hawaii,Undrafted,Undrafted,Undrafted
+2667,Desmond Penigar,USA,Utah State,Undrafted,Undrafted,Undrafted
+2668,Josh Davis,USA,Wyoming,Undrafted,Undrafted,Undrafted
+2669,Linton Johnson,USA,Tulane,Undrafted,Undrafted,Undrafted
+2673,Hiram Fuller,USA,Fresno State,Undrafted,Undrafted,Undrafted
+2679,Matt Carroll,USA,Notre Dame,Undrafted,Undrafted,Undrafted
+2682,Alex Garcia,Brazil,,Undrafted,Undrafted,Undrafted
+2684,Melvin Sanders,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+2688,Brandin Knight,USA,Pittsburgh,Undrafted,Undrafted,Undrafted
+2693,Keith McLeod,USA,Bowling Green,Undrafted,Undrafted,Undrafted
+2694,Josh Powell,USA,North Carolina State,Undrafted,Undrafted,Undrafted
+2696,Lynn Greer,USA,Temple,Undrafted,Undrafted,Undrafted
+2724,Desmond Ferguson,USA,Detroit,Undrafted,Undrafted,Undrafted
+2730,Dwight Howard,USA,,2004,1,1
+2731,Emeka Okafor,USA,Connecticut,2004,1,2
+2732,Ben Gordon,USA,Connecticut,2004,1,3
+2733,Shaun Livingston,USA,,2004,1,4
+2734,Devin Harris,USA,Wisconsin,2004,1,5
+2735,Josh Childress,USA,Stanford,2004,1,6
+2736,Luol Deng,United Kingdom,Duke,2004,1,7
+2737,Rafael Araujo,Brazil,Brigham Young,2004,1,8
+2738,Andre Iguodala,USA,Arizona,2004,1,9
+2739,Luke Jackson,USA,Oregon,2004,1,10
+2740,Andris Biedrins,Latvia,,2004,1,11
+2741,Robert Swift,USA,,2004,1,12
+2742,Sebastian Telfair,USA,,2004,1,13
+2743,Kris Humphries,USA,Minnesota,2004,1,14
+2744,Al Jefferson,USA,,2004,1,15
+2745,Kirk Snyder,USA,Nevada,2004,1,16
+2746,Josh Smith,USA,,2004,1,17
+2747,JR Smith,USA,,2004,1,18
+2748,Dorell Wright,USA,,2004,1,19
+2749,Jameer Nelson,USA,St. Joseph's (PA),2004,1,20
+2750,Pavel Podkolzin,Russia,,2004,1,21
+2751,Viktor Khryapa,Russia,,2004,1,22
+2752,Sergei Monia,Russia,,2004,1,23
+2753,Delonte West,USA,St. Joseph's (PA),2004,1,24
+2754,Tony Allen,USA,Oklahoma State,2004,1,25
+2755,Kevin Martin,USA,Western Carolina,2004,1,26
+2756,Sasha Vujacic,Slovenia,,2004,1,27
+2757,Beno Udrih,Slovenia,,2004,1,28
+2758,David Harrison,USA,Colorado,2004,1,29
+2760,Anderson Varejao,Brazil,,2004,2,30
+2761,Jackson Vroman,USA,Iowa State,2004,2,31
+2762,Peter John Ramos,Puerto Rico,,2004,2,32
+2763,Lionel Chalmers,USA,Xavier,2004,2,33
+2764,Donta Smith,USA,Southeastern Illinois,2004,2,34
+2765,Andre Emmett,USA,Texas Tech,2004,2,35
+2766,Antonio Burks,USA,Memphis,2004,2,36
+2767,Royal Ivey,USA,Texas,2004,2,37
+2768,Chris Duhon,USA,Duke,2004,2,38
+2770,Justin Reed,USA,Mississippi,2004,2,40
+2772,Trevor Ariza,USA,UCLA,2004,2,43
+2774,Bernard Robinson,USA,Michigan,2004,2,45
+2775,Ha Ha,South Korea,,2004,2,46
+2776,Pape Sow,Senegal,California State-Fullerton,2004,2,47
+2779,Vassilis Spanoulis,Greece,,2004,2,50
+2782,Matt Freije,USA,Vanderbilt,2004,2,53
+2784,Luis Flores,USA,Manhattan,2004,2,55
+2788,DJ Mbenga,Belgium,,Undrafted,Undrafted,Undrafted
+2798,Horace Jenkins,USA,William Paterson,Undrafted,Undrafted,Undrafted
+2800,Tony Bobbitt,USA,Cincinnati,Undrafted,Undrafted,Undrafted
+2804,Andres Nocioni,Argentina,,Undrafted,Undrafted,Undrafted
+2809,Gerald Fitch,USA,Kentucky,Undrafted,Undrafted,Undrafted
+2810,Andre Brown,USA,DePaul,Undrafted,Undrafted,Undrafted
+2823,John Edwards,USA,Kent State,Undrafted,Undrafted,Undrafted
+2824,Desmon Farmer,USA,Southern California,Undrafted,Undrafted,Undrafted
+2825,Ibrahim Kutluay,Turkey,,Undrafted,Undrafted,Undrafted
+2839,James Thomas,USA,Texas,Undrafted,Undrafted,Undrafted
+2845,Erik Daniels,USA,Kentucky,Undrafted,Undrafted,Undrafted
+2852,Awvee Storey,USA,Arizona State,Undrafted,Undrafted,Undrafted
+2853,Earl Barron,USA,Memphis,Undrafted,Undrafted,Undrafted
+2857,Andre Barrett,USA,Seton Hall,Undrafted,Undrafted,Undrafted
+2863,Damien Wilkins,USA,Georgia,Undrafted,Undrafted,Undrafted
+2866,Jackie Butler,USA,,Undrafted,Undrafted,Undrafted
+2867,Kasib Powell,USA,Texas Tech,Undrafted,Undrafted,Undrafted
+2873,Billy Thomas,USA,Kansas,Undrafted,Undrafted,Undrafted
+2876,Jared Reiner,USA,Iowa,Undrafted,Undrafted,Undrafted
+2891,Mark Jones,USA,St. Bonaventure,1983,4,82
+101106,Andrew Bogut,Australia,Utah,2005,1,1
+101107,Marvin Williams,USA,North Carolina,2005,1,2
+101108,Chris Paul,USA,Wake Forest,2005,1,4
+101109,Raymond Felton,USA,North Carolina,2005,1,5
+101110,Martell Webster,USA,,2005,1,6
+101111,Charlie Villanueva,USA,Connecticut,2005,1,7
+101112,Channing Frye,USA,Arizona,2005,1,8
+101113,Ike Diogu,USA,Arizona State,2005,1,9
+101114,Deron Williams,USA,Illinois,2005,1,3
+101115,Andrew Bynum,USA,,2005,1,10
+101117,Yaroslav Korolev,Russia,,2005,1,12
+101118,Sean May,USA,North Carolina,2005,1,13
+101119,Rashad McCants,USA,North Carolina,2005,1,14
+101120,Antoine Wright,USA,Texas A&M,2005,1,15
+101121,Joey Graham,USA,Oklahoma State,2005,1,16
+101122,Danny Granger,USA,New Mexico,2005,1,17
+101123,Gerald Green,USA,,2005,1,18
+101124,Hakim Warrick,USA,Syracuse,2005,1,19
+101125,Julius Hodge,USA,North Carolina State,2005,1,20
+101126,Nate Robinson,USA,Washington,2005,1,21
+101127,Jarrett Jack,USA,Georgia Tech,2005,1,22
+101128,Francisco Garcia,Dominican Republic,Louisville,2005,1,23
+101129,Luther Head,USA,Illinois,2005,1,24
+101130,Johan Petro,France,,2005,1,25
+101131,Jason Maxiell,USA,Cincinnati,2005,1,26
+101132,Linas Kleiza,Lithuania,Missouri,2005,1,27
+101133,Ian Mahinmi,France,,2005,1,28
+101134,Wayne Simien,USA,Kansas,2005,1,29
+101135,David Lee,USA,Florida,2005,1,30
+101136,Salim Stoudamire,USA,Arizona,2005,2,31
+101137,Daniel Ewing,USA,Duke,2005,2,32
+101138,Brandon Bass,USA,Louisiana State,2005,2,33
+101139,CJ Miles,USA,,2005,2,34
+101141,Ersan Ilyasova,Turkey,,2005,2,36
+101142,Ronny Turiaf,France,Gonzaga,2005,2,37
+101143,Travis Diener,USA,Marquette,2005,2,38
+101144,Von Wafer,USA,Florida State,2005,2,39
+101145,Monta Ellis,USA,,2005,2,40
+101146,Roko Ukic,Croatia,,2005,2,41
+101147,Chris Taft,USA,Pittsburgh,2005,2,42
+101148,Mile Ilic,Serbia,,2005,2,43
+101149,Martynas Andriuskevicius,Lithuania,,2005,2,44
+101150,Lou Williams,USA,,2005,2,45
+101152,Bracey Wright,USA,Indiana,2005,2,47
+101153,Mickael Gelabale,France,,2005,2,48
+101154,Andray Blatche,USA,,2005,2,49
+101155,Ryan Gomes,USA,Providence,2005,2,50
+101156,Robert Whaley,USA,Walsh,2005,2,51
+101158,Orien Greene,USA,Louisiana-Lafayette,2005,2,53
+101159,Dijon Thompson,USA,UCLA,2005,2,54
+101160,Lawrence Roberts,USA,Mississippi State,2005,2,55
+101161,Amir Johnson,USA,,2005,2,56
+101162,Marcin Gortat,Poland,,2005,2,57
+101165,Alex Acker,USA,Pepperdine,2005,2,60
+101166,Uros Slokar,Slovenia,,2005,2,58
+101177,Fabricio Oberto,Argentina,,Undrafted,Undrafted,Undrafted
+101178,Arvydas Macijauskas,Lithuania,,Undrafted,Undrafted,Undrafted
+101179,Ronnie Price,USA,Utah Valley,Undrafted,Undrafted,Undrafted
+101180,Sarunas Jasikevicius,Lithuania,Maryland,Undrafted,Undrafted,Undrafted
+101181,Jose Calderon,Spain,,Undrafted,Undrafted,Undrafted
+101182,Donell Taylor,USA,Alabama-Birmingham,Undrafted,Undrafted,Undrafted
+101183,Shavlik Randolph,USA,Duke,Undrafted,Undrafted,Undrafted
+101184,Deng Gai,South Sudan,Fairfield,Undrafted,Undrafted,Undrafted
+101185,Rawle Marshall,USA,Oakland,Undrafted,Undrafted,Undrafted
+101187,Alan Anderson,USA,Michigan State,Undrafted,Undrafted,Undrafted
+101188,Eddie Basden,USA,North Carolina-Charlotte,Undrafted,Undrafted,Undrafted
+101189,James Singleton,USA,Murray State,Undrafted,Undrafted,Undrafted
+101190,Matt Walsh,USA,Florida,Undrafted,Undrafted,Undrafted
+101194,Anthony Roberson,USA,Florida,Undrafted,Undrafted,Undrafted
+101195,Luke Schenscher,USA,Georgia Tech,Undrafted,Undrafted,Undrafted
+101198,Will Bynum,USA,Georgia Tech,Undrafted,Undrafted,Undrafted
+101204,Dwayne Jones,USA,St. Joseph's (PA),Undrafted,Undrafted,Undrafted
+101207,Kevin Burleson,USA,Minnesota,Undrafted,Undrafted,Undrafted
+101209,Devin Green,USA,Hampton,Undrafted,Undrafted,Undrafted
+101211,Stephen Graham,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+101212,Esteban Batista,Uruguay,,Undrafted,Undrafted,Undrafted
+101213,Sharrod Ford,USA,Clemson,Undrafted,Undrafted,Undrafted
+101214,Jawad Williams,USA,North Carolina,Undrafted,Undrafted,Undrafted
+101215,Will Conroy,USA,Washington,Undrafted,Undrafted,Undrafted
+101219,Anthony Grundy,USA,North Carolina State,Undrafted,Undrafted,Undrafted
+101223,Aaron Miles,USA,Kansas,Undrafted,Undrafted,Undrafted
+101230,Noel Felix,USA,Fresno State,Undrafted,Undrafted,Undrafted
+101232,Roger Powell,USA,Illinois,Undrafted,Undrafted,Undrafted
+101235,Kelenna Azubuike,United Kingdom,Kentucky,Undrafted,Undrafted,Undrafted
+101236,Chuck Hayes,USA,Kentucky,Undrafted,Undrafted,Undrafted
+101238,Boniface Ndong,Senegal,,Undrafted,Undrafted,Undrafted
+101247,Keith Langford,USA,Kansas,Undrafted,Undrafted,Undrafted
+101249,John Lucas III,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+101261,Andre Owens,USA,Houston,Undrafted,Undrafted,Undrafted
+200081,Jamario Moon,USA,Meridian CC,Undrafted,Undrafted,Undrafted
+200745,Andrea Bargnani,Italy,,2006,1,1
+200746,LaMarcus Aldridge,USA,University of Texas at Austin,2006,1,2
+200747,Adam Morrison,USA,Gonzaga,2006,1,3
+200748,Tyrus Thomas,USA,Louisiana State,2006,1,4
+200749,Shelden Williams,USA,Duke,2006,1,5
+200750,Brandon Roy,USA,Washington,2006,1,6
+200751,Randy Foye,USA,Villanova,2006,1,7
+200752,Rudy Gay,USA,Connecticut,2006,1,8
+200753,Patrick O'Bryant,USA,Bradley,2006,1,9
+200754,Mouhamed Sene,Senegal,,2006,1,10
+200755,JJ Redick,USA,Duke,2006,1,11
+200756,Hilton Armstrong,USA,Connecticut,2006,1,12
+200757,Thabo Sefolosha,Switzerland,,2006,1,13
+200758,Ronnie Brewer,USA,Arkansas,2006,1,14
+200759,Cedric Simmons,USA,North Carolina State,2006,1,15
+200760,Rodney Carney,USA,Memphis,2006,1,16
+200761,Shawne Williams,USA,Memphis,2006,1,17
+200762,Oleksiy Pecherov,Ukraine,,2006,1,18
+200763,Quincy Douby,USA,Rutgers,2006,1,19
+200764,Renaldo Balkman,USA,South Carolina,2006,1,20
+200765,Rajon Rondo,USA,Kentucky,2006,1,21
+200766,Marcus Williams,USA,Connecticut,2006,1,22
+200767,Josh Boone,USA,Connecticut,2006,1,23
+200768,Kyle Lowry,USA,Villanova,2006,1,24
+200769,Shannon Brown,USA,Michigan State,2006,1,25
+200770,Jordan Farmar,USA,UCLA,2006,1,26
+200771,Sergio Rodriguez,Spain,,2006,1,27
+200772,Maurice Ager,USA,Michigan State,2006,1,28
+200776,Mardy Collins,USA,Temple,2006,1,29
+200777,Joel Freeland,United Kingdom,,2006,1,30
+200778,James White,USA,Cincinnati,2006,2,31
+200779,Steve Novak,USA,Marquette,2006,2,32
+200780,Solomon Jones,USA,South Florida,2006,2,33
+200781,Paul Davis,USA,Michigan State,2006,2,34
+200782,P.J. Tucker,USA,Texas,2006,2,35
+200783,Craig Smith,USA,Boston College,2006,2,36
+200784,Bobby Jones,USA,Washington,2006,2,37
+200785,Kosta Perovic,Serbia,,2006,2,38
+200786,David Noel,USA,North Carolina,2006,2,39
+200788,James Augustine,USA,Illinois,2006,2,41
+200789,Daniel Gibson,USA,Texas,2006,2,42
+200790,Marcus Vinicius,Brazil,,2006,2,43
+200792,Alexander Johnson,USA,Florida State,2006,2,45
+200793,Dee Brown,USA,Illinois,2006,2,46
+200794,Paul Millsap,USA,Louisiana Tech,2006,2,47
+200796,Leon Powe,USA,California,2006,2,49
+200797,Ryan Hollins,USA,UCLA,2006,2,50
+200798,Cheikh Samb,Senegal,,2006,2,51
+200799,Guillermo Diaz,USA,Miami,2006,2,52
+200801,Hassan Adams,USA,Arizona,2006,2,54
+200806,Damir Markota,Croatia,,2006,2,59
+200807,Will Blalock,USA,Iowa State,2006,2,60
+200809,Chris Quinn,USA,Notre Dame,Undrafted,Undrafted,Undrafted
+200810,Allan Ray,USA,Villanova,Undrafted,Undrafted,Undrafted
+200811,Lou Amundson,USA,UNLV,Undrafted,Undrafted,Undrafted
+200814,Tarence Kinsey,USA,South Carolina,Undrafted,Undrafted,Undrafted
+200816,Jorge Garbajosa,Spain,,Undrafted,Undrafted,Undrafted
+200817,Pooh Jeter,USA,Portland,Undrafted,Undrafted,Undrafted
+200818,Justin Williams,USA,Wyoming,Undrafted,Undrafted,Undrafted
+200821,Yakhouba Diawara,USA,Pepperdine,Undrafted,Undrafted,Undrafted
+200822,Pops Mensah-Bonsu,USA,George Washington,Undrafted,Undrafted,Undrafted
+200823,Robert Hite,USA,Miami,Undrafted,Undrafted,Undrafted
+200826,J.J. Barea,Puerto Rico,Northeastern,Undrafted,Undrafted,Undrafted
+200827,Darius Washington,USA,Memphis,Undrafted,Undrafted,Undrafted
+200829,Ivan McFarlin,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+200835,Walter Herrmann,Argentina,,Undrafted,Undrafted,Undrafted
+200837,Mike Hall,USA,George Washington,Undrafted,Undrafted,Undrafted
+200838,Kevinn Pinkney,USA,Nevada,Undrafted,Undrafted,Undrafted
+200839,Mike Harris,USA,Rice,Undrafted,Undrafted,Undrafted
+200840,Chris McCray,USA,Maryland,Undrafted,Undrafted,Undrafted
+200841,Cedric Bozeman,USA,UCLA,Undrafted,Undrafted,Undrafted
+200848,Steven Smith,USA,La Salle,Undrafted,Undrafted,Undrafted
+200970,Renaldo Major,USA,Fresno State,Undrafted,Undrafted,Undrafted
+200971,Dontell Jefferson,USA,Arkansas,Undrafted,Undrafted,Undrafted
+200978,Jeremy Richardson,USA,Delta State,Undrafted,Undrafted,Undrafted
+200984,Lance Allred,USA,Weber State,Undrafted,Undrafted,Undrafted
+201041,Walker Russell,USA,Jacksonville State,1982,4,78
+201043,Randolph Morris,USA,Kentucky,Undrafted,Undrafted,Undrafted
+201141,Greg Oden,USA,Ohio State,2007,1,1
+201142,Kevin Durant,USA,Texas,2007,1,2
+201143,Al Horford,Dominican Republic,Florida,2007,1,3
+201144,Mike Conley,USA,Ohio State,2007,1,4
+201145,Jeff Green,USA,Georgetown,2007,1,5
+201146,Yi Jianlian,China,,2007,1,6
+201147,Corey Brewer,USA,Florida,2007,1,7
+201148,Brandan Wright,USA,North Carolina,2007,1,8
+201149,Joakim Noah,USA,Florida,2007,1,9
+201150,Spencer Hawes,USA,Washington,2007,1,10
+201151,Acie Law,USA,Texas A&M,2007,1,11
+201152,Thaddeus Young,USA,Georgia Tech,2007,1,12
+201153,Julian Wright,USA,Kansas,2007,1,13
+201154,Al Thornton,USA,Florida State,2007,1,14
+201155,Rodney Stuckey,USA,Eastern Washington,2007,1,15
+201156,Nick Young,USA,Southern California,2007,1,16
+201157,Sean Williams,USA,Boston College,2007,1,17
+201158,Marco Belinelli,Italy,,2007,1,18
+201159,Javaris Crittenton,USA,Georgia Tech,2007,1,19
+201160,Jason Smith,USA,Colorado State,2007,1,20
+201161,Daequan Cook,USA,Ohio State,2007,1,21
+201162,Jared Dudley,USA,Boston College,2007,1,22
+201163,Wilson Chandler,USA,DePaul,2007,1,23
+201164,Rudy Fernandez,Spain,,2007,1,24
+201165,Morris Almond,USA,Rice,2007,1,25
+201166,Aaron Brooks,USA,Oregon,2007,1,26
+201167,Arron Afflalo,USA,UCLA,2007,1,27
+201168,Tiago Splitter,Brazil,,2007,1,28
+201169,Alando Tucker,USA,Wisconsin,2007,1,29
+201171,Carl Landry,USA,Purdue,2007,2,31
+201172,Gabe Pruitt,USA,Southern California,2007,2,32
+201173,Marcus Williams,USA,Arizona,2007,2,33
+201174,Nick Fazekas,USA,Nevada,2007,2,34
+201175,Glen Davis,USA,Louisiana State,2007,2,35
+201176,Jermareo Davidson,USA,Alabama,2007,2,36
+201177,Josh McRoberts,USA,Duke,2007,2,37
+201178,Kyrylo Fesenko,Ukraine,,2007,2,38
+201180,Sun Sun,China,,2007,2,40
+201181,Chris Richard,USA,Florida,2007,2,41
+201182,Derrick Byars,USA,Vanderbilt,2007,2,42
+201186,Stephane Lasme,Gabon,Massachusetts,2007,2,46
+201187,Dominic McGuire,USA,Fresno State,2007,2,47
+201188,Marc Gasol,Spain,,2007,2,48
+201189,Aaron Gray,USA,Pittsburgh,2007,2,49
+201191,JamesOn Curry,USA,Oklahoma State,2007,2,51
+201192,Taurean Green,USA,Florida,2007,2,52
+201193,Demetris Nichols,USA,Syracuse,2007,2,53
+201196,Ramon Sessions,USA,Nevada-Reno,2007,2,56
+201199,DJ Strawberry,USA,Maryland,2007,2,59
+201202,Joel Anthony,Canada,UNLV,Undrafted,Undrafted,Undrafted
+201203,Mustafa Shakur,USA,Arizona,Undrafted,Undrafted,Undrafted
+201207,Coby Karl,USA,Boise State,Undrafted,Undrafted,Undrafted
+201208,Darryl Watkins,USA,Syracuse,Undrafted,Undrafted,Undrafted
+201228,C.J. Watson,USA,Tennessee,Undrafted,Undrafted,Undrafted
+201229,Anthony Tolliver,USA,Creighton,Undrafted,Undrafted,Undrafted
+201234,Trey Johnson,USA,Jackson State,Undrafted,Undrafted,Undrafted
+201235,Courtney Sims,USA,Michigan,Undrafted,Undrafted,Undrafted
+201238,Mario West,USA,Georgia Tech,Undrafted,Undrafted,Undrafted
+201242,Thomas Gardner,USA,Missouri,Undrafted,Undrafted,Undrafted
+201274,Ivan Johnson,USA,California State-San Bernardino,Undrafted,Undrafted,Undrafted
+201281,Andre Ingram,USA,American University,Undrafted,Undrafted,Undrafted
+201286,Eric Dawson,USA,Midwestern State,Undrafted,Undrafted,Undrafted
+201291,Carldell Johnson,USA,Alabama-Birmingham,Undrafted,Undrafted,Undrafted
+201336,Blake Ahearn,USA,Missouri State,Undrafted,Undrafted,Undrafted
+201446,Mike Taylor,USA,Iowa State,2008,2,55
+201563,Michael Beasley,USA,Kansas State,2008,1,2
+201564,O.J. Mayo,USA,Southern California,2008,1,3
+201565,Derrick Rose,USA,Memphis,2008,1,1
+201566,Russell Westbrook,USA,UCLA,2008,1,4
+201567,Kevin Love,USA,UCLA,2008,1,5
+201568,Danilo Gallinari,Italy,,2008,1,6
+201569,Eric Gordon,USA,Indiana,2008,1,7
+201570,Joe Alexander,USA,West Virginia,2008,1,8
+201571,D.J. Augustin,USA,Texas,2008,1,9
+201572,Brook Lopez,USA,Stanford,2008,1,10
+201573,Jerryd Bayless,USA,Arizona,2008,1,11
+201574,Jason Thompson,USA,Rider University,2008,1,12
+201575,Brandon Rush,USA,Kansas,2008,1,13
+201576,Anthony Randolph,USA,Louisiana State,2008,1,14
+201577,Robin Lopez,USA,Stanford,2008,1,15
+201578,Marreese Speights,USA,Florida,2008,1,16
+201579,Roy Hibbert,USA,Georgetown,2008,1,17
+201580,JaVale McGee,USA,Nevada,2008,1,18
+201581,JJ Hickson,USA,North Carolina State,2008,1,19
+201582,Alexis Ajinca,France,,2008,1,20
+201583,Ryan Anderson,USA,California,2008,1,21
+201584,Courtney Lee,USA,Western Kentucky,2008,1,22
+201585,Kosta Koufos,USA,Ohio State,2008,1,23
+201586,Serge Ibaka,Democratic Republic of the Congo,,2008,1,24
+201587,Nicolas Batum,France,,2008,1,25
+201588,George Hill,USA,Indiana-Purdue Indianapolis,2008,1,26
+201589,Darrell Arthur,USA,Kansas,2008,1,27
+201590,Donte Greene,USA,Syracuse,2008,1,28
+201591,DJ White,USA,Indiana,2008,1,29
+201592,J.R. Giddens,USA,New Mexico,2008,1,30
+201593,Nikola Pekovic,Montenegro,,2008,2,31
+201594,Walter Sharpe,USA,Alabama-Birmingham,2008,2,32
+201595,Joey Dorsey,USA,Memphis,2008,2,33
+201596,Mario Chalmers,USA,Kansas,2008,2,34
+201599,DeAndre Jordan,USA,Texas A&M,2008,2,35
+201600,Omer Asik,Turkey,,2008,2,36
+201601,Luc Mbah a Moute,Cameroon,UCLA,2008,2,37
+201602,Kyle Weaver,USA,Washington State,2008,2,38
+201603,Sonny Weems,USA,Arkansas,2008,2,39
+201604,Chris Douglas-Roberts,USA,Memphis,2008,2,40
+201605,Nathan Jawai,Australia,Midland (Texas),2008,2,41
+201606,Sean Singletary,USA,Virginia,2008,2,42
+201607,Patrick Ewing,USA,Georgetown,2008,2,43
+201609,Goran Dragic,Slovenia,,2008,2,45
+201611,Henry Walker,USA,Kansas State,2008,2,47
+201612,Malik Hairston,USA,Oregon,2008,2,48
+201616,Darnell Jackson,USA,Kansas,2008,2,52
+201619,Sasha Kaun,Russia,Kansas,2008,2,56
+201621,Joe Crawford,USA,Kentucky,2008,2,58
+201623,Semih Erden,Turkey,,2008,2,60
+201627,Anthony Morrow,USA,Georgia Tech,Undrafted,Undrafted,Undrafted
+201628,Bobby Brown,USA,Cal State-Fullerton,Undrafted,Undrafted,Undrafted
+201629,Othello Hunter,USA,Ohio State,Undrafted,Undrafted,Undrafted
+201631,Steven Hill,USA,Arkansas,Undrafted,Undrafted,Undrafted
+201632,Hamed Haddadi,Iran,,Undrafted,Undrafted,Undrafted
+201633,Rob Kurz,USA,Notre Dame,Undrafted,Undrafted,Undrafted
+201634,DeMarcus Nelson,USA,Duke,Undrafted,Undrafted,Undrafted
+201785,Othyus Jeffers,USA,Robert Morris-Chicago,Undrafted,Undrafted,Undrafted
+201802,Oliver Lafayette,USA,Houston,Undrafted,Undrafted,Undrafted
+201805,Chris Hunter,USA,Michigan,Undrafted,Undrafted,Undrafted
+201814,Gary Forbes,Panama,Massachusetts,Undrafted,Undrafted,Undrafted
+201821,Trey Gilder,USA,Northwestern State,Undrafted,Undrafted,Undrafted
+201858,Cartier Martin,USA,Kansas State,Undrafted,Undrafted,Undrafted
+201880,Greg Stiemsma,USA,Wisconsin,Undrafted,Undrafted,Undrafted
+201933,Blake Griffin,USA,Oklahoma,2009,1,1
+201934,Hasheem Thabeet,Tanzania,Connecticut,2009,1,2
+201935,James Harden,USA,Arizona State,2009,1,3
+201936,Tyreke Evans,USA,Memphis,2009,1,4
+201937,Ricky Rubio,Spain,,2009,1,5
+201938,Jonny Flynn,USA,Syracuse,2009,1,6
+201939,Stephen Curry,USA,Davidson,2009,1,7
+201941,Jordan Hill,USA,Arizona,2009,1,8
+201942,DeMar DeRozan,USA,USC,2009,1,9
+201943,Brandon Jennings,USA,,2009,1,10
+201944,Terrence Williams,USA,Louisville,2009,1,11
+201945,Gerald Henderson,USA,Duke,2009,1,12
+201946,Tyler Hansbrough,USA,North Carolina,2009,1,13
+201947,Earl Clark,USA,Louisville,2009,1,14
+201948,Austin Daye,USA,Gonzaga,2009,1,15
+201949,James Johnson,USA,Wake Forest,2009,1,16
+201950,Jrue Holiday,USA,UCLA,2009,1,17
+201951,Ty Lawson,USA,North Carolina,2009,1,18
+201952,Jeff Teague,USA,Wake Forest,2009,1,19
+201953,Eric Maynor,USA,Va Commonwealth,2009,1,20
+201954,Darren Collison,USA,UCLA,2009,1,21
+201956,Omri Casspi,Israel,,2009,1,23
+201957,Byron Mullens,USA,Ohio State,2009,1,24
+201958,Rodrigue Beaubois,France,,2009,1,25
+201959,Taj Gibson,USA,Southern California,2009,1,26
+201960,DeMarre Carroll,USA,Missouri,2009,1,27
+201961,Wayne Ellington,USA,North Carolina,2009,1,28
+201962,Toney Douglas,USA,Florida State,2009,1,29
+201963,Christian Eyenga,Congo,,2009,1,30
+201964,Victor Claver,Spain,,2009,1,22
+201965,Jeff Ayres,USA,Arizona State,2009,2,31
+201966,Jermaine Taylor,USA,Central Florida,2009,2,32
+201967,Dante Cunningham,USA,Villanova,2009,2,33
+201969,DaJuan Summers,USA,Georgetown,2009,2,35
+201970,Sam Young,USA,Pittsburgh,2009,2,36
+201971,DeJuan Blair,USA,Pittsburgh,2009,2,37
+201972,Jon Brockman,USA,Washington,2009,2,38
+201973,Jonas Jerebko,Sweden,,2009,2,39
+201974,Derrick Brown,USA,Xavier,2009,2,40
+201975,Jodie Meeks,USA,Kentucky,2009,2,41
+201976,Patrick Beverley,USA,Arkansas,2009,2,42
+201977,Marcus Thornton,USA,Louisiana State,2009,2,43
+201978,Chase Budinger,USA,Arizona,2009,2,44
+201979,Nick Calathes,USA,Florida,2009,2,45
+201980,Danny Green,USA,North Carolina,2009,2,46
+201981,Taylor Griffin,USA,Oklahoma,2009,2,48
+201985,AJ Price,USA,Connecticut,2009,2,52
+201986,Nando De Colo,France,,2009,2,53
+201988,Patty Mills,Australia,St. Mary's,2009,2,55
+201991,Lester Hudson,USA,Tennessee-Martin,2009,2,58
+202066,Garrett Temple,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+202068,Marcus Landry,USA,Wisconsin,Undrafted,Undrafted,Undrafted
+202077,Jerel McNeal,USA,Marquette,Undrafted,Undrafted,Undrafted
+202079,Antonio Anderson,USA,Memphis,Undrafted,Undrafted,Undrafted
+202081,Garret Siler,USA,Augusta State,Undrafted,Undrafted,Undrafted
+202082,Larry Owens,USA,Oral Roberts,Undrafted,Undrafted,Undrafted
+202083,Wesley Matthews,USA,Marquette,Undrafted,Undrafted,Undrafted
+202087,Alonzo Gee,USA,Alabama,Undrafted,Undrafted,Undrafted
+202091,Dionte Christmas,USA,Temple,Undrafted,Undrafted,Undrafted
+202130,Reggie Williams,USA,Virginia Military Institute,Undrafted,Undrafted,Undrafted
+202132,Cedric Jackson,USA,Cleveland State,Undrafted,Undrafted,Undrafted
+202148,Mickell Gladness,USA,Alabama A&M,Undrafted,Undrafted,Undrafted
+202178,Sundiata Gaines,USA,Georgia,Undrafted,Undrafted,Undrafted
+202197,Shane Edwards,USA,Arkansas-Little Rock,Undrafted,Undrafted,Undrafted
+202220,Zabian Dowdell,USA,Virginia Tech,Undrafted,Undrafted,Undrafted
+202227,Terrel Harris,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+202322,John Wall,USA,Kentucky,2010,1,1
+202323,Evan Turner,USA,Ohio State,2010,1,2
+202324,Derrick Favors,USA,Georgia Tech,2010,1,3
+202325,Wesley Johnson,USA,Syracuse,2010,1,4
+202326,DeMarcus Cousins,USA,Kentucky,2010,1,5
+202327,Ekpe Udoh,USA,Baylor,2010,1,6
+202328,Greg Monroe,USA,Georgetown,2010,1,7
+202329,Al-Farouq Aminu,USA,Wake Forest,2010,1,8
+202330,Gordon Hayward,USA,Butler,2010,1,9
+202331,Paul George,USA,Fresno State,2010,1,10
+202332,Cole Aldrich,USA,Kansas,2010,1,11
+202333,Xavier Henry,USA,Kansas,2010,1,12
+202334,Ed Davis,USA,North Carolina,2010,1,13
+202335,Patrick Patterson,USA,Kentucky,2010,1,14
+202336,Larry Sanders,USA,Va Commonwealth,2010,1,15
+202337,Luke Babbitt,USA,Nevada,2010,1,16
+202338,Kevin Seraphin,France,,2010,1,17
+202339,Eric Bledsoe,USA,Kentucky,2010,1,18
+202340,Avery Bradley,USA,University of Texas at Austin,2010,1,19
+202341,James Anderson,USA,Oklahoma State,2010,1,20
+202342,Craig Brackins,USA,Iowa State,2010,1,21
+202343,Elliot Williams,USA,Memphis,2010,1,22
+202344,Trevor Booker,USA,Clemson,2010,1,23
+202345,Damion James,USA,Texas,2010,1,24
+202346,Dominique Jones,USA,South Florida,2010,1,25
+202347,Quincy Pondexter,USA,Washington,2010,1,26
+202348,Jordan Crawford,USA,Xavier,2010,1,27
+202349,Greivis Vasquez,Venezuela,Maryland,2010,1,28
+202350,Daniel Orton,USA,Kentucky,2010,1,29
+202351,Lazar Hayward,USA,Marquette,2010,1,30
+202353,Tibor Pleiss,Germany,,2010,2,31
+202354,Dexter Pittman,USA,Texas,2010,2,32
+202355,Hassan Whiteside,USA,Marshall,2010,2,33
+202356,Armon Johnson,USA,Nevada,2010,2,34
+202357,Nemanja Bjelica,Serbia,,2010,2,35
+202359,Darington Hobson,USA,New Mexico,2010,2,37
+202360,Andy Rautins,USA,Syracuse,2010,2,38
+202361,Landry Fields,USA,Stanford,2010,2,39
+202362,Lance Stephenson,USA,Cincinnati,2010,2,40
+202363,Jarvis Varnado,USA,Mississippi State,2010,2,41
+202365,Devin Ebanks,USA,West Virginia,2010,2,43
+202366,Jerome Jordan,Jamaica,Tulsa,2010,2,44
+202371,Gani Lawal,USA,Georgia Tech,2010,2,46
+202374,Solomon Alabi,Nigeria,Florida State,2010,2,50
+202376,Luke Harangody,USA,Notre Dame,2010,2,52
+202377,Pape Sy,France,,2010,2,53
+202378,Willie Warren,USA,Oklahoma,2010,2,54
+202379,Jeremy Evans,USA,Western Kentucky,2010,2,55
+202380,Hamady Ndiaye,Senegal,Rutgers,2010,2,56
+202382,Derrick Caracter,USA,Texas-El Paso,2010,2,58
+202385,Ryan Reid,USA,Florida State,2010,2,57
+202386,Ben Uzoh,USA,Tulsa,Undrafted,Undrafted,Undrafted
+202388,Donald Sloan,USA,Texas A&M,Undrafted,Undrafted,Undrafted
+202389,Timofey Mozgov,Russia,,Undrafted,Undrafted,Undrafted
+202390,Gary Neal,USA,Towson,Undrafted,Undrafted,Undrafted
+202391,Jeremy Lin,USA,Harvard,Undrafted,Undrafted,Undrafted
+202395,Sherron Collins,USA,Kansas,Undrafted,Undrafted,Undrafted
+202396,Samardo Samuels,Jamaica,Louisville,Undrafted,Undrafted,Undrafted
+202397,Ish Smith,USA,Wake Forest,Undrafted,Undrafted,Undrafted
+202399,Jeff Adrien,USA,Connecticut,Undrafted,Undrafted,Undrafted
+202406,Jerome Dyson,USA,Connecticut,Undrafted,Undrafted,Undrafted
+202407,Elijah Millsap,USA,Alabama-Birmingham,Undrafted,Undrafted,Undrafted
+202408,Marcus Cousin,USA,Houston,Undrafted,Undrafted,Undrafted
+202412,Manny Harris,USA,Michigan,Undrafted,Undrafted,Undrafted
+202419,Chris Johnson,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+202458,Justin Dentmon,USA,Washington,Undrafted,Undrafted,Undrafted
+202498,Lance Thomas,USA,Duke,Undrafted,Undrafted,Undrafted
+202536,Jerry Smith,USA,Louisville,1963,2,12
+202545,Luke Zeller,USA,Notre Dame,Undrafted,Undrafted,Undrafted
+202620,Arinze Onuaku,USA,Syracuse,Undrafted,Undrafted,Undrafted
+202622,Courtney Fortson,USA,Arkansas,Undrafted,Undrafted,Undrafted
+202681,Kyrie Irving,Australia,Duke,2011,1,1
+202682,Derrick Williams,USA,Arizona,2011,1,2
+202683,Enes Freedom,Turkey,,2011,1,3
+202684,Tristan Thompson,Canada,University of Texas at Austin,2011,1,4
+202685,Jonas Valanciunas,Lithuania,,2011,1,5
+202686,Jan Vesely,Czech Republic,,2011,1,6
+202687,Bismack Biyombo,DRC,,2011,1,7
+202688,Brandon Knight,USA,Kentucky,2011,1,8
+202689,Kemba Walker,USA,Connecticut,2011,1,9
+202690,Jimmer Fredette,USA,Brigham Young,2011,1,10
+202691,Klay Thompson,USA,Washington State,2011,1,11
+202692,Alec Burks,USA,Colorado,2011,1,12
+202693,Markieff Morris,USA,Kansas,2011,1,13
+202694,Marcus Morris Sr.,USA,Kansas,2011,1,14
+202695,Kawhi Leonard,USA,San Diego State,2011,1,15
+202696,Nikola Vučević,Montenegro,Southern California,2011,1,16
+202697,Iman Shumpert,USA,Georgia Tech,2011,1,17
+202698,Chris Singleton,USA,Florida State,2011,1,18
+202699,Tobias Harris,USA,Tennessee,2011,1,19
+202700,Donatas Motiejunas,Lithuania,,2011,1,20
+202701,Nolan Smith,USA,Duke,2011,1,21
+202702,Kenneth Faried,USA,Morehead State,2011,1,22
+202703,Nikola Mirotic,Montenegro,,2011,1,23
+202704,Reggie Jackson,USA,Boston College,2011,1,24
+202705,MarShon Brooks,USA,Providence,2011,1,25
+202706,Jordan Hamilton,USA,Texas,2011,1,26
+202707,JaJuan Johnson,USA,Purdue,2011,1,27
+202708,Norris Cole,USA,Cleveland State,2011,1,28
+202709,Cory Joseph,Canada,Texas,2011,1,29
+202710,Jimmy Butler III,USA,Marquette,2011,1,30
+202711,Bojan Bogdanovic,Croatia,,2011,2,31
+202712,Justin Harper,USA,Richmond,2011,2,32
+202713,Kyle Singler,USA,Duke,2011,2,33
+202714,Shelvin Mack,USA,Butler,2011,2,34
+202715,Tyler Honeycutt,USA,UCLA,2011,2,35
+202716,Jordan Williams,USA,Maryland,2011,2,36
+202717,Trey Thompkins,USA,Georgia,2011,2,37
+202718,Chandler Parsons,USA,Florida,2011,2,38
+202719,Jeremy Tyler,USA,Tokyo Apache,2011,2,39
+202720,Jon Leuer,USA,Wisconsin,2011,2,40
+202721,Darius Morris,USA,Michigan,2011,2,41
+202722,Davis Bertans,Latvia,,2011,2,42
+202723,Malcolm Lee,USA,UCLA,2011,2,43
+202724,Charles Jenkins,USA,Hofstra,2011,2,44
+202725,Josh Harrellson,USA,Kentucky,2011,2,45
+202726,Andrew Goudelock,USA,Charleston,2011,2,46
+202727,Travis Leslie,USA,Georgia,2011,2,47
+202728,Keith Benson,USA,Oakland,2011,2,48
+202729,Josh Selby,USA,Kansas,2011,2,49
+202730,Lavoy Allen,USA,Temple,2011,2,50
+202731,Vernon Macklin,USA,Florida,2011,2,52
+202732,DeAndre Liggins,USA,Kentucky,2011,2,53
+202734,E'Twaun Moore,USA,Purdue,2011,2,55
+202738,Isaiah Thomas,USA,Washington,2011,2,60
+202775,Edwin Ubiles,Puerto Rico,Siena,Undrafted,Undrafted,Undrafted
+202779,Dwight Buycks,USA,Marquette,Undrafted,Undrafted,Undrafted
+202809,Cory Higgins,USA,Colorado,Undrafted,Undrafted,Undrafted
+202810,D.J. Kennedy,USA,St. John's (NY),Undrafted,Undrafted,Undrafted
+202814,Mychel Thompson,USA,Pepperdine,Undrafted,Undrafted,Undrafted
+202862,Dennis Horner,USA,North Carolina State,Undrafted,Undrafted,Undrafted
+202874,Chris Wright,USA,Dayton,Undrafted,Undrafted,Undrafted
+202880,Jeff Foote,USA,Cornell,Undrafted,Undrafted,Undrafted
+202918,Xavier Silas,USA,Northern Illinois,2011,,
+202933,Julyan Stone,USA,Texas-El Paso,Undrafted,Undrafted,Undrafted
+202951,Jeremy Pargo,USA,Gonzaga,2009,0,0
+202952,Malcolm Thomas,USA,San Diego State,Undrafted,Undrafted,Undrafted
+202954,Brad Wanamaker,USA,Pittsburgh,Undrafted,Undrafted,Undrafted
+202962,Greg Smith,USA,Fresno State,Undrafted,Undrafted,Undrafted
+202970,Gustavo Ayon,Mexico,,Undrafted,Undrafted,Undrafted
+203006,Josh Akognon,USA,California State-Fullerton,Undrafted,Undrafted,Undrafted
+203076,Anthony Davis,USA,Kentucky,2012,1,1
+203077,Michael Kidd-Gilchrist,USA,Kentucky,2012,1,2
+203078,Bradley Beal,USA,Florida,2012,1,3
+203079,Dion Waiters,USA,Syracuse,2012,1,4
+203080,Thomas Robinson,USA,Kansas,2012,1,5
+203081,Damian Lillard,USA,Weber State,2012,1,6
+203082,Terrence Ross,USA,Washington,2012,1,8
+203083,Andre Drummond,USA,Connecticut,2012,1,9
+203084,Harrison Barnes,USA,North Carolina,2012,1,7
+203085,Austin Rivers,USA,Duke,2012,1,10
+203086,Meyers Leonard,USA,Illinois,2012,1,11
+203087,Jeremy Lamb,USA,Connecticut,2012,1,12
+203088,Kendall Marshall,USA,North Carolina,2012,1,13
+203089,John Henson,USA,North Carolina,2012,1,14
+203090,Maurice Harkless,USA,"St. John's, N.Y.",2012,1,15
+203091,Royce White,USA,Iowa State,2012,1,16
+203092,Tyler Zeller,USA,North Carolina,2012,1,17
+203093,Terrence Jones,USA,Kentucky,2012,1,18
+203094,Andrew Nicholson,Canada,St. Bonaventure,2012,1,19
+203095,Evan Fournier,France,,2012,1,20
+203096,Jared Sullinger,USA,Ohio State,2012,1,21
+203097,Fab Melo,Brazil,Syracuse,2012,1,22
+203098,John Jenkins,USA,Vanderbilt,2012,1,23
+203099,Jared Cunningham,USA,Oregon State,2012,1,24
+203100,Tony Wroten,USA,Washington,2012,1,25
+203101,Miles Plumlee,USA,Duke,2012,1,26
+203102,Arnett Moultrie,USA,Mississippi State,2012,1,27
+203103,Perry Jones III,USA,Baylor,2012,1,28
+203104,Marquis Teague,USA,Kentucky,2012,1,29
+203105,Festus Ezeli,Nigeria,Vanderbilt,2012,1,30
+203106,Jeffery Taylor,Sweden,Vanderbilt,2012,2,31
+203107,Tomas Satoransky,Czech Republic,,2012,2,32
+203108,Bernard James,USA,Florida State,2012,2,33
+203109,Jae Crowder,USA,Marquette,2012,2,34
+203110,Draymond Green,USA,Michigan State,2012,2,35
+203111,Orlando Johnson,USA,Cal-Santa Barbara,2012,2,36
+203112,Quincy Acy,USA,Baylor,2012,2,37
+203113,Quincy Miller,USA,Baylor,2012,2,38
+203114,Khris Middleton,USA,Texas A&M,2012,2,39
+203115,Will Barton,USA,Memphis,2012,2,40
+203116,Tyshawn Taylor,USA,Kansas,2012,2,41
+203117,Doron Lamb,USA,Kentucky,2012,2,42
+203118,Mike Scott,USA,Virginia,2012,2,43
+203119,Kim English,USA,Missouri,2012,2,44
+203120,Justin Hamilton,USA,Louisiana State,2012,2,45
+203121,Darius Miller,USA,Kentucky,2012,2,46
+203122,Kevin Murphy,USA,Tennessee Tech,2012,2,47
+203123,Kostas Papanikolaou,Greece,,2012,2,48
+203124,Kyle O'Quinn,USA,Norfolk State,2012,2,49
+203126,Kris Joseph,Canada,Syracuse,2012,2,51
+203128,Furkan Aldemir,Turkey,,2012,2,53
+203129,Tornike Shengelia,Georgia,,2012,2,54
+203130,Darius Johnson-Odom,USA,Marquette,2012,2,55
+203133,Robbie Hummel,USA,Purdue,2012,2,58
+203135,Robert Sacre,Canada,Gonzaga,2012,2,60
+203136,Ognjen Kuzmic,Serbia,,2012,2,52
+203138,Hollis Thompson,USA,Georgetown,Undrafted,Undrafted,Undrafted
+203139,Viacheslav Kravtsov,Ukraine,,Undrafted,Undrafted,Undrafted
+203141,Mirza Teletovic,Bosnia and Herzegovina,,Undrafted,Undrafted,Undrafted
+203142,Chris Copeland,USA,Colorado,Undrafted,Undrafted,Undrafted
+203143,Pablo Prigioni,Argentina,,Undrafted,Undrafted,Undrafted
+203144,Alexey Shved,Russia,,Undrafted,Undrafted,Undrafted
+203145,Kent Bazemore,USA,Old Dominion,Undrafted,Undrafted,Undrafted
+203146,Maalik Wayns,USA,Villanova,Undrafted,Undrafted,Undrafted
+203147,Chris Smith,USA,Louisville,Undrafted,Undrafted,Undrafted
+203148,Brian Roberts,USA,Dayton,Undrafted,Undrafted,Undrafted
+203156,Henry Sims,USA,Georgetown,Undrafted,Undrafted,Undrafted
+203158,Kevin Jones,USA,West Virginia,Undrafted,Undrafted,Undrafted
+203159,Scott Machado,USA,Iona,Undrafted,Undrafted,Undrafted
+203162,Ben Hansbrough,USA,Notre Dame,Undrafted,Undrafted,Undrafted
+203183,Tony Mitchell,USA,Alabama,Undrafted,Undrafted,Undrafted
+203186,Willie Reed,USA,St. Louis,2011,0,0
+203187,Chris Johnson,USA,University of Dayton,Undrafted,Undrafted,Undrafted
+203197,Diante Garrett,USA,Iowa State,Undrafted,Undrafted,Undrafted
+203199,DeQuan Jones,USA,Miami,Undrafted,Undrafted,Undrafted
+203200,Justin Holiday,USA,Washington,Undrafted,Undrafted,Undrafted
+203203,Chris Wright,USA,Georgetown,Undrafted,Undrafted,Undrafted
+203210,JaMychal Green,USA,Alabama,Undrafted,Undrafted,Undrafted
+203263,James Nunnally,USA,Cal-Santa Barbara,Undrafted,Undrafted,Undrafted
+203268,Jorge Gutierrez,Mexico,California,Undrafted,Undrafted,Undrafted
+203315,Toure' Murry,USA,Wichita State,Undrafted,Undrafted,Undrafted
+203317,Tim Ohlbrecht,Germany,,Undrafted,Undrafted,Undrafted
+203318,Glen Rice,USA,Georgia Tech,2013,2,35
+203382,Aron Baynes,Australia,Washington State,Undrafted,Undrafted,Undrafted
+203457,Nerlens Noel,USA,Kentucky,2013,1,6
+203458,Alex Len,Ukraine,Maryland,2013,1,5
+203459,Allen Crabbe,USA,California,2013,2,31
+203460,Andre Roberson,USA,Colorado,2013,1,26
+203461,Anthony Bennett,Canada,UNLV,2013,1,1
+203462,Archie Goodwin,USA,Kentucky,2013,1,29
+203463,Ben McLemore,USA,Kansas,2013,1,7
+203464,Brandon Paul,USA,Illinois,Undrafted,Undrafted,Undrafted
+203467,Carrick Felix,USA,Arizona State,2013,2,33
+203468,CJ McCollum,USA,Lehigh,2013,1,10
+203469,Cody Zeller,USA,Indiana,2013,1,4
+203471,Dennis Schröder,Germany,,2013,1,17
+203473,Dewayne Dedmon,USA,USC,Undrafted,Undrafted,Undrafted
+203474,DJ Stephens,USA,Memphis,Undrafted,Undrafted,Undrafted
+203475,Erick Green,USA,Virginia Tech,2013,2,46
+203476,Gorgui Dieng,Senegal,Louisville,2013,1,21
+203477,Isaiah Canaan,USA,Murray State,2013,2,34
+203479,Jamaal Franklin,USA,San Diego State,2013,2,41
+203480,James Southerland,USA,Syracuse,Undrafted,Undrafted,Undrafted
+203481,Jeff Withey,USA,Kansas,2013,2,39
+203482,Kelly Olynyk,Canada,Gonzaga,2013,1,13
+203484,Kentavious Caldwell-Pope,USA,Georgia,2013,1,8
+203485,Lorenzo Brown,USA,North Carolina State,2013,2,52
+203486,Mason Plumlee,USA,Duke,2013,1,22
+203487,Michael Carter-Williams,USA,Syracuse,2013,1,11
+203488,Mike Muscala,USA,Bucknell,2013,2,44
+203489,Nate Wolters,USA,South Dakota State,2013,2,38
+203490,Otto Porter Jr.,USA,Georgetown,2013,1,3
+203491,Peyton Siva,USA,Louisville,2013,2,56
+203492,Ray McCallum,USA,Detroit,2013,2,36
+203493,Reggie Bullock Jr.,USA,North Carolina,2013,1,25
+203495,Ricky Ledo,USA,Providence,2013,2,43
+203496,Robert Covington,USA,Tennessee State,Undrafted,Undrafted,Undrafted
+203497,Rudy Gobert,France,,2013,1,27
+203498,Shabazz Muhammad,USA,UCLA,2013,1,14
+203499,Shane Larkin,USA,Miami,2013,1,18
+203500,Steven Adams,New Zealand,Pittsburgh,2013,1,12
+203501,Tim Hardaway Jr.,USA,Michigan,2013,1,24
+203502,Tony Mitchell,USA,North Texas,2013,2,37
+203503,Tony Snell,USA,New Mexico,2013,1,20
+203504,Trey Burke,USA,Michigan,2013,1,9
+203505,Vander Blue,USA,Marquette,Undrafted,Undrafted,Undrafted
+203506,Victor Oladipo,USA,Indiana,2013,1,2
+203507,Giannis Antetokounmpo,Greece,,2013,1,15
+203508,Sergey Karasev,Russia,,2013,1,19
+203510,Pierre Jackson,USA,Baylor,2013,2,42
+203511,Grant Jerrett,USA,Arizona,2013,2,40
+203512,Lucas Nogueira,Brazil,,2013,1,16
+203513,Erik Murphy,Finland,Florida,2013,2,49
+203515,Phil Pressey,USA,Missouri,Undrafted,Undrafted,Undrafted
+203516,James Ennis III,USA,Cal State-Long Beach,2013,2,50
+203517,Nemanja Nedovic,Serbia,,2013,1,30
+203518,Alex Abrines,Spain,,2013,2,32
+203519,Adonis Thomas,USA,Memphis,Undrafted,Undrafted,Undrafted
+203521,Matthew Dellavedova,Australia,Saint Mary's,Undrafted,Undrafted,Undrafted
+203524,Solomon Hill,USA,Arizona,2013,1,23
+203526,Raul Neto,Brazil,,2013,2,47
+203527,Ryan Kelly,USA,Duke,2013,2,48
+203530,Joffrey Lauvergne,France,,2013,2,55
+203539,Gal Mekel,Israel,Wichita State,Undrafted,Undrafted,Undrafted
+203540,Gigi Datome,Italy,,Undrafted,Undrafted,Undrafted
+203543,Vitor Faverani,Brazil,,Undrafted,Undrafted,Undrafted
+203544,Pero Antic,Macedonia,,Undrafted,Undrafted,Undrafted
+203545,Miroslav Raduljica,Serbia,,Undrafted,Undrafted,Undrafted
+203546,Ian Clark,USA,Belmont,Undrafted,Undrafted,Undrafted
+203548,Elias Harris,Germany,Gonzaga,Undrafted,Undrafted,Undrafted
+203552,Seth Curry,USA,Duke,Undrafted,Undrafted,Undrafted
+203561,Brandon Davies,USA,Brigham Young,Undrafted,Undrafted,Undrafted
+203564,Kalin Lucas,USA,Michigan State,Undrafted,Undrafted,Undrafted
+203565,Patrick Christopher,USA,California,Undrafted,Undrafted,Undrafted
+203569,Chris Babb,USA,Iowa State,Undrafted,Undrafted,Undrafted
+203580,Larry Drew II,USA,UCLA,Undrafted,Undrafted,Undrafted
+203584,Troy Daniels,USA,Va Commonwealth,Undrafted,Undrafted,Undrafted
+203585,Rodney McGruder,USA,Kansas State,Undrafted,Undrafted,Undrafted
+203590,Trey McKinney-Jones,USA,Miami,Undrafted,Undrafted,Undrafted
+203613,Jonathon Simmons,USA,Houston,2012,0,0
+203648,Thanasis Antetokounmpo,Greece,,2014,2,51
+203658,Norvel Pelle,Antigua and Barbuda,Iona,Undrafted,Undrafted,Undrafted
+203687,Reggie Hearn,USA,Northwestern,2013,0,0
+203705,Josh Magette,USA,Alabama Huntsville,2012,0,0
+203710,C.J. Williams,USA,North Carolina State,2012,0,0
+203798,PJ Hairston,USA,North Carolina,2014,1,26
+203805,Will Cherry,USA,Montana,Undrafted,Undrafted,Undrafted
+203810,Casper Ware,USA,Long Beach State,Undrafted,Undrafted,Undrafted
+203816,Scotty Hopson,USA,Tennessee,2011,0,0
+203893,Russ Smith,USA,Louisville,2014,2,47
+203894,Shabazz Napier,USA,Connecticut,2014,1,24
+203895,Jordan McRae,USA,Tennessee,2014,2,58
+203897,Zach LaVine,USA,UCLA,2014,1,13
+203898,Tyler Ennis,Canada,Syracuse,2014,1,18
+203900,Markel Brown,USA,Oklahoma State,2014,2,44
+203901,Elfrid Payton,USA,Louisana-Lafayette,2014,1,10
+203902,Semaj Christon,USA,Xavier,2014,2,55
+203903,Jordan Clarkson,USA,Missouri,2014,2,46
+203906,Devyn Marble,USA,Iowa,2014,2,56
+203909,KJ McDaniels,USA,Clemson,2014,2,32
+203910,Nick Johnson,USA,Arizona,2014,2,42
+203912,C.J. Wilcox,USA,Washington,2014,1,28
+203913,Jabari Brown,USA,Missouri,2014,,
+203914,Gary Harris,USA,Michigan State,2014,1,19
+203915,Spencer Dinwiddie,USA,Colorado,2014,2,38
+203917,Nik Stauskas,Canada,Michigan,2014,1,8
+203918,Rodney Hood,USA,Duke,2014,1,23
+203919,Jordan Adams,USA,UCLA,2014,1,22
+203920,Khem Birch,Canada,UNLV,Undrafted,Undrafted,Undrafted
+203921,Cleanthony Early,USA,Wichita State,2014,2,34
+203922,Glenn Robinson III,USA,Michigan,2014,2,40
+203923,James Young,USA,Kentucky,2014,1,17
+203924,Jerami Grant,USA,Syracuse,2014,2,39
+203925,Joe Harris,USA,Virginia,2014,2,33
+203926,Doug McDermott,USA,Creighton,2014,1,11
+203928,Cory Jefferson,USA,Baylor,2014,2,60
+203930,Sean Kilpatrick,USA,Cincinnati,Undrafted,Undrafted,Undrafted
+203932,Aaron Gordon,USA,Arizona,2014,1,4
+203933,T.J. Warren,USA,North Carolina State,2014,1,14
+203934,Lamar Patterson,USA,Pittsburgh,2014,2,48
+203935,Marcus Smart,USA,Oklahoma State,2014,1,6
+203937,Kyle Anderson,USA,UCLA,2014,1,30
+203939,Dwight Powell,Canada,Stanford,2014,2,45
+203940,Adreian Payne,USA,Michigan State,2014,1,15
+203943,Noah Vonleh,USA,Indiana,2014,1,9
+203944,Julius Randle,USA,Kentucky,2014,1,7
+203945,Alex Kirk,USA,New Mexico,Undrafted,Undrafted,Undrafted
+203946,Cameron Bairstow,Australia,New Mexico,2014,2,49
+203948,Johnny O'Bryant III,USA,Louisiana State,2014,2,36
+203949,James Michael McAdoo,USA,North Carolina,Undrafted,Undrafted,Undrafted
+203950,Jarnell Stokes,USA,Tennessee,2014,2,35
+203951,Keith Appling,USA,Michigan State,Undrafted,Undrafted,Undrafted
+203952,Andrew Wiggins,Canada,Kansas,2014,1,1
+203953,Jabari Parker,USA,Duke,2014,1,2
+203954,Joel Embiid,Cameroon,Kansas,2014,1,3
+203955,Bryce Cotton,USA,Providence,Undrafted,Undrafted,Undrafted
+203956,Mitch McGary,USA,Michigan,2014,1,21
+203957,Dante Exum,Australia,,2014,1,5
+203958,Andre Dawkins,USA,Duke,Undrafted,Undrafted,Undrafted
+203960,JaKarr Sampson,USA,St. John's (NY),Undrafted,Undrafted,Undrafted
+203961,Eric Moreland,USA,Oregon State,Undrafted,Undrafted,Undrafted
+203962,Josh Huestis,USA,Stanford,2014,1,29
+203963,Shayne Whittington,USA,Western Michigan,Undrafted,Undrafted,Undrafted
+203966,Jamil Wilson,USA,Marquette,Undrafted,Undrafted,Undrafted
+203967,Dario Saric,Croatia,,2014,1,12
+203968,Jerrelle Benimon,USA,Towson,Undrafted,Undrafted,Undrafted
+203991,Clint Capela,Switzerland,,2014,1,25
+203992,Bogdan Bogdanović,Serbia,,2014,1,27
+203994,Jusuf Nurkić,Bosnia and Herzegovina,,2014,1,16
+203995,Vasilije Micic,Serbia,,2014,2,52
+203996,Damien Inglis,France,,2014,2,31
+203998,Bruno Caboclo,Brazil,,2014,1,20
+203999,Nikola Jokić,Serbia,,2014,2,41
+204001,Kristaps Porziņģis,Latvia,,2015,1,4
+204002,Edy Tavares,Cabo Verde,,2014,2,43
+204014,Damjan Rudez,Croatia,,Undrafted,Undrafted,Undrafted
+204020,Tyler Johnson,USA,Fresno State,Undrafted,Undrafted,Undrafted
+204021,Sim Bhullar,Canada,New Mexico State,Undrafted,Undrafted,Undrafted
+204022,Jack Cooley,USA,Notre Dame,Undrafted,Undrafted,Undrafted
+204025,Tim Frazier,USA,Penn State,Undrafted,Undrafted,Undrafted
+204028,Tarik Black,USA,Kansas,Undrafted,Undrafted,Undrafted
+204033,David Wear,USA,UCLA,Undrafted,Undrafted,Undrafted
+204037,Travis Wear,USA,UCLA,Undrafted,Undrafted,Undrafted
+204038,Langston Galloway,USA,St. Joseph's (PA),Undrafted,Undrafted,Undrafted
+204054,Zoran Dragic,Slovenia,,Undrafted,Undrafted,Undrafted
+204060,Joe Ingles,Australia,,Undrafted,Undrafted,Undrafted
+204065,David Stockton,USA,Gonzaga,2014,0,0
+204066,John Holland,USA,Boston University,Undrafted,Undrafted,Undrafted
+204067,Jarell Eddie,USA,Virginia Tech,Undrafted,Undrafted,Undrafted
+204079,Drew Gordon,USA,New Mexico,Undrafted,Undrafted,Undrafted
+204098,Xavier Munford,USA,Rhode Island,2014,,
+204179,Omari Johnson,Jamaica,Oregon State,Undrafted,Undrafted,Undrafted
+204222,Greg Whittington,USA,Georgetown,Undrafted,Undrafted,Undrafted
+204456,T.J. McConnell,USA,Arizona,2015,0,
+1626143,Jahlil Okafor,USA,Duke,2015,1,3
+1626144,Emmanuel Mudiay,Democratic Republic of the Congo,,2015,1,7
+1626145,Tyus Jones,USA,Duke,2015,1,24
+1626146,Cliff Alexander,USA,Kansas,Undrafted,Undrafted,Undrafted
+1626147,Justin Anderson,USA,Virginia,2015,1,21
+1626148,Anthony Brown,USA,Stanford,2015,2,34
+1626149,Montrezl Harrell,USA,Louisville,2015,2,32
+1626150,Andrew Harrison,USA,Kentucky,2015,2,44
+1626151,Aaron Harrison,USA,Kentucky,Undrafted,Undrafted,Undrafted
+1626153,Delon Wright,USA,Utah,2015,1,20
+1626154,RJ Hunter,USA,Georgia State,2015,1,28
+1626155,Sam Dekker,USA,Wisconsin,2015,1,18
+1626156,D'Angelo Russell,USA,Ohio State,2015,1,2
+1626157,Karl-Anthony Towns,USA,Kentucky,2015,1,1
+1626158,Richaun Holmes,USA,Bowling Green,2015,2,37
+1626159,Justise Winslow,USA,Duke,2015,1,10
+1626161,Willie Cauley-Stein,USA,Kentucky,2015,1,6
+1626162,Kelly Oubre Jr.,USA,Kansas,2015,1,15
+1626163,Frank Kaminsky,USA,Wisconsin,2015,1,9
+1626164,Devin Booker,USA,Kentucky,2015,1,13
+1626166,Cameron Payne,USA,Murray State,2015,1,14
+1626167,Myles Turner,USA,Texas,2015,1,11
+1626168,Trey Lyles,Canada,Kentucky,2015,1,12
+1626169,Stanley Johnson,USA,Arizona,2015,1,8
+1626170,Jerian Grant,USA,Notre Dame,2015,1,19
+1626171,Bobby Portis Jr.,USA,Arkansas,2015,1,22
+1626172,Kevon Looney,USA,UCLA,2015,1,30
+1626173,Rashad Vaughn,USA,UNLV,2015,1,17
+1626174,Christian Wood,USA,UNLV,Undrafted,Undrafted,Undrafted
+1626175,Jordan Mickey,USA,Louisiana State,2015,2,33
+1626176,Rakeem Christmas,USA,Syracuse,2015,2,36
+1626177,Dakari Johnson,USA,Kentucky,2015,2,48
+1626178,Rondae Hollis-Jefferson,USA,Arizona,2015,1,23
+1626179,Terry Rozier,USA,Louisville,2015,1,16
+1626181,Norman Powell,USA,UCLA,2015,2,46
+1626183,Branden Dawson,USA,Michigan State,2015,2,56
+1626184,Chasson Randle,USA,Stanford,2015,,
+1626185,Jarell Martin,USA,Louisiana State,2015,1,25
+1626187,Michael Frazier II,USA,Florida,Undrafted,Undrafted,Undrafted
+1626188,Quinn Cook,USA,Duke,Undrafted,Undrafted,Undrafted
+1626191,Chris McCullough,USA,Syracuse,2015,1,29
+1626192,Pat Connaughton,USA,Notre Dame,2015,2,41
+1626195,Willy Hernangomez,Spain,,2015,2,35
+1626196,Josh Richardson,USA,Tennessee,2015,2,40
+1626199,Darrun Hilliard,USA,Villanova,2015,2,38
+1626202,Joe Young,USA,Oregon,2015,2,43
+1626203,Treveon Graham,USA,Va Commonwealth,Undrafted,Undrafted,Undrafted
+1626204,Larry Nance Jr.,USA,Wyoming,2015,1,27
+1626205,Vincent Hunter,USA,Texas-El Paso,Undrafted,Undrafted,Undrafted
+1626208,Keifer Sykes,USA,Wisc.-Green Bay,Undrafted,Undrafted,Undrafted
+1626209,Mario Hezonja,Croatia,,2015,1,5
+1626210,Alan Williams,USA,Cal-Santa Barbara,Undrafted,Undrafted,Undrafted
+1626214,Bryce Dejean-Jones,USA,Iowa State,Undrafted,Undrafted,Undrafted
+1626220,Royce O'Neale,USA,Baylor,Undrafted,Undrafted,Undrafted
+1626224,Cedi Osman,Turkey,,2015,2,31
+1626242,Luis Montero,Dominican Republic,Westchester C.C.,Undrafted,Undrafted,Undrafted
+1626245,Cristiano Felicio,Brazil,,Undrafted,Undrafted,Undrafted
+1626246,Boban Marjanovic,Serbia,,Undrafted,Undrafted,Undrafted
+1626251,Duje Dukan,Croatia,Wisconsin,Undrafted,Undrafted,Undrafted
+1626253,Axel Toupane,France,,Undrafted,Undrafted,Undrafted
+1626254,Maurice Ndour,Senegal,Ohio,Undrafted,Undrafted,Undrafted
+1626257,Salah Mejri,Tunisia,,Undrafted,Undrafted,Undrafted
+1626259,Malcolm Miller,USA,Holy Cross,Undrafted,Undrafted,Undrafted
+1626262,Coty Clarke,USA,Arkansas,Undrafted,Undrafted,Undrafted
+1626266,JJ O'Brien,USA,San Diego State,Undrafted,Undrafted,Undrafted
+1626273,Marcelo Huertas,Brazil,,Undrafted,Undrafted,Undrafted
+1626296,Jordan Sibert,USA,Dayton,2015,,
+1626643,Jacob Pullen,USA,Kansas State,Undrafted,Undrafted,Undrafted
+1626780,Jonathan Gibson,USA,New Mexico State,Undrafted,Undrafted,Undrafted
+1627098,Malcolm Delaney,USA,Virginia Tech,Undrafted,Undrafted,Undrafted
+1627215,Walt Lemon Jr.,USA,Bradley,2014,,
+1627293,Alex Stepheson,USA,Southern California,Undrafted,Undrafted,Undrafted
+1627362,Briante Weber,USA,Virginia Commonwealth,Undrafted,Undrafted,Undrafted
+1627395,Julian Washburn,USA,Texas-El Paso,2015,,
+1627732,Ben Simmons,Australia,Louisiana State,2016,1,1
+1627733,Dragan Bender,Croatia,,2016,1,4
+1627734,Domantas Sabonis,Lithuania,Gonzaga,2016,1,11
+1627735,Wade Baldwin IV,USA,Vanderbilt,2016,1,17
+1627736,Malik Beasley,USA,Florida State,2016,1,19
+1627737,Marquese Chriss,USA,Washington,2016,1,8
+1627738,Deyonta Davis,USA,Michigan State,2016,2,31
+1627739,Kris Dunn,USA,Providence,2016,1,5
+1627740,Henry Ellenson,USA,Marquette,2016,1,18
+1627741,Buddy Hield,Bahamas,Oklahoma,2016,1,6
+1627742,Brandon Ingram,USA,Duke,2016,1,2
+1627743,Demetrius Jackson,USA,Notre Dame,2016,2,45
+1627744,Brice Johnson,USA,North Carolina,2016,1,25
+1627745,Damian Jones,USA,Vanderbilt,2016,1,30
+1627746,Skal Labissiere,Haiti,Kentucky,2016,1,28
+1627747,Caris LeVert,USA,Michigan,2016,1,20
+1627748,Thon Maker,South Sudan,,2016,1,10
+1627749,Dejounte Murray,USA,Washington,2016,1,29
+1627750,Jamal Murray,Canada,Kentucky,2016,1,7
+1627751,Jakob Poeltl,Austria,Utah,2016,1,9
+1627752,Taurean Prince,USA,Baylor,2016,1,12
+1627753,Zhou Qi,China,,2016,2,43
+1627754,Diamond Stone,USA,Maryland,2016,2,40
+1627755,Tyler Ulis,USA,Kentucky,2016,2,34
+1627756,Denzel Valentine,USA,Michigan State,2016,1,14
+1627757,Stephen Zimmerman,USA,UNLV,2016,2,41
+1627758,Ron Baker,USA,Wichita State,Undrafted,Undrafted,Undrafted
+1627759,Jaylen Brown,USA,California,2016,1,3
+1627760,Cat Barber,USA,North Carolina State,2016,,
+1627761,DeAndre' Bembry,USA,St. Joseph's (PA),2016,1,21
+1627762,Joel Bolomboy,Ukraine,Weber State,2016,2,52
+1627763,Malcolm Brogdon,USA,Virginia,2016,2,36
+1627767,Cheick Diallo,Mali,Kansas,2016,2,33
+1627770,Kay Felder,USA,,2016,2,54
+1627771,Michael Gbinije,USA,Syracuse,2016,2,49
+1627772,Daniel Hamilton,USA,Connecticut,2016,2,56
+1627773,AJ Hammons,USA,Purdue,2016,2,46
+1627774,Jake Layman,USA,Maryland,2016,2,47
+1627775,Patrick McCaw,USA,UNLV,2016,2,38
+1627777,Georges Niang,USA,Iowa State,2016,2,50
+1627778,Chinanu Onuaku,USA,Louisville,2016,2,37
+1627779,Marcus Paige,USA,North Carolina,2016,2,55
+1627780,Gary Payton II,USA,Oregon State,Undrafted,Undrafted,Undrafted
+1627781,Malachi Richardson,USA,Syracuse,2016,1,22
+1627782,Wayne Selden,USA,Kansas,2016,,
+1627783,Pascal Siakam,Cameroon,New Mexico State,2016,1,27
+1627784,Jarrod Uthoff,USA,Iowa,Undrafted,Undrafted,Undrafted
+1627785,Isaiah Whitehead,USA,Seton Hall,2016,2,42
+1627786,Troy Williams,USA,Indiana,Undrafted,Undrafted,Undrafted
+1627787,Kyle Wiltjer,Canada,Gonzaga,Undrafted,Undrafted,Undrafted
+1627788,Furkan Korkmaz,Turkey,,2016,1,26
+1627789,Timothe Luwawu-Cabarrot,France,,2016,1,24
+1627790,Ante Zizic,Croatia,,2016,1,23
+1627791,Ben Bentil,Ghana,Providence,2016,2,51
+1627812,Yogi Ferrell,USA,Indiana,Undrafted,Undrafted,Undrafted
+1627814,Damion Lee,USA,Drexel,Undrafted,Undrafted,Undrafted
+1627815,Sheldon Mac,USA,Miami,2016,,
+1627816,Alex Poythress,USA,Kentucky,Undrafted,Undrafted,Undrafted
+1627817,Tim Quarterman,USA,Louisiana State,2016,,
+1627819,Isaiah Taylor,USA,Texas,2016,,
+1627820,Tyrone Wallace,USA,California,2016,2,60
+1627821,James Webb III,USA,Boise State,2016,,
+1627822,Petr Cornelie,France,,2016,2,53
+1627823,Juancho Hernangomez,Spain,,2016,1,15
+1627824,Guerschon Yabusele,France,,2016,1,16
+1627826,Ivica Zubac,Croatia,,2016,2,32
+1627827,Dorian Finney-Smith,USA,Florida,Undrafted,Undrafted,Undrafted
+1627832,Fred VanVleet,USA,Wichita State,Undrafted,Undrafted,Undrafted
+1627834,Georgios Papagiannis,Greece,,2016,1,13
+1627835,Paul Zipser,Germany,,2016,2,48
+1627846,Abdel Nader,Egypt,Iowa State,2016,2,58
+1627848,Shawn Long,USA,Louisiana-Lafayette,Undrafted,Undrafted,Undrafted
+1627849,Daniel Ochefu,USA,Villanova,Undrafted,Undrafted,Undrafted
+1627850,Marshall Plumlee,USA,Duke,Undrafted,Undrafted,Undrafted
+1627851,Mindaugas Kuzminskas,Lithuania,,Undrafted,Undrafted,Undrafted
+1627852,Nicolas Brussino,Argentina,,Undrafted,Undrafted,Undrafted
+1627853,Ryan Arcidiacono,USA,Villanova,Undrafted,Undrafted,Undrafted
+1627854,Bryn Forbes,USA,Michigan State,Undrafted,Undrafted,Undrafted
+1627855,Okaro White,USA,Florida State,Undrafted,Undrafted,Undrafted
+1627856,Matt Costello,USA,Michigan State,Undrafted,Undrafted,Undrafted
+1627858,Kyle Collinsworth,USA,Brigham Young,2016,,
+1627861,Mike Tobey,USA,Virginia,Undrafted,Undrafted,Undrafted
+1627863,Danuel House Jr.,USA,Texas A&M,Undrafted,Undrafted,Undrafted
+1627866,Jameel Warney,USA,Stony Brook,Undrafted,Undrafted,Undrafted
+1627868,Patricio Garino,Argentina,George Washington,Undrafted,Undrafted,Undrafted
+1627875,Marcus Georges-Hunt,USA,Georgia Tech,Undrafted,Undrafted,Undrafted
+1627879,Nicolas Laprovittola,Argentina,,Undrafted,Undrafted,Undrafted
+1627883,Jalen Jones,USA,Texas A&M,2016,,
+1627884,Derrick Jones Jr.,USA,UNLV,Undrafted,Undrafted,Undrafted
+1627885,Shaquille Harrison,USA,Tulsa,Undrafted,Undrafted,Undrafted
+1627936,Alex Caruso,USA,Texas A&M,Undrafted,Undrafted,Undrafted
+1627982,Josh Gray,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+1627988,Myke Henry,USA,DePaul,2016,,
+1628021,David Nwaba,USA,Cal Poly-Obispo,Undrafted,Undrafted,Undrafted
+1628035,Alfonzo McKinnie,USA,Wisc.-Green Bay,Undrafted,Undrafted,Undrafted
+1628070,Jordan Loyd,USA,Indianapolis,Undrafted,Undrafted,Undrafted
+1628221,Gabe York,USA,Arizona,Undrafted,Undrafted,Undrafted
+1628238,Paris Bass,USA,Detroit Mercy,Undrafted,Undrafted,Undrafted
+1628249,Mitchell Creek,Australia,,Undrafted,Undrafted,Undrafted
+1628365,Markelle Fultz,USA,Washington,2017,1,1
+1628366,Lonzo Ball,USA,UCLA,2017,1,2
+1628367,Josh Jackson,USA,Kansas,2017,1,4
+1628368,De'Aaron Fox,USA,Kentucky,2017,1,5
+1628369,Jayson Tatum,USA,Duke,2017,1,3
+1628370,Malik Monk,USA,Kentucky,2017,1,11
+1628371,Jonathan Isaac,USA,Florida State,2017,1,6
+1628372,Dennis Smith Jr.,USA,North Carolina State,2017,1,9
+1628373,Frank Ntilikina,France,,2017,1,8
+1628374,Lauri Markkanen,Finland,Arizona,2017,1,7
+1628378,Donovan Mitchell,USA,Louisville,2017,1,13
+1628379,Luke Kennard,USA,Duke,2017,1,12
+1628380,Zach Collins,USA,Gonzaga,2017,1,10
+1628381,John Collins,USA,Wake Forest,2017,1,19
+1628382,Justin Jackson,USA,North Carolina,2017,1,15
+1628383,Justin Patton,USA,Creighton,2017,1,16
+1628384,OG Anunoby,United Kingdom,Indiana,2017,1,23
+1628385,Harry Giles III,USA,Duke,2017,1,20
+1628386,Jarrett Allen,USA,Texas,2017,1,22
+1628387,Ike Anigbogu,USA,UCLA,2017,2,47
+1628388,T.J. Leaf,USA,UCLA,2017,1,18
+1628389,Bam Adebayo,USA,Kentucky,2017,1,14
+1628390,Terrance Ferguson,USA,,2017,1,21
+1628391,D.J. Wilson,USA,Michigan,2017,1,17
+1628392,Isaiah Hartenstein,Germany,,2017,2,43
+1628393,Jawun Evans,USA,Oklahoma State,2017,2,39
+1628394,Anžejs Pasečņiks,Latvia,,2017,1,25
+1628395,Jordan Bell,USA,Oregon,2017,2,38
+1628396,Tony Bradley,USA,North Carolina,2017,1,28
+1628397,Ivan Rabb,USA,"University of California, Berkeley",2017,2,35
+1628398,Kyle Kuzma,USA,Utah,2017,1,27
+1628399,Tyler Lydon,USA,Syracuse,2017,1,24
+1628400,Semi Ojeleye,USA,Southern Methodist,2017,2,37
+1628401,Derrick White,USA,Colorado,2017,1,29
+1628402,Frank Jackson,USA,Duke,2017,2,31
+1628403,Caleb Swanigan,USA,Purdue,2017,1,26
+1628404,Josh Hart,USA,Villanova,2017,1,30
+1628405,Johnathan Motley,USA,Baylor,Undrafted,Undrafted,Undrafted
+1628407,Dwayne Bacon,USA,Florida State,2017,2,40
+1628408,PJ Dozier,USA,South Carolina,Undrafted,Undrafted,Undrafted
+1628409,Alec Peters,USA,Valparaiso,2017,2,54
+1628410,Edmond Sumner,USA,Xavier,2017,2,52
+1628411,Wes Iwundu,USA,Kansas State,2017,2,33
+1628412,Frank Mason III,USA,Kansas,2017,2,34
+1628413,Jonah Bolden,Australia,UCLA,2017,2,36
+1628414,Sindarius Thornwell,USA,South Carolina,2017,2,48
+1628415,Dillon Brooks,Canada,Oregon,2017,2,45
+1628416,Tyler Dorsey,USA,Oregon,2017,2,41
+1628417,Jaron Blossomgame,USA,Clemson,2017,2,59
+1628418,Thomas Bryant,USA,Indiana,2017,2,42
+1628419,Cameron Oliver,USA,Nevada,Undrafted,Undrafted,Undrafted
+1628420,Monte Morris,USA,Iowa State,2017,2,51
+1628421,Devin Robinson,USA,Florida,2017,,
+1628422,Damyean Dotson,USA,Houston,2017,2,44
+1628424,Kobi Simmons,USA,Arizona,Undrafted,Undrafted,Undrafted
+1628425,Sterling Brown,USA,Southern Methodist,2017,2,46
+1628426,Sasha Vezenkov,Bulgaria,,2017,2,57
+1628427,Vlatko Cancar,Slovenia,,2017,2,49
+1628429,Charles Cooke,USA,Dayton,Undrafted,Undrafted,Undrafted
+1628430,Nigel Williams-Goss,USA,Gonzaga,2017,2,55
+1628432,Davon Reed,USA,Miami,2017,2,32
+1628435,Chance Comanche,USA,Arizona,Undrafted,Undrafted,Undrafted
+1628436,Luke Kornet,USA,Vanderbilt,Undrafted,Undrafted,Undrafted
+1628439,Isaiah Hicks,USA,North Carolina,Undrafted,Undrafted,Undrafted
+1628443,Kadeem Allen,USA,Arizona,2017,2,53
+1628444,Jabari Bird,USA,California,2017,2,56
+1628449,Chris Boucher,Saint Lucia,Oregon,Undrafted,Undrafted,Undrafted
+1628450,Eric Mika,USA,Brigham Young,2017,,
+1628451,Jacob Wiley,USA,Eastern Washington,Undrafted,Undrafted,Undrafted
+1628455,Mike James,USA,Lamar,Undrafted,Undrafted,Undrafted
+1628462,Milos Teodosic,Serbia,,Undrafted,Undrafted,Undrafted
+1628463,Tyler Cavanaugh,USA,George Washington,Undrafted,Undrafted,Undrafted
+1628464,Daniel Theis,Germany,,Undrafted,Undrafted,Undrafted
+1628467,Maxi Kleber,Germany,,Undrafted,Undrafted,Undrafted
+1628469,Antonio Blakeney,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+1628470,Torrey Craig,USA,South Carolina Upstate,Undrafted,Undrafted,Undrafted
+1628475,Matt Williams Jr.,USA,Central Florida,Undrafted,Undrafted,Undrafted
+1628476,Derrick Walton Jr.,USA,Michigan,Undrafted,Undrafted,Undrafted
+1628492,Gian Clavell,Puerto Rico,Colorado State,Undrafted,Undrafted,Undrafted
+1628493,Mangok Mathiang,Australia,Louisville,Undrafted,Undrafted,Undrafted
+1628495,Milton Doyle,USA,Loyola-Chicago,2017,,
+1628499,Antonius Cleveland,USA,S.E. Missouri,Undrafted,Undrafted,Undrafted
+1628500,Ben Moore,USA,Southern Methodist,Undrafted,Undrafted,Undrafted
+1628502,Nigel Hayes-Davis,USA,Wisconsin,Undrafted,Undrafted,Undrafted
+1628503,Jamel Artis,USA,Pittsburgh,Undrafted,Undrafted,Undrafted
+1628504,Xavier Rathan-Mayes,Canada,Florida State,2017,,
+1628505,Troy Caupain,USA,Cincinnati,Undrafted,Undrafted,Undrafted
+1628506,London Perrantes,USA,Virginia,2017,,
+1628510,Andrew White III,USA,Syracuse,2017,,
+1628513,Naz Mitrou-Long,Canada,Iowa State,Undrafted,Undrafted,Undrafted
+1628515,Isaiah Briscoe,USA,Kentucky,Undrafted,Undrafted,Undrafted
+1628518,Amile Jefferson,USA,Duke,2017,,
+1628537,Jaylen Morris,USA,Molloy,Undrafted,Undrafted,Undrafted
+1628539,Mychal Mulder,Canada,Kentucky,Undrafted,Undrafted,Undrafted
+1628571,Erik McCree,USA,Louisiana Tech,Undrafted,Undrafted,Undrafted
+1628578,Amida Brimah,USA,Connecticut,Undrafted,Undrafted,Undrafted
+1628591,Craig Sword,USA,Mississippi State,Undrafted,Undrafted,Undrafted
+1628605,Dusty Hannahs,USA,Arkansas,2017,,
+1628656,Billy Garrett,USA,DePaul,Undrafted,Undrafted,Undrafted
+1628681,Rodney Purvis,USA,Connecticut,Undrafted,Undrafted,Undrafted
+1628769,Tahjere McCall,USA,Tennessee State,2017,0,
+1628778,Paul Watson,USA,Fresno State,Undrafted,Undrafted,Undrafted
+1628935,Aaron Jackson,USA,Duquesne,Undrafted,Undrafted,Undrafted
+1628959,Rawle Alkins,USA,Arizona,Undrafted,Undrafted,Undrafted
+1628960,Grayson Allen,USA,Duke,2018,1,21
+1628961,Kostas Antetokounmpo,Greece,Dayton,2018,2,60
+1628962,Udoka Azubuike,Nigeria,Kansas,2020,1,27
+1628963,Marvin Bagley III,USA,Duke,2018,1,2
+1628964,Mo Bamba,USA,Texas,2018,1,6
+1628966,Keita Bates-Diop,USA,Ohio State,2018,2,48
+1628968,Brian Bowen II,USA,,Undrafted,Undrafted,Undrafted
+1628969,Mikal Bridges,USA,Villanova,2018,1,10
+1628970,Miles Bridges,USA,Michigan State,2018,1,12
+1628971,Bruce Brown,USA,Miami,2018,2,42
+1628972,Troy Brown Jr.,USA,Oregon,2018,1,15
+1628973,Jalen Brunson,USA,Villanova,2018,2,33
+1628975,Jevon Carter,USA,West Virginia,2018,2,32
+1628976,Wendell Carter Jr.,USA,Duke,2018,1,7
+1628977,Hamidou Diallo,USA,Kentucky,2018,2,45
+1628978,Donte DiVincenzo,USA,Villanova,2018,1,17
+1628979,Trevon Duval,USA,Duke,Undrafted,Undrafted,Undrafted
+1628980,Jacob Evans,USA,Cincinnati,2018,1,28
+1628981,Bruno Fernando,Angola,Maryland,2019,2,34
+1628982,Melvin Frazier Jr.,USA,Tulane,2018,2,35
+1628983,Shai Gilgeous-Alexander,Canada,Kentucky,2018,1,11
+1628984,Devonte' Graham,USA,Kansas,2018,2,34
+1628985,Devon Hall,USA,Virginia,2018,2,53
+1628987,Kevin Hervey,USA,Texas-Arlington,2018,2,57
+1628988,Aaron Holiday,USA,UCLA,2018,1,23
+1628989,Kevin Huerter,USA,Maryland,2018,1,19
+1628990,Chandler Hutchison,USA,Boise State,2018,1,22
+1628991,Jaren Jackson Jr.,USA,Michigan State,2018,1,4
+1628993,Alize Johnson,USA,Missouri State,2018,2,50
+1628994,George King,USA,University of Colorado Boulder,2018,2,59
+1628995,Kevin Knox II,USA,Kentucky,2018,1,9
+1628997,Caleb Martin,USA,Nevada,Undrafted,Undrafted,Undrafted
+1628998,Cody Martin,USA,Nevada,2019,2,36
+1628999,Yante Maten,USA,Georgia,2018,,
+1629001,De'Anthony Melton,USA,Southern California,2018,2,46
+1629002,Chimezie Metu,USA,USC,2018,2,49
+1629003,Shake Milton,USA,Southern Methodist,2018,2,54
+1629004,Svi Mykhailiuk,Ukraine,Kansas,2018,2,47
+1629005,Malik Newman,USA,Kansas,2018,,
+1629006,Josh Okogie,Nigeria,Georgia Tech,2018,1,20
+1629007,Jontay Porter,USA,Missouri,Undrafted,Undrafted,Undrafted
+1629008,Michael Porter Jr.,USA,Missouri,2018,1,14
+1629010,Jerome Robinson,USA,Boston College,2018,1,13
+1629011,Mitchell Robinson,USA,Western Kentucky,2018,2,36
+1629012,Collin Sexton,USA,Alabama,2018,1,8
+1629013,Landry Shamet,USA,Wichita State,2018,1,26
+1629014,Anfernee Simons,USA,,2018,1,24
+1629015,Zhaire Smith,USA,Texas Tech,2018,1,16
+1629016,Omari Spellman,USA,Villanova,2018,1,30
+1629017,Khyri Thomas,USA,Creighton,2018,2,38
+1629018,Gary Trent Jr.,USA,Duke,2018,2,37
+1629019,Allonzo Trier,USA,Arizona,2018,,
+1629020,Jarred Vanderbilt,USA,Kentucky,2018,2,41
+1629021,Moritz Wagner,Germany,Michigan,2018,1,25
+1629022,Lonnie Walker IV,USA,Miami,2018,1,18
+1629023,P.J. Washington,USA,Kentucky,2019,1,12
+1629026,Kenrich Williams,USA,TCU,Undrafted,Undrafted,Undrafted
+1629027,Trae Young,USA,Oklahoma,2018,1,5
+1629028,Deandre Ayton,Bahamas,Arizona,2018,1,1
+1629029,Luka Dončić,Slovenia,,2018,1,3
+1629033,Theo Pinson,USA,North Carolina,Undrafted,Undrafted,Undrafted
+1629034,Ray Spalding,USA,Louisville,2018,2,56
+1629035,Carsen Edwards,USA,Purdue,2019,2,33
+1629044,Shamorie Ponds,USA,"St. John's, N.Y.",Undrafted,Undrafted,Undrafted
+1629045,Bonzie Colson,USA,Notre Dame,Undrafted,Undrafted,Undrafted
+1629048,Goga Bitadze,Georgia,,2019,1,18
+1629052,Oshae Brissett,Canada,Syracuse,Undrafted,Undrafted,Undrafted
+1629053,Vincent Edwards,USA,Purdue,2018,2,52
+1629055,Donte Grantham,USA,Clemson,2018,,
+1629056,Terence Davis,USA,Mississippi,Undrafted,Undrafted,Undrafted
+1629057,Robert Williams III,USA,Texas A&M,2018,1,27
+1629058,Dzanan Musa,Bosnia and Herzegovina,,2018,1,29
+1629059,Elie Okobo,France,,2018,2,31
+1629060,Rui Hachimura,Japan,Gonzaga,2019,1,9
+1629061,Deng Adel,South Sudan,Louisville,2018,,
+1629065,Ky Bowman,USA,Boston College,Undrafted,Undrafted,Undrafted
+1629066,Rodions Kurucs,Latvia,,2018,2,40
+1629067,Isaac Bonga,Germany,,2018,2,39
+1629076,Tyler Cook,USA,Iowa,Undrafted,Undrafted,Undrafted
+1629083,Arnoldas Kulboka,Lithuania,,2018,2,55
+1629091,Elijah Bryant,USA,Brigham Young,Undrafted,Undrafted,Undrafted
+1629093,Tyler Davis,USA,Texas A&M,Undrafted,Undrafted,Undrafted
+1629094,Marcus Derrickson,USA,Georgetown,Undrafted,Undrafted,Undrafted
+1629098,Jack McVeigh,Australia,University of Nebraska-Lincoln,Undrafted,Undrafted,Undrafted
+1629102,Brandon Sampson,USA,Louisiana State,2018,,
+1629103,Kelan Martin,USA,Butler,Undrafted,Undrafted,Undrafted
+1629109,Gary Clark,USA,Cincinnati,Undrafted,Undrafted,Undrafted
+1629111,Jock Landale,Australia,St. Mary's,Undrafted,Undrafted,Undrafted
+1629116,Angel Delgado,Dominican Republic,Seton Hall,2018,,
+1629117,Wenyen Gabriel,South Sudan,Kentucky,Undrafted,Undrafted,Undrafted
+1629118,Thomas Welsh,USA,UCLA,2018,2,58
+1629121,Jaylen Adams,USA,St. Bonaventure,Undrafted,Undrafted,Undrafted
+1629122,J.P. Macura,USA,Xavier,2018,,
+1629123,Jared Terrell,USA,Rhode Island,Undrafted,Undrafted,Undrafted
+1629126,Deonte Burton,USA,Iowa State,Undrafted,Undrafted,Undrafted
+1629130,Duncan Robinson,USA,Michigan,Undrafted,Undrafted,Undrafted
+1629133,Daryl Macon,USA,Arkansas,2018,,
+1629134,Kendrick Nunn,USA,Oakland,Undrafted,Undrafted,Undrafted
+1629139,Yuta Watanabe,Japan,George Washington,Undrafted,Undrafted,Undrafted
+1629140,Johnathan Williams,USA,Gonzaga,Undrafted,Undrafted,Undrafted
+1629147,Joe Chealey,USA,College of Charleston,2018,,
+1629150,Emanuel Terry,USA,Lincoln Memorial,Undrafted,Undrafted,Undrafted
+1629151,Ryan Broekhoff,Australia,Valparaiso,Undrafted,Undrafted,Undrafted
+1629152,DeVaughn Akoon-Purcell,Trinidad and Tobago,Illinois State,2016,,
+1629155,Zach Lofton,USA,New Mexico State,Undrafted,Undrafted,Undrafted
+1629162,Jordan McLaughlin,USA,Southern California,Undrafted,Undrafted,Undrafted
+1629164,Brandon Goodwin,USA,Florida Gulf Coast,Undrafted,Undrafted,Undrafted
+1629168,BJ Johnson,USA,La Salle,Undrafted,Undrafted,Undrafted
+1629185,Chris Chiozza,USA,Florida,Undrafted,Undrafted,Undrafted
+1629203,Jemerrio Jones,USA,New Mexico State,2018,,
+1629216,Gabe Vincent,USA,California-Santa Barbara,Undrafted,Undrafted,Undrafted
+1629232,Kaiser Gates,USA,Xavier,2018,,
+1629234,Drew Eubanks,USA,Oregon State,Undrafted,Undrafted,Undrafted
+1629244,Cam Reynolds,USA,Tulane,Undrafted,Undrafted,Undrafted
+1629308,Juan Toscano-Anderson,USA,Marquette,Undrafted,Undrafted,Undrafted
+1629309,Trayvon Palmer,USA,Chicago St.,Undrafted,Undrafted,Undrafted
+1629312,Haywood Highsmith,USA,Wheeling Jesuit,2018,,
+1629346,Alen Smailagic,Serbia,,2019,2,39
+1629353,Isaac Humphries,Australia,Kentucky,2017,,
+1629541,Dairis Bertans,Latvia,,Undrafted,Undrafted,Undrafted
+1629597,Zylan Cheatham,USA,Arizona State,Undrafted,Undrafted,Undrafted
+1629598,Chris Clemons,USA,Campbell University,Undrafted,Undrafted,Undrafted
+1629599,Amir Coffey,USA,Minnesota,Undrafted,Undrafted,Undrafted
+1629600,Jarron Cumberland,USA,Cincinnati,Undrafted,Undrafted,Undrafted
+1629602,Javin DeLaurier,USA,Duke,Undrafted,Undrafted,Undrafted
+1629603,Mamadi Diakite,Guinea,Virginia,Undrafted,Undrafted,Undrafted
+1629604,CJ Elleby,USA,Washington State,2020,2,46
+1629605,Tacko Fall,Senegal,Central Florida,Undrafted,Undrafted,Undrafted
+1629606,Robert Franks,USA,Washington State,2019,,
+1629607,Jared Harper,USA,Auburn,Undrafted,Undrafted,Undrafted
+1629608,Dewan Hernandez,USA,Miami,2019,2,59
+1629610,DaQuan Jeffries,USA,Tulsa,Undrafted,Undrafted,Undrafted
+1629611,Terance Mann,USA,Florida State,2019,2,48
+1629614,Andrew Nembhard,Canada,Gonzaga,2022,2,31
+1629617,Reggie Perry,USA,Mississippi State,2020,2,57
+1629618,Jalen Pickett,USA,Penn State,2023,2,32
+1629619,Myles Powell,USA,Seton Hall,Undrafted,Undrafted,Undrafted
+1629620,Justin Robinson,USA,Virginia Tech,2019,,
+1629621,Marial Shayok,Canada,Iowa State,2019,2,54
+1629622,Max Strus,USA,DePaul,Undrafted,Undrafted,Undrafted
+1629623,Lindell Wigginton,Canada,Iowa State,2019,,
+1629625,Justin Wright-Foreman,USA,Hofstra,2019,2,53
+1629626,Bol Bol,Sudan,Oregon,2019,2,44
+1629627,Zion Williamson,USA,Duke,2019,1,1
+1629628,RJ Barrett,Canada,Duke,2019,1,3
+1629629,Cam Reddish,USA,Duke,2019,1,10
+1629630,Ja Morant,USA,Murray State,2019,1,2
+1629631,De'Andre Hunter,USA,Virginia,2019,1,4
+1629632,Coby White,USA,North Carolina,2019,1,7
+1629633,Jarrett Culver,USA,Texas Tech,2019,1,6
+1629634,Brandon Clarke,Canada,Gonzaga,2019,1,21
+1629635,Sekou Doumbouya,France,,2019,1,15
+1629636,Darius Garland,USA,Vanderbilt,2019,1,5
+1629637,Jaxson Hayes,USA,Texas,2019,1,8
+1629638,Nickeil Alexander-Walker,Canada,Virginia Tech,2019,1,17
+1629639,Tyler Herro,USA,Kentucky,2019,1,13
+1629640,Keldon Johnson,USA,Kentucky,2019,1,29
+1629641,Romeo Langford,USA,Indiana,2019,1,14
+1629642,Nassir Little,USA,North Carolina,2019,1,25
+1629643,Chuma Okeke,USA,Auburn,2019,1,16
+1629644,KZ Okpala,USA,Stanford,2019,2,32
+1629645,Kevin Porter Jr.,USA,Southern California,2019,1,30
+1629646,Charles Bassey,Nigeria,Western Kentucky,2021,2,53
+1629647,Darius Bazley,USA,,2019,1,23
+1629648,Jordan Bone,USA,Tennessee,2019,2,57
+1629649,Ignas Brazdeikis,Canada,Michigan,2019,2,47
+1629650,Moses Brown,USA,UCLA,Undrafted,Undrafted,Undrafted
+1629651,Nic Claxton,USA,Georgia,2019,2,31
+1629652,Luguentz Dort,Canada,Arizona State,Undrafted,Undrafted,Undrafted
+1629653,Devon Dotson,USA,Kansas,Undrafted,Undrafted,Undrafted
+1629655,Daniel Gafford,USA,Arkansas,2019,2,38
+1629656,Quentin Grimes,USA,Houston,2021,1,25
+1629657,Kyle Guy,USA,Virginia,2019,2,55
+1629658,Jaylen Hoard,France,Wake Forest,Undrafted,Undrafted,Undrafted
+1629659,Talen Horton-Tucker,USA,Iowa State,2019,2,46
+1629660,Ty Jerome,USA,Virginia,2019,1,24
+1629661,Cameron Johnson,USA,North Carolina,2019,1,11
+1629662,Mfiondu Kabengele,Canada,Florida State,2019,1,27
+1629663,Louis King,USA,Oregon,Undrafted,Undrafted,Undrafted
+1629665,Jalen Lecque,USA,,Undrafted,Undrafted,Undrafted
+1629667,Jalen McDaniels,USA,San Diego State,2019,2,52
+1629668,Zach Norvell Jr.,USA,Gonzaga,2019,,
+1629669,Jaylen Nowell,USA,Washington,2019,2,43
+1629670,Jordan Nwora,USA,Louisville,2020,2,45
+1629671,Miye Oni,USA,Yale,2019,2,58
+1629672,Eric Paschall,USA,Villanova,2019,2,41
+1629673,Jordan Poole,USA,Michigan,2019,1,28
+1629674,Neemias Queta,Portugal,Utah State,2021,2,39
+1629675,Naz Reid,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+1629676,Isaiah Roby,USA,Nebraska,2019,2,45
+1629677,Luka Samanic,Croatia,,2019,1,19
+1629678,Admiral Schofield,United Kingdom,Tennessee,2019,2,42
+1629680,Matisse Thybulle,USA,Washington,2019,1,20
+1629681,Killian Tillie,France,Gonzaga,Undrafted,Undrafted,Undrafted
+1629682,Tremont Waters,USA,Louisiana State,2019,2,51
+1629683,Quinndary Weatherspoon,USA,Mississippi State,2019,2,49
+1629684,Grant Williams,USA,Tennessee,2019,1,22
+1629685,Dylan Windler,USA,Belmont,2019,1,26
+1629686,Deividas Sirvydis,Lithuania,,2019,2,37
+1629690,Adam Mokoka,France,,Undrafted,Undrafted,Undrafted
+1629712,Didi Louzada,Brazil,,2019,2,35
+1629713,Justin James,USA,Wyoming,2019,2,40
+1629714,Jarrell Brantley,USA,College of Charleston,2019,2,50
+1629716,Marques Bolden,USA,Duke,2019,,
+1629717,Armoni Brooks,USA,Houston,2019,,
+1629718,Charlie Brown Jr.,USA,St. Joseph's (PA),Undrafted,Undrafted,Undrafted
+1629719,Devontae Cacok,USA,UNC-Wilmington,Undrafted,Undrafted,Undrafted
+1629723,John Konchar,USA,Indiana-Purdue Fort Wayne,Undrafted,Undrafted,Undrafted
+1629724,Vic Law,USA,Northwestern,Undrafted,Undrafted,Undrafted
+1629725,Jeremiah Martin,USA,Memphis,Undrafted,Undrafted,Undrafted
+1629726,Garrison Mathews,USA,Lipscomb,Undrafted,Undrafted,Undrafted
+1629729,Josh Reaves,USA,Penn State,Undrafted,Undrafted,Undrafted
+1629730,Rayjon Tucker,USA,Arkansas-Little Rock,Undrafted,Undrafted,Undrafted
+1629731,Dean Wade,USA,Kansas State,Undrafted,Undrafted,Undrafted
+1629734,Kyle Alexander,Canada,Tennessee,Undrafted,Undrafted,Undrafted
+1629735,Chris Silva,Gabon,South Carolina,Undrafted,Undrafted,Undrafted
+1629738,Vincent Poirier,France,,Undrafted,Undrafted,Undrafted
+1629739,William Howard,France,,Undrafted,Undrafted,Undrafted
+1629740,Nicolo Melli,Italy,,Undrafted,Undrafted,Undrafted
+1629741,Marko Guduric,Serbia,,Undrafted,Undrafted,Undrafted
+1629742,Stanton Kidd,USA,Colorado State,Undrafted,Undrafted,Undrafted
+1629743,Donta Hall,USA,Alabama,Undrafted,Undrafted,Undrafted
+1629744,Matt Thomas,USA,Iowa State,Undrafted,Undrafted,Undrafted
+1629745,Tariq Owens,USA,Texas Tech,Undrafted,Undrafted,Undrafted
+1629750,Javonte Green,USA,Radford,Undrafted,Undrafted,Undrafted
+1629751,Dakota Mathias,USA,Purdue,2018,,
+1629752,Juwan Morgan,USA,Indiana,Undrafted,Undrafted,Undrafted
+1629755,Hassani Gravett,USA,South Carolina,2019,,
+1629760,Matt Mooney,USA,Texas Tech,Undrafted,Undrafted,Undrafted
+1629783,Shaq Buchanan,USA,Murray State,Undrafted,Undrafted,Undrafted
+1629788,Tyler Hall,USA,Montana State,Undrafted,Undrafted,Undrafted
+1629833,Keljin Blevins,USA,Montana State,2019,,
+1629873,Jaysean Paige,USA,West Virginia,Undrafted,Undrafted,Undrafted
+1629875,Xavier Moon,USA,Morehead State,Undrafted,Undrafted,Undrafted
+1629958,Ahmad Caver,USA,Old Dominion,2019,,
+1629962,Devin Cannady,USA,Princeton,2019,,
+1630162,Anthony Edwards,USA,Georgia,2020,1,1
+1630163,LaMelo Ball,USA,,2020,1,3
+1630164,James Wiseman,USA,Memphis,2020,1,2
+1630165,Killian Hayes,France,,2020,1,7
+1630166,Deni Avdija,Israel,,2020,1,9
+1630167,Obi Toppin,USA,Dayton,2020,1,8
+1630168,Onyeka Okongwu,USA,Southern California,2020,1,6
+1630169,Tyrese Haliburton,USA,Iowa State,2020,1,12
+1630170,Devin Vassell,USA,Florida State,2020,1,11
+1630171,Isaac Okoro,USA,Auburn,2020,1,5
+1630172,Patrick Williams,USA,Florida State,2020,1,4
+1630173,Precious Achiuwa,Nigeria,Memphis,2020,1,20
+1630174,Aaron Nesmith,USA,Vanderbilt,2020,1,14
+1630175,Cole Anthony,USA,North Carolina,2020,1,15
+1630176,Vernon Carey Jr.,USA,Duke,2020,2,32
+1630177,Theo Maledon,France,,2020,2,34
+1630178,Tyrese Maxey,USA,Kentucky,2020,1,21
+1630179,Tyrell Terry,USA,Stanford,2020,2,31
+1630180,Saddiq Bey,USA,Villanova,2020,1,19
+1630181,R.J. Hampton,USA,,2020,1,24
+1630182,Josh Green,Australia,Arizona,2020,1,18
+1630183,Jaden McDaniels,USA,Washington,2020,1,28
+1630184,Kira Lewis Jr.,USA,Alabama,2020,1,13
+1630185,Nico Mannion,Italy,Arizona,2020,2,48
+1630186,Jahmi'us Ramsey,USA,Texas Tech,2020,2,43
+1630187,Daniel Oturu,USA,Minnesota,2020,2,33
+1630188,Jalen Smith,USA,Maryland,2020,1,10
+1630189,Tyler Bey,USA,Colorado,2020,2,36
+1630190,Elijah Hughes,USA,Syracuse,2020,2,39
+1630191,Isaiah Stewart,USA,Washington,2020,1,16
+1630192,Zeke Nnaji,USA,Arizona,2020,1,22
+1630193,Immanuel Quickley,USA,Kentucky,2020,1,25
+1630194,Paul Reed,USA,DePaul,2020,2,58
+1630195,Leandro Bolmaro,Argentina,,2020,1,23
+1630196,Filip Petrusev,Serbia,Gonzaga,2021,2,50
+1630197,Aleksej Pokusevski,Serbia,,2020,1,17
+1630198,Isaiah Joe,USA,Arkansas,2020,2,49
+1630199,Cassius Stanley,USA,Duke,2020,2,54
+1630200,Tre Jones,USA,Duke,2020,2,41
+1630201,Malachi Flynn,USA,San Diego State,2020,1,29
+1630202,Payton Pritchard,USA,Oregon,2020,1,26
+1630203,Grant Riller,USA,College of Charleston,2020,2,56
+1630204,Ashton Hagans,USA,Kentucky,Undrafted,Undrafted,Undrafted
+1630205,Lamar Stevens,USA,Penn State,Undrafted,Undrafted,Undrafted
+1630206,Jay Scrubb,USA,John A. Logan,2020,2,55
+1630207,Nate Hinton,USA,Houston,Undrafted,Undrafted,Undrafted
+1630208,Nick Richards,Jamaica,Kentucky,2020,2,42
+1630209,Omer Yurtseven,Turkey,Georgetown,Undrafted,Undrafted,Undrafted
+1630210,Markus Howard,USA,Marquette,Undrafted,Undrafted,Undrafted
+1630211,Karim Mane,Senegal,Vanier,Undrafted,Undrafted,Undrafted
+1630214,Xavier Tillman,USA,Michigan State,2020,2,35
+1630215,Jared Butler,USA,Baylor,2021,2,40
+1630216,Cassius Winston,USA,Michigan State,2020,2,53
+1630217,Desmond Bane,USA,TCU,2020,1,30
+1630218,Robert Woodard II,USA,Mississippi State,2020,2,40
+1630219,Skylar Mays,USA,Louisiana State,2020,2,50
+1630221,Josh Hall,USA,,Undrafted,Undrafted,Undrafted
+1630222,Mason Jones,USA,Arkansas,Undrafted,Undrafted,Undrafted
+1630223,Jalen Harris,USA,Nevada,2020,2,59
+1630224,Jalen Green,USA,,2021,1,2
+1630225,Isaiah Todd,USA,,2021,2,31
+1630227,Daishen Nix,USA,,Undrafted,Undrafted,Undrafted
+1630228,Jonathan Kuminga,DRC,,2021,1,7
+1630230,Naji Marshall,USA,Xavier,Undrafted,Undrafted,Undrafted
+1630231,KJ Martin,USA,,2020,2,52
+1630233,Nathan Knight,USA,William & Mary,Undrafted,Undrafted,Undrafted
+1630234,Ty-Shon Alexander,USA,Creighton,Undrafted,Undrafted,Undrafted
+1630235,Trent Forrest,USA,Florida State,Undrafted,Undrafted,Undrafted
+1630237,Anthony Lamb,USA,Vermont,Undrafted,Undrafted,Undrafted
+1630238,Malik Fitts,USA,St. Mary's College,Undrafted,Undrafted,Undrafted
+1630240,Saben Lee,USA,Vanderbilt,2020,2,38
+1630241,Sam Merrill,USA,Utah State,2020,2,60
+1630243,Trevelin Queen,USA,New Mexico State,Undrafted,Undrafted,Undrafted
+1630245,Ayo Dosunmu,USA,Illinois,2021,2,38
+1630249,Vít Krejčí,Czech Republic,,2020,2,37
+1630250,Marko Simonovic,Montenegro,,2020,2,44
+1630253,Sean McDermott,USA,Butler,Undrafted,Undrafted,Undrafted
+1630256,Jae'Sean Tate,USA,Ohio State,Undrafted,Undrafted,Undrafted
+1630257,Jon Teske,USA,Michigan,Undrafted,Undrafted,Undrafted
+1630259,Jordan Ford,USA,St. Mary's College,Undrafted,Undrafted,Undrafted
+1630264,Anthony Gill,USA,Virginia,Undrafted,Undrafted,Undrafted
+1630266,Will Magnay,Australia,,Undrafted,Undrafted,Undrafted
+1630267,Facundo Campazzo,Argentina,,Undrafted,Undrafted,Undrafted
+1630268,Nate Darling,Canada,Delaware,Undrafted,Undrafted,Undrafted
+1630270,Xavier Sneed,USA,Kansas State,Undrafted,Undrafted,Undrafted
+1630271,Brodric Thomas,USA,Truman State,Undrafted,Undrafted,Undrafted
+1630273,Freddie Gillespie,USA,Baylor,Undrafted,Undrafted,Undrafted
+1630278,Ade Murkey,USA,Denver,Undrafted,Undrafted,Undrafted
+1630283,Kylor Kelley,USA,Oregon State,Undrafted,Undrafted,Undrafted
+1630284,Kevon Harris,USA,Stephen F. Austin,Undrafted,Undrafted,Undrafted
+1630285,Zavier Simpson,USA,Michigan,Undrafted,Undrafted,Undrafted
+1630286,Trevon Scott,USA,Cincinnati,Undrafted,Undrafted,Undrafted
+1630288,Jeff Dowtin Jr.,USA,Rhode Island,Undrafted,Undrafted,Undrafted
+1630296,Braxton Key,USA,Virginia,Undrafted,Undrafted,Undrafted
+1630306,Rob Edwards,USA,Arizona State,Undrafted,Undrafted,Undrafted
+1630311,Pat Spencer,USA,Northwestern,Undrafted,Undrafted,Undrafted
+1630314,Brandon Williams,USA,Arizona,Undrafted,Undrafted,Undrafted
+1630322,Lindy Waters III,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+1630346,Matt Ryan,USA,Tennessee-Chattanooga,Undrafted,Undrafted,Undrafted
+1630466,Gabriel Deck,Argentina,,Undrafted,Undrafted,Undrafted
+1630525,David Johnson,USA,Louisville,2021,2,47
+1630526,Jeremiah Robinson-Earl,USA,Villanova,2021,2,32
+1630527,Brandon Boston Jr.,USA,Kentucky,2021,2,51
+1630528,Josh Christopher,USA,Arizona State,2021,1,24
+1630529,Herbert Jones,USA,Alabama,2021,2,35
+1630530,Trey Murphy III,USA,Virginia,2021,1,17
+1630531,Jaden Springer,USA,Tennessee,2021,1,28
+1630532,Franz Wagner,Germany,Michigan,2021,1,8
+1630533,Ziaire Williams,USA,Stanford,2021,1,10
+1630534,Ochai Agbaji,USA,Kansas,2022,1,14
+1630535,Greg Brown III,USA,Texas,2021,2,43
+1630536,Sharife Cooper,USA,Auburn,2021,2,48
+1630537,Chris Duarte,Dominican Republic,Oregon,2021,1,13
+1630538,Bones Hyland,USA,Virginia Commonwealth,2021,1,26
+1630539,Kai Jones,Bahamas,Texas,2021,1,19
+1630540,Miles McBride,USA,West Virginia,2021,2,36
+1630541,Moses Moody,USA,Arkansas,2021,1,14
+1630542,Marcus Bagley,USA,Arizona State,Undrafted,Undrafted,Undrafted
+1630543,Isaiah Jackson,USA,Kentucky,2021,1,22
+1630544,Tre Mann,USA,Florida,2021,1,18
+1630545,Terrence Shannon Jr,USA,Illinois,2024,1,27
+1630547,James Bouknight,USA,Connecticut,2021,1,11
+1630548,Johnny Juzang,USA,UCLA,Undrafted,Undrafted,Undrafted
+1630549,Day'Ron Sharpe,USA,North Carolina,2021,1,29
+1630550,JT Thor,USA,Auburn,2021,2,37
+1630551,Justin Champagnie,USA,Pittsburgh,Undrafted,Undrafted,Undrafted
+1630552,Jalen Johnson,USA,Duke,2021,1,20
+1630553,Keon Johnson,USA,Tennessee,2021,1,21
+1630554,Jason Preston,USA,Ohio,2021,2,33
+1630555,Joel Ayayi,France,Gonzaga,Undrafted,Undrafted,Undrafted
+1630556,Kessler Edwards,USA,Pepperdine,2021,2,44
+1630557,Corey Kispert,USA,Gonzaga,2021,1,15
+1630558,Davion Mitchell,USA,Baylor,2021,1,9
+1630559,Austin Reaves,USA,Oklahoma,Undrafted,Undrafted,Undrafted
+1630560,Cam Thomas,Japan,Louisiana State,2021,1,27
+1630561,David Duke Jr.,USA,Providence,Undrafted,Undrafted,Undrafted
+1630562,Matt Hurt,USA,Duke,Undrafted,Undrafted,Undrafted
+1630563,Joshua Primo,Canada,Alabama,2021,1,12
+1630564,RaiQuan Gray,USA,Florida State,2021,2,59
+1630565,Aaron Henry,USA,Michigan State,Undrafted,Undrafted,Undrafted
+1630567,Scottie Barnes,USA,Florida State,2021,1,4
+1630568,Luka Garza,USA,Iowa,2021,2,52
+1630570,Trendon Watford,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+1630572,Sandro Mamukelashvili,Georgia,Seton Hall,2021,2,54
+1630573,Sam Hauser,USA,Virginia,Undrafted,Undrafted,Undrafted
+1630574,Ariel Hukporti,Germany,,2024,2,58
+1630575,Scottie Lewis,USA,Florida,2021,2,56
+1630577,Julian Champagnie,USA,St. John's,Undrafted,Undrafted,Undrafted
+1630578,Alperen Sengun,Turkey,,2021,1,16
+1630579,Jericho Sims,USA,Texas,2021,2,58
+1630580,Joe Wieskamp,USA,Iowa,2021,2,41
+1630581,Josh Giddey,Australia,,2021,1,6
+1630582,Yves Pons,France,Tennessee,Undrafted,Undrafted,Undrafted
+1630583,Santi Aldama,Spain,Loyola-Maryland,2021,1,30
+1630585,Marcus Garrett,USA,Kansas,Undrafted,Undrafted,Undrafted
+1630586,Usman Garuba,Spain,,2021,1,23
+1630587,Isaiah Livers,USA,Michigan,2021,2,42
+1630589,Moses Wright,USA,Georgia Tech,Undrafted,Undrafted,Undrafted
+1630590,Scotty Pippen Jr.,USA,Vanderbilt,Undrafted,Undrafted,Undrafted
+1630591,Jalen Suggs,USA,Gonzaga,2021,1,5
+1630592,Jalen Wilson,USA,Kansas,2023,2,51
+1630593,McKinley Wright IV,USA,Colorado,Undrafted,Undrafted,Undrafted
+1630595,Cade Cunningham,USA,Oklahoma State,2021,1,1
+1630596,Evan Mobley,USA,Southern California,2021,1,3
+1630598,Aaron Wiggins,USA,Maryland,2021,2,55
+1630600,Isaiah Mobley,USA,USC,2022,2,49
+1630602,Chaundee Brown Jr.,USA,Michigan,Undrafted,Undrafted,Undrafted
+1630604,E.J. Liddell,USA,Ohio State,2022,2,41
+1630605,JaQuori McLaughlin,USA,Cal-Santa Barbara,Undrafted,Undrafted,Undrafted
+1630606,Javonte Smart,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+1630608,Malcolm Cazalon,France,,Undrafted,Undrafted,Undrafted
+1630610,DeJon Jarreau,USA,Houston,Undrafted,Undrafted,Undrafted
+1630611,Gui Santos,Brazil,,2022,2,55
+1630612,RJ Nembhard Jr.,USA,TCU,Undrafted,Undrafted,Undrafted
+1630613,Duane Washington Jr.,Germany,Ohio State,Undrafted,Undrafted,Undrafted
+1630618,D.J. Carton,USA,Marquette,Undrafted,Undrafted,Undrafted
+1630619,Moussa Cisse,Guinea,Memphis,Undrafted,Undrafted,Undrafted
+1630620,Darius Days,USA,Louisiana State,Undrafted,Undrafted,Undrafted
+1630621,Hunter Dickinson,USA,Kansas,Undrafted,Undrafted,Undrafted
+1630622,Jalen Crutcher,USA,University of Dayton,Undrafted,Undrafted,Undrafted
+1630623,Tyson Etienne,USA,Wichita State,Undrafted,Undrafted,Undrafted
+1630624,Feron Hunt,USA,Southern Methodist,Undrafted,Undrafted,Undrafted
+1630625,Dalano Banton,Canada,Nebraska,2021,2,46
+1630631,Jose Alvarado,USA,Georgia Tech,Undrafted,Undrafted,Undrafted
+1630637,Carlik Jones,USA,Louisville,Undrafted,Undrafted,Undrafted
+1630639,A.J. Lawson,Canada,South Carolina,Undrafted,Undrafted,Undrafted
+1630640,MJ Walker,USA,Florida State,Undrafted,Undrafted,Undrafted
+1630641,Ibou Badji,Senegal,,Undrafted,Undrafted,Undrafted
+1630643,Jay Huff,USA,Virginia,Undrafted,Undrafted,Undrafted
+1630644,Mac McClung,USA,Texas Tech,Undrafted,Undrafted,Undrafted
+1630647,Eugene Omoruyi,Nigeria,Oregon,Undrafted,Undrafted,Undrafted
+1630648,Jordan Schakel,USA,San Diego State,Undrafted,Undrafted,Undrafted
+1630649,Stanley Umude,USA,Arkansas,Undrafted,Undrafted,Undrafted
+1630658,Colin Castleton,USA,Florida,Undrafted,Undrafted,Undrafted
+1630678,Terry Taylor,USA,Austin Peay,Undrafted,Undrafted,Undrafted
+1630679,Ethan Thompson,Puerto Rico,Oregon State,Undrafted,Undrafted,Undrafted
+1630686,Georgios Kalaitzakis,Greece,,2021,2,60
+1630688,Ish Wainright,USA,Baylor,Undrafted,Undrafted,Undrafted
+1630691,Jamorko Pickett,USA,Georgetown,Undrafted,Undrafted,Undrafted
+1630692,Jordan Goodwin,USA,St. Louis,Undrafted,Undrafted,Undrafted
+1630693,Jaime Echenique,Colombia,Wichita State,Undrafted,Undrafted,Undrafted
+1630695,Micah Potter,USA,Wisconsin,Undrafted,Undrafted,Undrafted
+1630696,Dru Smith,USA,Missouri,Undrafted,Undrafted,Undrafted
+1630698,Kevin Pangos,Canada,Gonzaga,Undrafted,Undrafted,Undrafted
+1630699,MarJon Beauchamp,USA,,2022,1,24
+1630700,Dyson Daniels,Australia,,2022,1,8
+1630701,Michael Foster Jr.,USA,,Undrafted,Undrafted,Undrafted
+1630702,Jaden Hardy,USA,,2022,2,37
+1630703,Scoot Henderson,USA,,2023,1,3
+1630758,Aleem Ford,USA,Wisconsin,Undrafted,Undrafted,Undrafted
+1630762,Phillip Wheeler,USA,,Undrafted,Undrafted,Undrafted
+1630787,Cameron McGriff,USA,Oklahoma State,Undrafted,Undrafted,Undrafted
+1630792,Malcolm Hill,USA,Illinois,Undrafted,Undrafted,Undrafted
+1630811,Keaton Wallace,USA,Texas-San Antonio,Undrafted,Undrafted,Undrafted
+1630828,Alex Antetokounmpo,Greece,,Undrafted,Undrafted,Undrafted
+1630846,Olivier Sarr,France,Kentucky,Undrafted,Undrafted,Undrafted
+1630929,Henri Drell,Estonia,,Undrafted,Undrafted,Undrafted
+1630994,Gabriel Lundberg,Denmark,,Undrafted,Undrafted,Undrafted
+1631093,Jaden Ivey,USA,Purdue,2022,1,5
+1631094,Paolo Banchero,USA,Duke,2022,1,1
+1631095,Jabari Smith Jr.,USA,Auburn,2022,1,3
+1631096,Chet Holmgren,USA,Gonzaga,2022,1,2
+1631097,Bennedict Mathurin,Canada,Arizona,2022,1,6
+1631098,Johnny Davis,USA,Wisconsin,2022,1,10
+1631099,Keegan Murray,USA,Iowa,2022,1,4
+1631100,AJ Griffin,USA,Duke,2022,1,16
+1631101,Shaedon Sharpe,Canada,Kentucky,2022,1,7
+1631102,TyTy Washington Jr.,USA,Kentucky,2022,1,29
+1631103,Malaki Branham,USA,Ohio State,2022,1,20
+1631104,Blake Wesley,USA,Notre Dame,2022,1,25
+1631105,Jalen Duren,USA,Memphis,2022,1,13
+1631106,Tari Eason,USA,Louisiana State,2022,1,17
+1631107,Nikola Jović,Serbia,,2022,1,27
+1631108,Max Christie,USA,Michigan State,2022,2,35
+1631109,Mark Williams,USA,Duke,2022,1,15
+1631110,Jeremy Sochan,Poland,Baylor,2022,1,9
+1631111,Wendell Moore Jr.,USA,Duke,2022,1,26
+1631112,Kendall Brown,USA,Baylor,2022,2,48
+1631113,Kennedy Chandler,USA,Tennessee,2022,2,38
+1631114,Jalen Williams,USA,Santa Clara,2022,1,12
+1631115,Orlando Robinson,USA,Fresno State,Undrafted,Undrafted,Undrafted
+1631116,Patrick Baldwin Jr.,USA,Wisconsin-Milwaukee,2022,1,28
+1631117,Walker Kessler,USA,Auburn,2022,1,22
+1631119,Jaylin Williams,USA,Arkansas,2022,2,34
+1631120,JD Davison,USA,Alabama,2022,2,53
+1631121,Bryce McGowens,USA,Nebraska,2022,2,40
+1631123,Jamaree Bouyea,USA,San Francisco,Undrafted,Undrafted,Undrafted
+1631124,Julian Strawther,USA,Gonzaga,2023,1,29
+1631126,Caleb Love,USA,Arizona,Undrafted,Undrafted,Undrafted
+1631127,Harrison Ingram,USA,North Carolina,2024,2,48
+1631128,Christian Braun,USA,Kansas,2022,1,21
+1631131,Oscar Tshiebwe,DRC,Kentucky,Undrafted,Undrafted,Undrafted
+1631132,Christian Koloko,Cameroon,Arizona,2022,2,33
+1631133,Jabari Walker,USA,Colorado,2022,2,57
+1631157,Ryan Rollins,USA,Toledo,2022,2,44
+1631159,Leonard Miller,Canada,,2023,2,33
+1631160,Jordan Hall,USA,St. Joseph's (PA),Undrafted,Undrafted,Undrafted
+1631165,Keon Ellis,USA,Alabama,Undrafted,Undrafted,Undrafted
+1631166,Drew Timme,USA,Gonzaga,Undrafted,Undrafted,Undrafted
+1631167,Izaiah Brockington,USA,Iowa State,Undrafted,Undrafted,Undrafted
+1631169,Josh Minott,USA,Memphis,2022,2,45
+1631170,Jaime Jaquez Jr.,USA,UCLA,2023,1,18
+1631172,Ousmane Dieng,France,,2022,1,11
+1631173,Terquavion Smith,USA,North Carolina State,Undrafted,Undrafted,Undrafted
+1631174,Tyler Burton,USA,Richmond,Undrafted,Undrafted,Undrafted
+1631197,Jared Rhoden,USA,Seton Hall,Undrafted,Undrafted,Undrafted
+1631199,Ron Harper Jr.,USA,Rutgers,Undrafted,Undrafted,Undrafted
+1631200,Kris Murray,USA,Iowa,2023,1,23
+1631204,Marcus Sasser,USA,Houston,2023,1,25
+1631205,Buddy Boeheim,USA,Syracuse,Undrafted,Undrafted,Undrafted
+1631207,Dalen Terry,USA,Arizona,2022,1,18
+1631209,Isaiah Wong,USA,Miami,2023,2,55
+1631210,Jacob Toppin,USA,Kentucky,Undrafted,Undrafted,Undrafted
+1631211,Trevor Keels,USA,Duke,2022,2,42
+1631212,Peyton Watson,USA,UCLA,2022,1,30
+1631213,Tyrese Martin,USA,Connecticut,2022,2,51
+1631214,Alondes Williams,USA,Wake Forrest,Undrafted,Undrafted,Undrafted
+1631216,Caleb Houstan,Canada,Michigan,2022,2,32
+1631217,Moussa Diabaté,France,Michigan,2022,2,43
+1631218,Trayce Jackson-Davis,USA,Indiana,2023,2,57
+1631219,John Butler Jr.,USA,Florida State,Undrafted,Undrafted,Undrafted
+1631220,Dereon Seabron,USA,North Carolina State,Undrafted,Undrafted,Undrafted
+1631221,Collin Gillespie,USA,Villanova,Undrafted,Undrafted,Undrafted
+1631222,Jake LaRavia,USA,Wake Forest,2022,1,19
+1631223,David Roddy,USA,Colorado State,2022,1,23
+1631230,Dominick Barlow,USA,,Undrafted,Undrafted,Undrafted
+1631232,Keion Brooks Jr.,USA,Washington,Undrafted,Undrafted,Undrafted
+1631241,Javon Freeman-Liberty,USA,DePaul,Undrafted,Undrafted,Undrafted
+1631243,Mouhamed Gueye,Senegal,Washington State,2023,2,39
+1631245,Quenton Jackson,USA,Texas A&M,Undrafted,Undrafted,Undrafted
+1631246,Vince Williams Jr.,USA,Va Commonwealth,2022,2,47
+1631247,Luke Travers,Australia,,2022,2,56
+1631248,Baylor Scheierman,USA,Creighton,2024,1,30
+1631250,Pete Nance,USA,Northwestern,Undrafted,Undrafted,Undrafted
+1631254,Kenneth Lofton Jr.,USA,Louisiana Tech,Undrafted,Undrafted,Undrafted
+1631255,Karlo Matković,Bosnia and Herzegovina,,2022,2,52
+1631257,Jermaine Samuels Jr.,USA,Villanova,Undrafted,Undrafted,Undrafted
+1631260,AJ Green,USA,Northern Iowa,Undrafted,Undrafted,Undrafted
+1631262,Jules Bernard,USA,UCLA,Undrafted,Undrafted,Undrafted
+1631288,Jamal Cain,USA,Oakland,Undrafted,Undrafted,Undrafted
+1631298,Jack White,Australia,Duke,Undrafted,Undrafted,Undrafted
+1631301,Jaylen Sims,USA,UNC-Wilmington,Undrafted,Undrafted,Undrafted
+1631303,Justin Minaya,USA,Providence,Undrafted,Undrafted,Undrafted
+1631306,Cole Swider,USA,Syracuse,Undrafted,Undrafted,Undrafted
+1631309,Trevor Hudgins,USA,Northwest Missouri St.,Undrafted,Undrafted,Undrafted
+1631311,Lester Quiñones,USA,Memphis,Undrafted,Undrafted,Undrafted
+1631320,Chima Moneke,Nigeria,Cal-Davis,Undrafted,Undrafted,Undrafted
+1631321,Sidy Cissoko,France,,2023,2,44
+1631323,Simone Fontecchio,Italy,,Undrafted,Undrafted,Undrafted
+1631338,Mouhamadou Gueye,USA,Pittsburgh,Undrafted,Undrafted,Undrafted
+1631342,Daeqwon Plowden,USA,Bowling Green,Undrafted,Undrafted,Undrafted
+1631351,Lucas Williamson,USA,Loyola (IL),Undrafted,Undrafted,Undrafted
+1631367,Jacob Gilyard,USA,Richmond,Undrafted,Undrafted,Undrafted
+1631376,Dmytro Skapintsev,Ukraine,Cal State Northridge,Undrafted,Undrafted,Undrafted
+1631386,Taze Moore,USA,Houston,Undrafted,Undrafted,Undrafted
+1631451,Javonte Cooke,USA,Winston-Salem State,Undrafted,Undrafted,Undrafted
+1631457,Alex Morales,USA,Wagner,Undrafted,Undrafted,Undrafted
+1631466,Nate Williams,USA,Buffalo,Undrafted,Undrafted,Undrafted
+1631495,Donovan Williams,USA,UNLV,Undrafted,Undrafted,Undrafted
+1641645,Xavier Cooks,Australia,Winthrop,Undrafted,Undrafted,Undrafted
+1641705,Victor Wembanyama,France,,2023,1,1
+1641706,Brandon Miller,USA,Alabama,2023,1,2
+1641707,Taylor Hendricks,USA,Central Florida,2023,1,9
+1641708,Amen Thompson,USA,,2023,1,4
+1641709,Ausar Thompson,USA,,2023,1,5
+1641710,Anthony Black,USA,Arkansas,2023,1,6
+1641711,Gradey Dick,USA,Kansas,2023,1,13
+1641712,Rayan Rupert,France,,2023,2,43
+1641713,GG Jackson,USA,South Carolina,2023,2,45
+1641715,Cam Whitmore,USA,Villanova,2023,1,20
+1641716,Jarace Walker,USA,Houston,2023,1,8
+1641717,Cason Wallace,USA,Kentucky,2023,1,10
+1641718,Keyonte George,USA,Baylor,2023,1,16
+1641720,Jalen Hood-Schifino,USA,Indiana,2023,1,17
+1641721,Maxwell Lewis,USA,Pepperdine,2023,2,40
+1641722,Jordan Hawkins,USA,Connecticut,2023,1,14
+1641723,Kobe Bufkin,USA,Michigan,2023,1,15
+1641724,Jett Howard,USA,Michigan,2023,1,11
+1641725,Trey Alexander,USA,Creighton,Undrafted,Undrafted,Undrafted
+1641726,Dereck Lively II,USA,Duke,2023,1,12
+1641727,Dariq Whitehead,USA,Duke,2023,1,22
+1641729,Brice Sensabaugh,USA,Ohio State,2023,1,28
+1641730,Noah Clowney,USA,Alabama,2023,1,21
+1641731,Bilal Coulibaly,France,,2023,1,7
+1641732,Colby Jones,USA,Xavier,2023,2,34
+1641733,Nick Smith Jr.,USA,Arkansas,2023,1,27
+1641734,Emoni Bates,USA,Eastern Michigan,2023,2,49
+1641735,Amari Bailey,USA,UCLA,2023,2,41
+1641736,Reece Beekman,USA,Virginia,Undrafted,Undrafted,Undrafted
+1641737,Adem Bona,Nigeria,UCLA,2024,2,41
+1641738,Kobe Brown,USA,Missouri,2023,1,30
+1641739,Toumani Camara,Belgium,Dayton,2023,2,52
+1641740,Jaylen Clark,USA,UCLA,2023,2,53
+1641741,Ricky Council IV,USA,Arkansas,Undrafted,Undrafted,Undrafted
+1641744,Zach Edey,Canada,Purdue,2024,1,9
+1641745,Adam Flagler,USA,Baylor,Undrafted,Undrafted,Undrafted
+1641747,DaRon Holmes II,USA,Dayton,2024,1,22
+1641748,Andre Jackson Jr.,USA,Connecticut,2023,2,36
+1641749,Keyontae Johnson,USA,Kansas State,2023,2,50
+1641750,Ryan Kalkbrenner,USA,Creighton,2025,2,34
+1641752,Bobi Klintman,Sweden,,2024,2,37
+1641753,Chris Livingston,USA,Kentucky,2023,2,58
+1641754,Seth Lundy,USA,Penn State,2023,2,46
+1641755,Kevin McCullar Jr.,USA,Kansas,2024,2,56
+1641757,Jordan Miller,USA,Miami,2023,2,48
+1641761,Grant Nelson,USA,Alabama,Undrafted,Undrafted,Undrafted
+1641763,Julian Phillips,USA,Tennessee,2023,2,35
+1641764,Brandin Podziemski,USA,Santa Clara,2023,1,19
+1641765,Olivier-Maxence Prosper,Canada,Marquette,2023,1,24
+1641766,Adama Sanogo,Mali,UCONN,Undrafted,Undrafted,Undrafted
+1641767,Ben Sheppard,USA,Belmont,2023,1,26
+1641771,Jalen Slawson,USA,Furman,2023,2,54
+1641772,Nae'Qwan Tomlin,USA,Memphis,Undrafted,Undrafted,Undrafted
+1641774,Tristan Vukcevic,Italy,,2023,2,42
+1641775,Jordan Walsh,USA,Arkansas,2023,2,38
+1641778,Leaky Black,USA,North Carolina,Undrafted,Undrafted,Undrafted
+1641779,Jalen Bridges,USA,Baylor,Undrafted,Undrafted,Undrafted
+1641780,Johni Broome,USA,Auburn,2025,2,35
+1641783,Tristan da Silva,Germany,Colorado,2024,1,18
+1641787,Tosan Evbuomwan,United Kingdom,Princeton,Undrafted,Undrafted,Undrafted
+1641788,Alex Fudge,USA,Florida,Undrafted,Undrafted,Undrafted
+1641789,Jazian Gortman,USA,,Undrafted,Undrafted,Undrafted
+1641790,PJ Hall,USA,Clemson,Undrafted,Undrafted,Undrafted
+1641793,D'Moi Hodge,British Virgin Islands,Missouri,Undrafted,Undrafted,Undrafted
+1641794,Dillon Jones,USA,Weber State,2024,1,26
+1641796,Pelle Larsson,Sweden,Arizona,2024,2,44
+1641798,Jaylen Martin,USA,,Undrafted,Undrafted,Undrafted
+1641801,Emanuel Miller,Canada,Texas Christian,Undrafted,Undrafted,Undrafted
+1641803,Tristen Newton,USA,Connecticut,2024,2,49
+1641806,Markquis Nowell,USA,Kansas State,Undrafted,Undrafted,Undrafted
+1641807,Norchad Omier,Nicaragua,Miami,Undrafted,Undrafted,Undrafted
+1641809,Drew Peterson,USA,USC,Undrafted,Undrafted,Undrafted
+1641810,Antonio Reeves,USA,Kentucky,2024,2,47
+1641813,Mark Sears,USA,Alabama,Undrafted,Undrafted,Undrafted
+1641815,Isaiah Stevens,USA,Colorado State,Undrafted,Undrafted,Undrafted
+1641816,Hunter Tyson,USA,Clemson,2023,2,37
+1641817,Anton Watson,USA,Gonzaga,2024,2,54
+1641824,Matas Buzelis,USA,,2024,1,11
+1641842,Ronald Holland II,USA,,2024,1,5
+1641847,Andrew Funk,USA,Penn State,Undrafted,Undrafted,Undrafted
+1641851,Timmy Allen,USA,Texas,Undrafted,Undrafted,Undrafted
+1641854,Craig Porter Jr.,USA,Wichita State,Undrafted,Undrafted,Undrafted
+1641857,Liam Robbins,USA,Vanderbilt,Undrafted,Undrafted,Undrafted
+1641869,Malachi Smith,USA,Gonzaga,Undrafted,Undrafted,Undrafted
+1641871,Duop Reath,South Sudan,Louisiana State,Undrafted,Undrafted,Undrafted
+1641877,Nathan Mensah,Ghana,San Diego State,Undrafted,Undrafted,Undrafted
+1641878,Damion Baugh,USA,Texas Christian,Undrafted,Undrafted,Undrafted
+1641879,Yuri Collins,USA,St. Louis,Undrafted,Undrafted,Undrafted
+1641890,Tyler Smith,USA,,2024,2,33
+1641926,Dexter Dennis,USA,Texas A&M,Undrafted,Undrafted,Undrafted
+1641931,Onuralp Bitim,Turkey,,Undrafted,Undrafted,Undrafted
+1641936,Miles Norris,USA,Cal-Santa Barbara,Undrafted,Undrafted,Undrafted
+1641970,Maozinha Pereira,Brazil,,Undrafted,Undrafted,Undrafted
+1641989,Elijah Harkless,USA,UNLV,Undrafted,Undrafted,Undrafted
+1641998,Trey Jemison III,USA,Alabama-Birmingham,Undrafted,Undrafted,Undrafted
+1642013,Malik Williams,USA,Louisville,Undrafted,Undrafted,Undrafted
+1642024,Alex Reese,USA,Alabama,Undrafted,Undrafted,Undrafted
+1642050,Jackson Rowe,Canada,Cal State-Fullerton,Undrafted,Undrafted,Undrafted
+1642066,Myron Gardner,USA,Arkansas-Little Rock,Undrafted,Undrafted,Undrafted
+1642258,Zaccharie Risacher,France,,2024,1,1
+1642259,Alex Sarr,France,,2024,1,2
+1642260,Nikola Topić,Serbia,,2024,1,12
+1642261,Dalton Knecht,USA,Tennessee,2024,1,17
+1642262,Cody Williams,USA,Colorado,2024,1,10
+1642263,Reed Sheppard,USA,Kentucky,2024,1,3
+1642264,Stephon Castle,USA,Connecticut,2024,1,4
+1642265,Rob Dillingham,USA,Kentucky,2024,1,8
+1642266,Ja'Kobe Walter,USA,Baylor,2024,1,19
+1642267,Bub Carrington,USA,Pittsburgh,2024,1,14
+1642268,Isaiah Collier,USA,Southern California,2024,1,29
+1642269,Devin Carter,USA,Providence,2024,1,13
+1642270,Donovan Clingan,USA,Connecticut,2024,1,7
+1642271,Kyle Filipowski,USA,Duke,2024,2,32
+1642272,Jared McCain,USA,Duke,2024,1,16
+1642273,Kyshawn George,Switzerland,Miami,2024,1,24
+1642274,Yves Missi,Cameroon,Baylor,2024,1,21
+1642275,Tidjane Salaün,France,,2024,1,6
+1642276,Kel'el Ware,USA,Indiana,2024,1,15
+1642277,Johnny Furphy,Australia,Kansas,2024,2,35
+1642278,Tyler Kolek,USA,Marquette,2024,2,34
+1642279,Ulrich Chomche,Cameroon,,2024,2,57
+1642280,Trentyn Flowers,USA,,Undrafted,Undrafted,Undrafted
+1642281,Jaylon Tyson,USA,California,2024,1,20
+1642282,Hunter Sallis,USA,Wake Forest,Undrafted,Undrafted,Undrafted
+1642285,Cam Spencer,USA,Connecticut,2024,2,53
+1642345,Oso Ighodaro,USA,Marquette,2024,2,40
+1642346,Ryan Dunn,USA,Virginia,2024,1,28
+1642347,Jamal Shead,USA,Houston,2024,2,45
+1642348,Justin Edwards,USA,Kentucky,Undrafted,Undrafted,Undrafted
+1642349,Ajay Mitchell,Belgium,California-Santa Barbara,2024,2,38
+1642352,Keshad Johnson,USA,Arizona,Undrafted,Undrafted,Undrafted
+1642353,Cam Christie,USA,Minnesota,2024,2,46
+1642354,KJ Simpson,USA,Colorado,2024,2,42
+1642355,Bronny James,USA,Southern California,2024,2,55
+1642357,David Jones Garcia,Dominican Republic,Memphis,Undrafted,Undrafted,Undrafted
+1642358,AJ Johnson,USA,,2024,1,23
+1642359,Pacôme Dadiet,France,,2024,1,25
+1642362,Payton Sandfort,USA,Iowa,Undrafted,Undrafted,Undrafted
+1642363,Nique Clifford,USA,Colorado State,2025,1,24
+1642364,Jamir Watkins,USA,Florida State,2025,2,43
+1642366,Quinten Post,Netherlands,Boston College,2024,2,52
+1642367,Jonathan Mogbo,USA,San Francisco,2024,2,31
+1642368,N'Faly Dante,Mali,Oregon,Undrafted,Undrafted,Undrafted
+1642377,Jaylen Wells,USA,Washington State,2024,2,39
+1642380,Adama Bal,France,Santa Clara,Undrafted,Undrafted,Undrafted
+1642382,Branden Carlson,USA,Utah,Undrafted,Undrafted,Undrafted
+1642383,Walter Clayton Jr.,USA,Florida,2025,1,18
+1642384,Isaiah Crawford,USA,Louisiana Tech,Undrafted,Undrafted,Undrafted
+1642385,Cui Cui,China,,Undrafted,Undrafted,Undrafted
+1642389,Zyon Pullin,USA,Florida,Undrafted,Undrafted,Undrafted
+1642396,Blake Hinson,USA,Pittsburgh,Undrafted,Undrafted,Undrafted
+1642399,Jesse Edwards,Netherlands,West Virginia,Undrafted,Undrafted,Undrafted
+1642400,Tristan Enaruna,Netherlands,Cleveland State,Undrafted,Undrafted,Undrafted
+1642402,Enrique Freeman,USA,Akron,2024,2,50
+1642403,Isaac Jones,USA,Washington State,Undrafted,Undrafted,Undrafted
+1642404,Chaz Lanier,USA,Tennessee,2025,2,37
+1642419,Jamison Battle,USA,Ohio State,Undrafted,Undrafted,Undrafted
+1642422,Armel Traore,France,,Undrafted,Undrafted,Undrafted
+1642434,Riley Minix,USA,Morehead State,Undrafted,Undrafted,Undrafted
+1642439,Quincy Olivari,USA,Xavier,Undrafted,Undrafted,Undrafted
+1642443,Jahmir Young,USA,Maryland,Undrafted,Undrafted,Undrafted
+1642449,Tolu Smith,USA,Mississippi State,Undrafted,Undrafted,Undrafted
+1642450,Daniss Jenkins,USA,St. John's,Undrafted,Undrafted,Undrafted
+1642461,Spencer Jones,USA,Stanford,Undrafted,Undrafted,Undrafted
+1642468,Darius Brown II,USA,Utah State,Undrafted,Undrafted,Undrafted
+1642484,RayJ Dennis,USA,Baylor,Undrafted,Undrafted,Undrafted
+1642490,Josh Oduro,USA,Providence,Undrafted,Undrafted,Undrafted
+1642502,Malevy Leons,Netherlands,Bradley,Undrafted,Undrafted,Undrafted
+1642504,Cormac Ryan,USA,North Carolina,Undrafted,Undrafted,Undrafted
+1642505,Alex Ducas,Australia,St. Mary's (CA),Undrafted,Undrafted,Undrafted
+1642530,Yuki Kawamura,Japan,,Undrafted,Undrafted,Undrafted
+1642843,Cooper Flagg,USA,Duke,2025,1,1
+1642844,Dylan Harper,USA,Rutgers,2025,1,2
+1642845,VJ Edgecombe,USA,Baylor,2025,1,3
+1642846,Ace Bailey,USA,Rutgers,2025,1,5
+1642847,Jeremiah Fears,USA,Oklahoma,2025,1,7
+1642848,Tre Johnson,USA,Texas,2025,1,6
+1642849,Nolan Traore,France,,2025,1,19
+1642851,Kon Knueppel,USA,Duke,2025,1,4
+1642852,Derik Queen,USA,Maryland,2025,1,13
+1642853,Rasheer Fleming,USA,St. Joseph's (PA),2025,2,31
+1642854,Asa Newell,USA,Georgia,2025,1,23
+1642855,Noa Essengue,France,,2025,1,12
+1642856,Egor Dëmin,Russia,Brigham Young,2025,1,8
+1642857,Kasparas Jakučionis,Lithuania,Illinois-Urbana-Champaign,2025,1,20
+1642859,Jase Richardson,USA,Michigan State,2025,1,25
+1642860,Will Riley,USA,Illinois-Urbana-Champaign,2025,1,21
+1642862,Liam McNeeley,USA,Connecticut,2025,1,29
+1642863,Khaman Maluach,South Sudan,Duke,2025,1,10
+1642864,Hugo González,Spain,,2025,1,28
+1642866,Joan Beringer,France,,2025,1,17
+1642867,Collin Murray-Boyles,USA,South Carolina,2025,1,9
+1642868,Carter Bryant,USA,Arizona,2025,1,14
+1642869,Noah Penda,France,,2025,2,32
+1642873,Amari Williams,United Kingdom,Kentucky,2025,2,46
+1642874,Danny Wolf,USA,Michigan,2025,1,27
+1642875,Maxime Raynaud,France,Stanford,2025,2,42
+1642876,Adou Thiero,USA,Arkansas,2025,2,36
+1642877,Micah Peavy,USA,Georgetown,2025,2,40
+1642878,Tyrese Proctor,Australia,Duke,2025,2,49
+1642879,Ben Saraf,Israel,,2025,1,26
+1642880,Kam Jones,USA,Marquette,2025,2,38
+1642882,Julian Reese,USA,Maryland,Undrafted,Undrafted,Undrafted
+1642883,Sion James,USA,Duke,2025,2,33
+1642884,Vladislav Goldin,Russia,Michigan,Undrafted,Undrafted,Undrafted
+1642885,Mohamed Diawara,France,,2025,2,51
+1642886,Koby Brea,USA,Kentucky,2025,2,41
+1642905,Yang Hansen,China,,2025,1,16
+1642907,Cedric Coward,USA,Washington State,2025,1,11
+1642910,John Tonje,USA,Wisconsin,2025,2,53
+1642911,Rocco Zikarsky,Australia,,2025,2,45
+1642914,Javon Small,USA,West Virginia,2025,2,48
+1642917,Max Shulga,Ukraine,Virginia Commonwealth,2025,2,57
+1642918,Alijah Martin,USA,Florida,2025,2,39
+1642920,Kobe Sanders,USA,Nevada,2025,2,50
+1642928,Dylan Cardwell,USA,Auburn,Undrafted,Undrafted,Undrafted
+1642933,Keshon Gilbert,USA,Iowa State,Undrafted,Undrafted,Undrafted
+1642935,Chucky Hepburn,USA,Louisville,Undrafted,Undrafted,Undrafted
+1642938,Curtis Jones,USA,Iowa State,Undrafted,Undrafted,Undrafted
+1642939,Miles Kelly,USA,Auburn,Undrafted,Undrafted,Undrafted
+1642942,Jahmai Mashack,USA,Tennessee,2025,2,59
+1642948,Ryan Nembhard,Canada,Gonzaga,Undrafted,Undrafted,Undrafted
+1642949,Yanic Konan Niederhäuser,Switzerland,Penn State,2025,1,30
+1642950,Lachlan Olbrich,Australia,,2025,2,55
+1642951,Sean Pedulla,USA,Mississippi,Undrafted,Undrafted,Undrafted
+1642954,Will Richard,USA,Florida,2025,2,56
+1642955,Kadary Richmond,USA,"St. John's, N.Y.",Undrafted,Undrafted,Undrafted
+1642959,Chris Youngblood,USA,Alabama,Undrafted,Undrafted,Undrafted
+1642962,Drake Powell,USA,North Carolina,2025,1,22
+1642964,Brooks Barnhizer,USA,Northwestern,2025,2,44
+1642967,John Poulakidas,USA,Yale,Undrafted,Undrafted,Undrafted
+1643007,Taelon Peter,USA,Liberty,2025,2,54
+1643016,Bez Mbeng,USA,Yale,Undrafted,Undrafted,Undrafted
+1643018,LJ Cryer,USA,Houston,Undrafted,Undrafted,Undrafted
+1643024,Chris Mañon,USA,Vanderbilt,Undrafted,Undrafted,Undrafted
+1643047,CJ Huntley,USA,Appalachian State,Undrafted,Undrafted,Undrafted
+1643052,Chaney Johnson,USA,Auburn,Undrafted,Undrafted,Undrafted
+1643060,Hayden Gray,USA,California-San Diego,Undrafted,Undrafted,Undrafted
+1643133,Lawson Lovering,USA,Utah,Undrafted,Undrafted,Undrafted
+1643141,Jahmyl Telfort,Canada,,Undrafted,Undrafted,Undrafted
+1643158,Andersson Garcia,Dominican Republic,Texas A&M,Undrafted,Undrafted,Undrafted
+1643253,Toby Okani,USA,West Virginia,Undrafted,Undrafted,Undrafted
+1643257,Jayson Kent,USA,Texas,Undrafted,Undrafted,Undrafted

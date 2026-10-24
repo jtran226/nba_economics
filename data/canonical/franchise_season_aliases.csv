@@ -1,0 +1,777 @@
+franchise_id,season,team_abbreviation,full_team_name,short_team_name
+1610612737,2000-2001,ATL,Atlanta Hawks,Hawks
+1610612738,2000-2001,BOS,Boston Celtics,Celtics
+1610612739,2000-2001,CLE,Cleveland Cavaliers,Cavaliers
+1610612741,2000-2001,CHI,Chicago Bulls,Bulls
+1610612742,2000-2001,DAL,Dallas Mavericks,Mavericks
+1610612743,2000-2001,DEN,Denver Nuggets,Nuggets
+1610612744,2000-2001,GSW,Golden State Warriors,Warriors
+1610612745,2000-2001,HOU,Houston Rockets,Rockets
+1610612746,2000-2001,LAC,Los Angeles Clippers,Clippers
+1610612747,2000-2001,LAL,Los Angeles Lakers,Lakers
+1610612748,2000-2001,MIA,Miami Heat,Heat
+1610612749,2000-2001,MIL,Milwaukee Bucks,Bucks
+1610612750,2000-2001,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2000-2001,NJN,New Jersey Nets,Nets
+1610612752,2000-2001,NYK,New York Knicks,Knicks
+1610612753,2000-2001,ORL,Orlando Magic,Magic
+1610612754,2000-2001,IND,Indiana Pacers,Pacers
+1610612755,2000-2001,PHI,Philadelphia 76ers,76ers
+1610612756,2000-2001,PHX,Phoenix Suns,Suns
+1610612757,2000-2001,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2000-2001,SAC,Sacramento Kings,Kings
+1610612759,2000-2001,SAS,San Antonio Spurs,Spurs
+1610612760,2000-2001,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2000-2001,TOR,Toronto Raptors,Raptors
+1610612762,2000-2001,UTA,Utah Jazz,Jazz
+1610612763,2000-2001,VAN,Vancouver Grizzlies,Grizzlies
+1610612764,2000-2001,WAS,Washington Wizards,Wizards
+1610612765,2000-2001,DET,Detroit Pistons,Pistons
+1610612766,2000-2001,CHH,Charlotte Hornets,Hornets
+1610612737,2001-2002,ATL,Atlanta Hawks,Hawks
+1610612738,2001-2002,BOS,Boston Celtics,Celtics
+1610612739,2001-2002,CLE,Cleveland Cavaliers,Cavaliers
+1610612741,2001-2002,CHI,Chicago Bulls,Bulls
+1610612742,2001-2002,DAL,Dallas Mavericks,Mavericks
+1610612743,2001-2002,DEN,Denver Nuggets,Nuggets
+1610612744,2001-2002,GSW,Golden State Warriors,Warriors
+1610612745,2001-2002,HOU,Houston Rockets,Rockets
+1610612746,2001-2002,LAC,Los Angeles Clippers,Clippers
+1610612747,2001-2002,LAL,Los Angeles Lakers,Lakers
+1610612748,2001-2002,MIA,Miami Heat,Heat
+1610612749,2001-2002,MIL,Milwaukee Bucks,Bucks
+1610612750,2001-2002,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2001-2002,NJN,New Jersey Nets,Nets
+1610612752,2001-2002,NYK,New York Knicks,Knicks
+1610612753,2001-2002,ORL,Orlando Magic,Magic
+1610612754,2001-2002,IND,Indiana Pacers,Pacers
+1610612755,2001-2002,PHI,Philadelphia 76ers,76ers
+1610612756,2001-2002,PHX,Phoenix Suns,Suns
+1610612757,2001-2002,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2001-2002,SAC,Sacramento Kings,Kings
+1610612759,2001-2002,SAS,San Antonio Spurs,Spurs
+1610612760,2001-2002,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2001-2002,TOR,Toronto Raptors,Raptors
+1610612762,2001-2002,UTA,Utah Jazz,Jazz
+1610612763,2001-2002,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2001-2002,WAS,Washington Wizards,Wizards
+1610612765,2001-2002,DET,Detroit Pistons,Pistons
+1610612766,2001-2002,CHH,Charlotte Hornets,Hornets
+1610612737,2002-2003,ATL,Atlanta Hawks,Hawks
+1610612738,2002-2003,BOS,Boston Celtics,Celtics
+1610612739,2002-2003,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2002-2003,NOH,New Orleans Hornets,Hornets
+1610612741,2002-2003,CHI,Chicago Bulls,Bulls
+1610612742,2002-2003,DAL,Dallas Mavericks,Mavericks
+1610612743,2002-2003,DEN,Denver Nuggets,Nuggets
+1610612744,2002-2003,GSW,Golden State Warriors,Warriors
+1610612745,2002-2003,HOU,Houston Rockets,Rockets
+1610612746,2002-2003,LAC,Los Angeles Clippers,Clippers
+1610612747,2002-2003,LAL,Los Angeles Lakers,Lakers
+1610612748,2002-2003,MIA,Miami Heat,Heat
+1610612749,2002-2003,MIL,Milwaukee Bucks,Bucks
+1610612750,2002-2003,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2002-2003,NJN,New Jersey Nets,Nets
+1610612752,2002-2003,NYK,New York Knicks,Knicks
+1610612753,2002-2003,ORL,Orlando Magic,Magic
+1610612754,2002-2003,IND,Indiana Pacers,Pacers
+1610612755,2002-2003,PHI,Philadelphia 76ers,76ers
+1610612756,2002-2003,PHX,Phoenix Suns,Suns
+1610612757,2002-2003,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2002-2003,SAC,Sacramento Kings,Kings
+1610612759,2002-2003,SAS,San Antonio Spurs,Spurs
+1610612760,2002-2003,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2002-2003,TOR,Toronto Raptors,Raptors
+1610612762,2002-2003,UTA,Utah Jazz,Jazz
+1610612763,2002-2003,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2002-2003,WAS,Washington Wizards,Wizards
+1610612765,2002-2003,DET,Detroit Pistons,Pistons
+1610612737,2003-2004,ATL,Atlanta Hawks,Hawks
+1610612738,2003-2004,BOS,Boston Celtics,Celtics
+1610612739,2003-2004,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2003-2004,NOH,New Orleans Hornets,Hornets
+1610612741,2003-2004,CHI,Chicago Bulls,Bulls
+1610612742,2003-2004,DAL,Dallas Mavericks,Mavericks
+1610612743,2003-2004,DEN,Denver Nuggets,Nuggets
+1610612744,2003-2004,GSW,Golden State Warriors,Warriors
+1610612745,2003-2004,HOU,Houston Rockets,Rockets
+1610612746,2003-2004,LAC,Los Angeles Clippers,Clippers
+1610612747,2003-2004,LAL,Los Angeles Lakers,Lakers
+1610612748,2003-2004,MIA,Miami Heat,Heat
+1610612749,2003-2004,MIL,Milwaukee Bucks,Bucks
+1610612750,2003-2004,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2003-2004,NJN,New Jersey Nets,Nets
+1610612752,2003-2004,NYK,New York Knicks,Knicks
+1610612753,2003-2004,ORL,Orlando Magic,Magic
+1610612754,2003-2004,IND,Indiana Pacers,Pacers
+1610612755,2003-2004,PHI,Philadelphia 76ers,76ers
+1610612756,2003-2004,PHX,Phoenix Suns,Suns
+1610612757,2003-2004,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2003-2004,SAC,Sacramento Kings,Kings
+1610612759,2003-2004,SAS,San Antonio Spurs,Spurs
+1610612760,2003-2004,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2003-2004,TOR,Toronto Raptors,Raptors
+1610612762,2003-2004,UTA,Utah Jazz,Jazz
+1610612763,2003-2004,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2003-2004,WAS,Washington Wizards,Wizards
+1610612765,2003-2004,DET,Detroit Pistons,Pistons
+1610612737,2004-2005,ATL,Atlanta Hawks,Hawks
+1610612738,2004-2005,BOS,Boston Celtics,Celtics
+1610612739,2004-2005,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2004-2005,NOH,New Orleans Hornets,Hornets
+1610612741,2004-2005,CHI,Chicago Bulls,Bulls
+1610612742,2004-2005,DAL,Dallas Mavericks,Mavericks
+1610612743,2004-2005,DEN,Denver Nuggets,Nuggets
+1610612744,2004-2005,GSW,Golden State Warriors,Warriors
+1610612745,2004-2005,HOU,Houston Rockets,Rockets
+1610612746,2004-2005,LAC,Los Angeles Clippers,Clippers
+1610612747,2004-2005,LAL,Los Angeles Lakers,Lakers
+1610612748,2004-2005,MIA,Miami Heat,Heat
+1610612749,2004-2005,MIL,Milwaukee Bucks,Bucks
+1610612750,2004-2005,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2004-2005,NJN,New Jersey Nets,Nets
+1610612752,2004-2005,NYK,New York Knicks,Knicks
+1610612753,2004-2005,ORL,Orlando Magic,Magic
+1610612754,2004-2005,IND,Indiana Pacers,Pacers
+1610612755,2004-2005,PHI,Philadelphia 76ers,76ers
+1610612756,2004-2005,PHX,Phoenix Suns,Suns
+1610612757,2004-2005,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2004-2005,SAC,Sacramento Kings,Kings
+1610612759,2004-2005,SAS,San Antonio Spurs,Spurs
+1610612760,2004-2005,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2004-2005,TOR,Toronto Raptors,Raptors
+1610612762,2004-2005,UTA,Utah Jazz,Jazz
+1610612763,2004-2005,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2004-2005,WAS,Washington Wizards,Wizards
+1610612765,2004-2005,DET,Detroit Pistons,Pistons
+1610612766,2004-2005,CHA,Charlotte Bobcats,Bobcats
+1610612737,2005-2006,ATL,Atlanta Hawks,Hawks
+1610612738,2005-2006,BOS,Boston Celtics,Celtics
+1610612739,2005-2006,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2005-2006,NOK,New Orleans/Oklahoma City Hornets,Hornets
+1610612741,2005-2006,CHI,Chicago Bulls,Bulls
+1610612742,2005-2006,DAL,Dallas Mavericks,Mavericks
+1610612743,2005-2006,DEN,Denver Nuggets,Nuggets
+1610612744,2005-2006,GSW,Golden State Warriors,Warriors
+1610612745,2005-2006,HOU,Houston Rockets,Rockets
+1610612746,2005-2006,LAC,Los Angeles Clippers,Clippers
+1610612747,2005-2006,LAL,Los Angeles Lakers,Lakers
+1610612748,2005-2006,MIA,Miami Heat,Heat
+1610612749,2005-2006,MIL,Milwaukee Bucks,Bucks
+1610612750,2005-2006,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2005-2006,NJN,New Jersey Nets,Nets
+1610612752,2005-2006,NYK,New York Knicks,Knicks
+1610612753,2005-2006,ORL,Orlando Magic,Magic
+1610612754,2005-2006,IND,Indiana Pacers,Pacers
+1610612755,2005-2006,PHI,Philadelphia 76ers,76ers
+1610612756,2005-2006,PHX,Phoenix Suns,Suns
+1610612757,2005-2006,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2005-2006,SAC,Sacramento Kings,Kings
+1610612759,2005-2006,SAS,San Antonio Spurs,Spurs
+1610612760,2005-2006,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2005-2006,TOR,Toronto Raptors,Raptors
+1610612762,2005-2006,UTA,Utah Jazz,Jazz
+1610612763,2005-2006,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2005-2006,WAS,Washington Wizards,Wizards
+1610612765,2005-2006,DET,Detroit Pistons,Pistons
+1610612766,2005-2006,CHA,Charlotte Bobcats,Bobcats
+1610612737,2006-2007,ATL,Atlanta Hawks,Hawks
+1610612738,2006-2007,BOS,Boston Celtics,Celtics
+1610612739,2006-2007,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2006-2007,NOK,New Orleans/Oklahoma City Hornets,Hornets
+1610612741,2006-2007,CHI,Chicago Bulls,Bulls
+1610612742,2006-2007,DAL,Dallas Mavericks,Mavericks
+1610612743,2006-2007,DEN,Denver Nuggets,Nuggets
+1610612744,2006-2007,GSW,Golden State Warriors,Warriors
+1610612745,2006-2007,HOU,Houston Rockets,Rockets
+1610612746,2006-2007,LAC,Los Angeles Clippers,Clippers
+1610612747,2006-2007,LAL,Los Angeles Lakers,Lakers
+1610612748,2006-2007,MIA,Miami Heat,Heat
+1610612749,2006-2007,MIL,Milwaukee Bucks,Bucks
+1610612750,2006-2007,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2006-2007,NJN,New Jersey Nets,Nets
+1610612752,2006-2007,NYK,New York Knicks,Knicks
+1610612753,2006-2007,ORL,Orlando Magic,Magic
+1610612754,2006-2007,IND,Indiana Pacers,Pacers
+1610612755,2006-2007,PHI,Philadelphia 76ers,76ers
+1610612756,2006-2007,PHX,Phoenix Suns,Suns
+1610612757,2006-2007,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2006-2007,SAC,Sacramento Kings,Kings
+1610612759,2006-2007,SAS,San Antonio Spurs,Spurs
+1610612760,2006-2007,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2006-2007,TOR,Toronto Raptors,Raptors
+1610612762,2006-2007,UTA,Utah Jazz,Jazz
+1610612763,2006-2007,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2006-2007,WAS,Washington Wizards,Wizards
+1610612765,2006-2007,DET,Detroit Pistons,Pistons
+1610612766,2006-2007,CHA,Charlotte Bobcats,Bobcats
+1610612737,2007-2008,ATL,Atlanta Hawks,Hawks
+1610612738,2007-2008,BOS,Boston Celtics,Celtics
+1610612739,2007-2008,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2007-2008,NOH,New Orleans Hornets,Hornets
+1610612741,2007-2008,CHI,Chicago Bulls,Bulls
+1610612742,2007-2008,DAL,Dallas Mavericks,Mavericks
+1610612743,2007-2008,DEN,Denver Nuggets,Nuggets
+1610612744,2007-2008,GSW,Golden State Warriors,Warriors
+1610612745,2007-2008,HOU,Houston Rockets,Rockets
+1610612746,2007-2008,LAC,Los Angeles Clippers,Clippers
+1610612747,2007-2008,LAL,Los Angeles Lakers,Lakers
+1610612748,2007-2008,MIA,Miami Heat,Heat
+1610612749,2007-2008,MIL,Milwaukee Bucks,Bucks
+1610612750,2007-2008,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2007-2008,NJN,New Jersey Nets,Nets
+1610612752,2007-2008,NYK,New York Knicks,Knicks
+1610612753,2007-2008,ORL,Orlando Magic,Magic
+1610612754,2007-2008,IND,Indiana Pacers,Pacers
+1610612755,2007-2008,PHI,Philadelphia 76ers,76ers
+1610612756,2007-2008,PHX,Phoenix Suns,Suns
+1610612757,2007-2008,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2007-2008,SAC,Sacramento Kings,Kings
+1610612759,2007-2008,SAS,San Antonio Spurs,Spurs
+1610612760,2007-2008,SEA,Seattle SuperSonics,SuperSonics
+1610612761,2007-2008,TOR,Toronto Raptors,Raptors
+1610612762,2007-2008,UTA,Utah Jazz,Jazz
+1610612763,2007-2008,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2007-2008,WAS,Washington Wizards,Wizards
+1610612765,2007-2008,DET,Detroit Pistons,Pistons
+1610612766,2007-2008,CHA,Charlotte Bobcats,Bobcats
+1610612737,2008-2009,ATL,Atlanta Hawks,Hawks
+1610612738,2008-2009,BOS,Boston Celtics,Celtics
+1610612739,2008-2009,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2008-2009,NOH,New Orleans Hornets,Hornets
+1610612741,2008-2009,CHI,Chicago Bulls,Bulls
+1610612742,2008-2009,DAL,Dallas Mavericks,Mavericks
+1610612743,2008-2009,DEN,Denver Nuggets,Nuggets
+1610612744,2008-2009,GSW,Golden State Warriors,Warriors
+1610612745,2008-2009,HOU,Houston Rockets,Rockets
+1610612746,2008-2009,LAC,Los Angeles Clippers,Clippers
+1610612747,2008-2009,LAL,Los Angeles Lakers,Lakers
+1610612748,2008-2009,MIA,Miami Heat,Heat
+1610612749,2008-2009,MIL,Milwaukee Bucks,Bucks
+1610612750,2008-2009,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2008-2009,NJN,New Jersey Nets,Nets
+1610612752,2008-2009,NYK,New York Knicks,Knicks
+1610612753,2008-2009,ORL,Orlando Magic,Magic
+1610612754,2008-2009,IND,Indiana Pacers,Pacers
+1610612755,2008-2009,PHI,Philadelphia 76ers,76ers
+1610612756,2008-2009,PHX,Phoenix Suns,Suns
+1610612757,2008-2009,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2008-2009,SAC,Sacramento Kings,Kings
+1610612759,2008-2009,SAS,San Antonio Spurs,Spurs
+1610612760,2008-2009,OKC,Oklahoma City Thunder,Thunder
+1610612761,2008-2009,TOR,Toronto Raptors,Raptors
+1610612762,2008-2009,UTA,Utah Jazz,Jazz
+1610612763,2008-2009,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2008-2009,WAS,Washington Wizards,Wizards
+1610612765,2008-2009,DET,Detroit Pistons,Pistons
+1610612766,2008-2009,CHA,Charlotte Bobcats,Bobcats
+1610612737,2009-2010,ATL,Atlanta Hawks,Hawks
+1610612738,2009-2010,BOS,Boston Celtics,Celtics
+1610612739,2009-2010,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2009-2010,NOH,New Orleans Hornets,Hornets
+1610612741,2009-2010,CHI,Chicago Bulls,Bulls
+1610612742,2009-2010,DAL,Dallas Mavericks,Mavericks
+1610612743,2009-2010,DEN,Denver Nuggets,Nuggets
+1610612744,2009-2010,GSW,Golden State Warriors,Warriors
+1610612745,2009-2010,HOU,Houston Rockets,Rockets
+1610612746,2009-2010,LAC,Los Angeles Clippers,Clippers
+1610612747,2009-2010,LAL,Los Angeles Lakers,Lakers
+1610612748,2009-2010,MIA,Miami Heat,Heat
+1610612749,2009-2010,MIL,Milwaukee Bucks,Bucks
+1610612750,2009-2010,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2009-2010,NJN,New Jersey Nets,Nets
+1610612752,2009-2010,NYK,New York Knicks,Knicks
+1610612753,2009-2010,ORL,Orlando Magic,Magic
+1610612754,2009-2010,IND,Indiana Pacers,Pacers
+1610612755,2009-2010,PHI,Philadelphia 76ers,76ers
+1610612756,2009-2010,PHX,Phoenix Suns,Suns
+1610612757,2009-2010,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2009-2010,SAC,Sacramento Kings,Kings
+1610612759,2009-2010,SAS,San Antonio Spurs,Spurs
+1610612760,2009-2010,OKC,Oklahoma City Thunder,Thunder
+1610612761,2009-2010,TOR,Toronto Raptors,Raptors
+1610612762,2009-2010,UTA,Utah Jazz,Jazz
+1610612763,2009-2010,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2009-2010,WAS,Washington Wizards,Wizards
+1610612765,2009-2010,DET,Detroit Pistons,Pistons
+1610612766,2009-2010,CHA,Charlotte Bobcats,Bobcats
+1610612737,2010-2011,ATL,Atlanta Hawks,Hawks
+1610612738,2010-2011,BOS,Boston Celtics,Celtics
+1610612739,2010-2011,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2010-2011,NOH,New Orleans Hornets,Hornets
+1610612741,2010-2011,CHI,Chicago Bulls,Bulls
+1610612742,2010-2011,DAL,Dallas Mavericks,Mavericks
+1610612743,2010-2011,DEN,Denver Nuggets,Nuggets
+1610612744,2010-2011,GSW,Golden State Warriors,Warriors
+1610612745,2010-2011,HOU,Houston Rockets,Rockets
+1610612746,2010-2011,LAC,Los Angeles Clippers,Clippers
+1610612747,2010-2011,LAL,Los Angeles Lakers,Lakers
+1610612748,2010-2011,MIA,Miami Heat,Heat
+1610612749,2010-2011,MIL,Milwaukee Bucks,Bucks
+1610612750,2010-2011,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2010-2011,NJN,New Jersey Nets,Nets
+1610612752,2010-2011,NYK,New York Knicks,Knicks
+1610612753,2010-2011,ORL,Orlando Magic,Magic
+1610612754,2010-2011,IND,Indiana Pacers,Pacers
+1610612755,2010-2011,PHI,Philadelphia 76ers,76ers
+1610612756,2010-2011,PHX,Phoenix Suns,Suns
+1610612757,2010-2011,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2010-2011,SAC,Sacramento Kings,Kings
+1610612759,2010-2011,SAS,San Antonio Spurs,Spurs
+1610612760,2010-2011,OKC,Oklahoma City Thunder,Thunder
+1610612761,2010-2011,TOR,Toronto Raptors,Raptors
+1610612762,2010-2011,UTA,Utah Jazz,Jazz
+1610612763,2010-2011,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2010-2011,WAS,Washington Wizards,Wizards
+1610612765,2010-2011,DET,Detroit Pistons,Pistons
+1610612766,2010-2011,CHA,Charlotte Bobcats,Bobcats
+1610612737,2011-2012,ATL,Atlanta Hawks,Hawks
+1610612738,2011-2012,BOS,Boston Celtics,Celtics
+1610612739,2011-2012,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2011-2012,NOH,New Orleans Hornets,Hornets
+1610612741,2011-2012,CHI,Chicago Bulls,Bulls
+1610612742,2011-2012,DAL,Dallas Mavericks,Mavericks
+1610612743,2011-2012,DEN,Denver Nuggets,Nuggets
+1610612744,2011-2012,GSW,Golden State Warriors,Warriors
+1610612745,2011-2012,HOU,Houston Rockets,Rockets
+1610612746,2011-2012,LAC,Los Angeles Clippers,Clippers
+1610612747,2011-2012,LAL,Los Angeles Lakers,Lakers
+1610612748,2011-2012,MIA,Miami Heat,Heat
+1610612749,2011-2012,MIL,Milwaukee Bucks,Bucks
+1610612750,2011-2012,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2011-2012,NJN,New Jersey Nets,Nets
+1610612752,2011-2012,NYK,New York Knicks,Knicks
+1610612753,2011-2012,ORL,Orlando Magic,Magic
+1610612754,2011-2012,IND,Indiana Pacers,Pacers
+1610612755,2011-2012,PHI,Philadelphia 76ers,76ers
+1610612756,2011-2012,PHX,Phoenix Suns,Suns
+1610612757,2011-2012,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2011-2012,SAC,Sacramento Kings,Kings
+1610612759,2011-2012,SAS,San Antonio Spurs,Spurs
+1610612760,2011-2012,OKC,Oklahoma City Thunder,Thunder
+1610612761,2011-2012,TOR,Toronto Raptors,Raptors
+1610612762,2011-2012,UTA,Utah Jazz,Jazz
+1610612763,2011-2012,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2011-2012,WAS,Washington Wizards,Wizards
+1610612765,2011-2012,DET,Detroit Pistons,Pistons
+1610612766,2011-2012,CHA,Charlotte Bobcats,Bobcats
+1610612737,2012-2013,ATL,Atlanta Hawks,Hawks
+1610612738,2012-2013,BOS,Boston Celtics,Celtics
+1610612739,2012-2013,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2012-2013,NOH,New Orleans Hornets,Hornets
+1610612741,2012-2013,CHI,Chicago Bulls,Bulls
+1610612742,2012-2013,DAL,Dallas Mavericks,Mavericks
+1610612743,2012-2013,DEN,Denver Nuggets,Nuggets
+1610612744,2012-2013,GSW,Golden State Warriors,Warriors
+1610612745,2012-2013,HOU,Houston Rockets,Rockets
+1610612746,2012-2013,LAC,Los Angeles Clippers,Clippers
+1610612747,2012-2013,LAL,Los Angeles Lakers,Lakers
+1610612748,2012-2013,MIA,Miami Heat,Heat
+1610612749,2012-2013,MIL,Milwaukee Bucks,Bucks
+1610612750,2012-2013,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2012-2013,BKN,Brooklyn Nets,Nets
+1610612752,2012-2013,NYK,New York Knicks,Knicks
+1610612753,2012-2013,ORL,Orlando Magic,Magic
+1610612754,2012-2013,IND,Indiana Pacers,Pacers
+1610612755,2012-2013,PHI,Philadelphia 76ers,76ers
+1610612756,2012-2013,PHX,Phoenix Suns,Suns
+1610612757,2012-2013,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2012-2013,SAC,Sacramento Kings,Kings
+1610612759,2012-2013,SAS,San Antonio Spurs,Spurs
+1610612760,2012-2013,OKC,Oklahoma City Thunder,Thunder
+1610612761,2012-2013,TOR,Toronto Raptors,Raptors
+1610612762,2012-2013,UTA,Utah Jazz,Jazz
+1610612763,2012-2013,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2012-2013,WAS,Washington Wizards,Wizards
+1610612765,2012-2013,DET,Detroit Pistons,Pistons
+1610612766,2012-2013,CHA,Charlotte Bobcats,Bobcats
+1610612737,2013-2014,ATL,Atlanta Hawks,Hawks
+1610612738,2013-2014,BOS,Boston Celtics,Celtics
+1610612739,2013-2014,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2013-2014,NOP,New Orleans Pelicans,Pelicans
+1610612741,2013-2014,CHI,Chicago Bulls,Bulls
+1610612742,2013-2014,DAL,Dallas Mavericks,Mavericks
+1610612743,2013-2014,DEN,Denver Nuggets,Nuggets
+1610612744,2013-2014,GSW,Golden State Warriors,Warriors
+1610612745,2013-2014,HOU,Houston Rockets,Rockets
+1610612746,2013-2014,LAC,Los Angeles Clippers,Clippers
+1610612747,2013-2014,LAL,Los Angeles Lakers,Lakers
+1610612748,2013-2014,MIA,Miami Heat,Heat
+1610612749,2013-2014,MIL,Milwaukee Bucks,Bucks
+1610612750,2013-2014,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2013-2014,BKN,Brooklyn Nets,Nets
+1610612752,2013-2014,NYK,New York Knicks,Knicks
+1610612753,2013-2014,ORL,Orlando Magic,Magic
+1610612754,2013-2014,IND,Indiana Pacers,Pacers
+1610612755,2013-2014,PHI,Philadelphia 76ers,76ers
+1610612756,2013-2014,PHX,Phoenix Suns,Suns
+1610612757,2013-2014,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2013-2014,SAC,Sacramento Kings,Kings
+1610612759,2013-2014,SAS,San Antonio Spurs,Spurs
+1610612760,2013-2014,OKC,Oklahoma City Thunder,Thunder
+1610612761,2013-2014,TOR,Toronto Raptors,Raptors
+1610612762,2013-2014,UTA,Utah Jazz,Jazz
+1610612763,2013-2014,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2013-2014,WAS,Washington Wizards,Wizards
+1610612765,2013-2014,DET,Detroit Pistons,Pistons
+1610612766,2013-2014,CHA,Charlotte Bobcats,Bobcats
+1610612737,2014-2015,ATL,Atlanta Hawks,Hawks
+1610612738,2014-2015,BOS,Boston Celtics,Celtics
+1610612739,2014-2015,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2014-2015,NOP,New Orleans Pelicans,Pelicans
+1610612741,2014-2015,CHI,Chicago Bulls,Bulls
+1610612742,2014-2015,DAL,Dallas Mavericks,Mavericks
+1610612743,2014-2015,DEN,Denver Nuggets,Nuggets
+1610612744,2014-2015,GSW,Golden State Warriors,Warriors
+1610612745,2014-2015,HOU,Houston Rockets,Rockets
+1610612746,2014-2015,LAC,Los Angeles Clippers,Clippers
+1610612747,2014-2015,LAL,Los Angeles Lakers,Lakers
+1610612748,2014-2015,MIA,Miami Heat,Heat
+1610612749,2014-2015,MIL,Milwaukee Bucks,Bucks
+1610612750,2014-2015,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2014-2015,BKN,Brooklyn Nets,Nets
+1610612752,2014-2015,NYK,New York Knicks,Knicks
+1610612753,2014-2015,ORL,Orlando Magic,Magic
+1610612754,2014-2015,IND,Indiana Pacers,Pacers
+1610612755,2014-2015,PHI,Philadelphia 76ers,76ers
+1610612756,2014-2015,PHX,Phoenix Suns,Suns
+1610612757,2014-2015,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2014-2015,SAC,Sacramento Kings,Kings
+1610612759,2014-2015,SAS,San Antonio Spurs,Spurs
+1610612760,2014-2015,OKC,Oklahoma City Thunder,Thunder
+1610612761,2014-2015,TOR,Toronto Raptors,Raptors
+1610612762,2014-2015,UTA,Utah Jazz,Jazz
+1610612763,2014-2015,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2014-2015,WAS,Washington Wizards,Wizards
+1610612765,2014-2015,DET,Detroit Pistons,Pistons
+1610612766,2014-2015,CHA,Charlotte Hornets,Hornets
+1610612737,2015-2016,ATL,Atlanta Hawks,Hawks
+1610612738,2015-2016,BOS,Boston Celtics,Celtics
+1610612739,2015-2016,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2015-2016,NOP,New Orleans Pelicans,Pelicans
+1610612741,2015-2016,CHI,Chicago Bulls,Bulls
+1610612742,2015-2016,DAL,Dallas Mavericks,Mavericks
+1610612743,2015-2016,DEN,Denver Nuggets,Nuggets
+1610612744,2015-2016,GSW,Golden State Warriors,Warriors
+1610612745,2015-2016,HOU,Houston Rockets,Rockets
+1610612746,2015-2016,LAC,Los Angeles Clippers,Clippers
+1610612747,2015-2016,LAL,Los Angeles Lakers,Lakers
+1610612748,2015-2016,MIA,Miami Heat,Heat
+1610612749,2015-2016,MIL,Milwaukee Bucks,Bucks
+1610612750,2015-2016,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2015-2016,BKN,Brooklyn Nets,Nets
+1610612752,2015-2016,NYK,New York Knicks,Knicks
+1610612753,2015-2016,ORL,Orlando Magic,Magic
+1610612754,2015-2016,IND,Indiana Pacers,Pacers
+1610612755,2015-2016,PHI,Philadelphia 76ers,76ers
+1610612756,2015-2016,PHX,Phoenix Suns,Suns
+1610612757,2015-2016,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2015-2016,SAC,Sacramento Kings,Kings
+1610612759,2015-2016,SAS,San Antonio Spurs,Spurs
+1610612760,2015-2016,OKC,Oklahoma City Thunder,Thunder
+1610612761,2015-2016,TOR,Toronto Raptors,Raptors
+1610612762,2015-2016,UTA,Utah Jazz,Jazz
+1610612763,2015-2016,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2015-2016,WAS,Washington Wizards,Wizards
+1610612765,2015-2016,DET,Detroit Pistons,Pistons
+1610612766,2015-2016,CHA,Charlotte Hornets,Hornets
+1610612737,2016-2017,ATL,Atlanta Hawks,Hawks
+1610612738,2016-2017,BOS,Boston Celtics,Celtics
+1610612739,2016-2017,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2016-2017,NOP,New Orleans Pelicans,Pelicans
+1610612741,2016-2017,CHI,Chicago Bulls,Bulls
+1610612742,2016-2017,DAL,Dallas Mavericks,Mavericks
+1610612743,2016-2017,DEN,Denver Nuggets,Nuggets
+1610612744,2016-2017,GSW,Golden State Warriors,Warriors
+1610612745,2016-2017,HOU,Houston Rockets,Rockets
+1610612746,2016-2017,LAC,Los Angeles Clippers,Clippers
+1610612747,2016-2017,LAL,Los Angeles Lakers,Lakers
+1610612748,2016-2017,MIA,Miami Heat,Heat
+1610612749,2016-2017,MIL,Milwaukee Bucks,Bucks
+1610612750,2016-2017,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2016-2017,BKN,Brooklyn Nets,Nets
+1610612752,2016-2017,NYK,New York Knicks,Knicks
+1610612753,2016-2017,ORL,Orlando Magic,Magic
+1610612754,2016-2017,IND,Indiana Pacers,Pacers
+1610612755,2016-2017,PHI,Philadelphia 76ers,76ers
+1610612756,2016-2017,PHX,Phoenix Suns,Suns
+1610612757,2016-2017,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2016-2017,SAC,Sacramento Kings,Kings
+1610612759,2016-2017,SAS,San Antonio Spurs,Spurs
+1610612760,2016-2017,OKC,Oklahoma City Thunder,Thunder
+1610612761,2016-2017,TOR,Toronto Raptors,Raptors
+1610612762,2016-2017,UTA,Utah Jazz,Jazz
+1610612763,2016-2017,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2016-2017,WAS,Washington Wizards,Wizards
+1610612765,2016-2017,DET,Detroit Pistons,Pistons
+1610612766,2016-2017,CHA,Charlotte Hornets,Hornets
+1610612737,2017-2018,ATL,Atlanta Hawks,Hawks
+1610612738,2017-2018,BOS,Boston Celtics,Celtics
+1610612739,2017-2018,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2017-2018,NOP,New Orleans Pelicans,Pelicans
+1610612741,2017-2018,CHI,Chicago Bulls,Bulls
+1610612742,2017-2018,DAL,Dallas Mavericks,Mavericks
+1610612743,2017-2018,DEN,Denver Nuggets,Nuggets
+1610612744,2017-2018,GSW,Golden State Warriors,Warriors
+1610612745,2017-2018,HOU,Houston Rockets,Rockets
+1610612746,2017-2018,LAC,Los Angeles Clippers,Clippers
+1610612747,2017-2018,LAL,Los Angeles Lakers,Lakers
+1610612748,2017-2018,MIA,Miami Heat,Heat
+1610612749,2017-2018,MIL,Milwaukee Bucks,Bucks
+1610612750,2017-2018,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2017-2018,BKN,Brooklyn Nets,Nets
+1610612752,2017-2018,NYK,New York Knicks,Knicks
+1610612753,2017-2018,ORL,Orlando Magic,Magic
+1610612754,2017-2018,IND,Indiana Pacers,Pacers
+1610612755,2017-2018,PHI,Philadelphia 76ers,76ers
+1610612756,2017-2018,PHX,Phoenix Suns,Suns
+1610612757,2017-2018,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2017-2018,SAC,Sacramento Kings,Kings
+1610612759,2017-2018,SAS,San Antonio Spurs,Spurs
+1610612760,2017-2018,OKC,Oklahoma City Thunder,Thunder
+1610612761,2017-2018,TOR,Toronto Raptors,Raptors
+1610612762,2017-2018,UTA,Utah Jazz,Jazz
+1610612763,2017-2018,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2017-2018,WAS,Washington Wizards,Wizards
+1610612765,2017-2018,DET,Detroit Pistons,Pistons
+1610612766,2017-2018,CHA,Charlotte Hornets,Hornets
+1610612737,2018-2019,ATL,Atlanta Hawks,Hawks
+1610612738,2018-2019,BOS,Boston Celtics,Celtics
+1610612739,2018-2019,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2018-2019,NOP,New Orleans Pelicans,Pelicans
+1610612741,2018-2019,CHI,Chicago Bulls,Bulls
+1610612742,2018-2019,DAL,Dallas Mavericks,Mavericks
+1610612743,2018-2019,DEN,Denver Nuggets,Nuggets
+1610612744,2018-2019,GSW,Golden State Warriors,Warriors
+1610612745,2018-2019,HOU,Houston Rockets,Rockets
+1610612746,2018-2019,LAC,Los Angeles Clippers,Clippers
+1610612747,2018-2019,LAL,Los Angeles Lakers,Lakers
+1610612748,2018-2019,MIA,Miami Heat,Heat
+1610612749,2018-2019,MIL,Milwaukee Bucks,Bucks
+1610612750,2018-2019,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2018-2019,BKN,Brooklyn Nets,Nets
+1610612752,2018-2019,NYK,New York Knicks,Knicks
+1610612753,2018-2019,ORL,Orlando Magic,Magic
+1610612754,2018-2019,IND,Indiana Pacers,Pacers
+1610612755,2018-2019,PHI,Philadelphia 76ers,76ers
+1610612756,2018-2019,PHX,Phoenix Suns,Suns
+1610612757,2018-2019,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2018-2019,SAC,Sacramento Kings,Kings
+1610612759,2018-2019,SAS,San Antonio Spurs,Spurs
+1610612760,2018-2019,OKC,Oklahoma City Thunder,Thunder
+1610612761,2018-2019,TOR,Toronto Raptors,Raptors
+1610612762,2018-2019,UTA,Utah Jazz,Jazz
+1610612763,2018-2019,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2018-2019,WAS,Washington Wizards,Wizards
+1610612765,2018-2019,DET,Detroit Pistons,Pistons
+1610612766,2018-2019,CHA,Charlotte Hornets,Hornets
+1610612737,2019-2020,ATL,Atlanta Hawks,Hawks
+1610612738,2019-2020,BOS,Boston Celtics,Celtics
+1610612739,2019-2020,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2019-2020,NOP,New Orleans Pelicans,Pelicans
+1610612741,2019-2020,CHI,Chicago Bulls,Bulls
+1610612742,2019-2020,DAL,Dallas Mavericks,Mavericks
+1610612743,2019-2020,DEN,Denver Nuggets,Nuggets
+1610612744,2019-2020,GSW,Golden State Warriors,Warriors
+1610612745,2019-2020,HOU,Houston Rockets,Rockets
+1610612746,2019-2020,LAC,Los Angeles Clippers,Clippers
+1610612747,2019-2020,LAL,Los Angeles Lakers,Lakers
+1610612748,2019-2020,MIA,Miami Heat,Heat
+1610612749,2019-2020,MIL,Milwaukee Bucks,Bucks
+1610612750,2019-2020,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2019-2020,BKN,Brooklyn Nets,Nets
+1610612752,2019-2020,NYK,New York Knicks,Knicks
+1610612753,2019-2020,ORL,Orlando Magic,Magic
+1610612754,2019-2020,IND,Indiana Pacers,Pacers
+1610612755,2019-2020,PHI,Philadelphia 76ers,76ers
+1610612756,2019-2020,PHX,Phoenix Suns,Suns
+1610612757,2019-2020,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2019-2020,SAC,Sacramento Kings,Kings
+1610612759,2019-2020,SAS,San Antonio Spurs,Spurs
+1610612760,2019-2020,OKC,Oklahoma City Thunder,Thunder
+1610612761,2019-2020,TOR,Toronto Raptors,Raptors
+1610612762,2019-2020,UTA,Utah Jazz,Jazz
+1610612763,2019-2020,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2019-2020,WAS,Washington Wizards,Wizards
+1610612765,2019-2020,DET,Detroit Pistons,Pistons
+1610612766,2019-2020,CHA,Charlotte Hornets,Hornets
+1610612737,2020-2021,ATL,Atlanta Hawks,Hawks
+1610612738,2020-2021,BOS,Boston Celtics,Celtics
+1610612739,2020-2021,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2020-2021,NOP,New Orleans Pelicans,Pelicans
+1610612741,2020-2021,CHI,Chicago Bulls,Bulls
+1610612742,2020-2021,DAL,Dallas Mavericks,Mavericks
+1610612743,2020-2021,DEN,Denver Nuggets,Nuggets
+1610612744,2020-2021,GSW,Golden State Warriors,Warriors
+1610612745,2020-2021,HOU,Houston Rockets,Rockets
+1610612746,2020-2021,LAC,Los Angeles Clippers,Clippers
+1610612747,2020-2021,LAL,Los Angeles Lakers,Lakers
+1610612748,2020-2021,MIA,Miami Heat,Heat
+1610612749,2020-2021,MIL,Milwaukee Bucks,Bucks
+1610612750,2020-2021,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2020-2021,BKN,Brooklyn Nets,Nets
+1610612752,2020-2021,NYK,New York Knicks,Knicks
+1610612753,2020-2021,ORL,Orlando Magic,Magic
+1610612754,2020-2021,IND,Indiana Pacers,Pacers
+1610612755,2020-2021,PHI,Philadelphia 76ers,76ers
+1610612756,2020-2021,PHX,Phoenix Suns,Suns
+1610612757,2020-2021,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2020-2021,SAC,Sacramento Kings,Kings
+1610612759,2020-2021,SAS,San Antonio Spurs,Spurs
+1610612760,2020-2021,OKC,Oklahoma City Thunder,Thunder
+1610612761,2020-2021,TOR,Toronto Raptors,Raptors
+1610612762,2020-2021,UTA,Utah Jazz,Jazz
+1610612763,2020-2021,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2020-2021,WAS,Washington Wizards,Wizards
+1610612765,2020-2021,DET,Detroit Pistons,Pistons
+1610612766,2020-2021,CHA,Charlotte Hornets,Hornets
+1610612737,2021-2022,ATL,Atlanta Hawks,Hawks
+1610612738,2021-2022,BOS,Boston Celtics,Celtics
+1610612739,2021-2022,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2021-2022,NOP,New Orleans Pelicans,Pelicans
+1610612741,2021-2022,CHI,Chicago Bulls,Bulls
+1610612742,2021-2022,DAL,Dallas Mavericks,Mavericks
+1610612743,2021-2022,DEN,Denver Nuggets,Nuggets
+1610612744,2021-2022,GSW,Golden State Warriors,Warriors
+1610612745,2021-2022,HOU,Houston Rockets,Rockets
+1610612746,2021-2022,LAC,Los Angeles Clippers,Clippers
+1610612747,2021-2022,LAL,Los Angeles Lakers,Lakers
+1610612748,2021-2022,MIA,Miami Heat,Heat
+1610612749,2021-2022,MIL,Milwaukee Bucks,Bucks
+1610612750,2021-2022,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2021-2022,BKN,Brooklyn Nets,Nets
+1610612752,2021-2022,NYK,New York Knicks,Knicks
+1610612753,2021-2022,ORL,Orlando Magic,Magic
+1610612754,2021-2022,IND,Indiana Pacers,Pacers
+1610612755,2021-2022,PHI,Philadelphia 76ers,76ers
+1610612756,2021-2022,PHX,Phoenix Suns,Suns
+1610612757,2021-2022,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2021-2022,SAC,Sacramento Kings,Kings
+1610612759,2021-2022,SAS,San Antonio Spurs,Spurs
+1610612760,2021-2022,OKC,Oklahoma City Thunder,Thunder
+1610612761,2021-2022,TOR,Toronto Raptors,Raptors
+1610612762,2021-2022,UTA,Utah Jazz,Jazz
+1610612763,2021-2022,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2021-2022,WAS,Washington Wizards,Wizards
+1610612765,2021-2022,DET,Detroit Pistons,Pistons
+1610612766,2021-2022,CHA,Charlotte Hornets,Hornets
+1610612737,2022-2023,ATL,Atlanta Hawks,Hawks
+1610612738,2022-2023,BOS,Boston Celtics,Celtics
+1610612739,2022-2023,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2022-2023,NOP,New Orleans Pelicans,Pelicans
+1610612741,2022-2023,CHI,Chicago Bulls,Bulls
+1610612742,2022-2023,DAL,Dallas Mavericks,Mavericks
+1610612743,2022-2023,DEN,Denver Nuggets,Nuggets
+1610612744,2022-2023,GSW,Golden State Warriors,Warriors
+1610612745,2022-2023,HOU,Houston Rockets,Rockets
+1610612746,2022-2023,LAC,Los Angeles Clippers,Clippers
+1610612747,2022-2023,LAL,Los Angeles Lakers,Lakers
+1610612748,2022-2023,MIA,Miami Heat,Heat
+1610612749,2022-2023,MIL,Milwaukee Bucks,Bucks
+1610612750,2022-2023,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2022-2023,BKN,Brooklyn Nets,Nets
+1610612752,2022-2023,NYK,New York Knicks,Knicks
+1610612753,2022-2023,ORL,Orlando Magic,Magic
+1610612754,2022-2023,IND,Indiana Pacers,Pacers
+1610612755,2022-2023,PHI,Philadelphia 76ers,76ers
+1610612756,2022-2023,PHX,Phoenix Suns,Suns
+1610612757,2022-2023,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2022-2023,SAC,Sacramento Kings,Kings
+1610612759,2022-2023,SAS,San Antonio Spurs,Spurs
+1610612760,2022-2023,OKC,Oklahoma City Thunder,Thunder
+1610612761,2022-2023,TOR,Toronto Raptors,Raptors
+1610612762,2022-2023,UTA,Utah Jazz,Jazz
+1610612763,2022-2023,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2022-2023,WAS,Washington Wizards,Wizards
+1610612765,2022-2023,DET,Detroit Pistons,Pistons
+1610612766,2022-2023,CHA,Charlotte Hornets,Hornets
+1610612737,2023-2024,ATL,Atlanta Hawks,Hawks
+1610612738,2023-2024,BOS,Boston Celtics,Celtics
+1610612739,2023-2024,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2023-2024,NOP,New Orleans Pelicans,Pelicans
+1610612741,2023-2024,CHI,Chicago Bulls,Bulls
+1610612742,2023-2024,DAL,Dallas Mavericks,Mavericks
+1610612743,2023-2024,DEN,Denver Nuggets,Nuggets
+1610612744,2023-2024,GSW,Golden State Warriors,Warriors
+1610612745,2023-2024,HOU,Houston Rockets,Rockets
+1610612746,2023-2024,LAC,Los Angeles Clippers,Clippers
+1610612747,2023-2024,LAL,Los Angeles Lakers,Lakers
+1610612748,2023-2024,MIA,Miami Heat,Heat
+1610612749,2023-2024,MIL,Milwaukee Bucks,Bucks
+1610612750,2023-2024,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2023-2024,BKN,Brooklyn Nets,Nets
+1610612752,2023-2024,NYK,New York Knicks,Knicks
+1610612753,2023-2024,ORL,Orlando Magic,Magic
+1610612754,2023-2024,IND,Indiana Pacers,Pacers
+1610612755,2023-2024,PHI,Philadelphia 76ers,76ers
+1610612756,2023-2024,PHX,Phoenix Suns,Suns
+1610612757,2023-2024,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2023-2024,SAC,Sacramento Kings,Kings
+1610612759,2023-2024,SAS,San Antonio Spurs,Spurs
+1610612760,2023-2024,OKC,Oklahoma City Thunder,Thunder
+1610612761,2023-2024,TOR,Toronto Raptors,Raptors
+1610612762,2023-2024,UTA,Utah Jazz,Jazz
+1610612763,2023-2024,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2023-2024,WAS,Washington Wizards,Wizards
+1610612765,2023-2024,DET,Detroit Pistons,Pistons
+1610612766,2023-2024,CHA,Charlotte Hornets,Hornets
+1610612737,2024-2025,ATL,Atlanta Hawks,Hawks
+1610612738,2024-2025,BOS,Boston Celtics,Celtics
+1610612739,2024-2025,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2024-2025,NOP,New Orleans Pelicans,Pelicans
+1610612741,2024-2025,CHI,Chicago Bulls,Bulls
+1610612742,2024-2025,DAL,Dallas Mavericks,Mavericks
+1610612743,2024-2025,DEN,Denver Nuggets,Nuggets
+1610612744,2024-2025,GSW,Golden State Warriors,Warriors
+1610612745,2024-2025,HOU,Houston Rockets,Rockets
+1610612746,2024-2025,LAC,Los Angeles Clippers,Clippers
+1610612747,2024-2025,LAL,Los Angeles Lakers,Lakers
+1610612748,2024-2025,MIA,Miami Heat,Heat
+1610612749,2024-2025,MIL,Milwaukee Bucks,Bucks
+1610612750,2024-2025,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2024-2025,BKN,Brooklyn Nets,Nets
+1610612752,2024-2025,NYK,New York Knicks,Knicks
+1610612753,2024-2025,ORL,Orlando Magic,Magic
+1610612754,2024-2025,IND,Indiana Pacers,Pacers
+1610612755,2024-2025,PHI,Philadelphia 76ers,76ers
+1610612756,2024-2025,PHX,Phoenix Suns,Suns
+1610612757,2024-2025,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2024-2025,SAC,Sacramento Kings,Kings
+1610612759,2024-2025,SAS,San Antonio Spurs,Spurs
+1610612760,2024-2025,OKC,Oklahoma City Thunder,Thunder
+1610612761,2024-2025,TOR,Toronto Raptors,Raptors
+1610612762,2024-2025,UTA,Utah Jazz,Jazz
+1610612763,2024-2025,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2024-2025,WAS,Washington Wizards,Wizards
+1610612765,2024-2025,DET,Detroit Pistons,Pistons
+1610612766,2024-2025,CHA,Charlotte Hornets,Hornets
+1610612737,2025-2026,ATL,Atlanta Hawks,Hawks
+1610612738,2025-2026,BOS,Boston Celtics,Celtics
+1610612739,2025-2026,CLE,Cleveland Cavaliers,Cavaliers
+1610612740,2025-2026,NOP,New Orleans Pelicans,Pelicans
+1610612741,2025-2026,CHI,Chicago Bulls,Bulls
+1610612742,2025-2026,DAL,Dallas Mavericks,Mavericks
+1610612743,2025-2026,DEN,Denver Nuggets,Nuggets
+1610612744,2025-2026,GSW,Golden State Warriors,Warriors
+1610612745,2025-2026,HOU,Houston Rockets,Rockets
+1610612746,2025-2026,LAC,Los Angeles Clippers,Clippers
+1610612747,2025-2026,LAL,Los Angeles Lakers,Lakers
+1610612748,2025-2026,MIA,Miami Heat,Heat
+1610612749,2025-2026,MIL,Milwaukee Bucks,Bucks
+1610612750,2025-2026,MIN,Minnesota Timberwolves,Timberwolves
+1610612751,2025-2026,BKN,Brooklyn Nets,Nets
+1610612752,2025-2026,NYK,New York Knicks,Knicks
+1610612753,2025-2026,ORL,Orlando Magic,Magic
+1610612754,2025-2026,IND,Indiana Pacers,Pacers
+1610612755,2025-2026,PHI,Philadelphia 76ers,76ers
+1610612756,2025-2026,PHX,Phoenix Suns,Suns
+1610612757,2025-2026,POR,Portland Trail Blazers,Trail Blazers
+1610612758,2025-2026,SAC,Sacramento Kings,Kings
+1610612759,2025-2026,SAS,San Antonio Spurs,Spurs
+1610612760,2025-2026,OKC,Oklahoma City Thunder,Thunder
+1610612761,2025-2026,TOR,Toronto Raptors,Raptors
+1610612762,2025-2026,UTA,Utah Jazz,Jazz
+1610612763,2025-2026,MEM,Memphis Grizzlies,Grizzlies
+1610612764,2025-2026,WAS,Washington Wizards,Wizards
+1610612765,2025-2026,DET,Detroit Pistons,Pistons
+1610612766,2025-2026,CHA,Charlotte Hornets,Hornets
