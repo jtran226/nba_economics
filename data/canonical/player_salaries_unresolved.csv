@@ -1,0 +1,381 @@
+player,team,season,salary,player_id,franchise_id
+Steve Smith,Portland Trail Blazers,2000-2001,8100000,,1610612757.0
+Isaac Austin,Vancouver Grizzlies,2000-2001,5500000,,1610612763.0
+Clarence Weatherspoon,Cleveland Cavaliers,2000-2001,2100000,,1610612739.0
+Tyrone Bogues,New York Knicks,2000-2001,1740000,,1610612752.0
+Steve Smith,San Antonio Spurs,2001-2002,9000000,,1610612759.0
+Isaac Austin,Memphis Grizzlies,2001-2002,5695000,,1610612763.0
+Clarence Weatherspoon,New York Knicks,2001-2002,4538000,,1610612752.0
+ZhiZhi Wang,Dallas Mavericks,2001-2002,465000,,1610612742.0
+Steve Smith,San Antonio Spurs,2002-2003,9900000,,1610612759.0
+Clarence Weatherspoon,New York Knicks,2002-2003,4991000,,1610612752.0
+Clarence Weatherspoon,Houston Rockets,2003-2004,5445000,,1610612745.0
+Clarence Weatherspoon,Houston Rockets,2004-2005,5899000,,1610612745.0
+Nene Hilario,Denver Nuggets,2005-2006,3039889,,1610612743.0
+Victor Khryapa,Portland Trail Blazers,2005-2006,1095960,,1610612757.0
+Ronald Murray,Cleveland Cavaliers,2005-2006,895248,,1610612739.0
+Didier Ilunga-Mbenga,Dallas Mavericks,2005-2006,880000,,1610612742.0
+Ha Seung-Jin,Portland Trail Blazers,2005-2006,641748,,1610612757.0
+Dwayne Jones II,Boston Celtics,2005-2006,398762,,1610612738.0
+Boniface N'Dong,LA Clippers,2005-2006,398762,,1610612746.0
+Nene Hilario,Denver Nuggets,2006-2007,8000000,,1610612743.0
+Vasileios Spanoulis,Houston Rockets,2006-2007,1800000,,1610612745.0
+Walter Herrmann Heinrich,Charlotte Bobcats,2006-2007,1800000,,1610612766.0
+Ronald Murray,Detroit Pistons,2006-2007,1750000,,1610612765.0
+Didier Ilunga-Mbenga,Dallas Mavericks,2006-2007,1628959,,1610612742.0
+Victor Khryapa,Chicago Bulls,2006-2007,1172400,,1610612741.0
+Dwayne Jones II,Cleveland Cavaliers,2006-2007,664209,,1610612739.0
+Marquinhos Vieira,NO/Oklahoma City Hornets,2006-2007,412718,,1610612740.0
+Brian Chase,Utah Jazz,2006-2007,412718,,1610612762.0
+Mike Gansey,null Unknown,2006-2007,412718,,
+Pat Carroll,null Unknown,2006-2007,412718,,
+Nene Hilario,Denver Nuggets,2007-2008,8840000,,1610612743.0
+Vasileios Spanoulis,Houston Rockets,2007-2008,1944000,,1610612745.0
+Walter Herrmann Heinrich,Detroit Pistons,2007-2008,1944000,,1610612765.0
+Victor Khryapa,Chicago Bulls,2007-2008,1928598,,1610612741.0
+Dwayne Jones II,Cleveland Cavaliers,2007-2008,770610,,1610612739.0
+Kevin Lyde,null Unknown,2007-2008,427163,,
+Herbert Hill,Philadelphia 76ers,2007-2008,427163,,1610612755.0
+Marcus Slaughter,Madrid Real Madrid,2007-2008,427163,,
+Larry Turner,null Unknown,2007-2008,427163,,
+Elton Brown,null Unknown,2007-2008,427163,,
+Sammy Mejia,null Unknown,2007-2008,427163,,
+Jared Newson,null Unknown,2007-2008,427163,,
+Adam Haluska,Houston Rockets,2007-2008,427163,,1610612745.0
+D.J. Strawberry,Phoenix Suns,2007-2008,427163,,1610612756.0
+Brandon Wallace,Boston Celtics,2007-2008,427163,,1610612738.0
+Jackie Manuel,null Unknown,2007-2008,427163,,
+Ronald Murray,Indiana Pacers,2007-2008,213051,,1610612754.0
+Didier Ilunga-Mbenga,Los Angeles Lakers,2007-2008,90660,,1610612747.0
+Nene Hilario,Denver Nuggets,2008-2009,9680000,,1610612743.0
+Walter Herrmann Heinrich,Detroit Pistons,2008-2009,2000000,,1610612765.0
+Hamed Ehaddadi,Memphis Grizzlies,2008-2009,1572221,,1610612763.0
+Ronald Murray,Atlanta Hawks,2008-2009,1500000,,1610612737.0
+Roko-Leni Ukic,Toronto Raptors,2008-2009,1250000,,1610612761.0
+D.J. White,Oklahoma City Thunder,2008-2009,964080,,1610612760.0
+Didier Ilunga-Mbenga,Los Angeles Lakers,2008-2009,880658,,1610612747.0
+D.J. Strawberry,Phoenix Suns,2008-2009,711517,,1610612756.0
+Dwayne Jones II,Charlotte Bobcats,2008-2009,670906,,1610612766.0
+Taj McCullough,null Unknown,2008-2009,442114,,
+Brandon Heath,Sacramento Kings,2008-2009,442114,,1610612758.0
+Sun Yue,Los Angeles Lakers,2008-2009,442114,,1610612747.0
+Jason Richards,null Unknown,2008-2009,442114,,
+David Padgett,null Unknown,2008-2009,442114,,
+C.J. Giles,null Unknown,2008-2009,442114,,
+Dwayne Mitchell,null Unknown,2008-2009,442114,,
+Dion Dowell,null Unknown,2008-2009,442114,,
+Richard Hendrix,null Unknown,2008-2009,442114,,
+Patrick Ewing Jr.,New Orleans Pelicans,2008-2009,442114,,1610612740.0
+Jamaal Tatum,null Unknown,2008-2009,442114,,
+Nene Hilario,Denver Nuggets,2009-2010,10520000,,1610612743.0
+Ronald Murray,Chicago Bulls,2009-2010,1990000,,1610612741.0
+Hamed Ehaddadi,Memphis Grizzlies,2009-2010,1627779,,1610612763.0
+Roko-Leni Ukic,Milwaukee Bucks,2009-2010,1350000,,1610612749.0
+D.J. White,Oklahoma City Thunder,2009-2010,1036440,,1610612760.0
+Didier Ilunga-Mbenga,Los Angeles Lakers,2009-2010,959111,,1610612747.0
+Marcus Williams,Denver Nuggets,2009-2010,825497,,1610612743.0
+Sun Yue,Los Angeles Lakers,2009-2010,736420,,1610612747.0
+A.J. Price,Indiana Pacers,2009-2010,457588,,1610612754.0
+Deron Washington,null Unknown,2009-2010,457588,,
+Kenny Hasbrouck,null Unknown,2009-2010,75476,,
+Curtis Jerrells,null Unknown,2009-2010,59217,,
+Dwayne Jones II,Phoenix Suns,2009-2010,48559,,1610612756.0
+Brian Butch,Utah Jazz,2009-2010,10767,,1610612762.0
+Tony Gaffney,Memphis Grizzlies,2009-2010,2692,,1610612763.0
+Nene Hilario,Denver Nuggets,2010-2011,11360000,,1610612743.0
+Mike James,Chicago Bulls,2010-2011,6466600,,1610612741.0
+Hamed Ehaddadi,Memphis Grizzlies,2010-2011,1600000,,1610612763.0
+Roko-Leni Ukic,Milwaukee Bucks,2010-2011,1350000,,1610612749.0
+D.J. White,Charlotte Bobcats,2010-2011,1108680,,1610612766.0
+Dwayne Jones II,Utah Jazz,2010-2011,854389,,1610612762.0
+Didier Ilunga-Mbenga,New Orleans Hornets,2010-2011,854389,,1610612740.0
+D.J. Strawberry,Phoenix Suns,2010-2011,854389,,1610612756.0
+Marcus Williams,Denver Nuggets,2010-2011,825497,,1610612743.0
+Tony Gaffney,Memphis Grizzlies,2010-2011,762195,,1610612763.0
+Brian Butch,Utah Jazz,2010-2011,762195,,1610612762.0
+A.J. Price,Indiana Pacers,2010-2011,762195,,1610612754.0
+Kenny Hasbrouck,null Unknown,2010-2011,762195,,
+Curtis Jerrells,null Unknown,2010-2011,762195,,
+Oliver Lafayette,Milan Olimpia,2010-2011,762195,201802.0,
+Sun Yue,Los Angeles Lakers,2010-2011,736420,,1610612747.0
+Othello Hunter,Madrid Real Madrid,2010-2011,736420,201629.0,
+Terrico White,Perth Perth,2010-2011,473604,,
+Stanley Robinson,null Unknown,2010-2011,473604,,
+Brian Zoubek,null Unknown,2010-2011,473604,,
+Tiny Gallon,null Unknown,2010-2011,473604,,
+Matt Janning,Denver Nuggets,2010-2011,473604,,1610612743.0
+Deron Washington,null Unknown,2010-2011,457588,,
+Da'Sean Butler,null Unknown,2010-2011,125000,,
+Chris Johnson,Boston Celtics,2010-2011,88363,,1610612738.0
+Patrick Ewing Jr.,New Orleans Hornets,2010-2011,25073,,1610612740.0
+Marqus Blakely,Houston Rockets,2010-2011,15000,,1610612745.0
+Robert Vaden,San Antonio Spurs,2010-2011,13930,,1610612759.0
+Magnum Rolle,null Unknown,2010-2011,8358,,
+Nene Hilario,Washington Wizards,2011-2012,13000000,,1610612764.0
+Nenad Krstic,Bilbao Basket Bilbao Basket,2011-2012,5543116,2420.0,
+David Andersen,Fenerbahce Ulker Fenerbahce Ulker,2011-2012,2685185,2431.0,
+D.J. White,Charlotte Bobcats,2011-2012,2001167,,1610612766.0
+Roko-Leni Ukic,Milwaukee Bucks,2011-2012,1350000,,1610612749.0
+Hamed Ehaddadi,Memphis Grizzlies,2011-2012,1300000,,1610612763.0
+Patrick Ewing Jr.,New Orleans Pelicans,2011-2012,884293,,1610612740.0
+Dwayne Jones II,Utah Jazz,2011-2012,854389,,1610612762.0
+A.J. Price,Indiana Pacers,2011-2012,854389,,1610612754.0
+Didier Ilunga-Mbenga,New York Knicks,2011-2012,854389,,1610612752.0
+Joey Dorsey,Barcelona FC Barcelona,2011-2012,854389,201595.0,
+D.J. Strawberry,Phoenix Suns,2011-2012,854389,,1610612756.0
+Marcus Williams,Denver Nuggets,2011-2012,825497,,1610612743.0
+Da'Sean Butler,null Unknown,2011-2012,788872,,
+Robert Vaden,San Antonio Spurs,2011-2012,788872,,1610612759.0
+Terrico White,Perth Perth,2011-2012,788872,,
+Marqus Blakely,Houston Rockets,2011-2012,788872,,1610612745.0
+Magnum Rolle,null Unknown,2011-2012,788872,,
+Tony Gaffney,Memphis Grizzlies,2011-2012,762195,,1610612763.0
+Brian Butch,Utah Jazz,2011-2012,762195,,1610612762.0
+Kenny Hasbrouck,null Unknown,2011-2012,762195,,
+Derrick Caracter,Flamengo Flamengo,2011-2012,762195,202382.0,
+Curtis Jerrells,null Unknown,2011-2012,762195,,
+Oliver Lafayette,Milan Olimpia,2011-2012,762195,201802.0,
+Sun Yue,Los Angeles Lakers,2011-2012,736420,,1610612747.0
+Othello Hunter,Madrid Real Madrid,2011-2012,736420,201629.0,
+Stanley Robinson,null Unknown,2011-2012,473604,,
+Brian Zoubek,null Unknown,2011-2012,473604,,
+Tiny Gallon,null Unknown,2011-2012,473604,,
+Matt Janning,Denver Nuggets,2011-2012,473604,,1610612743.0
+Deron Washington,null Unknown,2011-2012,457588,,
+Walker Russell Jr.,Detroit Pistons,2011-2012,374300,,1610612765.0
+Diamon Simpson,Houston Rockets,2011-2012,57291,,1610612745.0
+Nene Hilario,Washington Wizards,2012-2013,13000000,,1610612764.0
+Andres Nocioni,Madrid Real Madrid,2012-2013,6650000,2804.0,
+Victor Oladipo,Guangzhou Loong-Lions,2012-2013,4763760,203506.0,
+David Andersen,Fenerbahce Ulker Fenerbahce Ulker,2012-2013,2685185,2431.0,
+Slava Kravtsov,Detroit Pistons,2012-2013,1500000,,1610612765.0
+Roko-Leni Ukic,Milwaukee Bucks,2012-2013,1350000,,1610612749.0
+Hamed Ehaddadi,Phoenix Suns,2012-2013,1300000,,1610612756.0
+Perry Jones,Oklahoma City Thunder,2012-2013,1082520,,1610612760.0
+Patrick Ewing Jr.,New Orleans Pelicans,2012-2013,884293,,1610612740.0
+Dwayne Jones II,Utah Jazz,2012-2013,854389,,1610612762.0
+A.J. Price,Washington Wizards,2012-2013,854389,,1610612764.0
+Didier Ilunga-Mbenga,New York Knicks,2012-2013,854389,,1610612752.0
+Joey Dorsey,Barcelona FC Barcelona,2012-2013,854389,201595.0,
+D.J. Strawberry,Phoenix Suns,2012-2013,854389,,1610612756.0
+Marcus Williams,Denver Nuggets,2012-2013,825497,,1610612743.0
+Da'Sean Butler,null Unknown,2012-2013,788872,,
+Robert Vaden,San Antonio Spurs,2012-2013,788872,,1610612759.0
+Terrico White,Perth Perth,2012-2013,788872,,
+Marqus Blakely,Houston Rockets,2012-2013,788872,,1610612745.0
+Magnum Rolle,null Unknown,2012-2013,788872,,
+Brian Butch,Utah Jazz,2012-2013,762195,,1610612762.0
+Jordan Williams,Bilbao Basket,2012-2013,762195,202716.0,
+Kenny Hasbrouck,null Unknown,2012-2013,762195,,
+Derrick Caracter,Flamengo Flamengo,2012-2013,762195,202382.0,
+Diamon Simpson,Houston Rockets,2012-2013,762195,,1610612745.0
+Semih Erden,Fenerbahce Ulker Fenerbahce Ulker,2012-2013,762195,201623.0,
+Curtis Jerrells,null Unknown,2012-2013,762195,,
+Sun Yue,Los Angeles Lakers,2012-2013,736420,,1610612747.0
+Glen Rice Jr.,Washington Wizards,2012-2013,490180,,1610612764.0
+Erik Jay Murphy,Boston Celtics,2012-2013,490180,,1610612738.0
+Steven Gray,Washington Wizards,2012-2013,473604,,1610612764.0
+Chris Wright,Oklahoma City Thunder,2012-2013,473604,,1610612760.0
+Devin Searcy,Philadelphia 76ers,2012-2013,473604,,1610612755.0
+Stanley Robinson,null Unknown,2012-2013,473604,,
+John Shurna,New York Knicks,2012-2013,473604,,1610612752.0
+Oscar Bellfield,New York Knicks,2012-2013,473604,,1610612752.0
+Carleton Scott,Brooklyn Nets,2012-2013,473604,,1610612751.0
+Stephen Dennis,Brooklyn Nets,2012-2013,473604,,1610612751.0
+Brian Zoubek,null Unknown,2012-2013,473604,,
+James Mays,Brooklyn Nets,2012-2013,473604,,1610612751.0
+Micheal Eric,Milwaukee Bucks,2012-2013,473604,,1610612749.0
+Tiny Gallon,null Unknown,2012-2013,473604,,
+Robert Dozier,Miami Heat,2012-2013,473604,,1610612748.0
+Greg Somogyi,Los Angeles Lakers,2012-2013,473604,,1610612747.0
+Reeves Nelson,Los Angeles Lakers,2012-2013,473604,,1610612747.0
+Luke Nevill,Indiana Pacers,2012-2013,473604,,1610612754.0
+Matt Janning,Denver Nuggets,2012-2013,473604,,1610612743.0
+Tu Holloway,null Unknown,2012-2013,473604,,
+Jamar Smith,Boston Celtics,2012-2013,473604,,1610612738.0
+Ismail Muhammad,Atlanta Hawks,2012-2013,473604,,1610612737.0
+Deron Washington,null Unknown,2012-2013,457588,,
+Walker Russell Jr.,Oklahoma City Thunder,2012-2013,374300,,1610612760.0
+D.J. White,Boston Celtics,2012-2013,156234,,1610612738.0
+Nene Hilario,Washington Wizards,2013-2014,13000000,,1610612764.0
+Luigi Datome,Detroit Pistons,2013-2014,1750000,,1610612765.0
+Perry Jones,Oklahoma City Thunder,2013-2014,1082520,,1610612760.0
+Glen Rice Jr.,Washington Wizards,2013-2014,490180,,1610612764.0
+Erik Jay Murphy,Chicago Bulls,2013-2014,490180,,1610612741.0
+D.J. White,Charlotte Bobcats,2013-2014,104028,,1610612766.0
+Nene Hilario,Washington Wizards,2014-2015,13000000,,1610612764.0
+Anthony Randolph,Madrid Real Madrid,2014-2015,1825359,201576.0,
+Luigi Datome,Boston Celtics,2014-2015,1750000,,1610612738.0
+Mike James,Chicago Bulls,2014-2015,1448490,,1610612741.0
+P.J. Hairston,Charlotte Hornets,2014-2015,1149720,,1610612766.0
+Perry Jones,Oklahoma City Thunder,2014-2015,1129200,,1610612760.0
+CJ Wilcox,LA Clippers,2014-2015,1109760,,1610612746.0
+Chris Wright,Oklahoma City Thunder,2014-2015,915243,,1610612760.0
+Glen Rice Jr.,Washington Wizards,2014-2015,816482,,1610612764.0
+Casper Ware,Melbourne Melbourne United,2014-2015,816482,203810.0,
+Tony Mitchell,Maccabi Haifa Maccabi Haifa,2014-2015,816482,,
+Erik Jay Murphy,Boston Celtics,2014-2015,816482,,1610612738.0
+Brady Heslip,Toronto Raptors,2014-2015,507336,,1610612761.0
+Patric Young,New Orleans Pelicans,2014-2015,507336,,1610612740.0
+Ronald Roberts Jr.,Toronto Raptors,2014-2015,373041,,1610612761.0
+Chris Johnson,Milwaukee Bucks,2014-2015,107676,,1610612749.0
+A.J. Price,Phoenix Suns,2014-2015,53838,,1610612756.0
+Nene Hilario,Washington Wizards,2015-2016,13000000,,1610612764.0
+Perry Jones,New Orleans Pelicans,2015-2016,2038206,,1610612740.0
+Bobby Portis,Chicago Bulls,2015-2016,1391160,,1610612741.0
+P.J. Hairston,Memphis Grizzlies,2015-2016,1201440,,1610612763.0
+CJ Wilcox,LA Clippers,2015-2016,1159680,,1610612746.0
+Joey Dorsey,Barcelona FC Barcelona,2015-2016,1015421,201595.0,
+Jamaal Franklin,Guangzhou Loong-Lions,2015-2016,947276,203479.0,
+Terrico White,Perth Perth,2015-2016,845059,,
+Jarrid Famous,Memphis Grizzlies,2015-2016,525093,,1610612763.0
+Ronald Roberts Jr.,Toronto Raptors,2015-2016,525093,,1610612761.0
+Kyle Casey,Phoenix Suns,2015-2016,525093,,1610612756.0
+Scottie Wilbekin,Philadelphia 76ers,2015-2016,525093,,1610612755.0
+Melvin Ejim,Orlando Magic,2015-2016,525093,,1610612753.0
+Shannon Scott,Brooklyn Nets,2015-2016,525093,,1610612751.0
+J.J. O'Brien,Utah Jazz,2015-2016,525093,,1610612762.0
+Corey Hawkins,Miami Heat,2015-2016,525093,,1610612748.0
+Robert Upshaw,Los Angeles Lakers,2015-2016,525093,,1610612747.0
+Marcelinho Huertas,Los Angeles Lakers,2015-2016,525093,,1610612747.0
+Brandon Ashley,New Zealand Breakers,2015-2016,525093,,
+Bo McCalebb,New Orleans Pelicans,2015-2016,525093,,1610612740.0
+Jonathan Holmes,Boston Celtics,2015-2016,525093,,1610612738.0
+Terran Petteway,Atlanta Hawks,2015-2016,525093,,1610612737.0
+Nene Hilario,Houston Rockets,2016-2017,2898000,,1610612745.0
+Marcelinho Huertas,Los Angeles Lakers,2016-2017,1500000,,1610612747.0
+Bobby Portis,Chicago Bulls,2016-2017,1453680,,1610612741.0
+Guillermo Hernangomez,New York Knicks,2016-2017,1350000,,1610612752.0
+CJ Wilcox,Orlando Magic,2016-2017,1209600,,1610612753.0
+Livio Jean-Charles,San Antonio Spurs,2016-2017,1188840,,1610612759.0
+Chris Johnson,Houston Rockets,2016-2017,1050961,,1610612745.0
+Chris Wright,Oklahoma City Thunder,2016-2017,980431,,1610612760.0
+Casper Ware,Melbourne Melbourne United,2016-2017,874636,203810.0,
+J.J. O'Brien,Milwaukee Bucks,2016-2017,874636,,1610612749.0
+Rasheed Sulaimon,Charlotte Hornets,2016-2017,543471,,1610612766.0
+Andrew Andrews,Charlotte Hornets,2016-2017,543471,,1610612766.0
+Vince Hunter,Memphis Grizzlies,2016-2017,543471,,1610612763.0
+Yanick Moreira,Toronto Raptors,2016-2017,543471,,1610612761.0
+Brady Heslip,Toronto Raptors,2016-2017,543471,,1610612761.0
+E.J. Singler,Toronto Raptors,2016-2017,543471,,1610612761.0
+Drew Crawford,Toronto Raptors,2016-2017,543471,,1610612761.0
+Isaiah Cousins,Utah Jazz,2016-2017,543471,,1610612762.0
+Kaleb Tarczewski,Oklahoma City Thunder,2016-2017,543471,,1610612760.0
+Richard Solomon,Oklahoma City Thunder,2016-2017,543471,,1610612760.0
+Ryan Richards,San Antonio Spurs,2016-2017,543471,,1610612759.0
+Gracin Bakumanya,Phoenix Suns,2016-2017,543471,,1610612756.0
+Derek Cooke Jr.,Phoenix Suns,2016-2017,543471,,1610612756.0
+J.P. Tokoto,New York Knicks,2016-2017,543471,,1610612752.0
+Egidijus Mockevicius,Brooklyn Nets,2016-2017,543471,,1610612751.0
+Beau Beech,Brooklyn Nets,2016-2017,543471,,1610612751.0
+Stefan Jankovic,Miami Heat,2016-2017,543471,,1610612748.0
+Julian Jacobs,Los Angeles Lakers,2016-2017,543471,,1610612747.0
+Zach Auguste,Los Angeles Lakers,2016-2017,543471,,1610612747.0
+Nick Zeisloft,Golden State Warriors,2016-2017,543471,,1610612744.0
+Elgin Cook,Golden State Warriors,2016-2017,543471,,1610612744.0
+Scott Wood,Golden State Warriors,2016-2017,543471,,1610612744.0
+Cameron Jones,Golden State Warriors,2016-2017,543471,,1610612744.0
+Nikola Jovanovic,Detroit Pistons,2016-2017,543471,,1610612765.0
+Trey Freeman,Detroit Pistons,2016-2017,543471,,1610612765.0
+Keith Hornsby,Dallas Mavericks,2016-2017,543471,,1610612742.0
+D'Vauntes Smith-Rivera,Chicago Bulls,2016-2017,543471,,1610612741.0
+Thomas Walkup,Chicago Bulls,2016-2017,543471,,1610612741.0
+J.J. Avila,Chicago Bulls,2016-2017,543471,,1610612741.0
+Quincy Ford,New Orleans Pelicans,2016-2017,543471,,1610612740.0
+Jonathan Holmes,Boston Celtics,2016-2017,543471,,1610612738.0
+Luis Scola,Shanghai Sharks,2017-2018,5500000,2449.0,
+Leandro Barbosa,Flamengo Flamengo,2017-2018,4000000,2571.0,
+Nene Hilario,Houston Rockets,2017-2018,3477600,,1610612745.0
+Justin Hamilton,Beijing Ducks,2017-2018,3000000,203120.0,
+Bobby Portis,Chicago Bulls,2017-2018,2494346,,1610612741.0
+Marcelinho Huertas,Houston Rockets,2017-2018,1500000,,1610612745.0
+Josh Childress,Maccabi Haifa Maccabi Haifa,2017-2018,1471382,2735.0,
+Perry Jones,New Orleans Pelicans,2017-2018,1471382,,1610612740.0
+Guillermo Hernangomez,New York Knicks,2017-2018,1350000,,1610612752.0
+Livio Jean-Charles,San Antonio Spurs,2017-2018,1188840,,1610612759.0
+Chris Johnson,Houston Rockets,2017-2018,1050961,,1610612745.0
+Chris Wright,Oklahoma City Thunder,2017-2018,980431,,1610612760.0
+Rade Zagorac,Memphis Grizzlies,2017-2018,950000,,1610612763.0
+Casper Ware,Melbourne Melbourne United,2017-2018,874636,203810.0,
+J.J. O'Brien,Milwaukee Bucks,2017-2018,874636,,1610612749.0
+Luke Petrasek,Charlotte Hornets,2017-2018,815615,,1610612766.0
+T.J. Williams,Charlotte Hornets,2017-2018,815615,,1610612766.0
+Terry Henderson,Charlotte Hornets,2017-2018,815615,,1610612766.0
+Kennedy Meeks,Maccabi Haifa Maccabi Haifa,2017-2018,815615,,
+Rashawn Thomas,Oklahoma City Thunder,2017-2018,815615,,1610612760.0
+Bryce Alford,Oklahoma City Thunder,2017-2018,815615,,1610612760.0
+Matt Jones,Sacramento Kings,2017-2018,815615,,1610612758.0
+Peter Jok,Phoenix Suns,2017-2018,815615,,1610612756.0
+James Blackmon Jr.,Philadelphia 76ers,2017-2018,815615,,1610612755.0
+JeQuan Lewis,Milwaukee Bucks,2017-2018,815615,,1610612749.0
+V.J. Beachem,Los Angeles Lakers,2017-2018,815615,,1610612747.0
+LaDontae Henton,LA Clippers,2017-2018,815615,,1610612746.0
+Alex Hamilton,Golden State Warriors,2017-2018,815615,,1610612744.0
+Brandon Ashley,New Zealand Breakers,2017-2018,815615,,
+Jaylen Johnson,Chicago Bulls,2017-2018,815615,,1610612741.0
+L.J. Peak,Boston Celtics,2017-2018,815615,,1610612738.0
+Jordan Mathews,Atlanta Hawks,2017-2018,815615,,1610612737.0
+Rasheed Sulaimon,Charlotte Hornets,2017-2018,543471,,1610612766.0
+Andrew Andrews,Charlotte Hornets,2017-2018,543471,,1610612766.0
+Yanick Moreira,Toronto Raptors,2017-2018,543471,,1610612761.0
+Brady Heslip,Toronto Raptors,2017-2018,543471,,1610612761.0
+E.J. Singler,Toronto Raptors,2017-2018,543471,,1610612761.0
+Drew Crawford,Toronto Raptors,2017-2018,543471,,1610612761.0
+Isaiah Cousins,Utah Jazz,2017-2018,543471,,1610612762.0
+Kaleb Tarczewski,Oklahoma City Thunder,2017-2018,543471,,1610612760.0
+Richard Solomon,Oklahoma City Thunder,2017-2018,543471,,1610612760.0
+Ryan Richards,San Antonio Spurs,2017-2018,543471,,1610612759.0
+Gracin Bakumanya,Phoenix Suns,2017-2018,543471,,1610612756.0
+Derek Cooke Jr.,Phoenix Suns,2017-2018,543471,,1610612756.0
+J.P. Tokoto,New York Knicks,2017-2018,543471,,1610612752.0
+Egidijus Mockevicius,Brooklyn Nets,2017-2018,543471,,1610612751.0
+Beau Beech,Brooklyn Nets,2017-2018,543471,,1610612751.0
+Stefan Jankovic,Miami Heat,2017-2018,543471,,1610612748.0
+Julian Jacobs,Los Angeles Lakers,2017-2018,543471,,1610612747.0
+Zach Auguste,Los Angeles Lakers,2017-2018,543471,,1610612747.0
+Nick Zeisloft,Golden State Warriors,2017-2018,543471,,1610612744.0
+Elgin Cook,Golden State Warriors,2017-2018,543471,,1610612744.0
+Scott Wood,Golden State Warriors,2017-2018,543471,,1610612744.0
+Cameron Jones,Golden State Warriors,2017-2018,543471,,1610612744.0
+Nikola Jovanovic,Detroit Pistons,2017-2018,543471,,1610612765.0
+Trey Freeman,Detroit Pistons,2017-2018,543471,,1610612765.0
+Keith Hornsby,Dallas Mavericks,2017-2018,543471,,1610612742.0
+D'Vauntes Smith-Rivera,Chicago Bulls,2017-2018,543471,,1610612741.0
+Thomas Walkup,Chicago Bulls,2017-2018,543471,,1610612741.0
+J.J. Avila,Chicago Bulls,2017-2018,543471,,1610612741.0
+Quincy Ford,New Orleans Pelicans,2017-2018,543471,,1610612740.0
+Jonathan Holmes,Boston Celtics,2017-2018,543471,,1610612738.0
+Nene Hilario,Houston Rockets,2018-2019,3651480,,1610612745.0
+Bobby Portis,Washington Wizards,2018-2019,2494346,,1610612764.0
+Omari Rasulala Spellman,Atlanta Hawks,2018-2019,1620480,,1610612737.0
+Cameron Reynolds,Minnesota Timberwolves,2018-2019,108953,,1610612750.0
+Billy Garrett Jr.,New York Knicks,2018-2019,42634,,1610612752.0
+Tarik Phillip,London Lions,2018-2019,9474,,
+Bobby Portis,New York Knicks,2019-2020,15000000,,1610612752.0
+Nene Hilario,Atlanta Hawks,2019-2020,2564753,,1610612737.0
+Omari Rasulala Spellman,Golden State Warriors,2019-2020,1897800,,1610612744.0
+Tarik Phillip,London Lions,2019-2020,1416842,,
+Bobby Portis,Milwaukee Bucks,2020-2021,3623000,,1610612749.0
+Luca Vildoza,Milwaukee Bucks,2020-2021,3500000,,1610612749.0
+Nene Hilario,Atlanta Hawks,2020-2021,2564753,,1610612737.0
+Omari Rasulala Spellman,New York Knicks,2020-2021,1988280,,1610612752.0
+Vince Carter,null Unknown,2020-2021,1620564,1713.0,
+Zylan Cheatham,ADELAIDE 36ers,2020-2021,1445697,1629597.0,
+Tarik Phillip,London Lions,2020-2021,1416842,,
+Caleb Homesley,Washington Wizards,2020-2021,20000,,1610612764.0
+Bobby Portis,Milwaukee Bucks,2021-2022,4347600,,1610612749.0
+Caleb Homesley,Washington Wizards,2021-2022,1517981,,1610612764.0
+Luca Vildoza,Milwaukee Bucks,2021-2022,42789,,1610612749.0
+Bobby Portis,Milwaukee Bucks,2022-2023,10843350,,1610612749.0
+Abdel Nader,Melbourne Pnx,2022-2023,2000000,1627846.0,
+Wes Iwundu,Melbourne Pnx,2022-2023,1824003,1628411.0,
+Luca Vildoza,Milwaukee Bucks,2022-2023,1752638,,1610612749.0
+Caleb Homesley,Washington Wizards,2022-2023,1517981,,1610612764.0
+Bobby Portis,Milwaukee Bucks,2023-2024,11710818,,1610612749.0
+Victor Oladipo,Guangzhou Loong-Lions,2023-2024,9450000,203506.0,
+Isaiah Roby,Ulm Ulm,2023-2024,2066585,1629676.0,
+Bobby Portis,Milwaukee Bucks,2024-2025,12578286,,1610612749.0
+Bobby Portis,Milwaukee Bucks,2025-2026,13580247,,1610612749.0
+Thomas Sorber,Oklahoma City Thunder,2025-2026,4655040,,1610612760.0
+Maxwell Lewis,London Lions,2025-2026,2271677,1641721.0,
+Nikola Durisic,Atlanta Hawks,2025-2026,1272870,,1610612737.0
