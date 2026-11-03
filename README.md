@@ -97,7 +97,7 @@ The consolidated structural audit passed all executed row-count, primary-key, fo
 
 Player-salary matching currently covers **82.76% of canonical roster observations**. Historical luxury-tax and other source-specific coverage limitations remain documented rather than artificially resolved.
 
-### Phase B — Analytical Feature Engineering & Exploratory Analysis: Next
+## Phase B — Feature Feasibility Audit Complete; Analytical Engineering Pending
 
 The next phase will construct research-specific analytical datasets and derived features, including:
 
@@ -109,6 +109,10 @@ The next phase will construct research-specific analytical datasets and derived 
 - Ownership and front-office tenure relationships
 
 Features will be defined at appropriate analytical grains, with explicit treatment of aggregation, missingness, historical comparability, and sample selection.
+
+**Feature feasibility audit:** Completed validation of six feature families covering financial thresholds, player compensation, roster composition, leadership, CBA regimes, and competitive outcomes. All six families are feasible within their defined scope, with documented limitations involving salary coverage, roster attribution, and historical comparability.
+
+**Next milestone:** Reconcile the accounting definitions and measurement dates of franchise payroll, Tax Team Salary, and Apron Team Salary before engineering official salary-cap, luxury-tax, or apron exposure features. Existing payroll values remain preserved in the canonical layer; threshold comparisons using unverified payroll measures will be labeled as proxies.
 
 ### Phase C — Statistical Modeling & Research Outputs: Planned
 
