@@ -1,15 +1,14 @@
 NBA Economics — Data Sources & Methodology
-Project phase: Source ingestion and staging largely complete; canonical data modeling in progress.
-
+Project status: Phase A canonical construction and structural validation complete; S19/C10 integrated; Phase B analytical preparation underway.
 
 Scope: Historical NBA data, approximately 2000–01 through 2025–26, with coverage varying by source.
-
+Part I — Source Acquisition and Staging
 1. Overview
 This document records the acquisition, staging, integration, validation, and known limitations of the historical datasets used to study NBA franchise economics. It explains how source-specific records were transformed into a relational canonical layer and identifies the remaining methodological requirements for analytical features.
 
 Pipeline: Raw source data → Cleaning and standardization → Staged source tables → Canonical data model → Analysis
 
-This document focuses on source acquisition, staging transformations, data quality, and limitations. Canonical modeling and analytical methodology will be documented as those stages are completed.
+Part I documents source acquisition, staging, and limitations. Part II documents canonical integration, validation, and Phase B analytical readiness. Source-specific accounting questions that remain unresolved are explicitly identified.
 2. Source Inventory & Coverage
 The source inventory below summarizes the principal staged data groups and their acquisition methods.
 
@@ -34,6 +33,7 @@ The source inventory below summarizes the principal staged data groups and their
 | S17 | NBA draft history | Basketball-Reference |
 
 | S18 | Luxury-tax history | Spotrac and historical tax records |
+| S19 | Apron allocations and hard-cap evidence | Spotrac; manual extraction and supplemental historical research |
 
 Coverage notes:
 - Historical coverage differs across datasets.
@@ -167,6 +167,22 @@ Validation and limitations:
 - Missing tax values must be distinguished from confirmed zero-tax payments or non-taxpayer status based on source definitions.
 - Taxable payroll, tax thresholds, estimated liabilities, and actual tax payments are distinct financial measures and should not be treated interchangeably.
 - Retaining both taxpaying and non-taxpaying franchises is necessary for comparing ownership spending behavior, financial constraints, and competitive outcomes.
+Group 9 — Apron Allocations and Hard-Cap Evidence (S19)
+Source and extraction: Historical team apron allocation tables were collected from Spotrac using a manual acquisition workflow, supplemented by historical research into source-reported hard-cap classifications. The S19 staging notebook standardizes the acquired records before integration into C10.
+
+Data grain: One franchise-season observation.
+
+Key transformations:
+- Standardized season labels and mapped source team names to stable franchise identifiers.
+- Parsed financial allocation and apron-space fields into numeric values and reconstructed season-level thresholds from the source figures.
+- Derived above-apron indicators from the sign of the corresponding apron-space fields.
+- Kept historical second-apron fields inapplicable before 2023–24.
+- Integrated hard-cap evidence with explicit verification statuses; unavailable evidence was retained as missing rather than interpreted as a negative classification.
+Validation and limitations:
+- The staged data support 30 franchises in each of 15 seasons (2011–12 through 2025–26).
+- Threshold values are internally consistent within seasons, but historical values have not all been independently reconciled to official league publications.
+- Apron allocations, taxable payroll, and headline payroll are distinct measures and may reflect different definitions or reporting snapshots.
+- Hard-cap status describes source-supported evidence, not necessarily an independently verified season-long legal status.
 4. Data Quality & Validation
 Data acquisition and staging required standardization across multiple historical sources, extraction methods, and reporting formats.
 
@@ -202,13 +218,12 @@ These sources were deferred based on the expected engineering effort relative to
 The current dataset supports investigation of franchise spending behavior, competitive outcomes, and CBA-related financial constraints. However, causal claims about individual contract decisions, transaction strategies, or management intent will require additional evidence.
 
 Comprehensive contract and transaction datasets remain potential future extensions.
-NBA Economics — Source Methodology
-Part II: Canonical Integration, Data Quality, and Analytical Readiness
-Version: Phase A baseline — October 28, 2026
+Part II — Canonical Integration, Data Quality, and Analytical Readiness
+Version: Phase A baseline with S19/C10 integration and Phase B feasibility updates — November 2026
 
 Period: 2000–01 through 2025–26
 
-Status: Canonical construction and structural validation complete
+Status: Canonical construction and structural validation complete; accounting-sensitive analytical features remain subject to reconciliation
 1. Purpose of the canonical layer
 The canonical layer integrates separately acquired and standardized NBA datasets into a consistent analytical model.
 
@@ -247,6 +262,7 @@ Its principal design decisions are:
 | C09a — rookie_salary_scale.csv | Season × draft pick | 775 | Represents historical rookie-scale compensation rules |
 
 | C09b — minimum_salary_rules.csv | Season × years of service | 286 | Represents historical minimum compensation requirements |
+| C10 — team_apron_seasons.csv | Franchise × season | 450 | Preserves apron allocations, thresholds, spending positions, and source-supported hard-cap classifications |
 
 C02 also includes franchise_season_aliases.csv (776 records), which supports historical team-name reconciliation.
 
@@ -287,36 +303,56 @@ C07 retains player_salaries_unresolved.csv (380 records) as an explicit exceptio
 | S16 | Ownership tenures | C06 | Franchise ownership periods |
 
 | S18 | Luxury-tax financial data | C04 | Taxable payroll, tax space, tax payments, estimated tax liabilities |
+| S19 | Apron allocations and hard-cap research | C10 | Team-season apron allocations, thresholds, positions, and evidence classifications |
 
 Additional source dispositions: S17 draft history exists as a staging pipeline, but its direct canonical contribution requires field-level lineage confirmation; C03 includes draft attributes sourced through the player-identity pipeline. S10, S11C, and S12 are not represented as independently verified canonical integrations in this baseline. S13A remains an agreement-level reference rather than a separate canonical table.
 4. Important transformation and modeling decisions
 Franchise identity normalization
-
 Historical team names and abbreviations are resolved through canonical franchise IDs and season-specific aliases. This allows records from different providers to be joined without treating name changes as new franchises.
-
 Player identity normalization
-
 Player names are mapped to canonical player IDs where sufficient evidence exists. Ambiguous salary observations remain unresolved instead of being assigned speculative identifiers.
-
 Team-season integration
-
 C04 combines team-level observations from standings, advanced statistics, postseason results, payroll, and luxury-tax sources. Its franchise-season grain permits direct comparisons between team performance and financial decisions.
-
 Player-season integration
-
 C05 combines roster and player-performance observations. Its present representation does not fully reconstruct all traded-player stints. Consequently, team-attributed player production requires care when analyzing players who changed teams.
-
 Compensation separation
-
 C07 is maintained separately from C05 because salary availability and performance availability differ. The tables can be joined when needed without excluding otherwise valid player-performance observations from the canonical layer.
-
 Award normalization
-
 C08 combines different award and voting structures. Fields such as voting points, award-team selection, and All-Star appearances are relevant only to particular award categories. Their missing values are not automatically treated as data errors.
-
 Economic rule preservation
-
 C01 and C09 preserve season-level and compensation-rule information independently of observed spending. This separates what teams were permitted or required to do from what teams actually did.
+C10 — Team Apron Seasons (S19)
+Source: Spotrac Apron Allocation History, supplemented by historical hard-cap research.
+
+Grain: One franchise per NBA season.
+
+Coverage: 450 franchise-season observations, spanning 2011–12 through 2025–26 (30 teams per season).
+
+Canonical key: (franchise_id, season).
+
+Purpose: Provide team-level spending allocations, apron thresholds, distance from apron thresholds, and source-supported hard-cap classifications.
+
+Validation:
+- All 450 observations map uniquely to C04 (team_seasons).
+- First-apron thresholds are internally consistent across teams within each season.
+- Second-apron data are populated for 2023–24 onward; earlier values are marked inapplicable.
+- Apron position and hard-cap status are retained as distinct concepts.
+- Historical hard-cap classifications preserve missing values when evidence is unavailable.
+Hard-cap evidence:
+- 171 observations classified as confirmed source snapshots.
+- 17 observations classified as source-reported no hard cap.
+- 262 observations remain unverified.
+- Classifications reflect the available source evidence and should not automatically be interpreted as definitive season-long legal statuses.
+Financial reconciliation:
+- C10 apron allocations and C04 taxable payroll match exactly for 204 of 450 observations.
+- The remaining 246 observations differ, with some material discrepancies.
+- Apron allocations, taxable payroll, and team payroll are retained as separate financial measures.
+- The 2019–20 season exhibits a notable positive difference between apron allocations and team payroll across 28 of 30 teams.
+Limitations:
+- Historical apron thresholds are internally validated but not independently verified against every official NBA CBA threshold.
+- Financial measures may reflect different accounting definitions or reporting dates.
+- Missing hard-cap classifications represent unknown status, not an explicit negative classification.
+- Historical apron rules should not be assumed equivalent to the modern two-apron framework.
 5. Phase A validation results
 The final consolidated audit produced:
 - 12 of 12 expected row-count checks passed.
@@ -325,25 +361,29 @@ The final consolidated audit produced:
 - 3 of 3 franchise-season relationship checks passed.
 - No unmatched canonical player, franchise, or season references in the relationships tested.
 These results establish structural consistency for the tested canonical relationships. They do not establish complete source coverage, validate every field's historical meaning, or eliminate the need for analytical sample selection.
+S19/C10 integration and financial coverage checks (November 2026)
+- C10 contains 450 unique franchise-season records (30 franchises × 15 seasons); all C10 keys match C04.
+- First-apron threshold values are internally consistent within each season. Second-apron fields are populated for 90 modern-era team-seasons and are inapplicable for the preceding 360 C10 records.
+- Source verification statuses comprise 171 confirmed source snapshots, 17 source-reported negative hard-cap classifications, and 262 unverified observations. Unknown classifications are not coded as False.
+- C10 apron allocations exactly match C04 taxable payroll in 204 of 450 team-seasons; 246 differ. These measures remain separate, with source-definition and snapshot limitations documented.
+- C04 has 268 nonmissing tax_paid values and 94 nonmissing estimated_tax_bill values, with no overlap: 362 of 776 team-seasons (46.6%) have at least one tax-cost measure. The remaining 414 are missing both.
+- The 268 reported tax-payment observations fall in 2002–03 through 2010–11; estimated tax bills occur in 2011–12 through 2025–26. Reported payments and estimates should not be added together or interpreted as equivalent without source-definition checks.
+- C04 performance variables (wins, win_pct, made_playoffs) and team_payroll cover all 776 team-seasons; C10 apron allocation measures cover 450, and modern second-apron measures cover 90.
+These checks establish structural and coverage readiness, not independent validation of official cap, luxury-tax, or apron exposure under all historical rule definitions.
 6. Known limitations and exception policies
 Salary coverage
-
 Of 12,810 canonical roster observations, 10,601 have matching salary records, representing 82.76% coverage. The remaining 2,209 roster observations do not have exact matching salary records.
 
 Separately, 380 source salary observations remain unresolved.
 
 These groups are not interchangeable. Salary-dependent analyses must assess coverage by season and relevant population before drawing conclusions.
-
 Historical luxury-tax data
-
 C01 retains the original season-level Luxury Tax measure, while C04 separately retains s18_tax_threshold.
 
 The earlier integration identified 208 threshold discrepancies across seven seasons. These differences were preserved rather than overwritten.
 
 Taxable payroll, tax payments, and estimated liabilities have different coverage levels. Missing values must not automatically be interpreted as zero. Historical luxury-tax rules and source definitions must be considered before interpreting financial observations.
-
-**Payroll accounting and regulatory threshold reconciliation
-
+Payroll accounting and regulatory threshold reconciliation
 Phase B feasibility testing confirmed that C04 team_payroll and salary_cap_hit contain identical values across all 776 franchise-season records. The separate C04 taxable_payroll field is populated for 450 franchise-seasons. Its exact source lineage, accounting definition, and measurement timing still require verification before it can be used for regulatory classification.
 
 A diagnostic comparison for six franchises in 2024–25 found that five had team_payroll above the published second-apron threshold, whereas three had taxable_payroll above that threshold. This illustrates the sensitivity of apparent apron exposure to the selected numerator; neither count is an independently verified official second-apron classification.
@@ -351,21 +391,13 @@ A diagnostic comparison for six franchises in 2024–25 found that five had team
 Headline team payroll, salary-cap accounting, Tax Team Salary, and Apron Team Salary must not be assumed interchangeable. The applicable definitions, inclusion and exclusion rules, source snapshots, and rule-effective dates must be established for the intended cap, floor, tax, or apron analysis.
 
 Required before threshold-sensitive A01 features: Trace the C04 financial measures to their original sources; identify and document the appropriate regulatory salary numerator and measurement date for each threshold; reconcile representative franchise-seasons against reliable financial records; and label any unverified comparisons as descriptive proxies. Preserve existing canonical fields until a documented correction or supplemental accounting dataset is justified.
-
-Roster and trade attribution**
-
+Roster and trade attribution
 C05 does not reconstruct every player stint for traded players. Analyses requiring precise team-attributed player production must evaluate this limitation.
-
 Leadership records
-
 C06 includes leadership periods with differing date precision. Ownership and executive tenures should not automatically be interpreted as equivalent governance roles.
-
 Award-specific fields
-
 C08 combines heterogeneous award categories. Structural missingness is expected where a field does not apply to an award type.
-
 Season coverage versus variable coverage
-
 A table covering 26 seasons does not imply every variable has complete observations across those seasons. Feature-level coverage must be evaluated in Phase B.
 7. Bridge to Phase B: Research questions and candidate features
 The canonical model provides the foundation for several analytical research areas.
@@ -402,12 +434,12 @@ Status: Completed November 2026.
 
 The initial Phase B audit evaluated six feature families (F1–F6) for historical coverage, schema availability, join feasibility, internal consistency, and suitability for the planned analytical grains. All six families passed feasibility within their defined scope. This is a finding about whether the available data can support planned feature engineering, not a claim that every candidate metric or source-specific accounting definition has been independently validated.
 Feature family	Feasibility	Qualification or follow-up
-F1 — Financial thresholds	Pass	Threshold coverage is established; regulatory payroll numerators need reconciliation before official exposure classifications
-F2 — Player salaries	Pass	Salary joins and concentration features are feasible with coverage flags, sample restrictions, and reconciliation caveats
-F3 — Roster composition	Pass	Season-level roster and retention measures are feasible; complete transaction and traded-player stint reconstruction is outside the initial scope
-F4 — Leadership	Pass	Executive and owner tenures support season mapping; attribution, overlaps, and open-ended dates require explicit rules
-F5 — CBA regimes and threshold exposure	Pass	CBA regime labels and threshold reference values are feasible; official tax/apron status remains unverified
-F6 — Competitive outcomes	Pass	Regular-season and postseason outcomes passed the tested consistency checks
+F1 — Financial thresholds	Pass	Threshold coverage established; regulatory payroll numerators require reconciliation before official exposure classifications
+F2 — Player salaries	Pass	Salary joins and concentration features feasible with coverage flags, sample restrictions, and reconciliation caveats
+F3 — Roster composition	Pass	Season-level roster and retention measures feasible; full transaction and traded-player stint reconstruction deferred
+F4 — Leadership	Pass	Executive and owner tenures support season mapping; overlaps and open-ended dates require explicit attribution rules
+F5 — CBA regimes and threshold exposure	Pass	Regime labels and threshold reference values feasible; official tax/apron status remains unverified
+F6 — Competitive outcomes	Pass	Regular-season and postseason outcomes passed tested consistency checks
 
 
 Selected audit evidence

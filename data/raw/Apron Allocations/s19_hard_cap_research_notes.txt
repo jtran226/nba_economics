@@ -1,0 +1,14 @@
+NBA S19 HARD-CAP RESEARCH — 2026-11-05
+
+450 franchise-season rows, 2011-12 through 2025-26.
+
+True: a source identifies a hard cap in that season; not necessarily end-of-season census for earlier years.
+False: only assigned to teams absent from complete source snapshot tables for 2023-24 through 2025-26, NOT independently proven for the entire league year.
+Blank: unknown, not false. N/A: second apron not applicable before 2023-24.
+2025-26 is snapshot as of March 6 2026, with Minnesota classified second apron by Sports Business Classroom; some other earlier sources omit Minnesota.
+2014-15 Minnesota was mentioned in earlier discussion but is not assigned True without an independently checked source.
+2016-17 and 2011-12 / 2012-13 have no independently verified team lists in this pass.
+2013-14 to 2022-23 sources are frequently dated snapshots and not exhaustive end-of-season censuses.
+Do not compute trends in hard cap prevalence across eras from True counts without coverage adjustment.
+Team abbreviations use modern franchise aliases (NOP for historical New Orleans Hornets, CHA for Bobcats); map via canonical franchise_season_aliases.
+2023-24 to 2025-26 source is Sports Business Classroom, Eric Pincus. 2013-14 to 2022-23 sources are Hoops Rumors and RealGM; URLs in CSV.
