@@ -87,3 +87,24 @@ Planned Outputs
 - Next: Research-specific analytical feature tables and reproducible Python/SQL analysis.
 - Planned: Spending-efficiency comparisons, CBA and luxury-tax studies, selected roster and compensation case studies, and public-facing research visualizations and write-ups.
 This repository is an ongoing analytical research project. Findings and interpretations will be added as Phase B and Phase C progress.
+
+
+### Analytical Layer — Phase B
+
+**A01: Franchise-Season Analytical Dataset — Complete**
+
+The first analytical dataset contains 776 franchise-season observations across 26 NBA seasons (2000–01 through 2025–26), covering 30 franchises.
+
+- 210 total columns, including 137 engineered features.
+- Financial normalization, spending rankings, competitive performance, efficiency, financial exposure, year-over-year changes, rolling windows, and state transitions.
+- DuckDB-based feature engineering with a persisted Parquet output.
+- Structural, semantic, and export validation completed.
+
+**Artifacts**
+- Notebook: `notebooks/a01_franchise_season_build.ipynb`
+- Dataset: `data/analytical/a01_franchise_season.parquet`
+- Feature documentation: `docs/a01_feature_library.md`
+
+**Next:** A02 — Player/Roster Analytical Dataset.
+
+A01 is designed as a reusable analytical foundation for subsequent research into franchise spending, competitive outcomes, roster construction, and decision-making under NBA financial constraints.
