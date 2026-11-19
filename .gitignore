@@ -1,2 +1,7 @@
 .DS_Store
 .vscode/
+# Generated analytical datasets
+data/analytical/
+
+# Emergency recovery notebook (preserved locally)
+notebooks/recovery_of_files.ipynb

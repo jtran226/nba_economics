@@ -1,14 +1,14 @@
 NBA Economics — Data Sources & Methodology
-Project status: Phase A canonical construction and structural validation complete; S19/C10 integrated; Phase B analytical preparation underway.
+Project status (November 2026): Phase A canonical construction and structural validation complete; S19/C10 integrated; Phase B feasibility reviewed; A01 and A02 analytical datasets constructed, exported, and documented. Financial-accounting and source-coverage qualifications remain in force.
 
 Scope: Historical NBA data, approximately 2000–01 through 2025–26, with coverage varying by source.
 Part I — Source Acquisition and Staging
 1. Overview
 This document records the acquisition, staging, integration, validation, and known limitations of the historical datasets used to study NBA franchise economics. It explains how source-specific records were transformed into a relational canonical layer and identifies the remaining methodological requirements for analytical features.
 
-Pipeline: Raw source data → Cleaning and standardization → Staged source tables → Canonical data model → Analysis
+Pipeline: Raw source data → Cleaning and standardization → Staged source tables → Canonical data model → A01/A02 analytical datasets → Research-specific analysis and modeling
 
-Part I documents source acquisition, staging, and limitations. Part II documents canonical integration, validation, and Phase B analytical readiness. Source-specific accounting questions that remain unresolved are explicitly identified.
+Part I documents source acquisition, staging, and limitations. Part II documents canonical integration, validation, and the historical Phase B feasibility assessment. Part III documents completed A01/A02 analytical construction and remaining interpretive constraints. Source-specific accounting questions that remain unresolved are explicitly identified.
 2. Source Inventory & Coverage
 The source inventory below summarizes the principal staged data groups and their acquisition methods.
 
@@ -418,15 +418,15 @@ The canonical model provides the foundation for several analytical research area
 
 | Organizational decision-making | C04, C06 | Leadership tenure, spending changes, performance changes |
 
-These features are candidates, not finalized analytical definitions.
+At the time of this feasibility assessment, these were candidate features rather than finalized analytical definitions. A01 and A02 have since been built; see Part III and their feature libraries for implemented definitions.
 
 Some require aggregation from player-level observations to franchise-season observations. Others require comparisons across seasons, adjustment for salary-cap growth, or explicit sample restrictions.
 
-Phase B will therefore define the research question, required analytical grain, feature formulas, eligible population, and validation criteria before performing statistical analysis.
+Subsequent Phase B work implemented A01 and A02 analytical features; downstream research must still specify its question, eligible population, modeling assumptions, and validation criteria before statistical inference.
 8. Phase A completion statement
 Phase A establishes a structurally validated canonical dataset for studying NBA economic decisions and outcomes from 2000–01 through 2025–26.
 
-The next stage will use these canonical tables to construct research-specific analytical datasets, evaluate coverage and comparability, perform exploratory analysis, and develop explanatory or predictive models where justified.
+A01 and A02 have since been constructed from this baseline. The next research stage is question-specific exploratory analysis, sample eligibility and comparability assessment, and explanatory or predictive modeling where justified.
 
 The canonical baseline is preserved independently from future derived features and analytical outputs.
 9. Phase B feature-family feasibility audit
@@ -454,9 +454,87 @@ Analytical scope and deferred work
 - Roster and transactions: Use recorded season-level franchise assignments for roster analysis; retrieve selected transaction histories only when a specific research question requires them.
 - Leadership attribution: Establish consistent season-assignment and overlap policies when engineering tenure features.
 - Cross-season outcomes: Prefer winning percentage to raw win totals for comparisons spanning shortened or uneven NBA seasons, and account for historical rule changes.
-Analytical table readiness
-- A01 — Franchise-season: Structurally feasible. Official threshold-sensitive exposure features remain gated by financial-accounting reconciliation.
-- A02 — Player-franchise-season: Structurally feasible, subject to salary coverage, team-attribution, and analytical sample policies.
-The detailed checks, diagnostic outputs, and individual F1–F6 conclusions are maintained in notebooks/phase_b_feature_feasibility_audit.ipynb. The canonical Phase A baseline remains preserved separately from derived analytical features.
+Analytical table readiness (historical feasibility conclusion)
+- A01 — Franchise-season: Feasibility passed; subsequently constructed and exported. Official threshold-sensitive exposure claims remain gated by financial-accounting reconciliation.
+- A02 — Player-franchise-season: Feasibility passed; subsequently constructed and exported, subject to salary coverage, team-attribution, and analytical sample policies.
+The detailed checks, diagnostic outputs, and individual F1–F6 conclusions are maintained in notebooks/feature_audit.ipynb. The canonical Phase A baseline remains preserved separately from derived analytical features.
 
-Next sequence: Review documentation, commit and push the completed feasibility audit, reconcile financial accounting, then begin A01 feature engineering.
+Subsequent implementation: A01 and A02 analytical feature construction, notebook QA, Parquet exports, and feature-library documentation are described in Part III. The original feasibility findings remain here as historical evidence, not as a current to-do list.
+
+
+# Part III — Analytical Dataset Construction, Feature Engineering, and Reproducibility
+
+Version: A01/A02 analytical documentation integration — November 2026
+
+## 1. Purpose, status, and division of documentation
+
+The canonical tables described in Part II preserve source entities and stable relational grains. The analytical layer constructs reusable, documented measures for franchise economics and player compensation/performance investigations, without altering the frozen canonical baseline. Two analytical datasets are implemented:
+
+| Analytical dataset | Grain | Rows | Persisted columns | Documentation | Output |
+|---|---|---:|---:|---|---|
+| A01 — Franchise-season | `(franchise_id, season)` | 776 | 210 (73 inherited/joined; 137 engineered) | `docs/a01_feature_library.csv`, `docs/a01_feature_library.md` | `data/analytical/a01_franchise_season.parquet` |
+| A02 — Player–franchise–season | `(player_id, franchise_id, season)` | 12,810 | 183 (62 base/inherited; 121 F1–F5 analytical fields) | `docs/a02_feature_library.csv`, `docs/a02_feature_library.md` | `data/analytical/a02_player_franchise_season.parquet` |
+
+The **CSV feature libraries** are field-level inventories (names, types, non-null counts, coverage, definitions, calculations, source dependencies, and limitations). The **Markdown feature libraries** explain construction stages, individual features, analytical rationale, deferrals, and interpretive boundaries. This source methodology provides the **cross-layer lineage and decision record**; it intentionally does not repeat all 393 column entries. The notebook SQL is authoritative for exact calculations.
+
+## 2. A01 — Franchise-season analytical construction
+
+**Sources and grain.** A01 starts from C04 `team_seasons`, preserving one row per franchise-season. C01 `seasons` supplies season-level financial rules and CBA context; C10 `team_apron_seasons` supplies observed apron allocations, thresholds, distance and hard-cap evidence. Joins preserve the 776-row franchise-season grain. A01 construction and checks are in `notebooks/a01_franchise_season_build.ipynb`; the final DuckDB view is `a01_v3_transitions`.
+
+**Feature development sequence.** The documented 137 engineered fields are grouped into: v1A financial normalization (5), v1B threshold exposure (6), v1C competitive outcomes (9), v2A financial position (25), competitive position (6), spending efficiency (12), and financial exposure (26), v2B year-over-year changes (14), v2C multi-year trends and persistence (22), and v3 state transitions (12). The complete definitions and observed non-null counts are in `docs/a01_feature_library.md` and its CSV counterpart.
+
+**Rationale.** League-relative ranks, percentiles and quartiles make nominal spending more interpretable across changing salary-cap environments; ratios and threshold distances distinguish accounting bases; win-per-dollar and rank-gap metrics provide descriptive efficiency proxies rather than causal returns. Prior-season and rolling measures support persistence and change analysis, while transition flags identify movement across recorded financial and competitive states. For cross-season performance comparisons, winning percentage is generally preferable to raw wins when season lengths differ.
+
+**Accounting and historical safeguards.** Team payroll, salary-cap hit, taxable payroll, apron allocations, actual tax paid, and estimated tax bill are retained as separate concepts. Observed equality of team payroll and cap hit does not establish conceptual interchangeability. Historical tax payments and modern estimates are not one homogeneous realized-cost series. Pre-modern first-apron comparisons are descriptive, not proof that current CBA restrictions applied in earlier seasons. The second apron is only applicable for modern seasons and has limited historical coverage. A01's `financial_exposure_category` is a descriptive accounting-position classification, **not** a verified official legal status.
+
+**Time-series policy.** Year-over-year and transition calculations require adjacent seasons and observed inputs. A01 trailing 3-/6-season windows include the current season and require fully observed, consecutive windows; missing or nonconsecutive windows remain NULL. Six-season second-apron features were intentionally not built because the regime's observed history is too short.
+
+**Validation and limitations.** The A01 documentation reports 776 exported rows, 210 columns, unique franchise-season keys, reconciled non-null coverage and checks comparing DuckDB results with Parquet. Those checks are recorded in the build notebook/feature library; updating this document does not itself constitute a fresh-kernel rebuild. Source accounting and measurement-date reconciliation remains necessary before interpreting proxy threshold comparisons as official tax/apron exposure. The A01 feature library also documents intentionally retained redundant measures and export integer-type normalization.
+
+## 3. A02 — Player–franchise–season analytical construction
+
+**Sources and grain.** A02 starts from C05 `player_team_seasons`, preserving the 12,810 player–franchise–season rows. It joins C03 player identity and draft context, C07 player salary records, C01 salary-cap/CBA thresholds, aggregated C08 player-season award observations, and 15 franchise-context fields from the saved A01 Parquet. Construction and QA are in `notebooks/a02_player_franchise_season.ipynb`; the final DuckDB view is `a02_f5_ready`. Because a player may have multiple franchise records in a season, the analytical grain must not be silently collapsed to one player-season.
+
+**Feature development sequence.** The 183-column output includes 62 base/inherited fields and 121 F1–F5 analytical fields. The notebook implements compensation benchmarks, salary allocation and coverage, cross-source salary reconciliation (F1); production and contribution features (F2); compensation versus production comparisons (F3); player-season award indicators and A01 franchise context (F4); and prior-season, franchise-continuity and historical observation features (F5). The detailed stage counts, formulas, coverage and caveats are maintained in `docs/a02_feature_library.md` and its CSV counterpart. The 121 analytical fields include contextual joins, not exclusively newly computed SQL expressions.
+
+**Preserve observations when salary is absent.** LEFT JOINs retain C05 performance rows without a C07 salary match. The documented A02 base audit found 10,601 salary-matched rows and 2,209 unmatched player–franchise–season rows (82.76% salary-match coverage). The separate 380 unresolved C07 source salary records are a different exception population; neither group should be treated as zero compensation. Salary-dependent studies require explicit sample restrictions and season-level coverage checks.
+
+**Salary denominators and reconciliation.** F1 aggregates matched C07 salary records into recorded roster/league pools and derives shares, ranks, and coverage diagnostics. These are **matched-salary pools**, not audited official team payroll. The notebook compares them with Spotrac-derived A01 active salary as a diagnostic of source and accounting differences; discrepancies are not automatically evidence of errors. Compensation-versus-production features are descriptive proxies and do not establish contract surplus, marginal wins, or causal player impact.
+
+**Production, awards, and contextual joins.** F2's team contribution denominators use recorded player observations, not independently certified official franchise totals. Certain counting totals derived from per-game values are estimates. C08 awards are aggregated to player-season before joining, preserving A02's row count; award indicators, voting ranks and shares have different meanings and missingness rules. Player-season awards can repeat across multiple franchise rows for traded players, so player-season award counts require de-duplication before aggregation. A01 fields provide franchise context, not individual-player causal contribution; all A01 accounting caveats carry through.
+
+**Temporal and trade-attribution policy.** F5 records previous observations, franchise changes, year-over-year differences and prior-three-year historical context. Adjacent-year comparisons require consecutive seasons; gaps are not filled with zero or assumed continuity. A02 prior-three-year averages exclude the current season and may use fewer than three available observations, with a separate observed-history count. This differs from A01's strict, current-inclusive rolling windows. The C05 grain does not fully reconstruct transaction timing or every traded-player stint; longitudinal and team-attributed findings must be interpreted accordingly.
+
+**Validation and export.** The notebook includes stage-by-stage row/grain, salary coverage, award aggregation, temporal integrity, final schema, and Parquet value checks. It exports ZSTD-compressed Parquet and normalizes five integer-valued aggregate columns to BIGINT. The A02 feature library records observed coverage for all 183 fields. This documentation update did not re-execute the notebook or independently recheck every SQL expression against source records.
+
+## 4. Cross-dataset research use and methodological boundaries
+
+A01 and A02 are complementary **analytical grains**, not interchangeable views. A01 is appropriate for franchise-season spending, competitiveness and transitions; A02 is appropriate for player-franchise-season salary, production, award and longitudinal questions. Joining or aggregating across them requires explicit grain and denominator choices. In particular, summing A01 franchise measures over A02 player rows would multiply franchise totals, and counting C08 player-season awards over traded-player franchise rows could overcount recognition.
+
+The six **F1–F6 feasibility families in Part II** were an earlier assessment of research feasibility across the canonical model. They are **not the same naming scheme** as the F1–F5 implementation stages used in the A02 feature library, nor the v1A–v3 stages in A01. Preserve these labels in their respective contexts; do not infer one-to-one correspondence.
+
+Analytical measures should not be described as causal effects merely because they are normalized, lagged, ranked or combined. Before modeling, specify the target question, eligible seasons, source coverage, unit of analysis, treatment of multi-team players, whether missingness is structural or unknown, the temporal availability of predictors, and the appropriate comparison group. The availability of a feature in Parquet does not guarantee its validity for every question or historical regime.
+
+## 5. Deferred scope, open issues, and next research phase
+
+- **Full contracts and transactions (S11C/S12):** Deferred in Part I due to access, historical completeness and extraction burden. A02 does not reconstruct negotiated contract terms or transaction event timing; A01 does not infer management intent from spending alone.
+- **Financial accounting:** Before claims about *official* tax/apron legal exposure, reconcile source-specific salary numerators, snapshot dates, exclusions and rule-effective dates. Descriptive threshold proxies may still be analyzed with explicit labels and limitations.
+- **Salary coverage and entity resolution:** Retain the 2,209 unmatched C05/A02 observations and 380 unresolved source salary records as separate populations; analyze matched-sample selection and season coverage.
+- **Player-team attribution:** C05 may not represent all traded-player stints. Avoid unsupported transaction-level or precise team-attributed causal claims.
+- **Historical comparisons:** Interpret changing postseason formats, season lengths, award rules, and CBA regimes explicitly. Missing or historically inapplicable values are not zeros.
+- **Research-ready next step:** Use the completed A01/A02 Parquet datasets for question-specific EDA, diagnostics, sample construction and explanatory/predictive analysis, with additional source reconciliation only where it materially affects the question.
+
+## 6. Reproducibility and repository references
+
+| Layer | Reference |
+|---|---|
+| Source/staging and canonical rationale | This document, Parts I–II |
+| Phase B feasibility checks | `notebooks/feature_audit.ipynb` |
+| A01 executable construction | `notebooks/a01_franchise_season_build.ipynb` |
+| A01 field inventory and decisions | `docs/a01_feature_library.csv`; `docs/a01_feature_library.md` |
+| A01 output | `data/analytical/a01_franchise_season.parquet` |
+| A02 executable construction | `notebooks/a02_player_franchise_season.ipynb` |
+| A02 field inventory and decisions | `docs/a02_feature_library.csv`; `docs/a02_feature_library.md` |
+| A02 output | `data/analytical/a02_player_franchise_season.parquet` |
+
+**Rebuild policy:** Retain source/canonical inputs and A01 output in the expected repository locations; run A01 before A02 because A02 consumes A01 context. Execute each notebook in order in a clean session, then compare final grain, schema, coverage and stored values against the exported Parquet. The existing notebook QA is evidence of prior validation; a new documentation revision is not itself a fresh reproducibility test.
